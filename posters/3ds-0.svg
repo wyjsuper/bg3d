@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="g0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8eef5"/>
+      <stop offset="100%" stop-color="#cfd8e3"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g0)"/>
+  <!-- 集中供料系统示意 -->
+  <rect x="40" y="70" width="70" height="160" rx="6" fill="#a6b6c8" opacity="0.9"/>
+  <rect x="45" y="80" width="60" height="40" rx="3" fill="#dbe4ee"/>
+  <rect x="45" y="130" width="60" height="40" rx="3" fill="#dbe4ee"/>
+  <rect x="45" y="180" width="60" height="40" rx="3" fill="#dbe4ee"/>
+  <rect x="120" y="140" width="240" height="70" rx="4" fill="#8fa3b8"/>
+  <circle cx="150" cy="175" r="18" fill="#6b819a"/>
+  <circle cx="210" cy="175" r="18" fill="#6b819a"/>
+  <circle cx="270" cy="175" r="18" fill="#6b819a"/>
+  <circle cx="330" cy="175" r="18" fill="#6b819a"/>
+  <rect x="120" y="110" width="240" height="20" rx="2" fill="#b8c6d6"/>
+  <line x1="75" y1="150" x2="120" y2="150" stroke="#6b819a" stroke-width="4"/>
+  <text x="390" y="285" text-anchor="end" font-family="sans-serif" font-size="10" fill="#7d8fa3">BEIGANG DESIGN</text>
+</svg>

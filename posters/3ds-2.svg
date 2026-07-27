@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#edf2f7"/>
+      <stop offset="100%" stop-color="#d6e0ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g2)"/>
+  <!-- 挤出生产线示意 -->
+  <rect x="40" y="160" width="320" height="50" rx="4" fill="#8eacc7"/>
+  <rect x="40" y="160" width="60" height="50" rx="4" fill="#a8c2da"/>
+  <rect x="110" y="160" width="80" height="50" rx="4" fill="#9ebad6"/>
+  <rect x="200" y="160" width="80" height="50" rx="4" fill="#94b3d1"/>
+  <rect x="290" y="160" width="70" height="50" rx="4" fill="#8aacca"/>
+  <rect x="70" y="70" width="40" height="80" rx="4" fill="#7d99b5"/>
+  <rect x="130" y="60" width="50" height="90" rx="4" fill="#7d99b5"/>
+  <rect x="200" y="55" width="45" height="95" rx="4" fill="#7d99b5"/>
+  <line x1="90" y1="150" x2="90" y2="160" stroke="#5d7893" stroke-width="3"/>
+  <line x1="155" y1="150" x2="155" y2="160" stroke="#5d7893" stroke-width="3"/>
+  <line x1="222" y1="150" x2="222" y2="160" stroke="#5d7893" stroke-width="3"/>
+  <text x="390" y="285" text-anchor="end" font-family="sans-serif" font-size="10" fill="#6c819a">BEIGANG DESIGN</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 130" width="440" height="130" role="img" aria-label="北港 3D 展示厅">
+  <title>北港 3D 展示厅 · 霓虹玻璃拟态</title>
+  <defs>
+    <linearGradient id="glassGrad" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.62"/>
+      <stop offset="0.55" stop-color="#eaf3ff" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#cfe0fb" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="neonGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#2f6bff"/>
+    </linearGradient>
+    <radialGradient id="amb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="neonBig" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#1b3b8f" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <!-- ===== 图标：霓虹玻璃面板 + 内部 3D 立方体 ===== -->
+  <g filter="url(#softShadow)">
+    <!-- 环境辉光 -->
+    <circle cx="62" cy="70" r="66" fill="url(#amb)"/>
+
+    <!-- 霓虹描边光晕（模糊层） -->
+    <rect x="14" y="22" width="96" height="96" rx="24" fill="none" stroke="url(#neonGrad)" stroke-width="3" filter="url(#neonBig)"/>
+    <!-- 玻璃面板本体 -->
+    <rect x="14" y="22" width="96" height="96" rx="24" fill="url(#glassGrad)" stroke="url(#neonGrad)" stroke-width="1.5"/>
+    <!-- 玻璃高光 -->
+    <line x1="28" y1="36" x2="96" y2="36" stroke="#ffffff" stroke-opacity="0.65" stroke-width="2.4" stroke-linecap="round"/>
+
+    <!-- 内部霓虹等距立方体 -->
+    <g fill="none" stroke="url(#neonGrad)" stroke-width="1.8" stroke-linejoin="round" filter="url(#neon)">
+      <polygon points="62,52 84,63 62,74 40,63"/>
+      <polygon points="40,63 62,74 62,96 40,85"/>
+      <polygon points="84,63 62,74 62,96 84,85"/>
+    </g>
+    <!-- 顶点辉光点 -->
+    <g fill="#22d3ee" filter="url(#neon)">
+      <circle cx="62" cy="52" r="2.4"/>
+      <circle cx="84" cy="63" r="2"/>
+      <circle cx="40" cy="63" r="2"/>
+      <circle cx="62" cy="74" r="2"/>
+      <circle cx="62" cy="96" r="2.2"/>
+      <circle cx="40" cy="85" r="1.8"/>
+      <circle cx="84" cy="85" r="1.8"/>
+    </g>
+  </g>
+
+  <!-- ===== 文字区（霓虹辉光） ===== -->
+  <g font-family="'PingFang SC','Microsoft YaHei','Hiragino Sans GB',sans-serif">
+    <text x="128" y="72" font-size="42" font-weight="800" fill="url(#neonGrad)" letter-spacing="4" filter="url(#neon)">北港</text>
+    <text x="225" y="70" font-size="28" font-weight="800" font-style="italic" fill="#22d3ee" font-family="'Arial Black','Segoe UI',sans-serif" filter="url(#neon)">3D</text>
+    <!-- 霓虹强调线 -->
+    <rect x="128" y="82" width="118" height="3.5" rx="1.75" fill="url(#neonGrad)" filter="url(#neon)"/>
+    <text x="128" y="106" font-size="20" font-weight="500" fill="#4a5b7d" letter-spacing="4">展示厅</text>
+  </g>
+</svg>

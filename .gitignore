@@ -1,0 +1,16 @@
+# ===== 运行时数据（不进版本库，避免每次发布产生大量 diff / 泄露运营数据）=====
+# 部署 zip 仍会包含 data/content.json 作为首次部署的 seed；更新时后台默认保留线上数据。
+/uploads/
+/data/content.json
+/data/auth.json
+/data/backups/
+/version.json
+
+# 构建产物
+*.zip
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

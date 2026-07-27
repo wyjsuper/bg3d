@@ -1,0 +1,59 @@
+# ============================================================
+# 北港3D设计 · PHP 版路由与安全配置（虚拟主机 Apache 通用）
+# 适配 PHP 7.4+；需开启 mod_rewrite
+# ============================================================
+
+Options -Indexes
+# 首页入口：index.php（内容与 3d.php 一致，3D 产品网格作为站点主页）
+DirectoryIndex index.php 3d.php
+
+# ============================================================
+# 说明：本站点采用「真实 .php 文件路径」直接访问（如 /admin/login.php、
+# /api/login.php），不依赖 Apache mod_rewrite 重写，可在未开启重写的虚拟
+# 主机上直接运行。所有页面/API 链接与 JS 请求均已指向 .php 文件。
+# 若你的主机支持重写并希望使用无扩展名美化地址，可在下方启用兼容重写。
+# ============================================================
+
+# ============================================================
+# 安全：保护数据与库文件目录
+# ============================================================
+
+# 禁止直接访问 data/ 下的任何文件（内容、密码哈希）
+<IfModule mod_authz_core.c>
+  <FilesMatch "\.(json)$">
+    Require all denied
+  </FilesMatch>
+</IfModule>
+<IfModule !mod_authz_core.c>
+  <FilesMatch "\.(json)$">
+    Order allow,deny
+    Deny from all
+  </FilesMatch>
+</IfModule>
+
+# 禁止访问 lib/ src/ 目录中的文件（仅供 include，不应直连）
+RedirectMatch 403 ^/?(lib|src)/.*$
+
+# 隐藏敏感文件
+<FilesMatch "^(\.htaccess|\.env.*|composer\.(json|lock)|check_php\.py)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+</FilesMatch>
+
+# ============================================================
+# 性能：静态资源缓存
+# ============================================================
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType video/mp4 "access plus 30 days"
+</IfModule>

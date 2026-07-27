@@ -1,0 +1,416 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "Courier New", monospace;
+  --font-display: "Georgia", "Times New Roman", "Songti SC", "STSong", "SimSun", serif;
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+  --color-brand: var(--brand);
+  --color-brand-foreground: var(--brand-foreground);
+  /* 科技 / 麦肯锡 主题色（浅亮科技风） */
+  --color-tech-navy: #eef2fb;
+  --color-tech-panel: #ffffff;
+  --color-tech-blue: #2f6bff;
+  --color-tech-cyan: #0ea5b7;
+  --color-tech-ink: #0c1426;
+  --color-tech-muted: #5a6b8c;
+}
+
+:root {
+  --background: #eef2fb;
+  --foreground: #0c1426;
+  --card: #ffffff;
+  --card-foreground: #0c1426;
+  --popover: #ffffff;
+  --popover-foreground: #0c1426;
+  --primary: #2f6bff;
+  --primary-foreground: #ffffff;
+  --secondary: #e6ecf8;
+  --secondary-foreground: #0c1426;
+  --muted: #e8edf7;
+  --muted-foreground: #5a6b8c;
+  --accent: #eaf0fb;
+  --accent-foreground: #0c1426;
+  --destructive: #e5484d;
+  --border: rgba(12, 20, 38, 0.12);
+  --input: rgba(12, 20, 38, 0.16);
+  --ring: #2f6bff;
+  --chart-1: #2f6bff;
+  --chart-2: #0ea5b7;
+  --chart-3: #6366f1;
+  --chart-4: #4f7bff;
+  --chart-5: #3b82f6;
+  --radius: 0.75rem;
+  --brand: #2f6bff;
+  --brand-foreground: #ffffff;
+  --sidebar: #f3f6fc;
+  --sidebar-foreground: #0c1426;
+  --sidebar-primary: #2f6bff;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #eaf0fb;
+  --sidebar-accent-foreground: #0c1426;
+  --sidebar-border: rgba(12, 20, 38, 0.12);
+  --sidebar-ring: #2f6bff;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-color: var(--background);
+    background-image:
+      radial-gradient(900px 500px at 12% -8%, rgba(47, 107, 255, 0.10), transparent 60%),
+      radial-gradient(800px 480px at 92% 4%, rgba(14, 165, 183, 0.08), transparent 60%);
+    background-attachment: fixed;
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+  }
+  ::selection {
+    background: rgba(47, 107, 255, 0.22);
+    color: #0c1426;
+  }
+}
+
+/* ===== 滚动条（科技风细蓝） ===== */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(47, 107, 255, 0.5) transparent;
+}
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+*::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(47, 107, 255, 0.7), rgba(14, 165, 183, 0.5));
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ===== 玻璃拟态面板（浅色） ===== */
+.glass {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(12, 20, 38, 0.10);
+}
+
+/* ===== 渐变文字（蓝→青 科技感） ===== */
+.text-gradient {
+  background-image: linear-gradient(100deg, #2f6bff 0%, #3b82f6 45%, #0ea5b7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ===== 静态网格背景 ===== */
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(12, 20, 38, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(12, 20, 38, 0.06) 1px, transparent 1px);
+  background-size: 46px 46px;
+}
+
+/* ===== 辉光卡片（浅色） ===== */
+.glow-card {
+  position: relative;
+  border-radius: 1rem;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(244, 248, 255, 0.96));
+  border: 1px solid rgba(12, 20, 38, 0.10);
+  transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.45s ease,
+    border-color 0.45s ease;
+}
+.glow-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, rgba(47, 107, 255, 0.7), rgba(14, 165, 183, 0) 45%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity 0.45s ease;
+}
+.glow-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(47, 107, 255, 0.4);
+  box-shadow: 0 18px 60px -22px rgba(47, 107, 255, 0.35),
+    0 0 0 1px rgba(47, 107, 255, 0.10) inset;
+}
+.glow-card:hover::before {
+  opacity: 1;
+}
+
+/* ===== 滚动揭示动画 ===== */
+.reveal {
+  opacity: 0;
+  transform: translateY(26px);
+  transition: opacity 0.75s cubic-bezier(0.2, 0.7, 0.2, 1),
+    transform 0.75s cubic-bezier(0.2, 0.7, 0.2, 1);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ===== 关键帧 ===== */
+@keyframes glow-pulse {
+  0%,
+  100% {
+    opacity: 0.55;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.04);
+  }
+}
+@keyframes float-y {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes scan {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+@keyframes spin-slow {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-glow-pulse {
+  animation: glow-pulse 4s ease-in-out infinite;
+}
+.animate-float {
+  animation: float-y 6s ease-in-out infinite;
+}
+.animate-spin-slow {
+  animation: spin-slow 22s linear infinite;
+}
+.animate-marquee {
+  animation: marquee 28s linear infinite;
+}
+
+/* ===== 页脚标语动态效果 ===== */
+@keyframes slogan-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+    filter: blur(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0px);
+  }
+}
+@keyframes slogan-shimmer {
+  0% {
+    background-position: 200% center;
+  }
+  100% {
+    background-position: -200% center;
+  }
+}
+@keyframes slogan-glow {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 6px rgba(47, 107, 255, 0.32))
+      drop-shadow(0 0 16px rgba(14, 165, 183, 0.18));
+  }
+  50% {
+    filter: drop-shadow(0 0 12px rgba(47, 107, 255, 0.55))
+      drop-shadow(0 0 28px rgba(14, 165, 183, 0.35));
+  }
+}
+@keyframes slogan-line-grow {
+  from {
+    transform: scaleX(0);
+    opacity: 0;
+  }
+  to {
+    transform: scaleX(1);
+    opacity: 1;
+  }
+}
+@keyframes slogan-bg-pulse {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+@keyframes slogan-shine {
+  0% {
+    transform: translateX(-120%);
+  }
+  55%,
+  100% {
+    transform: translateX(320%);
+  }
+}
+
+/* 主标题：入场淡入 + 持续光晕呼吸（单条 animation 声明，避免互相覆盖） */
+.slogan-title {
+  animation: slogan-fade-in 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) both,
+    slogan-glow 3s ease-in-out infinite 0.6s;
+}
+
+/* 渐变文字 + 持续扫光（作用在内部 span，避免与外层 filter 冲突） */
+.slogan-grad {
+  background-image: linear-gradient(100deg, #2f6bff 0%, #3b82f6 45%, #0ea5b7 100%);
+  background-size: 220% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: slogan-shimmer 4.5s linear infinite;
+}
+
+/* 辉光背景持续呼吸 */
+.slogan-bg-glow {
+  animation: slogan-bg-pulse 4.5s ease-in-out infinite;
+}
+
+/* 装饰线从中间向两侧展开 */
+.slogan-line-grow {
+  animation: slogan-line-grow 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  transform-origin: center;
+}
+
+/* 第二行：胶囊标签 + 流光扫过（另一种美化样式） */
+.slogan-sub {
+  position: relative;
+  display: inline-block;
+  padding: 0.35rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: #0ea5b7;
+  background: linear-gradient(120deg, rgba(47, 107, 255, 0.1), rgba(14, 165, 183, 0.1));
+  border: 1px solid rgba(47, 107, 255, 0.28);
+  overflow: hidden;
+  animation: slogan-fade-in 0.9s ease both;
+  animation-delay: 0.35s;
+}
+.slogan-sub::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 45%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.65), transparent);
+  transform: translateX(-120%);
+  animation: slogan-shine 2.6s ease-in-out infinite 0.6s;
+}
+.slogan-sub-text {
+  position: relative;
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .slogan-title,
+  .slogan-grad,
+  .slogan-bg-glow,
+  .slogan-line-grow,
+  .slogan-sub,
+  .slogan-sub::after {
+    animation: none;
+    opacity: 1;
+    filter: none;
+    transform: none;
+  }
+}
+
+/* ===== VideoCard 客户端状态类（供 site.js 控制显隐） ===== */
+.video-skeleton { display: block; }
+.video-card.is-loaded .video-skeleton,
+.video-card.has-error .video-skeleton { display: none; }
+.video-error { display: none; }
+.video-card.has-error .video-error { display: flex; }
+.video-play-btn { display: none; }
+.video-card.needs-play .video-play-btn { display: flex; }
+.video-card.has-error .video-play-indicator,
+.video-card.needs-play .video-play-indicator { display: none; }
+
+/* ===== 首页 canvas 背景扫描线（globals 未定义，此处补齐） ===== */
+.animate-scan { animation: scan 6s linear infinite; }
+

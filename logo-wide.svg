@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 100" role="img" aria-label="北港3D展示厅">
+  <defs>
+    <!-- 港口机械金属渐变 -->
+    <linearGradient id="armMetal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f9ff"/>
+      <stop offset="35%" stop-color="#a9c9f6"/>
+      <stop offset="100%" stop-color="#2f6bff"/>
+    </linearGradient>
+    <linearGradient id="armShade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3f7fe6"/>
+      <stop offset="100%" stop-color="#143a86"/>
+    </linearGradient>
+    <!-- 船体钢灰金属 -->
+    <linearGradient id="hull" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dde6f2"/>
+      <stop offset="100%" stop-color="#5a6b8c"/>
+    </linearGradient>
+    <!-- 集装箱玻璃质感 -->
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.92)"/>
+      <stop offset="100%" stop-color="rgba(205,232,255,0.72)"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(127,176,238,0.58)"/>
+      <stop offset="100%" stop-color="rgba(47,107,255,0.48)"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(14,165,183,0.55)"/>
+      <stop offset="100%" stop-color="rgba(47,107,255,0.45)"/>
+    </linearGradient>
+    <!-- 文字金属拉丝渐变 -->
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="22%" stop-color="#e3edff"/>
+      <stop offset="48%" stop-color="#9cc2f5"/>
+      <stop offset="72%" stop-color="#3f7fe6"/>
+      <stop offset="100%" stop-color="#163d8a"/>
+    </linearGradient>
+    <!-- 可复用的品牌文字 -->
+    <text id="brand" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif" font-size="38" font-weight="800" letter-spacing="1.5">北港3D展示厅</text>
+  </defs>
+
+  <!-- ===== 图标：机械港口 + 大船（货轮装卸） ===== -->
+  <g transform="translate(2,6)">
+    <ellipse cx="64" cy="84" rx="60" ry="4.5" fill="rgba(12,20,38,0.10)"/>
+    <!-- 水面波纹 -->
+    <g fill="none" stroke="#5a6b8c" stroke-width="1" opacity="0.4" stroke-linecap="round">
+      <path d="M0 80 q6 -3 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0"/>
+      <path d="M-4 84 q6 -3 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0"/>
+    </g>
+    <!-- 大船船体 -->
+    <polygon points="0,77 10,58 82,58 82,77" fill="url(#hull)" stroke="rgba(12,20,38,0.25)" stroke-width="0.8"/>
+    <rect x="10" y="58" width="72" height="19" fill="url(#hull)"/>
+    <!-- 吃水红线（工业货轮标志） -->
+    <line x1="10" y1="72" x2="82" y2="72" stroke="#b4232a" stroke-width="1.4" opacity="0.85"/>
+    <!-- 甲板亮线 -->
+    <line x1="8" y1="58" x2="82" y2="58" stroke="rgba(255,255,255,0.6)" stroke-width="1"/>
+    <!-- 甲板集装箱货垛 -->
+    <rect x="14" y="50" width="18" height="8" fill="url(#cubeLeft)"/>
+    <rect x="32" y="50" width="18" height="8" fill="url(#cubeRight)"/>
+    <rect x="50" y="50" width="18" height="8" fill="url(#cubeLeft)"/>
+    <rect x="14" y="42" width="18" height="8" fill="url(#cubeRight)"/>
+    <rect x="32" y="42" width="18" height="8" fill="url(#cubeLeft)"/>
+    <rect x="50" y="42" width="18" height="8" fill="url(#cubeRight)"/>
+    <!-- 驾驶楼 + 烟囱 -->
+    <rect x="68" y="44" width="12" height="14" rx="1" fill="#e8eef7" stroke="rgba(12,20,38,0.2)" stroke-width="0.8"/>
+    <rect x="71" y="32" width="6" height="12" fill="url(#armShade)"/>
+    <ellipse cx="74" cy="30" rx="5" ry="2.4" fill="rgba(90,107,140,0.35)"/>
+    <!-- 龙门吊（岸桥） -->
+    <rect x="96" y="24" width="6" height="56" rx="2" fill="url(#armShade)"/>
+    <rect x="118" y="24" width="6" height="56" rx="2" fill="url(#armShade)"/>
+    <rect x="92" y="17" width="34" height="8" rx="2.5" fill="url(#armMetal)"/>
+    <!-- 悬臂向船方向伸出 -->
+    <rect x="50" y="20" width="46" height="5" rx="2" fill="url(#armMetal)"/>
+    <!-- 机房小车 -->
+    <rect x="58" y="13" width="14" height="7" rx="2" fill="url(#armMetal)"/>
+    <!-- 吊索 -->
+    <line x1="58" y1="25" x2="55" y2="40" stroke="url(#armShade)" stroke-width="1.2"/>
+    <line x1="64" y1="25" x2="67" y2="40" stroke="url(#armShade)" stroke-width="1.2"/>
+    <!-- 吊起的集装箱（装卸中） -->
+    <rect x="52" y="40" width="18" height="9" fill="url(#cubeLeft)" stroke="rgba(255,255,255,0.7)" stroke-width="0.8"/>
+    <polygon points="52,40 70,40 75,35 57,35" fill="url(#cubeTop)" stroke="rgba(255,255,255,0.8)" stroke-width="0.8"/>
+    <polygon points="70,40 75,35 75,44 70,49" fill="url(#cubeRight)" stroke="rgba(255,255,255,0.6)" stroke-width="0.8"/>
+    <!-- 工程标注线（精度感） -->
+    <g stroke="#5a6b8c" stroke-width="0.8" fill="none" opacity="0.6">
+      <line x1="124" y1="20" x2="132" y2="20"/>
+      <line x1="124" y1="17" x2="124" y2="23"/>
+      <line x1="132" y1="17" x2="132" y2="23"/>
+    </g>
+  </g>
+
+  <!-- ===== 文字区：金属光泽 3D 立体 ===== -->
+  <g transform="translate(158, 22)">
+    <!-- 3D 厚度层（右下挤出） -->
+    <g fill="#163d8a">
+      <use href="#brand" x="10" y="44"/>
+      <use href="#brand" x="9" y="43"/>
+      <use href="#brand" x="8" y="42"/>
+      <use href="#brand" x="7" y="41"/>
+      <use href="#brand" x="6" y="40"/>
+      <use href="#brand" x="5" y="39"/>
+      <use href="#brand" x="4" y="38"/>
+      <use href="#brand" x="3" y="37"/>
+      <use href="#brand" x="2" y="36"/>
+      <use href="#brand" x="1" y="35"/>
+    </g>
+    <!-- 金属拉丝顶层 -->
+    <use href="#brand" x="0" y="34" fill="url(#metal)"/>
+    <!-- 顶面高光描边 -->
+    <use href="#brand" x="0" y="33.6" fill="none" stroke="rgba(255,255,255,0.75)" stroke-width="0.6"/>
+    <!-- 强调线 -->
+    <rect x="2" y="48" width="34" height="2.5" rx="1.25" fill="#0ea5b7"/>
+    <!-- 英文副标 -->
+    <text x="2" y="66" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#5a6b8c" letter-spacing="4">BEIGANG 3D SHOWROOM</text>
+  </g>
+</svg>
