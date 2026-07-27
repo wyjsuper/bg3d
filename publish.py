@@ -76,6 +76,8 @@ def pack():
                 continue
             if p.name in EXCLUDE_FILES:
                 continue
+            if rel == "data/auth.json":
+                continue
             if p.suffix in EXCLUDE_EXT:
                 continue
             if any(part.startswith(".") and part != ".htaccess" for part in parts):
