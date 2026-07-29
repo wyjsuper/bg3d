@@ -72,7 +72,7 @@ function bg_admin_sidebar($activeType) {
   $isDash = ($activeType === '__dashboard__');
   $isActive = function ($type) use ($activeType) { return $activeType === $type; };
 
-  echo '<div class="glass-dark flex h-full flex-col bg-gradient-to-b from-[#13213f] to-[#0b1426] text-slate-100" style="border-right:1px solid rgba(255,255,255,0.08);box-shadow:inset 1px 0 0 rgba(255,255,255,0.06), 8px 0 30px rgba(11,20,38,0.25)">';
+  echo '<div class="flex h-full flex-col bg-[#0c1426] text-slate-100">';
   // 品牌
   echo '<div class="flex items-center gap-2.5 border-b border-white/10 px-5 py-4">';
   echo '<span class="inline-flex items-center rounded-md bg-white/95 px-2 py-1"><img src="' . bg_url('/logo-removebg.png') . '" alt="Logo" class="h-9 w-auto"></span>';
@@ -142,7 +142,7 @@ function bg_admin_frame_start($title, $activeType) {
   echo '</div>';
   // 右侧
   echo '<div class="flex min-h-screen flex-col md:pl-64">';
-  echo '<header class="glass sticky top-0 z-30 flex items-center justify-between border-b border-white/60 px-4 py-3 md:px-8">';
+  echo '<header class="sticky top-0 z-30 flex items-center justify-between border-b border-[#0c1426]/10 bg-white/85 px-4 py-3 backdrop-blur md:px-8">';
   echo '<div class="flex items-center gap-3">';
   echo '<button type="button" data-drawer-open aria-label="打开菜单" class="inline-flex h-9 w-9 items-center justify-center rounded-lg border border-[#0c1426]/10 text-tech-ink md:hidden">' . bg_admin_icon('menu', 20) . '</button>';
   echo '<h1 class="text-base font-semibold text-tech-ink md:text-lg">' . h($title) . '</h1>';
@@ -158,7 +158,7 @@ function bg_admin_frame_end() {
   // 修改密码弹窗（默认隐藏）
   echo '<div class="pw-modal fixed inset-0 z-[60] hidden items-center justify-center p-4">';
   echo '<div class="absolute inset-0 bg-black/40 backdrop-blur-sm" data-pw-close></div>';
-  echo '<div class="glass-strong relative w-full max-w-md rounded-2xl p-6">';
+  echo '<div class="relative w-full max-w-md rounded-2xl bg-white p-6 shadow-2xl">';
   // 成功态
   echo '<div class="pw-success hidden text-center">';
   echo '<div class="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-green-100"><svg class="h-7 w-7 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></div>';

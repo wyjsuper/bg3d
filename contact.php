@@ -15,7 +15,7 @@ $qqEmail = isset($contact['qqEmail']) ? $contact['qqEmail'] : '';
 $cities = array();
 foreach (bg_get_collection('cities') as $c) { $cities[] = bg_t($c['name'], $lang); }
 
-$inputBase = 'glass-input mt-1.5 w-full rounded-lg px-3.5 py-2.5 text-sm text-[#0c1426] placeholder:text-[#5a6b8c]/60 outline-none transition-all';
+$inputBase = 'mt-1.5 w-full rounded-lg border border-[#0c1426]/15 bg-white/80 px-3.5 py-2.5 text-sm text-[#0c1426] placeholder:text-[#5a6b8c]/60 outline-none transition-all focus:border-tech-blue focus:ring-2 focus:ring-tech-blue/15 focus:bg-white';
 
 $rows = array(
   array('dt' => bg_pick(array('zh' => '地址', 'en' => 'Address'), $lang), 'dd' => $address),
@@ -34,7 +34,7 @@ bg_render_nav($lang);
       <h2 class="font-display text-xl font-semibold text-tech-ink"><?php echo h(bg_pick(array('zh' => '联系方式', 'en' => 'Contact Info'), $lang)); ?></h2>
       <dl class="mt-6 space-y-5">
         <?php foreach ($rows as $i => $row): ?>
-        <div class="glass-card flex items-start gap-4 p-4">
+        <div class="flex items-start gap-4 rounded-xl border border-[#0c1426]/10 bg-[#0c1426]/[0.03] p-4">
           <span class="font-mono text-xs text-tech-blue/80">0<?php echo $i + 1; ?></span>
           <div>
             <dt class="text-sm font-medium text-tech-ink"><?php echo h($row['dt']); ?></dt>
@@ -76,9 +76,8 @@ bg_render_nav($lang);
           <textarea id="message" name="message" rows="4" class="<?php echo $inputBase; ?> resize-y" placeholder="<?php echo h(bg_pick(array('zh' => '简单描述您的项目（品牌 / 网站 / 推广 / 会展…）', 'en' => 'Briefly describe your project (brand / website / marketing / exhibition…)'), $lang)); ?>"></textarea>
         </div>
         <p class="hidden rounded-lg bg-red-50 px-3 py-2 text-sm text-red-600" data-contact-error></p>
-        <button type="submit" data-contact-submit class="liquid-sheen group relative w-full overflow-hidden rounded-lg px-6 py-3 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5 disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:translate-y-0">
+        <button type="submit" data-contact-submit class="group relative w-full overflow-hidden rounded-lg px-6 py-3 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5 disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:translate-y-0">
           <span class="absolute inset-0 bg-gradient-to-r from-tech-blue to-tech-cyan"></span>
-          <span class="absolute inset-0 border border-white/30 rounded-lg"></span>
           <span class="relative flex items-center justify-center gap-2"><span data-contact-btn-text><?php echo h(bg_pick(array('zh' => '提交咨询', 'en' => 'Submit'), $lang)); ?></span></span>
         </button>
       </form>
