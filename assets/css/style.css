@@ -999,6 +999,12 @@
   }
   .bg-card {
     background-color: var(--card);
+    -webkit-backdrop-filter: blur(18px) saturate(180%);
+    backdrop-filter: blur(18px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 0 8px 32px rgba(13, 30, 60, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.9),
+      inset 0 -1px 0 rgba(255, 255, 255, 0.2);
   }
   .bg-destructive\/10 {
     background-color: var(--destructive);
@@ -2545,7 +2551,7 @@
 :root {
   --background: #eef2fb;
   --foreground: #0c1426;
-  --card: #ffffff;
+  --card: rgba(255, 255, 255, 0.62);
   --card-foreground: #0c1426;
   --popover: #ffffff;
   --popover-foreground: #0c1426;
@@ -2636,33 +2642,47 @@
 }
 .glow-card {
   position: relative;
+  overflow: hidden;
   border-radius: 1rem;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(244, 248, 255, 0.96));
-  border: 1px solid rgba(12, 20, 38, 0.10);
+  background: rgba(255, 255, 255, 0.55);
+  -webkit-backdrop-filter: blur(18px) saturate(180%);
+  backdrop-filter: blur(18px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  box-shadow: 0 8px 32px rgba(13, 30, 60, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.2);
   transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.45s ease,
-    border-color 0.45s ease;
+    border-color 0.45s ease, background 0.45s ease;
 }
-.glow-card::before {
+.glow-card::after {
   content: "";
   position: absolute;
-  inset: 0;
-  border-radius: inherit;
-  padding: 1px;
-  background: linear-gradient(135deg, rgba(47, 107, 255, 0.7), rgba(14, 165, 183, 0) 45%);
-  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  opacity: 0;
-  transition: opacity 0.45s ease;
+  top: -60%;
+  left: -130%;
+  width: 80%;
+  height: 220%;
+  background: linear-gradient(
+    100deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.5) 45%,
+    rgba(255, 255, 255, 0.85) 50%,
+    rgba(255, 255, 255, 0.5) 55%,
+    transparent 100%
+  );
+  transform: skewX(-18deg);
+  transition: left 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
 }
 .glow-card:hover {
   transform: translateY(-4px);
+  background: rgba(255, 255, 255, 0.72);
   border-color: rgba(47, 107, 255, 0.4);
   box-shadow: 0 18px 60px -22px rgba(47, 107, 255, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
     0 0 0 1px rgba(47, 107, 255, 0.10) inset;
 }
-.glow-card:hover::before {
-  opacity: 1;
+.glow-card:hover::after {
+  left: 130%;
 }
 .reveal {
   opacity: 0;
@@ -3295,4 +3315,153 @@
 .mobile-nav-panel > nav a,
 .mobile-nav-panel > nav div > a {
   display: block;
+}
+
+/* ============================================================
+   液态玻璃 Liquid Glass — 北港3D 视觉升级
+   浅色基调上的 iOS 风毛玻璃：半透明白底 + 强内高光 + 柔和投影
+   配合 .liquid-orb 光晕块在深色区块上呈现折射质感
+   ============================================================ */
+:root {
+  --glass-bg: rgba(255, 255, 255, 0.55);
+  --glass-bg-strong: rgba(255, 255, 255, 0.72);
+  --glass-border: rgba(255, 255, 255, 0.75);
+  --glass-border-soft: rgba(13, 30, 60, 0.08);
+  --glass-shadow: 0 8px 32px rgba(13, 30, 60, 0.12);
+  --glass-shadow-lg: 0 20px 60px rgba(13, 30, 60, 0.18);
+  --glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.95), inset 0 -1px 0 rgba(255, 255, 255, 0.25);
+  --glass-blur: 18px;
+  --liquid-blue: 205 95% 52%;
+  --liquid-cyan: 190 90% 50%;
+}
+
+/* 基础玻璃面 */
+.glass {
+  background: var(--glass-bg);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow), var(--glass-highlight);
+}
+.glass-strong {
+  background: var(--glass-bg-strong);
+  -webkit-backdrop-filter: blur(calc(var(--glass-blur) + 6px)) saturate(200%);
+  backdrop-filter: blur(calc(var(--glass-blur) + 6px)) saturate(200%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow-lg), var(--glass-highlight);
+}
+/* 深色液态玻璃（用于深色背景上的浮层） */
+.glass-dark {
+  background: rgba(12, 20, 38, 0.45);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(160%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+
+/* 液态高光扫光（hover 时一道斜向光掠过） */
+.liquid-sheen {
+  position: relative;
+  overflow: hidden;
+}
+.liquid-sheen::after {
+  content: "";
+  position: absolute;
+  top: -60%;
+  left: -130%;
+  width: 80%;
+  height: 220%;
+  background: linear-gradient(
+    100deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.55) 45%,
+    rgba(255, 255, 255, 0.85) 50%,
+    rgba(255, 255, 255, 0.55) 55%,
+    transparent 100%
+  );
+  transform: skewX(-18deg);
+  transition: left 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
+}
+.liquid-sheen:hover::after {
+  left: 130%;
+}
+
+/* 光晕球：科技蓝/青渐变模糊圆，作背景装饰 */
+.liquid-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(70px);
+  opacity: 0.55;
+  pointer-events: none;
+  z-index: 0;
+}
+.liquid-orb.blue { background: radial-gradient(circle at 30% 30%, hsl(var(--liquid-blue) / 0.9), transparent 70%); }
+.liquid-orb.cyan { background: radial-gradient(circle at 70% 30%, hsl(var(--liquid-cyan) / 0.9), transparent 70%); }
+
+/* 深色玻璃区块背景（hero / CTA） */
+.liquid-stage {
+  position: relative;
+  background:
+    radial-gradient(120% 120% at 80% -10%, rgba(205, 95, 52%, 0.18), transparent 55%),
+    radial-gradient(120% 120% at 0% 110%, rgba(190, 90%, 50%, 0.16), transparent 55%),
+    linear-gradient(160deg, #0b1730 0%, #0e2147 45%, #0a1430 100%);
+  color: #fff;
+  overflow: hidden;
+}
+.liquid-stage .liquid-orb.blue { width: 460px; height: 460px; top: -120px; right: -80px; opacity: 0.5; }
+.liquid-stage .liquid-orb.cyan { width: 380px; height: 380px; bottom: -120px; left: -60px; opacity: 0.45; }
+/* 深色舞台内的 eyebrow / 文本默认调亮，保证对比 */
+.liquid-stage .font-mono.text-tech-cyan,
+.liquid-stage [class*="text-tech-cyan"] { color: rgba(186, 230, 253, 0.95) !important; }
+.liquid-stage .text-tech-muted { color: rgba(255, 255, 255, 0.72) !important; }
+.liquid-stage .text-tech-ink { color: rgba(255, 255, 255, 0.95) !important; }
+
+/* 玻璃卡片：在浅色页面上替代实心白卡 */
+.glass-card {
+  background: var(--glass-bg);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow), var(--glass-highlight);
+  border-radius: 1rem;
+}
+
+/* 玻璃按钮 */
+.btn-glass {
+  position: relative;
+  overflow: hidden;
+  background: var(--glass-bg-strong);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  backdrop-filter: blur(10px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-highlight);
+  color: #0c1426;
+}
+.btn-glass:hover { background: rgba(255, 255, 255, 0.85); }
+
+/* 玻璃输入框 */
+.glass-input {
+  background: rgba(255, 255, 255, 0.6);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--glass-border-soft);
+  box-shadow: inset 0 1px 2px rgba(13, 30, 60, 0.05);
+}
+.glass-input:focus {
+  border-color: hsl(var(--liquid-blue));
+  box-shadow: inset 0 1px 2px rgba(13, 30, 60, 0.05), 0 0 0 3px rgba(205, 95, 52%, 0.18);
+  outline: none;
+}
+
+/* 玻璃分隔条（footer / section 边界） */
+.glass-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6) 20%, rgba(255, 255, 255, 0.6) 80%, transparent);
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .liquid-sheen::after { transition: none; }
 }

@@ -56,12 +56,13 @@ function bg_eyebrow($index, $text) {
 }
 
 function bg_page_header($index, $eyebrow, $title, $desc) {
-  echo '<section class="relative overflow-hidden border-b border-[#0c1426]/10 px-4 py-20 sm:py-24">';
-  echo '<div class="pointer-events-none absolute -top-24 right-0 h-72 w-72 rounded-full bg-tech-blue/15 blur-3xl"></div>';
-  echo '<div class="mx-auto max-w-6xl">';
+  echo '<section class="liquid-stage relative overflow-hidden border-b border-white/10 px-4 py-20 sm:py-24">';
+  echo '<span class="liquid-orb blue"></span>';
+  echo '<span class="liquid-orb cyan"></span>';
+  echo '<div class="relative mx-auto max-w-6xl">';
   if ($eyebrow) bg_eyebrow($index, $eyebrow);
-  echo '<h1 class="mt-4 font-display text-4xl font-semibold tracking-tight text-tech-ink sm:text-5xl lg:text-6xl">' . h($title) . '</h1>';
-  if ($desc) echo '<p class="mt-5 max-w-2xl text-lg leading-relaxed text-tech-muted">' . h($desc) . '</p>';
+  echo '<h1 class="mt-4 font-display text-4xl font-semibold tracking-tight text-white sm:text-5xl lg:text-6xl">' . h($title) . '</h1>';
+  if ($desc) echo '<p class="mt-5 max-w-2xl text-lg leading-relaxed text-white/75">' . h($desc) . '</p>';
   echo '</div></section>';
 }
 
@@ -96,7 +97,7 @@ function bg_video_card($item) {
   $category = isset($item['category']) ? $item['category'] : '';
   $desc = isset($item['description']) ? $item['description'] : '';
   echo '<article class="video-card group flex flex-col" data-video>';
-  echo '<div class="relative aspect-[4/3] overflow-hidden rounded-xl border-[#0c1426]/10 bg-[#e9eef7]">';
+  echo '<div class="relative aspect-[4/3] overflow-hidden rounded-xl border border-white/60 bg-[#e9eef7] shadow-[0_8px_28px_rgba(13,30,60,0.12),inset_0_1px_0_rgba(255,255,255,0.9)]">';
   if ($hasVideo) {
     if ($isGif) {
       $posterAttr = $hasPoster ? ' data-poster="' . h(bg_url($poster)) . '"' : '';
@@ -202,7 +203,7 @@ function bg_render_nav($lang) {
   $nav = bg_get_collection('nav');
   $site = bg_get_singleton('site');
   $logo = !empty($site['logo']) ? $site['logo'] : '/logo-removebg.png';
-  echo '<header class="sticky top-0 z-50 glass border-b border-[#0c1426]/10">';
+  echo '<header class="sticky top-0 z-50 glass glass-strong border-b border-white/60">';
   echo '<div class="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 md:h-20">';
   echo '<a href="' . bg_url('/') . '" class="group flex items-center gap-2.5" aria-label="北港3D设计 BEIGANG DESIGN">';
   bg_brand_logo($logo, 'h-12 w-auto md:h-[72px]');
@@ -227,9 +228,9 @@ function bg_render_nav($lang) {
   }
   echo '</nav>';
   echo '<div class="flex items-center gap-2">';
-  echo '<button type="button" class="lang-toggle-btn inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-tech-blue text-xs font-bold text-white shadow-sm transition-colors hover:bg-tech-blue/90" data-lang-toggle aria-label="切换语言">EN</button>';
-  echo '<a href="' . bg_url('/contact') . '" class="group relative hidden items-center gap-2 overflow-hidden rounded-full px-5 py-2 text-base font-semibold text-white transition-transform hover:-translate-y-0.5 sm:inline-flex"><span class="absolute inset-0 bg-gradient-to-r from-tech-blue to-tech-cyan"></span><span class="relative">' . h(bg_pick($UI['common']['contactBtn'], $lang)) . '</span></a>';
-  echo '<button type="button" class="mobile-nav-open inline-flex h-10 w-10 items-center justify-center rounded-lg border border-[#0c1426]/10 bg-white/70 text-tech-ink transition-colors hover:bg-white md:hidden" aria-label="打开菜单">' . bg_icon('menu', 20) . '</button>';
+  echo '<button type="button" class="lang-toggle-btn liquid-sheen inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-white/70 bg-white/55 text-xs font-bold text-tech-ink shadow-sm backdrop-blur transition-colors hover:bg-white/80" data-lang-toggle aria-label="切换语言">EN</button>';
+  echo '<a href="' . bg_url('/contact') . '" class="group liquid-sheen relative hidden items-center gap-2 overflow-hidden rounded-full px-5 py-2 text-base font-semibold text-white shadow-lg transition-transform hover:-translate-y-0.5 sm:inline-flex"><span class="absolute inset-0 bg-gradient-to-r from-tech-blue to-tech-cyan"></span><span class="absolute inset-0 border border-white/30 rounded-full"></span><span class="relative">' . h(bg_pick($UI['common']['contactBtn'], $lang)) . '</span></a>';
+  echo '<button type="button" class="mobile-nav-open inline-flex h-10 w-10 items-center justify-center rounded-lg border border-white/60 bg-white/55 text-tech-ink shadow-sm backdrop-blur transition-colors hover:bg-white/80 md:hidden" aria-label="打开菜单">' . bg_icon('menu', 20) . '</button>';
   echo '</div></div></header>';
   bg_render_mobile_nav($nav, $lang);
 }
@@ -238,7 +239,7 @@ function bg_render_mobile_nav($nav, $lang) {
   global $UI;
   echo '<div class="mobile-nav-overlay fixed inset-0 z-[60] hidden md:hidden">';
   echo '<div class="absolute inset-0 bg-[#0c1426]/40 backdrop-blur-sm" data-mobile-nav-close></div>';
-  echo '<div class="mobile-nav-panel absolute right-0 top-0 flex h-full w-[82%] max-w-xs flex-col bg-white shadow-2xl">';
+  echo '<div class="mobile-nav-panel absolute right-0 top-0 flex h-full w-[82%] max-w-xs flex-col glass-strong shadow-2xl">';
   echo '<div class="flex items-center justify-between border-b border-[#0c1426]/10 px-5 py-4"><span class="text-sm font-semibold text-tech-ink">' . h(bg_pick($UI['common']['navMenu'], $lang)) . '</span><button type="button" class="inline-flex h-9 w-9 items-center justify-center rounded-lg text-tech-muted transition-colors hover:bg-[#0c1426]/[0.05]" data-mobile-nav-close aria-label="关闭菜单">' . bg_icon('x', 20) . '</button></div>';
   echo '<nav class="flex-1 overflow-y-auto px-3 py-4">';
   echo '<a href="' . bg_url('/') . '" data-mobile-nav-close class="block rounded-lg px-3 py-3 text-base font-medium text-tech-ink transition-colors hover:bg-[#0c1426]/[0.04]">' . h(bg_pick($UI['common']['home'], $lang)) . '</a>';
@@ -278,7 +279,7 @@ function bg_render_footer($lang) {
   $logo = !empty($site['logo']) ? $site['logo'] : '/logo-removebg.png';
   $copyrightYearStart = !empty($site['copyrightYearStart']) ? $site['copyrightYearStart'] : '2003';
 
-  echo '<footer class="relative mt-24 border-t border-[#0c1426]/10 bg-tech-navy/70">';
+  echo '<footer class="liquid-stage relative mt-24 border-t border-white/10 bg-tech-navy/70">';
   echo '<div class="mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:grid-cols-2 lg:grid-cols-4">';
   foreach ($footerCols as $i => $col) {
     echo '<div>';
@@ -295,14 +296,14 @@ function bg_render_footer($lang) {
   }
   echo '</ul></div></div>';
 
-  echo '<div class="border-t border-[#0c1426]/10"><div class="mx-auto grid gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-3">';
-  echo '<div class="rounded-2xl border border-[#0c1426]/10 bg-[#0c1426]/[0.03] p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['contactTitle'], $lang)) . '</h4>';
-  echo '<p class="text-sm text-tech-muted">' . h(bg_pick($UI['footer']['addrLabel'], $lang)) . h(bg_t($contact['address'], $lang)) . '</p>';
-  echo '<p class="mt-1 text-sm text-tech-muted">' . h(bg_pick($UI['footer']['phoneLabel'], $lang)) . h($contact['phoneWechat']) . '</p>';
-  echo '<p class="mt-1 text-sm text-tech-muted">' . h(bg_pick($UI['footer']['qqLabel'], $lang)) . h($contact['qqEmail']) . '</p></div>';
-  echo '<div class="rounded-2xl border border-[#0c1426]/10 bg-[#0c1426]/[0.03] p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['citiesTitle'], $lang)) . '</h4>';
-  echo '<p class="text-sm leading-relaxed text-tech-muted">' . h(implode('、', array_map(function ($c) use ($lang) { return bg_t($c['name'], $lang); }, $cities))) . ' ' . h(bg_pick($UI['footer']['etc'], $lang)) . '</p></div>';
-  echo '<div class="flex flex-col justify-between rounded-2xl border border-[#0c1426]/10 bg-gradient-to-br from-tech-blue/10 to-tech-cyan/5 p-6"><h4 class="font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['linksTitle'], $lang)) . '</h4><div class="mt-4 flex flex-col gap-2">';
+  echo '<div class="border-t border-white/10"><div class="mx-auto grid gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-3">';
+  echo '<div class="glass-dark rounded-2xl p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['contactTitle'], $lang)) . '</h4>';
+  echo '<p class="text-sm text-white/80">' . h(bg_pick($UI['footer']['addrLabel'], $lang)) . h(bg_t($contact['address'], $lang)) . '</p>';
+  echo '<p class="mt-1 text-sm text-white/80">' . h(bg_pick($UI['footer']['phoneLabel'], $lang)) . h($contact['phoneWechat']) . '</p>';
+  echo '<p class="mt-1 text-sm text-white/80">' . h(bg_pick($UI['footer']['qqLabel'], $lang)) . h($contact['qqEmail']) . '</p></div>';
+  echo '<div class="glass-dark rounded-2xl p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['citiesTitle'], $lang)) . '</h4>';
+  echo '<p class="text-sm leading-relaxed text-white/80">' . h(implode('、', array_map(function ($c) use ($lang) { return bg_t($c['name'], $lang); }, $cities))) . ' ' . h(bg_pick($UI['footer']['etc'], $lang)) . '</p></div>';
+  echo '<div class="glass-dark flex flex-col justify-between rounded-2xl p-6"><h4 class="font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['linksTitle'], $lang)) . '</h4><div class="mt-4 flex flex-col gap-2">';
   echo '<a href="' . bg_url('/admin/login') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['adminLogin'], $lang)) . '</a>';
   echo '<a href="' . bg_url('/3d') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['threedsLink'], $lang)) . '</a>';
   echo '</div></div></div></div>';

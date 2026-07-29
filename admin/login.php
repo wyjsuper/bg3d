@@ -20,54 +20,54 @@ if (bg_current_user()) {
 <link rel="stylesheet" href="<?php echo bg_url('/assets/css/style.css'); ?>">
 </head>
 <body class="font-sans text-foreground antialiased">
-<div class="flex min-h-screen">
+<div class="liquid-stage flex min-h-screen">
   <!-- 品牌区 -->
-  <div class="relative hidden w-1/2 flex-col justify-between bg-neutral-950 p-12 text-neutral-50 lg:flex">
+  <div class="glass-dark relative hidden w-1/2 flex-col justify-between p-12 text-neutral-50 lg:flex">
     <span class="inline-flex w-fit items-center rounded-md bg-white/95 px-2.5 py-1.5"><img src="<?php echo bg_url('/logo-removebg.png'); ?>" alt="Logo" class="h-12 w-auto"></span>
     <div>
-      <p class="text-sm font-medium uppercase tracking-widest text-brand">ADMIN CONSOLE</p>
-      <h1 class="mt-3 text-4xl font-bold leading-tight">北港3D数字营销设计<br>管理后台</h1>
-      <p class="mt-4 max-w-md text-neutral-400">品牌内容、案例、方案与营销数据的统一管理中心。请使用管理员账号登录。</p>
+      <p class="text-sm font-medium uppercase tracking-widest text-brand" style="color:rgba(186,230,253,0.95)">ADMIN CONSOLE</p>
+      <h1 class="mt-3 text-4xl font-bold leading-tight text-white">北港3D数字营销设计<br>管理后台</h1>
+      <p class="mt-4 max-w-md text-white/70">品牌内容、案例、方案与营销数据的统一管理中心。请使用管理员账号登录。</p>
     </div>
-    <p class="text-xs text-neutral-500">Copyright © 2003-2026 北港3D数字营销设计 · 苏ICP备10011650号-5</p>
+    <p class="text-xs text-white/50">Copyright © 2003-2026 北港3D数字营销设计 · 苏ICP备10011650号-5</p>
   </div>
 
   <!-- 登录表单区 -->
-  <div class="flex w-full flex-col items-center justify-center bg-background px-6 lg:w-1/2">
-    <div class="w-full max-w-sm">
+  <div class="flex w-full flex-col items-center justify-center px-6 lg:w-1/2">
+    <div class="glass-strong w-full max-w-sm rounded-3xl p-8">
       <div class="mb-8 lg:hidden"><span class="inline-flex items-center rounded-md bg-white px-2.5 py-1.5 shadow"><img src="<?php echo bg_url('/logo-removebg.png'); ?>" alt="Logo" class="h-12 w-auto"></span></div>
 
-      <h2 class="text-2xl font-bold">后台登录</h2>
-      <p class="mt-2 text-sm text-muted-foreground">请输入您的管理员凭据以继续</p>
+      <h2 class="text-2xl font-bold text-tech-ink">后台登录</h2>
+      <p class="mt-2 text-sm text-tech-muted">请输入您的管理员凭据以继续</p>
 
       <form data-login-form class="mt-8 space-y-5">
         <div>
           <label class="text-sm font-medium text-foreground">账号</label>
-          <input data-username autocomplete="username" class="mt-1.5 w-full rounded-md border border-input bg-background px-3 py-2.5 text-sm outline-none focus:border-brand" placeholder="管理员账号">
+          <input data-username autocomplete="username" class="glass-input mt-1.5 w-full rounded-md px-3 py-2.5 text-sm outline-none" placeholder="管理员账号">
         </div>
         <div>
           <label class="text-sm font-medium text-foreground">密码</label>
-          <input type="password" data-password autocomplete="current-password" class="mt-1.5 w-full rounded-md border border-input bg-background px-3 py-2.5 text-sm outline-none focus:border-brand" placeholder="登录密码">
+          <input type="password" data-password autocomplete="current-password" class="glass-input mt-1.5 w-full rounded-md px-3 py-2.5 text-sm outline-none" placeholder="登录密码">
         </div>
         <div>
           <label class="text-sm font-medium text-foreground">验证码</label>
           <div class="mt-1.5 flex gap-3">
-            <input data-code class="w-full rounded-md border border-input bg-background px-3 py-2.5 text-sm uppercase tracking-widest outline-none focus:border-brand" placeholder="请输入右侧验证码">
-            <button type="button" data-captcha title="换一张" class="select-none rounded-md border border-border px-4 text-lg font-bold tracking-[0.3em] text-brand transition-colors hover:bg-accent"></button>
+            <input data-code class="glass-input w-full rounded-md px-3 py-2.5 text-sm uppercase tracking-widest outline-none" placeholder="请输入右侧验证码">
+            <button type="button" data-captcha title="换一张" class="select-none rounded-md border border-[#0c1426]/15 bg-white/70 px-4 text-lg font-bold tracking-[0.3em] text-tech-blue transition-colors hover:bg-white">ABCD</button>
           </div>
         </div>
 
         <div class="flex items-center justify-between text-sm">
-          <label class="flex items-center gap-2 text-muted-foreground"><input type="checkbox" class="h-4 w-4 accent-[var(--brand)]">记住我</label>
-          <a href="#" class="text-brand hover:underline">忘记密码？</a>
+          <label class="flex items-center gap-2 text-tech-muted"><input type="checkbox" class="h-4 w-4 accent-[var(--brand)]">记住我</label>
+          <a href="#" class="text-tech-blue hover:underline">忘记密码？</a>
         </div>
 
-        <p data-error class="hidden rounded-md bg-destructive/10 px-3 py-2 text-sm text-destructive"></p>
+        <p data-error class="hidden rounded-md bg-red-500/10 px-3 py-2 text-sm text-red-600"></p>
 
-        <button type="submit" data-submit class="w-full rounded-md bg-brand px-6 py-3 text-sm font-medium text-brand-foreground transition-opacity hover:opacity-90 disabled:opacity-60">登录后台</button>
+        <button type="submit" data-submit class="liquid-sheen w-full rounded-md bg-tech-blue px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-90 disabled:opacity-60">登录后台</button>
       </form>
 
-      <p class="mt-6 text-center text-xs text-muted-foreground">返回 <a href="<?php echo bg_url('/'); ?>" class="text-brand hover:underline">网站首页</a></p>
+      <p class="mt-6 text-center text-xs text-tech-muted">返回 <a href="<?php echo bg_url('/'); ?>" class="text-tech-blue hover:underline">网站首页</a></p>
     </div>
   </div>
 </div>
