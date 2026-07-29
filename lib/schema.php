@@ -94,7 +94,7 @@ $BG_COLLECTIONS = array(
     ),
   ),
   array(
-    'type' => 'inquiries', 'label' => '客户咨询', 'singular' => '咨询', 'singleton' => false, 'adminHidden' => true,
+    'type' => 'inquiries', 'label' => '客户咨询', 'singular' => '咨询', 'singleton' => false,
     'fields' => array(
       array('key' => 'name', 'label' => '姓名', 'type' => 'text'),
       array('key' => 'phone', 'label' => '电话', 'type' => 'text'),
