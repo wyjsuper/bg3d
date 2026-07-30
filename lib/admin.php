@@ -63,7 +63,7 @@ function bg_admin_head($title) {
   echo '<script>window.BG_BASE = ' . json_encode(defined('BG_BASE') ? BG_BASE : '') . ';</script>' . "\n";
   echo '<link rel="stylesheet" href="' . bg_url('/assets/css/style.css') . '">' . "\n";
   echo '</head>' . "\n";
-  echo '<body class="bg-[#f4f7fc] font-sans text-foreground antialiased">' . "\n";
+  echo '<body class="bg-[#0b1120] font-sans text-foreground antialiased">' . "\n";
 }
 
 /** 侧栏内容（桌面 / 移动共用） */
@@ -72,7 +72,7 @@ function bg_admin_sidebar($activeType) {
   $isDash = ($activeType === '__dashboard__');
   $isActive = function ($type) use ($activeType) { return $activeType === $type; };
 
-  echo '<div class="flex h-full flex-col bg-[#0c1426] text-slate-100">';
+  echo '<div class="flex h-full flex-col glass-dark text-slate-100">';
   // 品牌
   echo '<div class="flex items-center gap-2.5 border-b border-white/10 px-5 py-4">';
   echo '<span class="inline-flex items-center rounded-md bg-white/95 px-2 py-1"><img src="' . bg_url('/logo-removebg.png') . '" alt="Logo" class="h-9 w-auto"></span>';
@@ -127,7 +127,7 @@ function bg_admin_side_link($c, $active) {
 
 /** 框架开始：侧栏 + 顶栏，返回后在 main 内输出页面内容 */
 function bg_admin_frame_start($title, $activeType) {
-  echo '<div class="min-h-screen bg-[#f4f7fc]">';
+  echo '<div class="min-h-screen bg-[#0b1120]">';
   // 桌面侧栏
   echo '<aside class="fixed inset-y-0 left-0 z-40 hidden w-64 md:block">';
   bg_admin_sidebar($activeType);
@@ -142,12 +142,12 @@ function bg_admin_frame_start($title, $activeType) {
   echo '</div>';
   // 右侧
   echo '<div class="flex min-h-screen flex-col md:pl-64">';
-  echo '<header class="sticky top-0 z-30 flex items-center justify-between border-b border-[#0c1426]/10 bg-white/85 px-4 py-3 backdrop-blur md:px-8">';
+  echo '<header class="sticky top-0 z-30 flex items-center justify-between border-b border-white/10 bg-[#0b1120]/80 px-4 py-3 backdrop-blur md:px-8">';
   echo '<div class="flex items-center gap-3">';
-  echo '<button type="button" data-drawer-open aria-label="打开菜单" class="inline-flex h-9 w-9 items-center justify-center rounded-lg border border-[#0c1426]/10 text-tech-ink md:hidden">' . bg_admin_icon('menu', 20) . '</button>';
-  echo '<h1 class="text-base font-semibold text-tech-ink md:text-lg">' . h($title) . '</h1>';
+  echo '<button type="button" data-drawer-open aria-label="打开菜单" class="inline-flex h-9 w-9 items-center justify-center rounded-lg border border-white/10 text-white md:hidden">' . bg_admin_icon('menu', 20) . '</button>';
+  echo '<h1 class="text-base font-semibold text-white md:text-lg">' . h($title) . '</h1>';
   echo '</div>';
-  echo '<a href="' . bg_url('/') . '" target="_blank" class="inline-flex items-center gap-1.5 rounded-lg border border-[#0c1426]/10 px-3 py-1.5 text-sm text-tech-muted transition-colors hover:bg-[#0c1426]/[0.04] hover:text-tech-ink">查看前台 ' . bg_admin_icon('external-link', 14) . '</a>';
+  echo '<a href="' . bg_url('/') . '" target="_blank" class="inline-flex items-center gap-1.5 rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-sm text-white/70 backdrop-blur transition-colors hover:bg-white/10 hover:text-white">查看前台 ' . bg_admin_icon('external-link', 14) . '</a>';
   echo '</header>';
   echo '<main class="flex-1 p-4 md:p-8">';
 }
@@ -158,22 +158,22 @@ function bg_admin_frame_end() {
   // 修改密码弹窗（默认隐藏）
   echo '<div class="pw-modal fixed inset-0 z-[60] hidden items-center justify-center p-4">';
   echo '<div class="absolute inset-0 bg-black/40 backdrop-blur-sm" data-pw-close></div>';
-  echo '<div class="relative w-full max-w-md rounded-2xl bg-white p-6 shadow-2xl">';
+  echo '<div class="glass-panel relative w-full max-w-md p-6 shadow-2xl">';
   // 成功态
   echo '<div class="pw-success hidden text-center">';
-  echo '<div class="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-green-100"><svg class="h-7 w-7 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></div>';
-  echo '<h3 class="text-lg font-bold text-tech-ink">密码修改成功</h3><p class="mt-2 text-sm text-tech-muted">下次登录请使用新密码</p>';
-  echo '<button type="button" data-pw-close class="mt-6 w-full rounded-lg bg-brand px-4 py-2.5 text-sm font-medium text-brand-foreground transition-opacity hover:opacity-90">知道了</button>';
+  echo '<div class="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-green-500/20"><svg class="h-7 w-7 text-green-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></div>';
+  echo '<h3 class="text-lg font-bold text-white">密码修改成功</h3><p class="mt-2 text-sm text-white/70">下次登录请使用新密码</p>';
+  echo '<button type="button" data-pw-close class="glass-btn mt-6 w-full px-4 py-2.5 text-sm">知道了</button>';
   echo '</div>';
   // 表单态
   echo '<div class="pw-form-wrap">';
-  echo '<div class="mb-5 flex items-center gap-3"><span class="flex h-10 w-10 items-center justify-center rounded-xl bg-tech-blue/10 text-tech-blue">' . bg_admin_icon('key-round', 20) . '</span><div><h3 class="text-lg font-bold text-tech-ink">修改密码</h3><p class="text-xs text-tech-muted">修改后下次登录使用新密码</p></div></div>';
-  echo '<p class="pw-error mb-4 hidden rounded-md bg-red-50 px-3 py-2 text-sm text-red-600"></p>';
+  echo '<div class="mb-5 flex items-center gap-3"><span class="flex h-10 w-10 items-center justify-center rounded-xl bg-tech-blue/15 text-tech-cyan">' . bg_admin_icon('key-round', 20) . '</span><div><h3 class="text-lg font-bold text-white">修改密码</h3><p class="text-xs text-white/60">修改后下次登录使用新密码</p></div></div>';
+  echo '<p class="pw-error mb-4 hidden rounded-md bg-red-500/15 px-3 py-2 text-sm text-red-200"></p>';
   echo '<form data-pw-form class="space-y-4">';
-  echo '<div><label class="text-sm font-medium text-tech-ink">当前密码</label><div class="relative mt-1.5"><input type="password" data-pw-cur autocomplete="current-password" class="w-full rounded-lg border border-input bg-background px-3 py-2.5 pr-10 text-sm outline-none focus:border-brand" placeholder="输入当前密码"><button type="button" data-pw-toggle="cur" class="absolute right-2.5 top-1/2 -translate-y-1/2 text-tech-muted hover:text-tech-ink">' . bg_admin_icon('eye', 16) . '</button></div></div>';
-  echo '<div><label class="text-sm font-medium text-tech-ink">新密码</label><div class="relative mt-1.5"><input type="password" data-pw-new autocomplete="new-password" class="w-full rounded-lg border border-input bg-background px-3 py-2.5 pr-10 text-sm outline-none focus:border-brand" placeholder="至少 6 位"><button type="button" data-pw-toggle="new" class="absolute right-2.5 top-1/2 -translate-y-1/2 text-tech-muted hover:text-tech-ink">' . bg_admin_icon('eye', 16) . '</button></div></div>';
-  echo '<div><label class="text-sm font-medium text-tech-ink">确认新密码</label><input type="password" data-pw-confirm autocomplete="new-password" class="mt-1.5 w-full rounded-lg border border-input bg-background px-3 py-2.5 text-sm outline-none focus:border-brand" placeholder="再次输入新密码"></div>';
-  echo '<div class="flex gap-3 pt-2"><button type="button" data-pw-close class="flex-1 rounded-lg border border-input px-4 py-2.5 text-sm font-medium text-tech-muted transition-colors hover:bg-gray-50">取消</button><button type="submit" data-pw-submit class="flex-1 rounded-lg bg-brand px-4 py-2.5 text-sm font-medium text-brand-foreground transition-opacity hover:opacity-90 disabled:opacity-60">确认修改</button></div>';
+  echo '<div><label class="text-sm font-medium text-white/90">当前密码</label><div class="relative mt-1.5"><input type="password" data-pw-cur autocomplete="current-password" class="glass-input pr-10" placeholder="输入当前密码"><button type="button" data-pw-toggle="cur" class="absolute right-2.5 top-1/2 -translate-y-1/2 text-white/50 hover:text-white">' . bg_admin_icon('eye', 16) . '</button></div></div>';
+  echo '<div><label class="text-sm font-medium text-white/90">新密码</label><div class="relative mt-1.5"><input type="password" data-pw-new autocomplete="new-password" class="glass-input pr-10" placeholder="至少 6 位"><button type="button" data-pw-toggle="new" class="absolute right-2.5 top-1/2 -translate-y-1/2 text-white/50 hover:text-white">' . bg_admin_icon('eye', 16) . '</button></div></div>';
+  echo '<div><label class="text-sm font-medium text-white/90">确认新密码</label><input type="password" data-pw-confirm autocomplete="new-password" class="glass-input mt-1.5" placeholder="再次输入新密码"></div>';
+  echo '<div class="flex gap-3 pt-2"><button type="button" data-pw-close class="glass-btn flex-1 px-4 py-2.5 text-sm">取消</button><button type="submit" data-pw-submit class="glass-btn flex-1 px-4 py-2.5 text-sm">确认修改</button></div>';
   echo '</form></div>';
   echo '</div></div>';
   echo '</div>'; // 容器
