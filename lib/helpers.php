@@ -22,6 +22,7 @@ function bg_route($path) {
   static $map = array(
     '/admin'          => '/admin/index.php',
     '/admin/login'    => '/admin/login.php',
+    '/admin/update'   => '/admin/update.php',
     '/3d'             => '/3d.php',
     '/service'        => '/service.php',
     '/case'           => '/case.php',
