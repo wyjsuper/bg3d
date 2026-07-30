@@ -39,7 +39,7 @@ bg_render_nav($lang);
   <?php bg_page_header('07', bg_pick($UI['threeds']['eyebrow'], $lang), bg_pick($UI['threeds']['title'], $lang), bg_pick($UI['threeds']['desc'], $lang)); ?>
 
   <!-- 好处 -->
-  <section class="mx-auto max-w-6xl px-4 py-16">
+  <section class="liquid-glass-section mx-auto max-w-6xl px-4 py-16">
     <?php bg_reveal_start(); bg_eyebrow('', bg_pick($UI['threeds']['benefitsTitle'], $lang)); bg_reveal_end(); ?>
     <div class="mt-10 grid gap-6 md:grid-cols-3">
       <?php foreach ($benefits as $i => $b): ?>

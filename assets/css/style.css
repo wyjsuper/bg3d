@@ -2692,6 +2692,48 @@
   opacity: 0.85;
 }
 
+/* 液态玻璃舞台：给玻璃卡片提供可透视的渐变/光晕背景 */
+.liquid-glass-section {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 18% 22%, rgba(59, 130, 246, 0.22) 0%, transparent 38%),
+    radial-gradient(circle at 82% 78%, rgba(14, 165, 183, 0.20) 0%, transparent 36%),
+    radial-gradient(circle at 55% 45%, rgba(99, 102, 241, 0.10) 0%, transparent 30%),
+    linear-gradient(180deg, #eef6ff 0%, #f6fbff 45%, #eaf4ff 100%);
+}
+.liquid-glass-section::before,
+.liquid-glass-section::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(70px);
+  opacity: 0.55;
+  z-index: -1;
+  pointer-events: none;
+  animation: liquid-float 14s ease-in-out infinite;
+}
+.liquid-glass-section::before {
+  width: 340px;
+  height: 340px;
+  background: rgba(59, 130, 246, 0.38);
+  top: -90px;
+  left: -70px;
+}
+.liquid-glass-section::after {
+  width: 300px;
+  height: 300px;
+  background: rgba(14, 165, 183, 0.34);
+  bottom: -70px;
+  right: -50px;
+  animation-delay: -7s;
+}
+@keyframes liquid-float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(22px, -18px) scale(1.06); }
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(26px);
