@@ -122,6 +122,9 @@ function bg_http_get($url, $opts = array()) {
       CURLOPT_HTTPHEADER => $headers,
       CURLOPT_USERAGENT => 'Beigang-Updater',
     ));
+    if (defined('BG_CACERT') && BG_CACERT && file_exists(BG_CACERT)) {
+      curl_setopt($ch, CURLOPT_CAINFO, BG_CACERT);
+    }
     $body = curl_exec($ch);
     if ($body === false) { $result['error'] = curl_error($ch); curl_close($ch); return $result; }
     $result['code'] = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
@@ -155,6 +158,9 @@ function bg_http_download_file($url, $dest, $opts = array()) {
       CURLOPT_HTTPHEADER => $headers,
       CURLOPT_USERAGENT => 'Beigang-Updater',
     ));
+    if (defined('BG_CACERT') && BG_CACERT && file_exists(BG_CACERT)) {
+      curl_setopt($ch, CURLOPT_CAINFO, BG_CACERT);
+    }
     $ok = curl_exec($ch);
     if ($ok === false) { $err = curl_error($ch); curl_close($ch); fclose($fp); @unlink($dest); return array('ok' => false, 'error' => $err); }
     curl_close($ch); fclose($fp);

@@ -77,6 +77,8 @@ if (defined('BG_BASE_MANUAL')) {
 // 发布脚本会把 beigang-php-deploy.zip 作为 GitHub Release 附件上传。
 // GitHub 仓库（owner/repo），例：'yourname/beigang-php'。留空则后台「在线更新」不可用。
 if (!defined('BG_GITHUB_REPO')) define('BG_GITHUB_REPO', 'wyjsuper/bg3d');
+// 内置 CA 证书（让任何环境含沙箱都能验证 GitHub HTTPS，真实主机有系统 CA 时此文件可忽略）
+if (!defined('BG_CACERT')) define('BG_CACERT', __DIR__ . '/cacert.pem');
 // 更新信息源：'github'（默认，用 GitHub API 查 latest release）或 'custom'（用下面的信息接口）。
 if (!defined('BG_UPDATE_SOURCE')) define('BG_UPDATE_SOURCE', 'github');
 // custom 模式下返回 JSON {tag,name,published_at,download_url} 的接口地址（可用 Gitee/自建以适配国内网络）。
