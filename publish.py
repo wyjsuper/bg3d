@@ -42,6 +42,7 @@ import re
 import json
 import zipfile
 import shutil
+from pathlib import Path
 import subprocess
 import argparse
 import datetime
@@ -391,11 +392,13 @@ def main():
         commit_msg += " — " + args.message
     commit_and_tag(version, commit_msg)
 
-    # 6. 回填 commit 短哈希到 version.json（amend）
+    # 6. 回填 commit 短哈希到 version.json（amend 后需把 tag 重新指向新 HEAD）
     sha = git_head_sha()
     write_version(version, date, repo, sha, changelog, body_text)
     git_run(["add", "version.json"])
     git_run(["commit", "--amend", "--no-edit"])
+    git_run(["tag", "-d", version])
+    git_run(["tag", version])
 
     # 7. 推送
     push(token)
