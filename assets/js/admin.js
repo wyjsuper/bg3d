@@ -433,7 +433,8 @@
     if (!page) return;
     var remoteBox = document.getElementById("update-remote");
     var logBox = document.getElementById("update-log");
-    var checkBtn = page.querySelector("[data-check]");
+    var releasesBox = document.getElementById("update-releases");
+    var checkBtns = page.querySelectorAll("[data-check]");
     var doBtn = page.querySelector("[data-do]");
 
     function getFull() {
@@ -447,23 +448,101 @@
         : "border-green-500/30 bg-green-500/10 text-green-700");
     }
 
-    checkBtn.addEventListener("click", function () {
-      checkBtn.disabled = true; checkBtn.textContent = "检查中…";
+    function renderReleases(d) {
+      if (!releasesBox) return;
+      var list = d.releases || [];
+      if (!list.length) {
+        releasesBox.innerHTML = '<p class="text-tech-muted">未获取到版本列表。</p>';
+        return;
+      }
+      var curVer = (d.current && d.current.version) || "";
+      var curIdx = -1;
+      list.forEach(function (r, i) { if (r.tag === curVer) curIdx = i; });
+      var html = "";
+      list.forEach(function (r, i) {
+        var isCur = r.tag === curVer;
+        var actionLabel = "更新到该版本";
+        if (isCur) actionLabel = "当前版本";
+        else if (curIdx !== -1 && i > curIdx) actionLabel = "回滚到该版本";
+        var bodyText = (r.body || "").trim();
+        // 避免把 GitHub 自动生成的 Markdown 整段塞进 <pre>，简单转义即可
+        html += '<div class="rounded-xl border border-[#0c1426]/10 bg-[#0c1426]/[0.02] p-4">';
+        html += '<div class="flex flex-wrap items-center justify-between gap-3">';
+        html += '<div><p class="font-semibold text-tech-ink">' + esc(r.tag) + (isCur ? ' <span class="ml-2 rounded-full bg-tech-blue/10 px-2 py-0.5 text-xs text-tech-blue">当前</span>' : '') + '</p>';
+        html += '<p class="mt-0.5 text-xs text-tech-muted">' + esc(r.published_at || "") + (r.name && r.name !== r.tag ? " · " + esc(r.name) : "") + '</p></div>';
+        if (!isCur) {
+          html += '<button type="button" class="rounded-lg bg-brand px-3 py-1.5 text-xs font-medium text-brand-foreground transition-opacity hover:opacity-90" data-update-tag="' + esc(r.tag) + '" data-action="' + esc(actionLabel) + '">' + esc(actionLabel) + '</button>';
+        } else {
+          html += '<span class="text-xs text-tech-muted">已安装</span>';
+        }
+        html += '</div>';
+        if (bodyText) {
+          html += '<pre class="mt-3 max-h-64 overflow-auto whitespace-pre-wrap break-words rounded-md bg-white/70 p-3 text-xs leading-relaxed text-tech-muted">' + esc(bodyText) + '</pre>';
+        }
+        html += '</div>';
+      });
+      releasesBox.innerHTML = html;
+
+      Array.prototype.forEach.call(releasesBox.querySelectorAll("[data-update-tag]"), function (btn) {
+        btn.addEventListener("click", function () {
+          var tag = btn.getAttribute("data-update-tag");
+          var label = btn.getAttribute("data-action") || "更新到该版本";
+          if (!window.confirm("确认" + label + "（" + tag + "）？更新前会自动备份将被覆盖的文件（data/uploads 默认保留）。")) return;
+          btn.disabled = true; btn.textContent = "处理中…";
+          setLog("正在下载并应用 " + tag + "，请稍候…", false);
+          fetch(BG_BASE + "/api/update.php?action=do", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ tag: tag, full: getFull() })
+          })
+            .then(function (r) { return r.json().catch(function () { return {}; }); })
+            .then(function (dd) {
+              btn.disabled = false; btn.textContent = label;
+              if (!dd || !dd.ok) { setLog(label + "失败：" + esc(dd.error || "未知错误"), true); return; }
+              var res = dd.result || {};
+              setLog(label + "成功！已覆盖 " + (res.covered || 0) + " 个文件，备份 " + (res.backed || 0) + " 个到 " + esc(res.backup || ""), false);
+              // 刷新一次版本信息
+              doCheck();
+            })
+            .catch(function () {
+              btn.disabled = false; btn.textContent = label;
+              setLog("网络异常：请求可能仍在后台执行，请稍后用「检查更新」核对版本。", true);
+            });
+        });
+      });
+    }
+
+    function doCheck() {
+      Array.prototype.forEach.call(checkBtns, function (b) {
+        b.disabled = true;
+        if (b.tagName === "BUTTON") b.textContent = (b.textContent || "检查更新").replace("检查中…", "检查更新").indexOf("刷新") !== -1 ? "刷新中…" : "检查中…";
+      });
       fetch(BG_BASE + "/api/update.php?action=check")
         .then(function (r) { return r.json().catch(function () { return {}; }); })
         .then(function (d) {
-          checkBtn.disabled = false; checkBtn.textContent = "检查更新";
+          Array.prototype.forEach.call(checkBtns, function (b) {
+            b.disabled = false;
+            if (b.tagName === "BUTTON") b.textContent = (b.textContent.indexOf("刷新") !== -1) ? "刷新" : "检查更新";
+          });
           if (!d || !d.ok) { remoteBox.innerHTML = '<span class="text-red-600">检查失败：' + esc(d.error || "未知错误") + "</span>"; return; }
           var cur = d.current && d.current.version ? d.current.version : "unknown";
           var rm = d.remote || {};
           remoteBox.innerHTML =
             '<p class="text-tech-ink">当前：<b>' + esc(cur) + "</b></p>" +
             '<p class="mt-1">最新：<b>' + esc(rm.tag || "-") + "</b>" + (rm.published_at ? " <span class=\"text-tech-muted\">(" + esc(rm.published_at) + ")</span>" : "") + "</p>";
+          renderReleases(d);
         })
         .catch(function () {
-          checkBtn.disabled = false; checkBtn.textContent = "检查更新";
+          Array.prototype.forEach.call(checkBtns, function (b) {
+            b.disabled = false;
+            if (b.tagName === "BUTTON") b.textContent = (b.textContent.indexOf("刷新") !== -1) ? "刷新" : "检查更新";
+          });
           remoteBox.innerHTML = '<span class="text-red-600">网络异常，请重试</span>';
         });
+    }
+
+    Array.prototype.forEach.call(checkBtns, function (b) {
+      b.addEventListener("click", doCheck);
     });
 
     doBtn.addEventListener("click", function () {
@@ -481,6 +560,7 @@
           if (!d || !d.ok) { setLog("更新失败：" + esc(d.error || "未知错误"), true); return; }
           var res = d.result || {};
           setLog("更新成功！已覆盖 " + (res.covered || 0) + " 个文件，备份 " + (res.backed || 0) + " 个到 " + esc(res.backup || ""), false);
+          doCheck();
         })
         .catch(function () {
           doBtn.disabled = false; doBtn.textContent = "立即更新";

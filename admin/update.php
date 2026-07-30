@@ -48,6 +48,17 @@ bg_admin_frame_start('在线更新', '__update__');
   <div class="rounded-2xl border border-dashed border-[#0c1426]/15 bg-white/60 p-5 text-xs leading-relaxed text-tech-muted">
     说明：本功能调用 <code>api.github.com/repos/&lt;repo&gt;/releases/latest</code> 获取最新发布包 <code>beigang-php-deploy.zip</code> 并解压覆盖。需要服务器开启 <code>ZipArchive</code> 扩展、PHP 进程对站点目录可写、且主机能访问 GitHub（或已配置自定义镜像接口）。所有更新操作均记录于 <code>data/backups/</code>，可随时回滚。
   </div>
+
+  <div class="rounded-2xl border border-[#0c1426]/10 bg-white p-5">
+    <div class="flex items-center justify-between">
+      <div>
+        <p class="text-sm font-semibold text-tech-ink">历史版本与修改说明</p>
+        <p class="mt-1 text-xs text-tech-muted">点击「检查更新」加载全部发布版本及其修改信息，可「更新到该版本」或「回滚」到旧版本。</p>
+      </div>
+      <button type="button" data-check class="shrink-0 rounded-lg border border-[#0c1426]/15 px-3 py-1.5 text-sm text-tech-ink transition-colors hover:bg-[#0c1426]/[0.04]">刷新</button>
+    </div>
+    <div id="update-releases" class="mt-4 space-y-3 text-sm text-tech-muted">尚未加载，点击「检查更新」。</div>
+  </div>
 </div>
 <?php
 bg_admin_frame_end();

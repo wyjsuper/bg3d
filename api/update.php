@@ -15,9 +15,13 @@ bg_require_auth();
 $action = isset($_GET['action']) ? preg_replace('/[^a-z]/', '', $_GET['action']) : '';
 
 if ($action === 'check') {
+  $cur = bg_current_version();
   $info = bg_update_latest_info();
-  if (!$info['ok']) bg_json(array('ok' => false, 'error' => $info['error']));
-  bg_json(array('ok' => true, 'current' => bg_current_version(), 'remote' => $info));
+  $all = bg_update_all_releases();
+  $releases = $all['ok'] ? $all['releases'] : array();
+  // 远程最新：优先取 latest，失败则取列表第一条
+  $remote = $info['ok'] ? $info : (isset($releases[0]) ? $releases[0] : array('ok' => false, 'error' => isset($all['error']) ? $all['error'] : '未知错误'));
+  bg_json(array('ok' => true, 'current' => $cur, 'remote' => $remote, 'releases' => $releases));
 }
 
 if ($action === 'do') {
@@ -28,8 +32,11 @@ if ($action === 'do') {
     // 未开启全量覆盖则强制保留数据
     $full = false;
   }
-  $info = bg_update_latest_info();
-  if (!$info['ok']) bg_json(array('ok' => false, 'error' => $info['error']));
+  $target = isset($body['tag']) ? preg_replace('/[^a-zA-Z0-9._-]/', '', (string) $body['tag']) : '';
+  $info = $target ? bg_update_release_by_tag($target) : bg_update_latest_info();
+  if (empty($info['ok'])) {
+    bg_json(array('ok' => false, 'error' => isset($info['error']) ? $info['error'] : '未找到目标版本'));
+  }
 
   $res = bg_update_apply($info['download_url'], !$full, $full);
   if (!$res['ok']) {
