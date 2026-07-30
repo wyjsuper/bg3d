@@ -2664,6 +2664,34 @@
 .glow-card:hover::before {
   opacity: 1;
 }
+
+/* 液态玻璃变体：用于 benefits 等需要半透明磨砂质感的卡片 */
+.glow-card.glass {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(18px) saturate(170%);
+  -webkit-backdrop-filter: blur(18px) saturate(170%);
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  box-shadow:
+    0 10px 34px -10px rgba(12, 20, 38, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.25);
+}
+.glow-card.glass::before {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(47, 107, 255, 0.18) 45%, rgba(14, 165, 183, 0.06));
+  opacity: 0.55;
+}
+.glow-card.glass:hover {
+  background: rgba(255, 255, 255, 0.72);
+  border-color: rgba(47, 107, 255, 0.45);
+  box-shadow:
+    0 20px 64px -20px rgba(47, 107, 255, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 1),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.35);
+}
+.glow-card.glass:hover::before {
+  opacity: 0.85;
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(26px);

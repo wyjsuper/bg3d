@@ -44,7 +44,7 @@ bg_render_nav($lang);
     <div class="mt-10 grid gap-6 md:grid-cols-3">
       <?php foreach ($benefits as $i => $b): ?>
       <?php bg_reveal_start('', $i * 90); ?>
-        <?php bg_glow_card_start($b['no'], 'h-full'); ?>
+        <?php bg_glow_card_start($b['no'], 'h-full glass'); ?>
           <h3 class="text-lg font-semibold text-gradient"><?php echo h($b['title']); ?></h3>
           <p class="mt-3 text-sm leading-relaxed text-tech-muted"><?php echo h($b['desc']); ?></p>
         <?php bg_glow_card_end(); ?>
