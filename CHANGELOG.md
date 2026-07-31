@@ -1,5 +1,19 @@
 # 更新日志
 
+## v20260731-0957 — 2026-07-31 09:57
+
+`.glow-card.glass` 增加鼠标 hover 时的光泽流动扫光：斜向白光（混入淡青高光）从卡片表面划过，配合已有的 iOS 液态玻璃材质（强 backdrop-filter 折射 + rim 亮线 + specular 内高光），让 benefits 等卡片在 hover 时呈现晶莹流动感。
+
+### 提交记录
+- feat: glass card hover sweep shine (4950bdb)
+
+### 变更文件
+```
+M	assets/css/style.css
+```
+
+---
+
 ## v20260731-0942 — 2026-07-31 09:42
 
 重写 `.glass` 为 iOS 液态玻璃材质：强 `backdrop-filter` 折射（blur + saturate + brightness）+ 边缘 rim 亮线 + 顶部 specular 内高光；新增 `.bg-aurora` 整页流动彩光背景层，让前后台所有玻璃元素都能折射出色彩；`.glow-card.glass` 与 `.glass-panel` 同步液态玻璃化并带彩色 rim；前台 header/hero/benefits/footer 与后台 sidebar/顶栏/面板折射生效；后台登录页右侧改为强彩光舞台，登录卡改为 28px 大圆角玻璃，输入框也改为半透明玻璃底。
