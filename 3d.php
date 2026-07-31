@@ -39,14 +39,14 @@ bg_render_nav($lang);
   <?php bg_page_header('07', bg_pick($UI['threeds']['eyebrow'], $lang), bg_pick($UI['threeds']['title'], $lang), bg_pick($UI['threeds']['desc'], $lang)); ?>
 
   <!-- 好处 -->
-  <section class="liquid-stage mx-auto max-w-6xl px-4 py-16">
+  <section class="liquid-glass-section mx-auto max-w-6xl px-4 py-16">
     <?php bg_reveal_start(); bg_eyebrow('', bg_pick($UI['threeds']['benefitsTitle'], $lang)); bg_reveal_end(); ?>
     <div class="mt-10 grid gap-6 md:grid-cols-3">
       <?php foreach ($benefits as $i => $b): ?>
       <?php bg_reveal_start('', $i * 90); ?>
         <?php bg_glow_card_start($b['no'], 'h-full glass'); ?>
           <h3 class="text-lg font-semibold text-gradient"><?php echo h($b['title']); ?></h3>
-          <p class="mt-3 text-sm leading-relaxed text-white/80"><?php echo h($b['desc']); ?></p>
+          <p class="mt-3 text-sm leading-relaxed text-tech-muted"><?php echo h($b['desc']); ?></p>
         <?php bg_glow_card_end(); ?>
       <?php bg_reveal_end(); ?>
       <?php endforeach; ?>

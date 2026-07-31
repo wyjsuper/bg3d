@@ -56,11 +56,11 @@ function bg_eyebrow($index, $text) {
 }
 
 function bg_page_header($index, $eyebrow, $title, $desc) {
-  echo '<section class="liquid-stage relative overflow-hidden border-b border-white/10 px-4 py-20 sm:py-24">';
+  echo '<section class="liquid-glass-section relative overflow-hidden border-b border-[#0c1426]/10 px-4 py-20 sm:py-24">';
   echo '<div class="relative z-10 mx-auto max-w-6xl">';
   if ($eyebrow) bg_eyebrow($index, $eyebrow);
-  echo '<h1 class="mt-4 font-display text-4xl font-semibold tracking-tight text-white sm:text-5xl lg:text-6xl">' . h($title) . '</h1>';
-  if ($desc) echo '<p class="mt-5 max-w-2xl text-lg leading-relaxed text-white/75">' . h($desc) . '</p>';
+  echo '<h1 class="mt-4 font-display text-4xl font-semibold tracking-tight text-tech-ink sm:text-5xl lg:text-6xl">' . h($title) . '</h1>';
+  if ($desc) echo '<p class="mt-5 max-w-2xl text-lg leading-relaxed text-tech-muted">' . h($desc) . '</p>';
   echo '</div></section>';
 }
 
@@ -277,43 +277,43 @@ function bg_render_footer($lang) {
   $logo = !empty($site['logo']) ? $site['logo'] : '/logo-removebg.png';
   $copyrightYearStart = !empty($site['copyrightYearStart']) ? $site['copyrightYearStart'] : '2003';
 
-  echo '<footer class="liquid-stage relative mt-24 border-t border-white/10">';
+  echo '<footer class="liquid-glass-section relative mt-24 border-t border-[#0c1426]/10">';
   echo '<div class="relative z-10 mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:grid-cols-2 lg:grid-cols-4">';
   foreach ($footerCols as $i => $col) {
     echo '<div>';
-    echo '<div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . ($i + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-white">' . h(bg_t($col['title'], $lang)) . '</h3></div>';
+    echo '<div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . ($i + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-tech-ink">' . h(bg_t($col['title'], $lang)) . '</h3></div>';
     echo '<ul class="space-y-2.5">';
     foreach (bg_t_list($col['links'], $lang) as $link) {
-      echo '<li class="text-sm text-white/70 transition-colors hover:text-tech-cyan">' . h($link) . '</li>';
+      echo '<li class="text-sm text-tech-muted transition-colors hover:text-tech-cyan">' . h($link) . '</li>';
     }
     echo '</ul></div>';
   }
-  echo '<div><div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . (count($footerCols) + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-white">' . h(bg_pick($UI['footer']['articlesTitle'], $lang)) . '</h3></div><ul class="space-y-2.5">';
+  echo '<div><div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . (count($footerCols) + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-tech-ink">' . h(bg_pick($UI['footer']['articlesTitle'], $lang)) . '</h3></div><ul class="space-y-2.5">';
   foreach (array_slice($articles, 0, 6) as $article) {
-    echo '<li><a href="' . bg_url('/points') . '" class="text-sm text-white/70 transition-colors hover:text-tech-cyan">' . h(bg_t($article['title'], $lang)) . '</a></li>';
+    echo '<li><a href="' . bg_url('/points') . '" class="text-sm text-tech-muted transition-colors hover:text-tech-cyan">' . h(bg_t($article['title'], $lang)) . '</a></li>';
   }
   echo '</ul></div></div>';
 
-  echo '<div class="relative z-10 border-t border-white/10"><div class="mx-auto grid gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-3">';
-  echo '<div class="glass-panel p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['contactTitle'], $lang)) . '</h4>';
-  echo '<p class="text-sm text-white/75">' . h(bg_pick($UI['footer']['addrLabel'], $lang)) . h(bg_t($contact['address'], $lang)) . '</p>';
-  echo '<p class="mt-1 text-sm text-white/75">' . h(bg_pick($UI['footer']['phoneLabel'], $lang)) . h($contact['phoneWechat']) . '</p>';
-  echo '<p class="mt-1 text-sm text-white/75">' . h(bg_pick($UI['footer']['qqLabel'], $lang)) . h($contact['qqEmail']) . '</p></div>';
-  echo '<div class="glass-panel p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['citiesTitle'], $lang)) . '</h4>';
-  echo '<p class="text-sm leading-relaxed text-white/75">' . h(implode('、', array_map(function ($c) use ($lang) { return bg_t($c['name'], $lang); }, $cities))) . ' ' . h(bg_pick($UI['footer']['etc'], $lang)) . '</p></div>';
-  echo '<div class="glass-panel flex flex-col justify-between p-6"><h4 class="font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['linksTitle'], $lang)) . '</h4><div class="mt-4 flex flex-col gap-2">';
+  echo '<div class="relative z-10 border-t border-[#0c1426]/10"><div class="mx-auto grid gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-3">';
+  echo '<div class="glass p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['contactTitle'], $lang)) . '</h4>';
+  echo '<p class="text-sm text-tech-muted">' . h(bg_pick($UI['footer']['addrLabel'], $lang)) . h(bg_t($contact['address'], $lang)) . '</p>';
+  echo '<p class="mt-1 text-sm text-tech-muted">' . h(bg_pick($UI['footer']['phoneLabel'], $lang)) . h($contact['phoneWechat']) . '</p>';
+  echo '<p class="mt-1 text-sm text-tech-muted">' . h(bg_pick($UI['footer']['qqLabel'], $lang)) . h($contact['qqEmail']) . '</p></div>';
+  echo '<div class="glass p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['citiesTitle'], $lang)) . '</h4>';
+  echo '<p class="text-sm leading-relaxed text-tech-muted">' . h(implode('、', array_map(function ($c) use ($lang) { return bg_t($c['name'], $lang); }, $cities))) . ' ' . h(bg_pick($UI['footer']['etc'], $lang)) . '</p></div>';
+  echo '<div class="glass flex flex-col justify-between p-6"><h4 class="font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['linksTitle'], $lang)) . '</h4><div class="mt-4 flex flex-col gap-2">';
   echo '<a href="' . bg_url('/admin/login') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['adminLogin'], $lang)) . '</a>';
   echo '<a href="' . bg_url('/3d') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['threedsLink'], $lang)) . '</a>';
   echo '</div></div></div></div>';
 
-  echo '<div class="relative z-10 border-t border-white/10"><div class="mx-auto grid grid-cols-1 items-center gap-8 px-4 py-10 sm:grid-cols-3">';
+  echo '<div class="relative z-10 border-t border-[#0c1426]/10"><div class="mx-auto grid grid-cols-1 items-center gap-8 px-4 py-10 sm:grid-cols-3">';
   echo '<div class="flex items-center justify-center gap-5 sm:justify-start">';
   bg_brand_logo($logo, 'h-[110px] w-auto drop-shadow-[0_4px_24px_rgba(12,142,255,0.35)]');
-  echo '<div class="hidden sm:block"><p class="text-xl font-bold tracking-wide text-white">' . h($lang === 'en' ? $brandEn : $brandZh) . '</p><p class="mt-1 text-sm text-white/70">' . h(bg_pick($UI['footer']['tagline'], $lang)) . '</p></div>';
+  echo '<div class="hidden sm:block"><p class="text-xl font-bold tracking-wide text-tech-ink">' . h($lang === 'en' ? $brandEn : $brandZh) . '</p><p class="mt-1 text-sm text-tech-muted">' . h(bg_pick($UI['footer']['tagline'], $lang)) . '</p></div>';
   echo '</div>';
   bg_footer_slogan(bg_t($heroSlogans[0]['value'], $lang) ?: bg_pick($UI['home']['ctaTitle'], $lang), bg_t($heroSlogans[1]['value'], $lang));
-  echo '<div class="text-center sm:text-right"><p class="text-sm text-white/70">Copyright © ' . h($copyrightYearStart) . '-2026 ' . h(bg_t($site['copyrightOwner'], $lang)) . '</p>';
-  if (!empty($site['icpRecord'])) echo '<p class="mt-1 text-sm text-white/70">' . h(bg_t($site['icpRecord'], $lang)) . '</p>';
+  echo '<div class="text-center sm:text-right"><p class="text-sm text-tech-muted">Copyright © ' . h($copyrightYearStart) . '-2026 ' . h(bg_t($site['copyrightOwner'], $lang)) . '</p>';
+  if (!empty($site['icpRecord'])) echo '<p class="mt-1 text-sm text-tech-muted">' . h(bg_t($site['icpRecord'], $lang)) . '</p>';
   echo '</div></div></div>';
   echo '</footer>';
 }

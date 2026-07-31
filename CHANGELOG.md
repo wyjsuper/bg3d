@@ -1,5 +1,27 @@
 # 更新日志
 
+## v20260731-0919 — 2026-07-31 09:19
+
+前台整体改回浅色科技风 + 真正生效的 glass 玻璃质感；后台登录页与后台框架同步浅色玻璃化。
+
+### 提交记录
+- release: v20260731-0919 (c537098)
+- fix: publish.py import Path + drop git-tracked version.json (gitignored) (606e5c6)
+
+### 变更文件
+```
+M	3d.php
+M	admin/index.php
+M	admin/login.php
+M	assets/css/style.css
+M	contact.php
+M	index.php
+M	lib/admin.php
+M	lib/render.php
+M	publish.py
+```
+
+---
 ## v2026.07.30.3 — 2026-07-30 18:08
 在线更新页增加历史版本列表与修改说明，支持按版本更新/回滚；发布脚本自动生成变更日志
 

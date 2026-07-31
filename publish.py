@@ -362,7 +362,15 @@ def main():
     print("== 北港3D 部署包发布 ==")
     print("· 版本号:", version)
 
-    # 1. 计算变更日志（基于上一版本 tag）
+    # 1. 先提交所有源码改动并打 tag
+    ensure_git()
+    commit_msg = "release: %s" % version
+    if args.message:
+        commit_msg += " — " + args.message
+    commit_and_tag(version, commit_msg)
+    sha = git_head_sha()
+
+    # 2. 计算变更日志（基于上一版本 tag，此时 HEAD 已包含本次 release commit）
     prev_version = read_prev_version()
     prev_ref = find_prev_ref(prev_version)
     changelog = git_changelog(prev_ref)
@@ -372,29 +380,26 @@ def main():
 
     body_text = build_body(version, date, repo, args.message, changelog, files_changed)
 
-    # 2. 写 version.json（含 changes/body）
-    write_version(version, date, repo, "", changelog, body_text)
+    # 3. 写 version.json（含 changes/body）
+    write_version(version, date, repo, sha, changelog, body_text)
     print("· 已写入 version.json")
 
-    # 3. 写 CHANGELOG.md
+    # 4. 写 CHANGELOG.md
     write_changelog(version, date, args.message, changelog, files_changed)
     print("· 已更新 CHANGELOG.md")
 
-    # 4. 打包
+    # 5. 把 version.json / CHANGELOG.md 更新纳入 release commit 并重新指向 tag
+    git_run(["add", "-A"])
+    git_run(["commit", "--amend", "--no-edit"])
+    git_run(["tag", "-d", version])
+    git_run(["tag", version])
+    sha = git_head_sha()
+    write_version(version, date, repo, sha, changelog, body_text)
+
+    # 6. 打包
     n = pack()
     print("· 已打包 %d 个文件 -> %s (%.1f MB)" % (
         n, OUT_ZIP, os.path.getsize(OUT_ZIP) / 1024 / 1024))
-
-    # 5. git 提交 + tag
-    ensure_git()
-    commit_msg = "release: %s" % version
-    if args.message:
-        commit_msg += " — " + args.message
-    commit_and_tag(version, commit_msg)
-
-    # 6. 回填 commit 短哈希到 version.json（version.json 在 .gitignore 中，只写磁盘/进 zip，不进 git）
-    sha = git_head_sha()
-    write_version(version, date, repo, sha, changelog, body_text)
 
     # 7. 推送
     push(token)
