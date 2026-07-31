@@ -2759,7 +2759,9 @@
   pointer-events: none;
   z-index: 3;
 }
-.glow-card.glass:hover::after {
+.glow-card.glass:hover::after,
+.glow-card.glass.shine::after,
+.glow-card.glass:active::after {
   opacity: 1;
   animation: glass-sweep 0.95s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }

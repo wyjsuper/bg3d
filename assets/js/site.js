@@ -199,7 +199,42 @@
     });
   }
 
-  /* ===== 8. 联系表单 AJAX 提交 ===== */
+  /* ===== 8. 移动端玻璃卡片光泽扫光（滚动进入视口 / 点击触发） ===== */
+  function initGlassShine() {
+    var cards = document.querySelectorAll('.glow-card.glass');
+    if (!cards.length) return;
+
+    function trigger(el) {
+      if (el.classList.contains('shine')) return;
+      el.classList.add('shine');
+      el.addEventListener('animationend', function onEnd() {
+        el.classList.remove('shine');
+        el.removeEventListener('animationend', onEnd);
+      });
+    }
+
+    // 点击/触摸时扫一次
+    cards.forEach(function (card) {
+      card.addEventListener('click', function () { trigger(card); });
+    });
+
+    // 滚动进入视口时扫一次（只在支持 IntersectionObserver 且非 hover 设备上自动触发）
+    if (!('IntersectionObserver' in window)) return;
+    var hoverFine = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          trigger(entry.target);
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.35, rootMargin: '0px 0px -10% 0px' });
+    cards.forEach(function (card) {
+      if (!hoverFine) io.observe(card);
+    });
+  }
+
+  /* ===== 9. 联系表单 AJAX 提交 ===== */
   function initContactForm() {
     var root = document.querySelector('[data-contact]');
     if (!root) return;
@@ -270,6 +305,7 @@
     initLangToggle();
     initFilters();
     initCaseMore();
+    initGlassShine();
     initContactForm();
   }
   if (document.readyState === 'loading') {
