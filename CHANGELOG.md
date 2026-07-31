@@ -1,5 +1,19 @@
 # 更新日志
 
+## v20260731-1002 — 2026-07-31 10:02
+
+后台工作台新增「系统」区块，在右侧主内容区显示「在线更新」与「修改密码」两个快捷入口卡片，与左侧系统菜单对应，方便快速进入。
+
+### 提交记录
+- feat: dashboard system cards (online update + change password) (f500464)
+
+### 变更文件
+```
+M	admin/index.php
+```
+
+---
+
 ## v20260731-0957 — 2026-07-31 09:57
 
 `.glow-card.glass` 增加鼠标 hover 时的光泽流动扫光：斜向白光（混入淡青高光）从卡片表面划过，配合已有的 iOS 液态玻璃材质（强 backdrop-filter 折射 + rim 亮线 + specular 内高光），让 benefits 等卡片在 hover 时呈现晶莹流动感。

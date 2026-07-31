@@ -29,6 +29,28 @@ bg_admin_frame_start('工作台', '__dashboard__');
     <?php endforeach; ?>
   </div>
 
+  <h2 class="mb-4 mt-8 flex items-center gap-2 text-sm font-semibold text-tech-ink"><?php echo bg_admin_icon('settings', 16); ?>系统</h2>
+
+  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    <a href="<?php e(bg_url('/admin/update')); ?>" class="glass-panel group flex items-center gap-4 p-5 transition-all hover:-translate-y-0.5 hover:border-tech-blue/40 hover:shadow-lg hover:shadow-tech-blue/10">
+      <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-tech-blue/15 text-tech-cyan transition-colors group-hover:bg-tech-blue group-hover:text-white"><?php echo bg_admin_icon('refresh-cw', 20); ?></span>
+      <div class="min-w-0 flex-1">
+        <p class="truncate text-sm font-semibold text-tech-ink">在线更新</p>
+        <p class="text-xs text-tech-muted">版本检查与一键升级</p>
+      </div>
+      <?php echo bg_admin_icon('arrow-right', 16); ?>
+    </a>
+
+    <button type="button" data-pw-open class="glass-panel group flex w-full items-center gap-4 p-5 text-left transition-all hover:-translate-y-0.5 hover:border-tech-blue/40 hover:shadow-lg hover:shadow-tech-blue/10">
+      <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-tech-blue/15 text-tech-cyan transition-colors group-hover:bg-tech-blue group-hover:text-white"><?php echo bg_admin_icon('key-round', 20); ?></span>
+      <div class="min-w-0 flex-1">
+        <p class="truncate text-sm font-semibold text-tech-ink">修改密码</p>
+        <p class="text-xs text-tech-muted">更改后台登录密码</p>
+      </div>
+      <?php echo bg_admin_icon('arrow-right', 16); ?>
+    </button>
+  </div>
+
   <div class="glass-panel mt-8 border-dashed p-5 text-xs leading-relaxed text-tech-muted">
     说明：后台登录接入服务端校验（账号密码在 <code>lib/config.php</code>，默认 admin / admin123），会话以 HttpOnly 签名 Cookie 维持，守卫 <code>/admin</code> 与 <code>/api/content</code>。所有内容存储于 <code>data/content.json</code>，由后台修改并实时反映到前台页面。
   </div>
