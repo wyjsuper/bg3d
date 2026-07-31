@@ -63,7 +63,7 @@ function bg_admin_head($title) {
   echo '<script>window.BG_BASE = ' . json_encode(defined('BG_BASE') ? BG_BASE : '') . ';</script>' . "\n";
   echo '<link rel="stylesheet" href="' . bg_url('/assets/css/style.css') . '">' . "\n";
   echo '</head>' . "\n";
-  echo '<body class="bg-background font-sans text-foreground antialiased">' . "\n";
+  echo '<body class="bg-aurora bg-background font-sans text-foreground antialiased">' . "\n";
 }
 
 /** 侧栏内容（桌面 / 移动共用） */
@@ -127,7 +127,7 @@ function bg_admin_side_link($c, $active) {
 
 /** 框架开始：侧栏 + 顶栏，返回后在 main 内输出页面内容 */
 function bg_admin_frame_start($title, $activeType) {
-  echo '<div class="min-h-screen bg-background">';
+  echo '<div class="bg-aurora min-h-screen bg-background">';
   // 桌面侧栏
   echo '<aside class="fixed inset-y-0 left-0 z-40 hidden w-64 md:block">';
   bg_admin_sidebar($activeType);
@@ -142,7 +142,7 @@ function bg_admin_frame_start($title, $activeType) {
   echo '</div>';
   // 右侧
   echo '<div class="flex min-h-screen flex-col md:pl-64">';
-  echo '<header class="sticky top-0 z-30 flex items-center justify-between border-b border-[#0c1426]/10 bg-white/70 px-4 py-3 backdrop-blur md:px-8">';
+  echo '<header class="glass sticky top-0 z-30 flex items-center justify-between border-b border-[#0c1426]/10 px-4 py-3 md:px-8">';
   echo '<div class="flex items-center gap-3">';
   echo '<button type="button" data-drawer-open aria-label="打开菜单" class="inline-flex h-9 w-9 items-center justify-center rounded-lg border border-[#0c1426]/10 text-tech-ink md:hidden">' . bg_admin_icon('menu', 20) . '</button>';
   echo '<h1 class="text-base font-semibold text-tech-ink md:text-lg">' . h($title) . '</h1>';

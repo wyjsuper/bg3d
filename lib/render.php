@@ -40,7 +40,7 @@ function bg_head($lang, $title, $desc = '') {
   if ($desc !== '') echo '<meta name="description" content="' . h($desc) . '">' . "\n";
   echo '<link rel="stylesheet" href="' . bg_url('/assets/css/style.css') . '">' . "\n";
   echo '</head>' . "\n";
-  echo '<body class="flex min-h-screen flex-col bg-background font-sans text-foreground antialiased">' . "\n";
+  echo '<body class="bg-aurora flex min-h-screen flex-col bg-background font-sans text-foreground antialiased">' . "\n";
 }
 
 function bg_foot_js() {

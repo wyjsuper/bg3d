@@ -1,5 +1,21 @@
 # 更新日志
 
+## v20260731-0942 — 2026-07-31 09:42
+
+重写 `.glass` 为 iOS 液态玻璃材质：强 `backdrop-filter` 折射（blur + saturate + brightness）+ 边缘 rim 亮线 + 顶部 specular 内高光；新增 `.bg-aurora` 整页流动彩光背景层，让前后台所有玻璃元素都能折射出色彩；`.glow-card.glass` 与 `.glass-panel` 同步液态玻璃化并带彩色 rim；前台 header/hero/benefits/footer 与后台 sidebar/顶栏/面板折射生效；后台登录页右侧改为强彩光舞台，登录卡改为 28px 大圆角玻璃，输入框也改为半透明玻璃底。
+
+### 提交记录
+- release: v20260731-0942 (11995f3)
+
+### 变更文件
+```
+M	admin/login.php
+M	assets/css/style.css
+M	lib/admin.php
+M	lib/render.php
+```
+
+---
 ## v20260731-0919 — 2026-07-31 09:19
 
 前台整体改回浅色科技风 + 真正生效的 glass 玻璃质感；后台登录页与后台框架同步浅色玻璃化。

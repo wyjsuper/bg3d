@@ -20,7 +20,7 @@ if (bg_current_user()) {
 <link rel="stylesheet" href="<?php echo bg_url('/assets/css/style.css'); ?>">
 </head>
 <body class="font-sans text-foreground antialiased">
-<div class="flex min-h-screen">
+<div class="bg-aurora flex min-h-screen">
   <!-- 品牌区 -->
   <div class="relative hidden w-1/2 flex-col justify-between overflow-hidden bg-gradient-to-br from-tech-blue via-[#2f6bff] to-tech-cyan p-12 text-white lg:flex">
     <span class="inline-flex w-fit items-center rounded-md bg-white/95 px-2.5 py-1.5"><img src="<?php echo bg_url('/logo-removebg.png'); ?>" alt="Logo" class="h-12 w-auto"></span>
@@ -33,8 +33,8 @@ if (bg_current_user()) {
   </div>
 
   <!-- 登录表单区 -->
-  <div class="flex w-full flex-col items-center justify-center bg-background px-6 lg:w-1/2">
-    <div class="glass relative z-10 w-full max-w-sm p-8">
+  <div class="liquid-glass-section flex w-full flex-col items-center justify-center px-6 lg:w-1/2">
+    <div class="glass relative z-10 w-full max-w-sm rounded-[28px] p-8">
       <div class="mb-8 lg:hidden"><span class="inline-flex items-center rounded-md bg-white px-2.5 py-1.5 shadow"><img src="<?php echo bg_url('/logo-removebg.png'); ?>" alt="Logo" class="h-12 w-auto"></span></div>
 
       <h2 class="text-2xl font-bold text-tech-ink">后台登录</h2>
