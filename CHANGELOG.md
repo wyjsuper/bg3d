@@ -1,5 +1,24 @@
 # 更新日志
 
+## v20260804-1423 — 2026-08-04 14:23
+完整部署包：含 6 个产品视频（ASCII 重命名）与内容库
+
+### 提交记录
+- release: v20260804-1423 — 完整部署包：含 6 个产品视频（ASCII 重命名）与内容库 (05ba25e)
+
+### 变更文件
+```
+A	_build_content.py
+M	publish.py
+A	videos/video01.mp4
+A	videos/video02.mp4
+A	videos/video03.mp4
+A	videos/video04.mp4
+A	videos/video05.mp4
+A	videos/video06.mp4
+```
+
+---
 ## v20260804-1413 — 2026-08-04 14:13
 部署包排除运行时数据：content.json 与 videos/
 

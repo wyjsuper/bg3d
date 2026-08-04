@@ -191,18 +191,24 @@ def write_changelog(version, date, headline, changelog, files_changed):
 
 def pack():
     n = 0
+    full = os.environ.get("BG_PACK_FULL") == "1"
+    exclude_dirs = set(EXCLUDE_DIRS)
+    if full:
+        exclude_dirs.discard("videos")          # 完整包：包含用户上传的视频
     with zipfile.ZipFile(OUT_ZIP, "w", zipfile.ZIP_DEFLATED) as zf:
         for p in sorted(Path(HERE).rglob("*")):
             if not p.is_file():
                 continue
             rel = p.relative_to(HERE).as_posix()
             parts = Path(rel).parts
-            if parts[0] in EXCLUDE_DIRS:
+            if parts[0] in exclude_dirs:
                 continue
             if p.name in EXCLUDE_FILES:
                 continue
-            if rel in ("data/auth.json", "data/content.json"):
-                continue
+            if rel == "data/auth.json":
+                continue                                # 凭证永不打进包
+            if rel == "data/content.json" and not full:
+                continue                                # 完整包：包含内容库
             if p.suffix in EXCLUDE_EXT:
                 continue
             if any(part.startswith(".") and part != ".htaccess" for part in parts):
