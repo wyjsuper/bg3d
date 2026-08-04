@@ -18,6 +18,7 @@ if (bg_starts_with($raw, '/')) {
   $src = bg_url($raw);
 }
 $title = isset($_GET['title']) ? (string) $_GET['title'] : '';
+$isGif = (bool) preg_match('/\.gif(\?.*)?$/i', $src);
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo h($lang); ?>">
@@ -106,7 +107,11 @@ $title = isset($_GET['title']) ? (string) $_GET['title'] : '';
     </div>
     <div class="player-frame">
       <?php if ($src): ?>
-        <video src="<?php echo h($src); ?>" autoplay controls playsinline></video>
+        <?php if ($isGif): ?>
+          <img src="<?php echo h($src); ?>" alt="<?php echo h($title); ?>" style="display:block;width:100%;height:auto;max-height:80vh;background:#000;">
+        <?php else: ?>
+          <video src="<?php echo h($src); ?>" autoplay controls playsinline></video>
+        <?php endif; ?>
       <?php else: ?>
         <div class="player-empty" style="padding:48px;text-align:center;"><?php echo h(bg_pick(array('zh' => '视频不存在或链接无效', 'en' => 'Video not found or invalid link'), $lang)); ?></div>
       <?php endif; ?>

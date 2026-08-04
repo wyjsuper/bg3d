@@ -95,7 +95,7 @@ function bg_video_card($item) {
   $category = isset($item['category']) ? $item['category'] : '';
   $desc = isset($item['description']) ? $item['description'] : '';
   $playUrl = '';
-  if ($hasVideo && !$isGif && $videoUrl !== '') {
+  if ($hasVideo && $videoUrl !== '') {
     $q = 'src=' . rawurlencode($videoUrl);
     if ($title !== '') $q .= '&title=' . rawurlencode($title);
     $playUrl = bg_url('/play.php?' . $q);
