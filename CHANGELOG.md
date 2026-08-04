@@ -1,5 +1,63 @@
 # 更新日志
 
+## v20260804-1619 — 2026-08-04 16:19
+用线上 morndesign.com 的 22 个 mp4（ffmpeg 压至 1-3MB）替换 gif 演示，作品库共 28 条
+
+### 提交记录
+- release: v20260804-1619 — 用线上 morndesign.com 的 22 个 mp4（ffmpeg 压至 1-3MB）替换 gif 演示，作品库共 28 条 (9cadabc)
+
+### 变更文件
+```
+A	_compress.py
+A	_rebuild_content.py
+A	m3ds.html
+A	mp4_urls.txt
+A	sm.xml
+D	videos/c/mrwpa255-x11zzp.gif
+D	videos/c/mrwpbx7i-23zjh4.gif
+D	videos/c/mrwpqaf4-lwtams.gif
+D	videos/c/mrwpr359-8s3sqk.gif
+D	videos/c/mrwps3e8-dop0xu.gif
+D	videos/c/mrx2th5y-nzycuo.gif
+D	videos/c/mrx4bkyu-rwqsuy.gif
+D	videos/c/mrx4k9g8-ifth30.gif
+D	videos/c/mrx4ksc6-5q5mdu.gif
+D	videos/fuchang-boiler.gif
+A	videos/morning-2.mp4
+D	videos/mrx4cfkv-mpk78x.gif
+D	videos/mrx4cz2e-lhor4c.gif
+D	videos/mrx4dhyr-k4tou7.gif
+D	videos/mrx4e1gc-cwd5mv.gif
+D	videos/mrx4f1xx-had242.gif
+D	videos/mrx4h75z-tlj7yg.gif
+D	videos/mrx4hplv-7nvfiz.gif
+D	videos/mrx4i1na-u2oyuc.gif
+D	videos/mrx4j3r1-li2frt.gif
+A	videos/mvideo01.mp4
+A	videos/mvideo02.mp4
+A	videos/mvideo04.mp4
+A	videos/mvideo05.mp4
+A	videos/mvideo06.mp4
+A	videos/mvideo09.mp4
+A	videos/mvideo10.mp4
+A	videos/mvideo12.mp4
+A	videos/mvideo13.mp4
+A	videos/mvideo14.mp4
+A	videos/mvideo15.mp4
+A	videos/mvideo16.mp4
+A	videos/mvideo17.mp4
+A	videos/mvideo18.mp4
+A	videos/mvideo19.mp4
+A	videos/mvideo23.mp4
+A	videos/mvideo24.mp4
+A	videos/mvideo25.mp4
+A	videos/mvideo29.mp4
+A	videos/mvideo31.mp4
+A	videos/mvideo33.mp4
+A	videos/mvideo34.mp4
+```
+
+---
 ## v20260804-1520 — 2026-08-04 15:20
 3D 作品库恢复 19 个演示 gif，与 6 个真实产品视频共存共 25 条
 
