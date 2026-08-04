@@ -96,7 +96,12 @@
       // poster 已显示封面占位，骨架无必要，直接隐藏
       hideSkeleton();
 
+      // 手机端优先用轻量预览版（/videos/m/，约原版 1/7 体积）；桌面仍用原版高清
       var previewUrl = media.getAttribute('data-src');
+      if (isMobileV) {
+        var mob = media.getAttribute('data-mobile-src');
+        if (mob) previewUrl = mob;
+      }
       if (!previewUrl) return;
 
       var item = {

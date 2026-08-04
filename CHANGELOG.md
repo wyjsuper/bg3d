@@ -1,5 +1,38 @@
 # 更新日志
 
+## v20260805-0740 — 2026-08-05 07:40
+手机端5倍提速：生成15s截断+320px轻量预览版videos/m/，桌面仍走原版
+
+### 提交记录
+- release: v20260805-0740 — 手机端5倍提速：生成15s截断+320px轻量预览版videos/m/，桌面仍走原版 (5ac2884)
+
+### 变更文件
+```
+M	assets/js/site.js
+M	lib/render.php
+A	videos/m/mvideo01.mp4
+A	videos/m/mvideo02.mp4
+A	videos/m/mvideo04.mp4
+A	videos/m/mvideo05.mp4
+A	videos/m/mvideo06.mp4
+A	videos/m/mvideo09.mp4
+A	videos/m/mvideo13.mp4
+A	videos/m/mvideo14.mp4
+A	videos/m/mvideo15.mp4
+A	videos/m/mvideo16.mp4
+A	videos/m/mvideo17.mp4
+A	videos/m/mvideo18.mp4
+A	videos/m/mvideo19.mp4
+A	videos/m/mvideo23.mp4
+A	videos/m/mvideo24.mp4
+A	videos/m/mvideo25.mp4
+A	videos/m/mvideo29.mp4
+A	videos/m/mvideo31.mp4
+A	videos/m/mvideo33.mp4
+A	videos/m/mvideo34.mp4
+```
+
+---
 ## v20260805-0727 — 2026-08-05 07:27
 手机端视频加载优化：并发受限+优先当前可见视频队列
 
