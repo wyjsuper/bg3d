@@ -107,9 +107,11 @@ function bg_video_card($item) {
       $posterAttr = $hasPoster ? ' data-poster="' . h(bg_url($poster)) . '"' : '';
       echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($videoUrl)) . '" alt="' . h($title) . '"' . $posterAttr . ' loading="lazy" decoding="async">';
     } else {
-      echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($videoUrl)) . '"';
-      if ($hasPoster) echo ' poster="' . h(bg_url($poster)) . '"';
-      echo ' autoplay muted loop playsinline preload="metadata"></video>';
+      $videoSrc = h(bg_url($videoUrl));
+      $posterAttr = $hasPoster ? (' poster="' . h(bg_url($poster)) . '"') : '';
+      echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"' . $posterAttr . ' autoplay muted loop playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5" x5-video-player-fullscreen="false" preload="metadata">';
+      echo '<source src="' . $videoSrc . '" type="video/mp4">';
+      echo '</video>';
     }
   } elseif ($hasPoster) {
     echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($poster)) . '" alt="' . h($title) . '">';

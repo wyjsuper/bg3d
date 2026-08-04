@@ -110,7 +110,9 @@ $isGif = (bool) preg_match('/\.gif(\?.*)?$/i', $src);
         <?php if ($isGif): ?>
           <img src="<?php echo h($src); ?>" alt="<?php echo h($title); ?>" style="display:block;width:100%;height:auto;max-height:80vh;background:#000;">
         <?php else: ?>
-          <video src="<?php echo h($src); ?>" autoplay controls playsinline></video>
+          <video autoplay controls playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5" x5-video-player-fullscreen="true" preload="metadata">
+            <source src="<?php echo h($src); ?>" type="video/mp4">
+          </video>
         <?php endif; ?>
       <?php else: ?>
         <div class="player-empty" style="padding:48px;text-align:center;"><?php echo h(bg_pick(array('zh' => '视频不存在或链接无效', 'en' => 'Video not found or invalid link'), $lang)); ?></div>

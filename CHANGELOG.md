@@ -1,5 +1,44 @@
 # 更新日志
 
+## v20260804-2124 — 2026-08-04 21:24
+修复手机版视频不显示：全部 mp4 转 H.264 Baseline/480p/去音/faststart，并增加微信 X5 / iOS playsinline 属性
+
+### 提交记录
+- release: v20260804-2124 — 修复手机版视频不显示：全部 mp4 转 H.264 Baseline/480p/去音/faststart，并增加微信 X5 / iOS playsinline 属性 (407645e)
+
+### 变更文件
+```
+M	lib/render.php
+M	play.php
+M	videos/mvideo01.mp4
+M	videos/mvideo02.mp4
+M	videos/mvideo04.mp4
+M	videos/mvideo05.mp4
+M	videos/mvideo06.mp4
+M	videos/mvideo09.mp4
+M	videos/mvideo13.mp4
+M	videos/mvideo14.mp4
+M	videos/mvideo15.mp4
+M	videos/mvideo16.mp4
+M	videos/mvideo17.mp4
+M	videos/mvideo18.mp4
+M	videos/mvideo19.mp4
+M	videos/mvideo23.mp4
+M	videos/mvideo24.mp4
+M	videos/mvideo25.mp4
+M	videos/mvideo29.mp4
+M	videos/mvideo31.mp4
+M	videos/mvideo33.mp4
+M	videos/mvideo34.mp4
+M	videos/video01.mp4
+M	videos/video02.mp4
+M	videos/video03.mp4
+M	videos/video04.mp4
+M	videos/video05.mp4
+M	videos/video06.mp4
+```
+
+---
 ## v20260804-1629 — 2026-08-04 16:29
 移除超过3MB的2个视频(mvideo10/mvideo12)，作品库剩26条
 
