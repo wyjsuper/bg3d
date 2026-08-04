@@ -230,12 +230,18 @@ def ensure_git():
 
 def commit_and_tag(version, message):
     git_run(["add", "-A"])
-    git_run(["commit", "-m", message])
+    # 若没有可提交变更（例如仅修改了被 .gitignore 排除的 data/content.json / videos/），
+    # 跳过 commit 以免脚本因 "nothing to commit" 退出，但仍继续打包并打 tag。
+    st = git_run(["status", "--porcelain"], check=False)
+    if st.stdout.strip():
+        git_run(["commit", "-m", message], check=False)
+    else:
+        print("· 无 git 可提交变更（如仅改动被忽略的内容库），跳过 commit，继续打包")
     # 若 tag 已存在则先删（覆盖式发布）
     exist = git_run(["tag", "-l", version], check=False)
     if exist.stdout.strip():
-        git_run(["tag", "-d", version])
-    git_run(["tag", version])
+        git_run(["tag", "-d", version], check=False)
+    git_run(["tag", version], check=False)
     print("· 已打 tag:", version)
 
 
