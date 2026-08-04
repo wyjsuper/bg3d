@@ -406,10 +406,7 @@
 .video-card.has-error .video-skeleton { display: none; }
 .video-error { display: none; }
 .video-card.has-error .video-error { display: flex; }
-.video-play-btn { display: none; }
-.video-card.needs-play .video-play-btn { display: flex; }
-.video-card.has-error .video-play-indicator,
-.video-card.needs-play .video-play-indicator { display: none; }
+.video-card.has-error .video-play-indicator { display: none; }
 
 /* ===== 首页 canvas 背景扫描线（globals 未定义，此处补齐） ===== */
 .animate-scan { animation: scan 6s linear infinite; }

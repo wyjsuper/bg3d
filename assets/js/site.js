@@ -56,20 +56,19 @@
     stats.forEach(function (el) { io.observe(el); });
   }
 
-  /* ===== 3. 视频卡片状态（骨架/错误/播放按钮） ===== */
+  /* ===== 3. 视频卡片状态（骨架/错误） ===== */
   function initVideoCards() {
     document.querySelectorAll('[data-video]').forEach(function (card) {
       var media = card.querySelector('.video-media');
       var skeleton = card.querySelector('.video-skeleton');
       var errorBox = card.querySelector('.video-error');
-      var playBtn = card.querySelector('.video-play-btn');
       if (!media) { if (skeleton) skeleton.style.display = 'none'; return; }
 
       function hideSkeleton() { if (skeleton) skeleton.style.display = 'none'; }
       function showError() {
         hideSkeleton();
         if (errorBox) { errorBox.classList.remove('hidden'); errorBox.style.display = 'flex'; }
-        if (playBtn) playBtn.classList.add('hidden');
+        card.classList.add('has-error');
       }
 
       var tag = media.tagName.toLowerCase();
@@ -83,7 +82,6 @@
             media.addEventListener('load', hideSkeleton);
           } else {
             showError();
-            card.classList.add('has-error');
           }
         }
         if (media.complete && media.naturalWidth > 0) {
@@ -100,20 +98,10 @@
         media.addEventListener('loadeddata', hideSkeleton);
         media.addEventListener('canplay', hideSkeleton);
         media.addEventListener('error', showError);
-        // 自动播放被浏览器阻止 → 显示播放按钮
+        // 视频默认 autoplay muted loop playsinline；播放被浏览器策略阻止时静默降级
         var tryPlay = media.play();
         if (tryPlay && typeof tryPlay.then === 'function') {
-          tryPlay.catch(function () {
-            hideSkeleton();
-            if (playBtn) { playBtn.classList.remove('hidden'); playBtn.style.display = 'flex'; }
-          });
-        }
-        if (playBtn) {
-          playBtn.addEventListener('click', function () {
-            media.play();
-            playBtn.classList.add('hidden');
-            playBtn.style.display = 'none';
-          });
+          tryPlay.catch(function () { hideSkeleton(); });
         }
         // 兜底：若 3s 内仍未触发 loadeddata 隐藏骨架
         setTimeout(hideSkeleton, 3000);

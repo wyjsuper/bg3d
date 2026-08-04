@@ -3183,14 +3183,7 @@
 .video-card.has-error .video-error {
   display: flex;
 }
-.video-play-btn {
-  display: flex;
-}
-.video-card.needs-play .video-play-btn {
-  display: flex;
-}
-.video-card.has-error .video-play-indicator,
-.video-card.needs-play .video-play-indicator {
+.video-card.has-error .video-play-indicator {
   display: none;
 }
 .animate-scan {

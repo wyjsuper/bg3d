@@ -110,9 +110,6 @@ function bg_video_card($item) {
   }
   echo '<div class="video-skeleton absolute inset-0 z-0 bg-[#e9eef7]"><div class="absolute inset-0 bg-grid opacity-40"></div></div>';
   echo '<div class="video-error absolute inset-0 z-0 hidden items-center justify-center bg-[#e9eef7]"><div class="text-center">' . bg_icon('play', 32) . '<p class="mt-1 text-xs text-tech-muted/70">Video unavailable</p></div></div>';
-  if ($hasVideo && !$isGif) {
-    echo '<button type="button" class="video-play-btn absolute inset-0 z-30 hidden items-center justify-center bg-black/20 transition-colors hover:bg-black/30" aria-label="播放视频"><span class="flex h-12 w-12 items-center justify-center rounded-full bg-black/60 text-white shadow-lg backdrop-blur transition-transform hover:scale-105">' . bg_icon('play', 18) . '</span></button>';
-  }
   if (!($hasVideo && $isGif)) {
     echo '<span class="absolute left-3 top-3 z-20 rounded-full border border-white/15 bg-black/50 px-2.5 py-1 text-xs text-white backdrop-blur">' . h($category) . '</span>';
   }
