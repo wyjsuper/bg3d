@@ -49,12 +49,9 @@ for i, (src, dst, zh, en) in enumerate(mapping):
         "poster": "",
     })
 
-# 保留 threeds 其它结构，仅替换 items
-th = data.get("threeds", {})
-if isinstance(th, dict):
-    th["items"] = items
-else:
-    data["threeds"] = {"items": items}
+# 集合在内容库里以纯数组存储（bg_create_item 用 $data[$type][] 追加），
+# 不可包成 {"items":[...]}，否则 bg_get_collection 返回的 dict 会被 foreach 当成单个元素。
+data["threeds"] = items
 
 with open(CONTENT, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
