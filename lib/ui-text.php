@@ -71,7 +71,7 @@ $UI = array(
   ),
 
   'threeds' => array(
-    'eyebrow' => array('zh' => '3DS · 工业三维动画', 'en' => '3DS · Industrial 3D Animation'),
+    'eyebrow' => array('zh' => '3DS · 三维动画', 'en' => '3DS · 3D Animation'),
     'title' => array('zh' => '工业产品三维虚拟动画 3D 建模和渲染', 'en' => '3D Modeling & Rendering for Industrial Product Virtual Animation'),
     'desc' => array('zh' => '利用产品 3D 图和三维动画视频，让品牌更科技，让营销快一步。', 'en' => 'Use product 3D visuals and animation videos to make your brand more tech-forward and your marketing one step ahead.'),
     'benefitsTitle' => array('zh' => '工业三维建模和渲染的好处', 'en' => 'Benefits of Industrial 3D Modeling & Rendering'),
@@ -97,13 +97,13 @@ $UI = array(
   ),
 
   'planPage' => array(
-    'eyebrow' => 'PLAN · 方案',
+    'eyebrow' => array('zh' => 'PLAN · 方案', 'en' => 'PLAN'),
     'title' => array('zh' => '营销推广与运维方案', 'en' => 'Marketing & Operations Plans'),
     'desc' => array('zh' => '策划—设计—营销全链路，覆盖内贸、外贸、平台搭建与会展品宣的一站式数字营销方案。', 'en' => 'Full-chain strategy—design—marketing, covering domestic, global, platform build and exhibition branding in one-stop digital marketing solutions.'),
   ),
 
   'servicePage' => array(
-    'eyebrow' => 'SERVICE · 服务',
+    'eyebrow' => array('zh' => 'SERVICE · 服务', 'en' => 'SERVICE'),
     'title' => array('zh' => '营销 & 设计 包年服务', 'en' => 'Annual Marketing & Design Service'),
     'desc' => array('zh' => '一支专属的年度专业团队，持续输出品牌设计与数字营销能力，把外包变成可预期的长期增长伙伴。', 'en' => 'A dedicated annual team delivering continuous brand design and digital marketing capabilities, turning outsourcing into a predictable long-term growth partner.'),
     'whyTitle' => array('zh' => '为什么选择包年服务？', 'en' => 'Why Choose Annual Service?'),
@@ -112,7 +112,7 @@ $UI = array(
   ),
 
   'profilePage' => array(
-    'eyebrow' => 'PROFILE · 北港3D',
+    'eyebrow' => array('zh' => 'PROFILE · 北港3D', 'en' => 'PROFILE'),
     'title' => array('zh' => '企业全链路品牌共生伙伴', 'en' => 'Full-Chain Brand Symbiosis Partner'),
     'desc' => array('zh' => '北港3D不仅是品牌视觉的缔造者，更是品牌数字营销的推手。', 'en' => 'BEIGANG 3D is not just a brand visual creator, but a driver of brand digital marketing.'),
     'citiesTitle' => array('zh' => '服务城市', 'en' => 'Service Cities'),
@@ -120,13 +120,13 @@ $UI = array(
   ),
 
   'pointsPage' => array(
-    'eyebrow' => 'POINTS · 发现',
+    'eyebrow' => array('zh' => 'POINTS · 发现', 'en' => 'POINTS'),
     'title' => array('zh' => '品牌设计与数字营销干货', 'en' => 'Brand Design & Digital Marketing Insights'),
     'desc' => array('zh' => '我们持续输出关于品牌 VI、网站运营与市场营销的思考与实践。', 'en' => 'We continuously share our thinking and practice on brand VI, website operations and marketing.'),
   ),
 
   'contactPage' => array(
-    'eyebrow' => 'CONTACT · 联系',
+    'eyebrow' => array('zh' => 'CONTACT · 联系', 'en' => 'CONTACT'),
     'title' => array('zh' => '立即咨询方案', 'en' => 'Contact Us for a Proposal'),
     'desc' => array('zh' => '告诉我们您的项目需求，北港3D团队将在 1 个工作日内与您联系。', 'en' => 'Tell us your project needs, the BEIGANG 3D team will contact you within 1 business day.'),
   ),

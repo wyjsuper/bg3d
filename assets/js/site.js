@@ -56,7 +56,9 @@
     stats.forEach(function (el) { io.observe(el); });
   }
 
-  /* ===== 3. 视频卡片状态（骨架/错误） ===== */
+  /* ===== 3. 视频卡片自动播放（懒加载视频源） =====
+     说明：网格直接渲染 <video>（poster=轻量封面占位），进入视口才赋值 src 并自动循环播放，
+     复用原始 mp4；点击卡片才在 play.php 打开高清 mp4 全屏播放。 */
   function initVideoCards() {
     document.querySelectorAll('[data-video]').forEach(function (card) {
       var media = card.querySelector('.video-media');
@@ -71,7 +73,11 @@
         });
       }
 
-      if (!media) { if (skeleton) skeleton.style.display = 'none'; return; }
+      // 视频卡片（<video>）与纯图片卡片分开处理
+      if (!media || media.tagName.toLowerCase() !== 'video') {
+        if (skeleton) skeleton.style.display = 'none';
+        return;
+      }
 
       function hideSkeleton() { if (skeleton) skeleton.style.display = 'none'; }
       function showError() {
@@ -80,40 +86,43 @@
         card.classList.add('has-error');
       }
 
-      var tag = media.tagName.toLowerCase();
-      if (tag === 'img') {
-        var imgTimer = null;
-        function clearImgTimer() { if (imgTimer) { clearTimeout(imgTimer); imgTimer = null; } }
-        function fallbackToPosterOrError() {
-          var poster = media.getAttribute('data-poster');
-          if (poster && media.src !== poster) {
-            media.src = poster;
-            media.addEventListener('load', hideSkeleton);
-          } else {
-            showError();
-          }
-        }
-        if (media.complete && media.naturalWidth > 0) {
-          hideSkeleton();
-        } else {
-          media.addEventListener('load', function () { clearImgTimer(); hideSkeleton(); });
-          media.addEventListener('error', function () { clearImgTimer(); fallbackToPosterOrError(); });
-          // 移动端大图易卡在加载中（无 error 也无 load）→ 超时降级到 poster
-          imgTimer = setTimeout(function () {
-            if (!media.complete || media.naturalWidth === 0) fallbackToPosterOrError();
-          }, 5000);
-        }
-      } else if (tag === 'video') {
-        media.addEventListener('loadeddata', hideSkeleton);
-        media.addEventListener('canplay', hideSkeleton);
-        media.addEventListener('error', showError);
-        // 视频默认 autoplay muted loop playsinline；播放被浏览器策略阻止时静默降级
-        var tryPlay = media.play();
-        if (tryPlay && typeof tryPlay.then === 'function') {
-          tryPlay.catch(function () { hideSkeleton(); });
-        }
-        // 兜底：若 3s 内仍未触发 loadeddata 隐藏骨架
-        setTimeout(hideSkeleton, 3000);
+      // poster 已显示封面占位，骨架无必要，直接隐藏
+      hideSkeleton();
+
+      var previewUrl = media.getAttribute('data-src');
+      if (!previewUrl) return;
+
+      // 进入视口（提前 200px 预载）后赋值 src 并自动循环播放；首屏可见的卡片会立即播放。
+      // 直接复用原始 mp4（总 22.5MB），比同内容 GIF 的 60MB 小一个数量级、画质更好
+      function loadPreview() {
+        if (media.dataset.loaded) return;
+        media.dataset.loaded = '1';
+        media.src = previewUrl;
+        media.load();
+        var p = media.play && media.play();
+        if (p && p.catch) p.catch(function () {}); // 自动播放被拦截时静默（muted 通常允许）
+        media.addEventListener('loadeddata', hideSkeleton, { once: true });
+        media.addEventListener('error', function () {
+          media.style.display = 'none';
+          showError();
+        }, { once: true });
+      }
+
+      // 移动端关键优化：进入视口播放、滚出视口暂停（省电省流量、避免多视频同时解码）
+      if ('IntersectionObserver' in window) {
+        var prevIO = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              loadPreview();
+              if (media.dataset.loaded) { var rp = media.play && media.play(); if (rp && rp.catch) rp.catch(function () {}); }
+            } else if (media.dataset.loaded) {
+              media.pause();
+            }
+          });
+        }, { rootMargin: '200px 0px' });
+        prevIO.observe(media);
+      } else {
+        loadPreview();
       }
     });
   }
