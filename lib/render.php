@@ -106,7 +106,8 @@ function bg_video_card($item) {
     // poster 用轻量封面 JPG 占位防空白闪烁）。点击卡片在 play.php 打开高清 mp4 全屏播放
     $posterUrl = preg_replace('/\.mp4(\?.*)?$/i', '.jpg', $videoUrl);
     // 手机端预览版：/videos/m/ 下截断 15s + 320px + 低码率的轻量文件，下载量约为原版 1/7
-    $mobileRaw = str_ireplace('/videos/mvideo', '/videos/m/mvideo', $videoUrl);
+    // 兼容 mvideoXX 与 videoXX 两种命名（正则把 /videos/<名>.mp4 改写为 /videos/m/<名>.mp4）
+    $mobileRaw = preg_replace('#^(.*/videos/)([^/]+\.mp4)$#i', '$1m/$2', $videoUrl);
     echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" autoplay muted loop playsinline preload="none" poster="' . h(bg_url($posterUrl)) . '" data-src="' . h(bg_url($videoUrl)) . '" data-mobile-src="' . h(bg_url($mobileRaw)) . '" alt="' . h($title) . '"></video>';
   } elseif ($hasPoster) {
     echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($poster)) . '" alt="' . h($title) . '">';

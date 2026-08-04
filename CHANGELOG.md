@@ -1,5 +1,25 @@
 # 更新日志
 
+## v20260805-0743 — 2026-08-05 07:43
+手机端5倍提速(修正):28个视频全生成15s轻量预览版videos/m/，兼容mvideoXX+videoXX命名
+
+### 提交记录
+- release: v20260805-0743 — 手机端5倍提速(修正):28个视频全生成15s轻量预览版videos/m/，兼容mvideoXX+videoXX命名 (51eab5e)
+
+### 变更文件
+```
+M	lib/render.php
+A	videos/m/video01.mp4
+A	videos/m/video02.mp4
+A	videos/m/video03.mp4
+A	videos/m/video04.mp4
+A	videos/m/video05.mp4
+A	videos/m/video06.mp4
+A	videos/m/video07.mp4
+A	videos/m/video08.mp4
+```
+
+---
 ## v20260805-0740 — 2026-08-05 07:40
 手机端5倍提速：生成15s截断+320px轻量预览版videos/m/，桌面仍走原版
 
