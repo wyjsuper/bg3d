@@ -32,9 +32,9 @@
   - 版本号写入 beigang-php/version.json，并打进 zip，供后台「在线更新」显示当前版本
   - version.json 额外包含 changes(提交列表) / body(变更日志全文) / commit(短哈希)
   - 仓库根目录 CHANGELOG.md 会追加本次条目（最新在最前）
-  - 仓库根目录为 beigang-php/，运行时数据（uploads/、data/auth.json、
+  - 仓库根目录为 beigang-php/，运行时数据（uploads/、videos/、data/auth.json、
     data/content.json、data/backups/、version.json）已在 .gitignore 中排除，
-    不会进入 git 历史（部署 zip 仍会包含 seed 数据用于首次部署）
+    不会进入 git 历史；部署 zip 也不会包含这些运行时数据，避免覆盖线上用户上传的内容。
 """
 import os
 import sys
@@ -57,7 +57,7 @@ OUT_ZIP = os.path.join(ROOT, ZIP_NAME)
 VERSION_FILE = os.path.join(HERE, "version.json")
 CHANGELOG_FILE = os.path.join(HERE, "CHANGELOG.md")
 
-EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src"}
+EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src", "videos"}
 EXCLUDE_FILES = {".DS_Store", "Thumbs.db"}
 EXCLUDE_EXT = {".zip"}
 
@@ -201,7 +201,7 @@ def pack():
                 continue
             if p.name in EXCLUDE_FILES:
                 continue
-            if rel == "data/auth.json":
+            if rel in ("data/auth.json", "data/content.json"):
                 continue
             if p.suffix in EXCLUDE_EXT:
                 continue
