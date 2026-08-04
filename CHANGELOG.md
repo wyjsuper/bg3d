@@ -1,5 +1,26 @@
 # 更新日志
 
+## v20260804-1629 — 2026-08-04 16:29
+移除超过3MB的2个视频(mvideo10/mvideo12)，作品库剩26条
+
+### 提交记录
+- release: v20260804-1629 — 移除超过3MB的2个视频(mvideo10/mvideo12)，作品库剩26条 (b3c5b5a)
+- test: diagnose (ec7fdf7)
+
+### 变更文件
+```
+D	_build_content.py
+D	_compress.py
+D	_rebuild_content.py
+D	m3ds.html
+D	mp4_urls.txt
+D	sm.xml
+D	videos/morning-2.mp4
+D	videos/mvideo10.mp4
+D	videos/mvideo12.mp4
+```
+
+---
 ## v20260804-1619 — 2026-08-04 16:19
 用线上 morndesign.com 的 22 个 mp4（ffmpeg 压至 1-3MB）替换 gif 演示，作品库共 28 条
 
