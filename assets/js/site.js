@@ -94,13 +94,26 @@
 
       // 进入视口（提前 200px 预载）后赋值 src 并自动循环播放；首屏可见的卡片会立即播放。
       // 直接复用原始 mp4（总 22.5MB），比同内容 GIF 的 60MB 小一个数量级、画质更好
+      function playVideo() {
+        // 移动端关键：显式把 muted / playsInline 设成 DOM 属性（iOS / 微信 WebView
+        // 在动态改 src 后常常不沿用 HTML 的 muted 属性，导致 play() 被静默拦截）
+        media.muted = true;
+        media.defaultMuted = true;
+        media.playsInline = true;
+        var p = media.play && media.play();
+        if (p && p.catch) p.catch(function () {}); // 自动播放被拦截时静默（兜底由首次交互触发）
+      }
       function loadPreview() {
         if (media.dataset.loaded) return;
         media.dataset.loaded = '1';
+        media.muted = true;
+        media.defaultMuted = true;
+        media.playsInline = true;
+        media.setAttribute('muted', '');
+        media.setAttribute('playsinline', '');
         media.src = previewUrl;
         media.load();
-        var p = media.play && media.play();
-        if (p && p.catch) p.catch(function () {}); // 自动播放被拦截时静默（muted 通常允许）
+        playVideo();
         media.addEventListener('loadeddata', hideSkeleton, { once: true });
         media.addEventListener('error', function () {
           media.style.display = 'none';
@@ -114,7 +127,7 @@
           entries.forEach(function (entry) {
             if (entry.isIntersecting) {
               loadPreview();
-              if (media.dataset.loaded) { var rp = media.play && media.play(); if (rp && rp.catch) rp.catch(function () {}); }
+              if (media.dataset.loaded) playVideo();
             } else if (media.dataset.loaded) {
               media.pause();
             }
@@ -125,6 +138,24 @@
         loadPreview();
       }
     });
+
+    // 移动端兜底：iOS / 微信等 WebView 会拦截「无用户手势」的自动播放（即便 muted）。
+    // 首次交互（触摸 / 点击 / 滚动）后补播所有已加载却仍暂停的视频。
+    if (!window.__bgVideoFallbackBound) {
+      window.__bgVideoFallbackBound = true;
+      var kick = function () {
+        document.querySelectorAll('video.video-media').forEach(function (v) {
+          if (v.dataset.loaded && v.paused) {
+            v.muted = true; v.defaultMuted = true; v.playsInline = true;
+            var pp = v.play && v.play();
+            if (pp && pp.catch) pp.catch(function () {});
+          }
+        });
+      };
+      window.addEventListener('scroll', kick, { once: true, passive: true });
+      document.addEventListener('touchstart', kick, { once: true, passive: true });
+      document.addEventListener('click', kick, { once: true });
+    }
   }
 
   /* ===== 4. 移动端导航 ===== */
