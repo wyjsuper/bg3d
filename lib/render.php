@@ -94,7 +94,13 @@ function bg_video_card($item) {
   $title = isset($item['title']) ? $item['title'] : '';
   $category = isset($item['category']) ? $item['category'] : '';
   $desc = isset($item['description']) ? $item['description'] : '';
-  echo '<article class="video-card group flex flex-col" data-video>';
+  $playUrl = '';
+  if ($hasVideo && !$isGif && $videoUrl !== '') {
+    $q = 'src=' . rawurlencode($videoUrl);
+    if ($title !== '') $q .= '&title=' . rawurlencode($title);
+    $playUrl = bg_url('/play.php?' . $q);
+  }
+  echo '<article class="video-card group flex flex-col' . ($playUrl ? ' cursor-pointer' : '') . '" data-video' . ($playUrl ? (' data-play-url="' . h($playUrl) . '"') : '') . '>';
   echo '<div class="relative aspect-[4/3] overflow-hidden rounded-xl border-[#0c1426]/10 bg-[#e9eef7]">';
   if ($hasVideo) {
     if ($isGif) {

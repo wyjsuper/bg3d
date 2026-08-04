@@ -62,6 +62,15 @@
       var media = card.querySelector('.video-media');
       var skeleton = card.querySelector('.video-skeleton');
       var errorBox = card.querySelector('.video-error');
+
+      // 点击卡片 → 新窗口放大播放（data-play-url 由后端仅在视频项上输出）
+      if (card.hasAttribute('data-play-url')) {
+        card.addEventListener('click', function () {
+          var url = card.getAttribute('data-play-url');
+          if (url) window.open(url, '_blank', 'noopener');
+        });
+      }
+
       if (!media) { if (skeleton) skeleton.style.display = 'none'; return; }
 
       function hideSkeleton() { if (skeleton) skeleton.style.display = 'none'; }
