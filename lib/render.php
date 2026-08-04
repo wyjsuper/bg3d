@@ -87,7 +87,6 @@ function bg_brand_logo($src, $class = 'h-9 w-auto', $withBg = false) {
 // ===== VideoCard =====
 function bg_video_card($item) {
   $videoUrl = isset($item['videoUrl']) ? (string) $item['videoUrl'] : '';
-  $isGif = (bool) preg_match('/\.gif(\?.*)?$/i', $videoUrl);
   $hasVideo = $videoUrl !== '';
   $poster = isset($item['poster']) ? (string) $item['poster'] : '';
   $hasPoster = $poster !== '';
@@ -103,26 +102,17 @@ function bg_video_card($item) {
   echo '<article class="video-card group flex flex-col' . ($playUrl ? ' cursor-pointer' : '') . '" data-video' . ($playUrl ? (' data-play-url="' . h($playUrl) . '"') : '') . '>';
   echo '<div class="relative aspect-[4/3] overflow-hidden rounded-xl border-[#0c1426]/10 bg-[#e9eef7]">';
   if ($hasVideo) {
-    if ($isGif) {
-      $posterAttr = $hasPoster ? ' data-poster="' . h(bg_url($poster)) . '"' : '';
-      echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($videoUrl)) . '" alt="' . h($title) . '"' . $posterAttr . ' loading="lazy" decoding="async">';
-    } else {
-      $videoSrc = h(bg_url($videoUrl));
-      $posterAttr = $hasPoster ? (' poster="' . h(bg_url($poster)) . '"') : '';
-      echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"' . $posterAttr . ' autoplay muted loop playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5" x5-video-player-fullscreen="false" preload="metadata">';
-      echo '<source src="' . $videoSrc . '" type="video/mp4">';
-      echo '</video>';
-    }
+    // 网格：直接渲染 <video> 并自动循环播放（懒加载视频源，仅进入视口才下载 mp4，复用原始 mp4；
+    // poster 用轻量封面 JPG 占位防空白闪烁）。点击卡片在 play.php 打开高清 mp4 全屏播放
+    $posterUrl = preg_replace('/\.mp4(\?.*)?$/i', '.jpg', $videoUrl);
+    echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" autoplay muted loop playsinline preload="none" poster="' . h(bg_url($posterUrl)) . '" data-src="' . h(bg_url($videoUrl)) . '" alt="' . h($title) . '"></video>';
   } elseif ($hasPoster) {
     echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($poster)) . '" alt="' . h($title) . '">';
   }
   echo '<div class="video-skeleton absolute inset-0 z-0 bg-[#e9eef7]"><div class="absolute inset-0 bg-grid opacity-40"></div></div>';
   echo '<div class="video-error absolute inset-0 z-0 hidden items-center justify-center bg-[#e9eef7]"><div class="text-center">' . bg_icon('play', 32) . '<p class="mt-1 text-xs text-tech-muted/70">Video unavailable</p></div></div>';
-  if (!($hasVideo && $isGif)) {
-    echo '<span class="absolute left-3 top-3 z-20 rounded-full border border-white/15 bg-black/50 px-2.5 py-1 text-xs text-white backdrop-blur">' . h($category) . '</span>';
-  }
-  if ($hasVideo && !$isGif) {
-    echo '<span class="video-play-indicator absolute right-3 top-3 z-20 flex h-7 w-7 items-center justify-center rounded-full bg-black/50 text-white opacity-0 transition-opacity group-hover:opacity-100">' . bg_icon('play', 12) . '</span>';
+  if ($hasVideo) {
+    echo '<span class="video-play-indicator pointer-events-none absolute right-3 top-3 z-20 flex h-8 w-8 items-center justify-center rounded-full bg-black/55 text-white opacity-100 shadow-sm transition-transform duration-200 group-hover:scale-110">' . bg_icon('play', 14) . '</span>';
   }
   echo '<div class="pointer-events-none absolute inset-x-0 bottom-0 z-20 h-px bg-gradient-to-r from-transparent via-tech-cyan/70 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100"></div>';
   echo '</div>';

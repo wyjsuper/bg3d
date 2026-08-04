@@ -1,5 +1,77 @@
 # 更新日志
 
+## v20260805-0633 — 2026-08-05 06:33
+视频自动循环播放+手机版优化(按钮常驻/滚出暂停)+英文版完整性修复+去除'工业三维动画'字样
+
+### 提交记录
+- release: v20260805-0633 — 视频自动循环播放+手机版优化(按钮常驻/滚出暂停)+英文版完整性修复+去除'工业三维动画'字样 (2cddce1)
+
+### 变更文件
+```
+M	assets/js/site.js
+M	lib/lang.php
+M	lib/render.php
+M	lib/ui-text.php
+M	publish.py
+A	videos/mvideo01.gif
+A	videos/mvideo01.jpg
+A	videos/mvideo02.gif
+A	videos/mvideo02.jpg
+A	videos/mvideo04.gif
+A	videos/mvideo04.jpg
+A	videos/mvideo05.gif
+A	videos/mvideo05.jpg
+A	videos/mvideo06.gif
+A	videos/mvideo06.jpg
+A	videos/mvideo09.gif
+A	videos/mvideo09.jpg
+A	videos/mvideo13.gif
+A	videos/mvideo13.jpg
+A	videos/mvideo14.gif
+A	videos/mvideo14.jpg
+A	videos/mvideo15.gif
+A	videos/mvideo15.jpg
+A	videos/mvideo16.gif
+A	videos/mvideo16.jpg
+A	videos/mvideo17.gif
+A	videos/mvideo17.jpg
+A	videos/mvideo18.gif
+A	videos/mvideo18.jpg
+A	videos/mvideo19.gif
+A	videos/mvideo19.jpg
+A	videos/mvideo23.gif
+A	videos/mvideo23.jpg
+A	videos/mvideo24.gif
+A	videos/mvideo24.jpg
+A	videos/mvideo25.gif
+A	videos/mvideo25.jpg
+A	videos/mvideo29.gif
+A	videos/mvideo29.jpg
+A	videos/mvideo31.gif
+A	videos/mvideo31.jpg
+A	videos/mvideo33.gif
+A	videos/mvideo33.jpg
+A	videos/mvideo34.gif
+A	videos/mvideo34.jpg
+A	videos/video01.gif
+A	videos/video01.jpg
+A	videos/video02.gif
+A	videos/video02.jpg
+A	videos/video03.gif
+A	videos/video03.jpg
+A	videos/video04.gif
+A	videos/video04.jpg
+A	videos/video05.gif
+A	videos/video05.jpg
+A	videos/video06.gif
+A	videos/video06.jpg
+A	videos/video07.gif
+A	videos/video07.jpg
+A	videos/video08.gif
+A	videos/video08.jpg
+```
+
+---
 ## v20260804-2207 — 2026-08-04 22:07
 批量补全内容库英文（232字段，覆盖率96.8%）；含28个视频与最新content.json
 

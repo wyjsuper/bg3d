@@ -59,7 +59,7 @@ CHANGELOG_FILE = os.path.join(HERE, "CHANGELOG.md")
 
 EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src", "videos"}
 EXCLUDE_FILES = {".DS_Store", "Thumbs.db"}
-EXCLUDE_EXT = {".zip"}
+EXCLUDE_EXT = {".zip", ".gif"}   # gif 已弃用（改用 mp4 循环预览），不打进部署包
 
 # 形如 v2026.07.30 / v2026.07.30.3 的正式版本号（用于定位上一版本 tag）
 VERSION_RE = re.compile(r'^v\d{4}\.\d{2}\.\d{2}(\.\d+)?$')
@@ -211,6 +211,8 @@ def pack():
                 continue                                # 完整包：包含内容库
             if p.suffix in EXCLUDE_EXT:
                 continue
+            if p.name.startswith("_echotest"):
+                continue                                # 本地调试探针文件，不打进部署包
             if any(part.startswith(".") and part != ".htaccess" for part in parts):
                 continue
             zf.write(p, rel)

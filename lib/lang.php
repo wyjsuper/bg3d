@@ -43,8 +43,11 @@ function bg_pick($bi, $lang) {
   return is_scalar($bi) ? (string) $bi : '';
 }
 
-/** 读取当前语言：cookie lang=en 则英文，否则中文 */
+/** 读取当前语言：cookie lang=en 则英文，否则中文。
+ *  额外支持 ?lang=en GET 参数（GET 优先），便于本地 php-wasm 预览验证英文版
+ *  （php-wasm 的 PHPRequestHandler 不转发 Cookie 头，真实虚拟主机仍以 cookie 为准）。 */
 function bg_get_lang() {
+  if (isset($_GET['lang']) && $_GET['lang'] === 'en') return 'en';
   if (isset($_COOKIE['lang']) && $_COOKIE['lang'] === 'en') return 'en';
   return 'zh';
 }
