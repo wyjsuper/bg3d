@@ -1,5 +1,25 @@
 # 更新日志
 
+## v20260805-1013 — 2026-08-05 10:13
+9个视频片头跳过秒数统一改为10秒(GIF从10s截取+全屏自动seek)
+
+### 提交记录
+- release: v20260805-1013 — 9个视频片头跳过秒数统一改为10秒(GIF从10s截取+全屏自动seek) (9faf1b1)
+
+### 变更文件
+```
+M	videos/g/mvideo05.gif
+M	videos/g/mvideo09.gif
+M	videos/g/mvideo15.gif
+M	videos/g/mvideo16.gif
+M	videos/g/mvideo17.gif
+M	videos/g/mvideo23.gif
+M	videos/g/mvideo24.gif
+M	videos/g/mvideo29.gif
+M	videos/g/mvideo31.gif
+```
+
+---
 ## v20260805-0941 — 2026-08-05 09:41
 跳过片头logo:9个视频配置introSkip,网格GIF从跳过点生成,全屏播放自动seek
 
