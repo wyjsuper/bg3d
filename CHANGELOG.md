@@ -1,5 +1,17 @@
 # 更新日志
 
+## v20260805-0909 — 2026-08-05 09:09
+GIF网格预览修正:排除videos根旧gif/images/cases gif,仅保留videos/g/网格预览+原版mp4全屏,去掉冗余videos/m
+
+### 提交记录
+- release: v20260805-0909 — GIF网格预览修正:排除videos根旧gif/images/cases gif,仅保留videos/g/网格预览+原版mp4全屏,去掉冗余videos/m (f846377)
+
+### 变更文件
+```
+M	publish.py
+```
+
+---
 ## v20260805-0907 — 2026-08-05 09:07
 第二步:网格改GIF短循环预览(4s/320px/10fps,100%不受微信自动播放限制)+点击全屏播原版mp4
 

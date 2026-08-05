@@ -209,6 +209,12 @@ def pack():
                 continue                                # 凭证永不打进包
             if rel == "data/content.json" and not full:
                 continue                                # 完整包：包含内容库
+            # 手机版 mp4 预览已弃用（网格改用 GIF），不再打进部署包
+            if rel.startswith("videos/m/"):
+                continue
+            # gif 默认不打进包（旧产物/案例封面等非必需），但 videos/g/ 下由 render.php 输出的网格预览 GIF 必须包含
+            if p.suffix == ".gif" and not rel.startswith("videos/g/"):
+                continue
             if p.suffix in EXCLUDE_EXT:
                 continue
             if p.name.startswith("_echotest"):
