@@ -107,6 +107,7 @@
       var item = {
         card: card, media: media, url: previewUrl,
         hideSkeleton: hideSkeleton, showError: showError,
+        domIndex: registry.length,   // DOM 顺序（顶部→底部），用于「从前到后依次加载」
         started: false, busy: false
       };
       registry.push(item);
@@ -154,15 +155,23 @@
       m.addEventListener('error', function () { m.style.display = 'none'; it.showError(); done(); }, { once: true });
     }
 
-    // 从可见列表中挑「可见度最高且未开始」的视频加载，最多同时 MAX_CONCURRENT 个
+    // 从前到后（DOM 顺序）依次加载：在「已进入视口」的视频里，优先加载 DOM 序号最小（最靠上）的那个，
+    // 最多同时 MAX_CONCURRENT 个。这样顶部永远最先填满，再向下推进——对微信等并发受限的 WebView 更可控。
     function pump() {
       if (activeLoads >= MAX_CONCURRENT) return;
-      var best = null, bestRatio = -1;
+      var best = null, bestIdx = Infinity;
       registry.forEach(function (it) {
         if (it.started || it.busy) return;
-        var r = visibleMap.has(it.card) ? visibleMap.get(it.card) : -1;
-        if (r > bestRatio) { bestRatio = r; best = it; }
+        if (!visibleMap.has(it.card)) return; // 仅加载已进入视口的
+        if (it.domIndex < bestIdx) { bestIdx = it.domIndex; best = it; }
       });
+      // 兜底：当前没有可见视频时（极端情况），按 DOM 顺序取第一个未开始的
+      if (!best) {
+        registry.forEach(function (it) {
+          if (it.started || it.busy) return;
+          if (it.domIndex < bestIdx) { bestIdx = it.domIndex; best = it; }
+        });
+      }
       if (best) { activeLoads++; best.busy = true; startLoad(best); pump(); }
     }
 
