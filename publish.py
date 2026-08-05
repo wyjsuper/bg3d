@@ -59,7 +59,7 @@ CHANGELOG_FILE = os.path.join(HERE, "CHANGELOG.md")
 
 EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src", "videos"}
 EXCLUDE_FILES = {".DS_Store", "Thumbs.db"}
-EXCLUDE_EXT = {".zip", ".gif"}   # gif 已弃用（改用 mp4 循环预览），不打进部署包
+EXCLUDE_EXT = {".zip"}          # gif 重新启用：网格短循环预览 videos/g/*.gif 需打进部署包
 
 # 形如 v2026.07.30 / v2026.07.30.3 的正式版本号（用于定位上一版本 tag）
 VERSION_RE = re.compile(r'^v\d{4}\.\d{2}\.\d{2}(\.\d+)?$')

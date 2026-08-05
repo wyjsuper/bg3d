@@ -1,5 +1,46 @@
 # 更新日志
 
+## v20260805-0907 — 2026-08-05 09:07
+第二步:网格改GIF短循环预览(4s/320px/10fps,100%不受微信自动播放限制)+点击全屏播原版mp4
+
+### 提交记录
+- release: v20260805-0907 — 第二步:网格改GIF短循环预览(4s/320px/10fps,100%不受微信自动播放限制)+点击全屏播原版mp4 (ad04a68)
+
+### 变更文件
+```
+M	lib/render.php
+M	publish.py
+A	videos/g/mvideo01.gif
+A	videos/g/mvideo02.gif
+A	videos/g/mvideo04.gif
+A	videos/g/mvideo05.gif
+A	videos/g/mvideo06.gif
+A	videos/g/mvideo09.gif
+A	videos/g/mvideo13.gif
+A	videos/g/mvideo14.gif
+A	videos/g/mvideo15.gif
+A	videos/g/mvideo16.gif
+A	videos/g/mvideo17.gif
+A	videos/g/mvideo18.gif
+A	videos/g/mvideo19.gif
+A	videos/g/mvideo23.gif
+A	videos/g/mvideo24.gif
+A	videos/g/mvideo25.gif
+A	videos/g/mvideo29.gif
+A	videos/g/mvideo31.gif
+A	videos/g/mvideo33.gif
+A	videos/g/mvideo34.gif
+A	videos/g/video01.gif
+A	videos/g/video02.gif
+A	videos/g/video03.gif
+A	videos/g/video04.gif
+A	videos/g/video05.gif
+A	videos/g/video06.gif
+A	videos/g/video07.gif
+A	videos/g/video08.gif
+```
+
+---
 ## v20260805-0856 — 2026-08-05 08:56
 回退视频加载:去掉易挂的并发队列,改进视口即播+首次交互DOM兜底(修registry闭包bug),保留手机轻量版
 

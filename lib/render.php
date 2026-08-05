@@ -101,15 +101,12 @@ function bg_video_card($item) {
   }
   echo '<article class="video-card group flex flex-col' . ($playUrl ? ' cursor-pointer' : '') . '" data-video' . ($playUrl ? (' data-play-url="' . h($playUrl) . '"') : '') . '>';
   echo '<div class="relative aspect-[4/3] overflow-hidden rounded-xl border-[#0c1426]/10 bg-[#e9eef7]">';
-  if ($hasVideo) {
-    // 网格：直接渲染 <video> 并自动循环播放（懒加载视频源，仅进入视口才下载 mp4，复用原始 mp4；
-    // poster 用轻量封面 JPG 占位防空白闪烁）。点击卡片在 play.php 打开高清 mp4 全屏播放
-    $posterUrl = preg_replace('/\.mp4(\?.*)?$/i', '.jpg', $videoUrl);
-    // 手机端预览版：/videos/m/ 下截断 15s + 320px + 低码率的轻量文件，下载量约为原版 1/7
-    // 兼容 mvideoXX 与 videoXX 两种命名（正则把 /videos/<名>.mp4 改写为 /videos/m/<名>.mp4）
-    $mobileRaw = preg_replace('#^(.*/videos/)([^/]+\.mp4)$#i', '$1m/$2', $videoUrl);
-    echo '<video class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" autoplay muted loop playsinline preload="none" poster="' . h(bg_url($posterUrl)) . '" data-src="' . h(bg_url($videoUrl)) . '" data-mobile-src="' . h(bg_url($mobileRaw)) . '" alt="' . h($title) . '"></video>';
-  } elseif ($hasPoster) {
+    if ($hasVideo) {
+      // 网格用短循环 GIF 预览（4s/320px，原生循环，100% 不受微信/iOS 自动播放限制）；
+      // 点击卡片在 play.php 打开原始高清 mp4 全屏播放
+      $gifUrl = preg_replace('#/videos/([^/]+)\.mp4$#i', '/videos/g/$1.gif', $videoUrl);
+      echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" src="' . h(bg_url($gifUrl)) . '" alt="' . h($title) . '">';
+    } elseif ($hasPoster) {
     echo '<img class="video-media relative z-10 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" src="' . h(bg_url($poster)) . '" alt="' . h($title) . '">';
   }
   echo '<div class="video-skeleton absolute inset-0 z-0 bg-[#e9eef7]"><div class="absolute inset-0 bg-grid opacity-40"></div></div>';
