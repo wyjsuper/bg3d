@@ -1,5 +1,44 @@
 # 更新日志
 
+## v20260805-0821 — 2026-08-05 08:21
+手机端二次压缩:240px/8s/45kbps预览版,累计比原版小19.6x
+
+### 提交记录
+- release: v20260805-0821 — 手机端二次压缩:240px/8s/45kbps预览版,累计比原版小19.6x (447e3ea)
+
+### 变更文件
+```
+M	videos/m/mvideo01.mp4
+M	videos/m/mvideo02.mp4
+M	videos/m/mvideo04.mp4
+M	videos/m/mvideo05.mp4
+M	videos/m/mvideo06.mp4
+M	videos/m/mvideo09.mp4
+M	videos/m/mvideo13.mp4
+M	videos/m/mvideo14.mp4
+M	videos/m/mvideo15.mp4
+M	videos/m/mvideo16.mp4
+M	videos/m/mvideo17.mp4
+M	videos/m/mvideo18.mp4
+M	videos/m/mvideo19.mp4
+M	videos/m/mvideo23.mp4
+M	videos/m/mvideo24.mp4
+M	videos/m/mvideo25.mp4
+M	videos/m/mvideo29.mp4
+M	videos/m/mvideo31.mp4
+M	videos/m/mvideo33.mp4
+M	videos/m/mvideo34.mp4
+M	videos/m/video01.mp4
+M	videos/m/video02.mp4
+M	videos/m/video03.mp4
+M	videos/m/video04.mp4
+M	videos/m/video05.mp4
+M	videos/m/video06.mp4
+M	videos/m/video07.mp4
+M	videos/m/video08.mp4
+```
+
+---
 ## v20260805-0743 — 2026-08-05 07:43
 手机端5倍提速(修正):28个视频全生成15s轻量预览版videos/m/，兼容mvideoXX+videoXX命名
 
