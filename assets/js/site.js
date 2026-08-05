@@ -60,12 +60,7 @@
      说明：网格直接渲染 <video>（poster=轻量封面占位），进入视口才赋值 src 并自动循环播放，
      复用原始 mp4；点击卡片才在 play.php 打开高清 mp4 全屏播放。 */
   function initVideoCards() {
-    // 并发受限 + 优先当前最可见视频的加载队列（解决移动端滚动时多视频同时下载抢占带宽）
     var isMobileV = window.matchMedia('(max-width: 768px)').matches;
-    var MAX_CONCURRENT = isMobileV ? 2 : 4;
-    var registry = [];          // 每个视频卡片的运行时句柄
-    var visibleMap = new Map(); // card -> 可见比例（用于排序优先级）
-    var activeLoads = 0;
 
     document.querySelectorAll('[data-video]').forEach(function (card) {
       var media = card.querySelector('.video-media');
@@ -104,86 +99,50 @@
       }
       if (!previewUrl) return;
 
-      var item = {
-        card: card, media: media, url: previewUrl,
-        hideSkeleton: hideSkeleton, showError: showError,
-        domIndex: registry.length,   // DOM 顺序（顶部→底部），用于「从前到后依次加载」
-        started: false, busy: false
-      };
-      registry.push(item);
-
-      // 进入视口（提前 200px 预载）：登记可见度并请求加载；滚出视口暂停（省电省流量）。
+      if (media.dataset.loaded) return;
+      function loadPreview() {
+        if (media.dataset.loaded) return;
+        media.dataset.loaded = '1';
+        media.muted = true; media.defaultMuted = true; media.playsInline = true;
+        media.setAttribute('muted', '');
+        media.setAttribute('playsinline', '');
+        media.src = previewUrl;
+        media.load();
+        var p = media.play && media.play();
+        if (p && p.catch) p.catch(function () {});
+        media.addEventListener('loadeddata', hideSkeleton, { once: true });
+        media.addEventListener('error', function () {
+          media.style.display = 'none';
+          showError();
+        }, { once: true });
+      }
+      // 进入视口（提前 200px 预载）即下载并自动循环播放；滚出视口暂停（省电省流量）。
       if ('IntersectionObserver' in window) {
         var io = new IntersectionObserver(function (entries) {
           entries.forEach(function (entry) {
             if (entry.isIntersecting) {
-              visibleMap.set(card, entry.intersectionRatio || 1);
-              if (item.started) {
-                var rp = media.play && media.play();
-                if (rp && rp.catch) rp.catch(function () {});
-              } else {
-                pump();
-              }
-            } else {
-              visibleMap.delete(card);
-              if (media.dataset.loaded) media.pause();
+              loadPreview();
+            } else if (media.dataset.loaded) {
+              media.pause();
             }
           });
         }, { rootMargin: '200px 0px' });
         io.observe(media);
       } else {
-        visibleMap.set(card, 1);
-        pump();
+        loadPreview();
       }
     });
 
-    // 启动单个视频加载（受 MAX_CONCURRENT 限制）
-    function startLoad(it) {
-      if (it.started) return;
-      it.started = true;
-      var m = it.media;
-      m.dataset.loaded = '1';
-      m.muted = true; m.defaultMuted = true; m.playsInline = true;
-      m.setAttribute('muted', '');
-      m.setAttribute('playsinline', '');
-      m.src = it.url;
-      m.load();
-      var p = m.play && m.play();
-      if (p && p.catch) p.catch(function () {});
-      var done = function () { activeLoads--; it.busy = false; pump(); };
-      m.addEventListener('loadeddata', function () { it.hideSkeleton(); done(); }, { once: true });
-      m.addEventListener('error', function () { m.style.display = 'none'; it.showError(); done(); }, { once: true });
-    }
-
-    // 从前到后（DOM 顺序）依次加载：在「已进入视口」的视频里，优先加载 DOM 序号最小（最靠上）的那个，
-    // 最多同时 MAX_CONCURRENT 个。这样顶部永远最先填满，再向下推进——对微信等并发受限的 WebView 更可控。
-    function pump() {
-      if (activeLoads >= MAX_CONCURRENT) return;
-      var best = null, bestIdx = Infinity;
-      registry.forEach(function (it) {
-        if (it.started || it.busy) return;
-        if (!visibleMap.has(it.card)) return; // 仅加载已进入视口的
-        if (it.domIndex < bestIdx) { bestIdx = it.domIndex; best = it; }
-      });
-      // 兜底：当前没有可见视频时（极端情况），按 DOM 顺序取第一个未开始的
-      if (!best) {
-        registry.forEach(function (it) {
-          if (it.started || it.busy) return;
-          if (it.domIndex < bestIdx) { bestIdx = it.domIndex; best = it; }
-        });
-      }
-      if (best) { activeLoads++; best.busy = true; startLoad(best); pump(); }
-    }
-
     // 移动端兜底：iOS / 微信等 WebView 会拦截「无用户手势」的自动播放（即便 muted）。
-    // 首次交互（触摸 / 点击 / 滚动）后补播所有已加载却仍暂停的视频。
+    // 首次交互（触摸 / 点击 / 滚动）后，遍历所有已加载却仍暂停的视频补播。
+    // 直接查询 DOM，不依赖闭包捕获的旧队列，避免脚本重复执行导致兜底失效。
     if (!window.__bgVideoFallbackBound) {
       window.__bgVideoFallbackBound = true;
       var kick = function () {
-        registry.forEach(function (it) {
-          if (it.media.dataset.loaded && it.media.paused) {
-            it.media.muted = true; it.media.defaultMuted = true; it.media.playsInline = true;
-            var pp = it.media.play && it.media.play();
+        document.querySelectorAll('video.video-media').forEach(function (v) {
+          if (v.dataset.loaded && v.paused) {
+            v.muted = true; v.defaultMuted = true; v.playsInline = true;
+            var pp = v.play && v.play();
             if (pp && pp.catch) pp.catch(function () {});
           }
         });
