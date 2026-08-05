@@ -16,4 +16,4 @@ __pycache__/
 *.pyc
 
 # 临时检测/生成目录
-tmp_sheet/
+tmp_*/

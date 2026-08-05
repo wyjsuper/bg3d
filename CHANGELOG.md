@@ -1,5 +1,23 @@
 # 更新日志
 
+## v20260805-1056 — 2026-08-05 10:56
+新增3个视频片头10秒跳过(MOXA-mvideo06/暗藏式马桶/三维动画作品3),video01仅10秒恢复不跳过
+
+### 提交记录
+- release: v20260805-1056 — 新增3个视频片头10秒跳过(MOXA-mvideo06/暗藏式马桶/三维动画作品3),video01仅10秒恢复不跳过 (d5a1fa6)
+
+### 变更文件
+```
+M	.gitignore
+M	publish.py
+A	tmp_m06.py
+A	tmp_v01.py
+M	videos/g/mvideo06.gif
+M	videos/g/mvideo25.gif
+M	videos/g/mvideo34.gif
+```
+
+---
 ## v20260805-1013 — 2026-08-05 10:13
 9个视频片头跳过秒数统一改为10秒(GIF从10s截取+全屏自动seek)
 
