@@ -18,6 +18,7 @@ if (bg_starts_with($raw, '/')) {
   $src = bg_url($raw);
 }
 $title = isset($_GET['title']) ? (string) $_GET['title'] : '';
+$start = isset($_GET['start']) ? (float) $_GET['start'] : 0;
 $isGif = (bool) preg_match('/\.gif(\?.*)?$/i', $src);
 ?>
 <!DOCTYPE html>
@@ -110,9 +111,25 @@ $isGif = (bool) preg_match('/\.gif(\?.*)?$/i', $src);
         <?php if ($isGif): ?>
           <img src="<?php echo h($src); ?>" alt="<?php echo h($title); ?>" style="display:block;width:100%;height:auto;max-height:80vh;background:#000;">
         <?php else: ?>
-          <video autoplay controls playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5" x5-video-player-fullscreen="true" preload="metadata">
+          <video id="bg-player" autoplay controls playsinline webkit-playsinline x5-playsinline x5-video-player-type="h5" x5-video-player-fullscreen="true" preload="metadata">
             <source src="<?php echo h($src); ?>" type="video/mp4">
           </video>
+          <?php if ($start > 0): ?>
+          <script>
+            (function () {
+              var v = document.getElementById('bg-player');
+              var start = <?php echo json_encode($start, JSON_NUMERIC_CHECK); ?>;
+              function seek() {
+                if (v.duration && start < v.duration) {
+                  v.currentTime = start;
+                }
+                v.play && v.play();
+              }
+              v.addEventListener('loadedmetadata', seek, { once: true });
+              if (v.readyState >= 1) seek();
+            })();
+          </script>
+          <?php endif; ?>
         <?php endif; ?>
       <?php else: ?>
         <div class="player-empty" style="padding:48px;text-align:center;"><?php echo h(bg_pick(array('zh' => '视频不存在或链接无效', 'en' => 'Video not found or invalid link'), $lang)); ?></div>

@@ -97,6 +97,8 @@ function bg_video_card($item) {
   if ($hasVideo && $videoUrl !== '') {
     $q = 'src=' . rawurlencode($videoUrl);
     if ($title !== '') $q .= '&title=' . rawurlencode($title);
+    $introSkip = isset($item['introSkip']) ? (float) $item['introSkip'] : 0;
+    if ($introSkip > 0) $q .= '&start=' . $introSkip;
     $playUrl = bg_url('/play.php?' . $q);
   }
   echo '<article class="video-card group flex flex-col' . ($playUrl ? ' cursor-pointer' : '') . '" data-video' . ($playUrl ? (' data-play-url="' . h($playUrl) . '"') : '') . '>';

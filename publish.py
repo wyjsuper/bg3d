@@ -57,7 +57,7 @@ OUT_ZIP = os.path.join(ROOT, ZIP_NAME)
 VERSION_FILE = os.path.join(HERE, "version.json")
 CHANGELOG_FILE = os.path.join(HERE, "CHANGELOG.md")
 
-EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src", "videos"}
+EXCLUDE_DIRS = {".git", "uploads", "preview", "__pycache__", "src", "videos", "tmp_sheet"}
 EXCLUDE_FILES = {".DS_Store", "Thumbs.db"}
 EXCLUDE_EXT = {".zip"}          # gif 重新启用：网格短循环预览 videos/g/*.gif 需打进部署包
 

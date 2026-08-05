@@ -29,6 +29,7 @@ $BG_COLLECTIONS = array(
       array('key' => 'description', 'label' => '简介', 'type' => 'textarea', 'bilingual' => true),
       array('key' => 'videoUrl', 'label' => '视频文件 URL（/videos/xxx.mp4）', 'type' => 'text'),
       array('key' => 'poster', 'label' => '封面图 URL（/posters/xxx.jpg）', 'type' => 'text'),
+      array('key' => 'introSkip', 'label' => '片头 logo 跳过秒数（0 表示不跳过）', 'type' => 'text'),
     ),
   ),
   array(

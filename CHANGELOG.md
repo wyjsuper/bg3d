@@ -1,5 +1,30 @@
 # 更新日志
 
+## v20260805-0941 — 2026-08-05 09:41
+跳过片头logo:9个视频配置introSkip,网格GIF从跳过点生成,全屏播放自动seek
+
+### 提交记录
+- release: v20260805-0941 — 跳过片头logo:9个视频配置introSkip,网格GIF从跳过点生成,全屏播放自动seek (bf36662)
+
+### 变更文件
+```
+M	.gitignore
+M	lib/render.php
+M	lib/schema.php
+M	play.php
+M	publish.py
+M	videos/g/mvideo05.gif
+M	videos/g/mvideo09.gif
+M	videos/g/mvideo15.gif
+M	videos/g/mvideo16.gif
+M	videos/g/mvideo17.gif
+M	videos/g/mvideo23.gif
+M	videos/g/mvideo24.gif
+M	videos/g/mvideo29.gif
+M	videos/g/mvideo31.gif
+```
+
+---
 ## v20260805-0909 — 2026-08-05 09:09
 GIF网格预览修正:排除videos根旧gif/images/cases gif,仅保留videos/g/网格预览+原版mp4全屏,去掉冗余videos/m
 
