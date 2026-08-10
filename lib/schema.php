@@ -75,6 +75,28 @@ $BG_COLLECTIONS = array(
     ),
   ),
   array(
+    'type' => 'aiFdeNews', 'label' => 'AI FDE 最新信息', 'singular' => '资讯', 'singleton' => false,
+    'fields' => array(
+      array('key' => 'title', 'label' => '标题', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'summary', 'label' => '摘要', 'type' => 'textarea', 'bilingual' => true),
+      array('key' => 'category', 'label' => '分类', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'source', 'label' => '来源媒体', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'date', 'label' => '日期', 'type' => 'text'),
+      array('key' => 'link', 'label' => '原文链接', 'type' => 'text'),
+    ),
+  ),
+  array(
+    'type' => 'aiFdeNewsEn', 'label' => 'AI FDE 最新信息（英文·国际）', 'singular' => '资讯', 'singleton' => false,
+    'fields' => array(
+      array('key' => 'title', 'label' => '标题', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'summary', 'label' => '摘要', 'type' => 'textarea', 'bilingual' => true),
+      array('key' => 'category', 'label' => '分类', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'source', 'label' => '来源媒体', 'type' => 'text', 'bilingual' => true),
+      array('key' => 'date', 'label' => '日期', 'type' => 'text'),
+      array('key' => 'link', 'label' => '原文链接', 'type' => 'text'),
+    ),
+  ),
+  array(
     'type' => 'contact', 'label' => '联系信息', 'singular' => '联系信息', 'singleton' => true,
     'fields' => array(
       array('key' => 'address', 'label' => '地址', 'type' => 'text', 'bilingual' => true),

@@ -1,0 +1,2470 @@
+{
+  "nav": [
+    {
+      "id": "nav-0",
+      "label": {
+        "zh": "北港3D",
+        "en": "BEIGANG 3D"
+      },
+      "href": "/",
+      "children": [
+        {
+          "label": {
+            "zh": "网站建设",
+            "en": "Website Development"
+          },
+          "href": "/case?cat=web"
+        },
+        {
+          "label": {
+            "zh": "图片 / 视频",
+            "en": "Images / Video"
+          },
+          "href": "/case?cat=media"
+        }
+      ]
+    },
+    {
+      "id": "nav-fde",
+      "label": {
+        "zh": "FDE地图",
+        "en": "FDE Map"
+      },
+      "href": "/fde-map",
+      "children": [
+        {
+          "label": {
+            "zh": "WiKi知识库",
+            "en": "WiKi Knowledge Base"
+          },
+          "href": "https://wiki.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "量化交易",
+            "en": "Quant Trading"
+          },
+          "href": "https://quant.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "移民留学",
+            "en": "Immigration & Study"
+          },
+          "href": "https://onward.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "玄机阁",
+            "en": "Xuanji Pavilion"
+          },
+          "href": "https://fortune.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "英语口语",
+            "en": "Spoken English"
+          },
+          "href": "https://oral.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "小朋友视频库",
+            "en": "Kids Video Library"
+          },
+          "href": "https://kidbbc.eupgrading.com/"
+        }
+      ]
+    },
+    {
+      "id": "nav-1",
+      "label": {
+        "zh": "WiKi知识库",
+        "en": "WiKi Knowledge Base"
+      },
+      "href": "https://wiki.eupgrading.com/",
+      "children": [
+        {
+          "label": {
+            "zh": "内贸营销推广和运维",
+            "en": "Domestic Marketing & Operations"
+          },
+          "href": "https://wiki.091384.xyz/"
+        },
+        {
+          "label": {
+            "zh": "外贸营销推广和运维",
+            "en": "Global Marketing & Operations"
+          },
+          "href": "/plan#overseas"
+        },
+        {
+          "label": {
+            "zh": "网站 / 小程序 / 公众号",
+            "en": "Website / Mini-program / Official Account"
+          },
+          "href": "/plan#platform"
+        },
+        {
+          "label": {
+            "zh": "会展资料设计制作",
+            "en": "Exhibition Material Design"
+          },
+          "href": "/plan#expo"
+        },
+        {
+          "label": {
+            "zh": "文化氛围设计落地",
+            "en": "Cultural Ambience Implementation"
+          },
+          "href": "/plan#culture"
+        },
+        {
+          "label": {
+            "zh": "图片视频拍摄后期",
+            "en": "Photo & Video Production"
+          },
+          "href": "/plan#shoot"
+        }
+      ]
+    },
+    {
+      "id": "nav-2",
+      "label": {
+        "zh": "服务 Service",
+        "en": "Services"
+      },
+      "href": "/service",
+      "children": []
+    },
+    {
+      "id": "nav-3",
+      "label": {
+        "zh": "北港3D Profile",
+        "en": "BEIGANG 3D Profile"
+      },
+      "href": "/profile",
+      "children": []
+    },
+    {
+      "id": "nav-4",
+      "label": {
+        "zh": "发现 Points",
+        "en": "Discover"
+      },
+      "href": "/points",
+      "children": []
+    },
+    {
+      "id": "nav-5",
+      "label": {
+        "zh": "联系 Contact",
+        "en": "Contact"
+      },
+      "href": "/contact",
+      "children": []
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-0",
+      "title": {
+        "zh": "苏州倍思创电子智能设备 PPT 设计制作",
+        "en": "Suzhou Beisichuang Electronic Smart Device PPT Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "深入沟通需求，精准拍摄素材，专业路演呈现。",
+        "en": "In-depth requirement discussion, precise footage shooting, professional roadshow presentation."
+      },
+      "image": "/images/cases/fc8dbcdbdedd7e5.jpg"
+    },
+    {
+      "id": "case-1",
+      "title": {
+        "zh": "苏州大森塑胶外贸独立站定制设计",
+        "en": "Suzhou Dasen Plastic Foreign Trade Independent Site Custom Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "产品视觉革新，全系三维图片提升海外转化。",
+        "en": "Product visual innovation with full-series 3D imagery to boost overseas conversion."
+      },
+      "image": "/images/cases/0f06e02b17bdc.jpg"
+    },
+    {
+      "id": "case-2",
+      "title": {
+        "zh": "苏州悦瑞思 YREATH 品牌 VI 设计",
+        "en": "Suzhou Yueruisi YREATH Brand VI Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "命名到 VI 系统落地，可延展的识别规范。",
+        "en": "From naming to VI system implementation, with extensible identity guidelines."
+      },
+      "image": "/images/cases/00c604e7e6ff0b6.jpg"
+    },
+    {
+      "id": "case-3",
+      "title": {
+        "zh": "宽扬纺织外贸网站设计",
+        "en": "Kuanyang Textile Foreign Trade Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "多语言外贸独立站，适配全球受众。",
+        "en": "Multilingual foreign trade site adapted for global audiences."
+      },
+      "image": "/images/cases/26d7b7ca6f1369a.gif"
+    },
+    {
+      "id": "case-4",
+      "title": {
+        "zh": "中业新能源太阳能光伏产品宣传册",
+        "en": "Zhongye New Energy Solar PV Product Brochure"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "产品样本册设计，强化科技与清洁能源调性。",
+        "en": "Product catalog design reinforcing a tech and clean-energy tone."
+      },
+      "image": "/images/cases/7ddf6bb7c90f24a.jpg"
+    },
+    {
+      "id": "case-5",
+      "title": {
+        "zh": "明皓 MH3 外贸网站设计制作",
+        "en": "Minghao MH3 Foreign Trade Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "外贸官网策划—设计—上线运维一体交付。",
+        "en": "Foreign trade official site: planning, design, launch and O&M delivered end-to-end."
+      },
+      "image": "/images/cases/772d27c7a545dda.jpg"
+    },
+    {
+      "id": "case-6",
+      "title": {
+        "zh": "华昱纺织服饰宣传画册设计制作",
+        "en": "Huayu Textile & Apparel Promotional Brochure Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "画册系统梳理品牌资产，统一视觉语言。",
+        "en": "Brochure systematically organizes brand assets and unifies visual language."
+      },
+      "image": "/images/cases/911f6554fb5f2.gif"
+    },
+    {
+      "id": "case-7",
+      "title": {
+        "zh": "力扬激光切割机外贸独立站",
+        "en": "Liyang Laser Cutting Machine Foreign Trade Independent Site"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "工业设备外贸站，三维动画辅助说明。",
+        "en": "Industrial equipment foreign trade site with 3D animation aids."
+      },
+      "image": "/images/cases/9a0f6fa0a356800.jpg"
+    },
+    {
+      "id": "case-8",
+      "title": {
+        "zh": "苏州康蓓德负离子调氧仪品牌官网",
+        "en": "Suzhou Kangbeide Negative Ion Oxygen Regulator Brand Official Website"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "品牌官网设计，突出健康科技感。",
+        "en": "Brand official site design highlighting a health-tech feel."
+      },
+      "image": "/images/cases/aacd1883b8f7004.jpg"
+    },
+    {
+      "id": "case-9",
+      "title": {
+        "zh": "奥维空间品牌 VI 和 LOGO 设计",
+        "en": "Aowei Space Brand VI and LOGO Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "从 Logo 到 VI 规范的全套品牌识别。",
+        "en": "Full brand identity from Logo to VI guidelines."
+      },
+      "image": "/images/cases/bd4685fe664fa85.gif"
+    },
+    {
+      "id": "case-10",
+      "title": {
+        "zh": "江阴五岳内百页磁悬浮中空玻璃产品画册",
+        "en": "Jiangyin Wuyue Interior Blinds Magnetic-Levitation Insulated Glass Product Catalog"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "产品样本册设计，凸显节能工艺。",
+        "en": "Product catalog design highlighting energy-saving craftsmanship."
+      },
+      "image": "/images/cases/78f4dfc3404d9c3.jpg"
+    },
+    {
+      "id": "case-11",
+      "title": {
+        "zh": "明澔冷镦模具海报招贴设计制作",
+        "en": "Minghao Cold Heading Die Poster Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "展会海报招贴，强视觉冲击。",
+        "en": "Exhibition posters with strong visual impact."
+      },
+      "image": "/images/cases/7a8ad07fe417710.jpg"
+    },
+    {
+      "id": "case-12",
+      "title": {
+        "zh": "SWELL 激光打码机外贸网站设计",
+        "en": "SWELL Laser Marking Machine Foreign Trade Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "外贸独立站设计，适配海外买家。",
+        "en": "Foreign trade independent site designed for overseas buyers."
+      },
+      "image": "/images/cases/414ec8eb1eb1000.jpg"
+    },
+    {
+      "id": "case-13",
+      "title": {
+        "zh": "采纳股份医用产品样册设计",
+        "en": "Caina Medical Product Sample Catalog Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "医疗行业样本册，专业严谨。",
+        "en": "Medical-industry catalog, professional and rigorous."
+      },
+      "image": "/images/cases/a903a9af53c7629.gif"
+    },
+    {
+      "id": "case-14",
+      "title": {
+        "zh": "魔客食品外贸网站建设",
+        "en": "Moke Food Foreign Trade Website Development"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "食品外贸站，鲜活视觉与多语言。",
+        "en": "Food foreign trade site with fresh visuals and multilingual support."
+      },
+      "image": "/images/cases/e01cf5545635767.jpg"
+    },
+    {
+      "id": "case-15",
+      "title": {
+        "zh": "意格耐特 IGNITE 品牌 LOGO 设计",
+        "en": "Yigenite IGNITE Brand LOGO Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "品牌标识设计，传递创新能量。",
+        "en": "Brand mark design conveying innovative energy."
+      },
+      "image": "/images/cases/d56a3e99b2f0014.gif"
+    },
+    {
+      "id": "case-16",
+      "title": {
+        "zh": "朗高智能 PDF 电子画册设计",
+        "en": "Langgao Intelligent PDF E-Brochure Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "电子样本册制作，便于线上分发。",
+        "en": "E-catalog production for easy online distribution."
+      },
+      "image": "/images/cases/f77b8a3c912028f.gif"
+    },
+    {
+      "id": "case-17",
+      "title": {
+        "zh": "红壹佰节能灯产品画册设计",
+        "en": "Hongyibai Energy-Saving Lamp Product Catalog Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "节能照明产品样本册设计。",
+        "en": "Energy-saving lighting product catalog design."
+      },
+      "image": "/images/cases/a8e4cae26fcf7c6.jpg"
+    },
+    {
+      "id": "case-18",
+      "title": {
+        "zh": "锐正刀具品牌 VI 设计",
+        "en": "Ruizheng Cutting Tools Brand VI Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "工业刀具品牌视觉系统。",
+        "en": "Industrial cutting-tool brand visual system."
+      },
+      "image": "/images/cases/6c239e48e8dbbcf.jpg"
+    },
+    {
+      "id": "case-19",
+      "title": {
+        "zh": "吉玛自动化 PVC 集中供料系统三维动画",
+        "en": "Jima Automation PVC Central Feeding System 3D Animation"
+      },
+      "category": {
+        "zh": "图片 / 视频",
+        "en": "Images / Video"
+      },
+      "description": {
+        "zh": "工业设备三维动画渲染制作。",
+        "en": "Industrial equipment 3D animation rendering."
+      },
+      "image": "/images/cases/2e511e9be173c2b.gif"
+    },
+    {
+      "id": "case-20",
+      "title": {
+        "zh": "LEHEHE 品牌 LOGO / VI 设计",
+        "en": "LEHEHE Brand LOGO / VI Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "品牌识别系统设计落地。",
+        "en": "Brand identity system design implementation."
+      },
+      "image": "/images/cases/bdfb1f5c0f732ab.gif"
+    },
+    {
+      "id": "case-21",
+      "title": {
+        "zh": "狄龙 DELON 铆钉外贸网站设计",
+        "en": "Dilong DELON Rivet Foreign Trade Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "外贸独立站定制设计与搭建。",
+        "en": "Custom foreign trade independent site design and build."
+      },
+      "image": "/images/cases/597f30c2b6101ce.jpg"
+    },
+    {
+      "id": "case-22",
+      "title": {
+        "zh": "苏州华昱纺织 LEHEHE 外贸独立站",
+        "en": "Suzhou Huayu Textile LEHEHE Foreign Trade Independent Site"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "纺织外贸站，统一品牌空间。",
+        "en": "Textile foreign trade site with unified brand space."
+      },
+      "image": "/images/cases/b8a5bb3f938cce2.gif"
+    },
+    {
+      "id": "case-23",
+      "title": {
+        "zh": "常州汇拓科技展会画册海报设计",
+        "en": "Changzhou Huituo Tech Exhibition Catalog & Poster Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "展会资料设计制作。",
+        "en": "Exhibition material design and production."
+      },
+      "image": "/images/cases/fb3de9ea407ab.gif"
+    },
+    {
+      "id": "case-24",
+      "title": {
+        "zh": "锐正精密工具产品样本画册",
+        "en": "Ruizheng Precision Tools Product Sample Catalog"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "精密工具产品样本设计。",
+        "en": "Precision tool product sample design."
+      },
+      "image": "/images/cases/a57d0bea605da50.gif"
+    },
+    {
+      "id": "case-25",
+      "title": {
+        "zh": "苏州秋山模具网站设计制作",
+        "en": "Suzhou Qiushan Mold Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "企业官网设计与搭建。",
+        "en": "Corporate official website design and build."
+      },
+      "image": "/images/cases/a09ef65e2316bce.jpg"
+    },
+    {
+      "id": "case-26",
+      "title": {
+        "zh": "杭州可瑞仕电梯 PPT 设计制作",
+        "en": "Hangzhou Keruishi Elevator PPT Design"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "电梯行业路演 PPT 设计。",
+        "en": "Elevator-industry roadshow PPT design."
+      },
+      "image": "/images/cases/4a2f6d84a512fbd.jpg"
+    },
+    {
+      "id": "case-27",
+      "title": {
+        "zh": "PE 管接头生产设备三维动画渲染",
+        "en": "PE Pipe Fitting Production Equipment 3D Animation Rendering"
+      },
+      "category": {
+        "zh": "图片 / 视频",
+        "en": "Images / Video"
+      },
+      "description": {
+        "zh": "工业三维动画渲染制作。",
+        "en": "Industrial 3D animation rendering."
+      },
+      "image": "/images/cases/52138ee42f0f.gif"
+    },
+    {
+      "id": "case-28",
+      "title": {
+        "zh": "秦风机械外贸网站设计制作",
+        "en": "Qinfeng Machinery Foreign Trade Website Design"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "机械外贸独立站设计与搭建。",
+        "en": "Machinery foreign trade independent site design and build."
+      },
+      "image": "/images/cases/632c10db6ecc009.jpg"
+    },
+    {
+      "id": "case-29",
+      "title": {
+        "zh": "苏州拓维 TOVOT 智能装备外贸独立站",
+        "en": "Suzhou Tuowei TOVOT Intelligent Equipment Foreign Trade Independent Site"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "智能装备外贸站定制设计与搭建。",
+        "en": "Intelligent equipment foreign trade site custom design and build."
+      },
+      "image": "/images/cases/06f124545642090.jpg"
+    },
+    {
+      "id": "case-30",
+      "title": {
+        "zh": "采纳科技标志设计（品牌 VI）",
+        "en": "Caina Technology Logo Design (Brand VI)"
+      },
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      },
+      "description": {
+        "zh": "企业标志与 VI 系统设计。",
+        "en": "Corporate logo and VI system design."
+      },
+      "image": "/images/cases/0a8ec42551ed991.jpg"
+    },
+    {
+      "id": "case-31",
+      "title": {
+        "zh": "华昱服饰阿里国际站旺铺与详情页运维",
+        "en": "Huayu Apparel Alibaba International Store & Detail Page O&M"
+      },
+      "category": {
+        "zh": "网站建设",
+        "en": "Website Development"
+      },
+      "description": {
+        "zh": "国际站旺铺与详情页设计运维。",
+        "en": "International storefront and detail page design & O&M"
+      },
+      "image": "/images/cases/b8a5bb3f938cce2.gif"
+    }
+  ],
+  "threeds": [
+    {
+      "id": "rv01",
+      "title": {
+        "zh": "MOXA工业以太网交换机三维动画",
+        "en": "MOXA Industrial Ethernet Switch 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video01.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv02",
+      "title": {
+        "zh": "工业声光报警器三维动画",
+        "en": "Industrial Sound and Light Alarm 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video02.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv03",
+      "title": {
+        "zh": "工业安全继电器三维动画",
+        "en": "Industrial Safety Relay 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video03.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv04",
+      "title": {
+        "zh": "工业用大功率桶式吸尘器三维动画",
+        "en": "Industrial High-power Barrel Vacuum Cleaner 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video04.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv05",
+      "title": {
+        "zh": "工业设备按钮安装支架三维动画",
+        "en": "Industrial Equipment Button Mounting Bracket 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video05.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv06",
+      "title": {
+        "zh": "欧姆龙工业光电传感器三维动画",
+        "en": "Omron Industrial Photoelectric Sensor 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video06.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv01",
+      "title": {
+        "zh": "杰诺JN-601型号工业设备三维动",
+        "en": "Jienuo JN-601 Model Industrial Equipment 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "工业用大功率桶式吸尘器，杰诺JN-601型号，70升容量，3500W功率，220V供电，不锈钢桶身直径约450mm高约800mm，顶部有电机罩和提手，侧面有吸尘软管接口和轮子，底部有万向轮，工业清洁设备，北港3D团队将全面深入拆解杰诺自动化集中供料系统的工作原理、技术参数与工艺细节，为三维动画制作内容的专业度与准确性筑牢基础。",
+        "en": "Industrial high-power drum vacuum cleaner, Jienuo JN-601 model, 70L capacity, 3500W power, 220V supply, stainless steel body about 450mm diameter and 800mm tall, with motor cover and handle on top, hose inlet and wheels on the side, swivel casters at the bottom, industrial cleaning equipment. Beigang3D team will thoroughly analyze the working principle, technical parameters and process details of Jienuo automatic centralized feeding system to ensure professional accuracy of the 3D animation."
+      },
+      "videoUrl": "/videos/mvideo01.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv02",
+      "title": {
+        "zh": "欧姆龙工业光电传感器型号E3ZG-D62-S三维动画渲染制作",
+        "en": "Omron Industrial Photoelectric Sensor Model E3ZG-D62-S 3D Animation Rendering"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "欧姆龙工业光电传感器，型号E3ZG-D62-S，圆柱形金属外壳，直径约18mm长度约50mm，前端为光学镜头窗口，尾部为M12航空插头接口，镀镍黄铜外壳深灰色金属质感，侧面有橙色LED指示灯，工业自动化设备配件，3D渲染，展示正视图和45度视角，纯色背景 生成视频",
+        "en": "Omron industrial photoelectric sensor, model E3ZG-D62-S, cylindrical metal housing about 18mm diameter and 50mm length, optical lens window at front, M12 aviation plug at rear, nickel-plated brass dark-grey metallic shell, orange LED indicator on the side, industrial automation component, 3D render showing front and 45-degree views on plain background."
+      },
+      "videoUrl": "/videos/mvideo02.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv03",
+      "title": {
+        "zh": "工业设备按钮安装支架三维动画制",
+        "en": "Industrial Equipment Button Mounting Bracket 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "工业设备按钮安装支架，短款，安装孔径22mm，外形尺寸45mm×35mm×55mm（长×宽×高），L型折弯钢板结构，顶部圆形安装孔，底部有固定螺孔，表面镀锌处理银灰色，工业设备配件风格，3D渲染，等轴测视角，展示正面、侧面、顶面三个角度，纯色背景，金属质感",
+        "en": "Industrial equipment button mounting bracket, short type, 22mm mount hole, dimensions 45x35x55mm (LxWxH), L-shaped bent steel plate, round top hole, fixing screw holes at bottom, galvanized silver-grey surface, industrial component style, 3D isometric render of front, side and top views on plain background, metallic texture."
+      },
+      "videoUrl": "/videos/mvideo04.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv04",
+      "title": {
+        "zh": "杭州天冠科技TGSG-160型号",
+        "en": "Hangzhou Tianguan Tech TGSG-160 Model"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "工业声光报警器，杭州天冠科技TGSG-160型号，DC24V供电，圆柱形主体直径约80mm高约120mm，顶部有红色旋转警示灯罩，侧面有蜂鸣器开孔，底部有安装法兰和接线端子，主体红色塑料外壳，工业安全设备风格，3D渲染，展示整体外形和顶部旋转灯结构，纯色背景 生成视频",
+        "en": "Industrial audible-visual alarm, Hangzhou Tianguan Tech TGSG-160 model, DC24V, cylindrical body about 80mm diameter and 120mm tall, red rotating warning light cover on top, buzzer holes on the side, mounting flange and terminals at bottom, red plastic shell, industrial safety equipment style, 3D render of overall shape and top rotating light on plain background."
+      },
+      "videoUrl": "/videos/mvideo05.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv05",
+      "title": {
+        "zh": "MOXA工业以太网交换机三维动画",
+        "en": "MOXA Industrial Ethernet Switch 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "MOXA工业以太网交换机，型号EDS-205A，金属外壳长方形，约120mm×90mm×30mm，前面板有5个RJ45网口带绿色黄色LED状态灯，顶部有DIN导轨安装槽，外壳深灰色金属，工业网络设备风格，3D渲染，展示前面板接口和侧面导轨结构，纯色背景 生成视频",
+        "en": "MOXA industrial Ethernet switch, model EDS-205A, rectangular metal housing about 120x90x30mm, front panel with 5 RJ45 ports and green/yellow LED indicators, DIN-rail slot on top, dark-grey metallic shell, industrial network device style, 3D render of front ports and side rail on plain background."
+      },
+      "videoUrl": "/videos/mvideo06.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv06",
+      "title": {
+        "zh": "西门子工业安全继电器型号3SK1112-1BB40三维动画",
+        "en": "Siemens Industrial Safety Relay Model 3SK1112-1BB40 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "西门子工业安全继电器，型号3SK1112-1BB40，矩形塑料外壳，宽约45mm高约75mm厚约110mm，顶部有弹簧式接线端子排，正面有LED状态指示灯红绿双色，底部有DIN导轨卡扣，外壳浅灰色西门子工业灰，正面印有SIEMENS品牌标识和型号标签，工业控制设备风格，3D渲染，等轴测视角，展示正面、顶部、侧面，纯色背景",
+        "en": "Siemens industrial safety relay, model 3SK1112-1BB40, rectangular plastic housing about 45mm wide, 75mm high, 110mm deep, spring terminal block on top, red/green dual-color LED on front, DIN-rail clip at bottom, light-grey Siemens industrial shell with SIEMENS logo and model label, industrial control device style, 3D isometric render of front, top and side on plain background."
+      },
+      "videoUrl": "/videos/mvideo09.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv09",
+      "title": {
+        "zh": "图胜离心机工业产品三维演示动画",
+        "en": "Tusheng Centrifuge Industrial Product 3D Demo Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "离心机产品三维演示动画，辅助营销推广资料制作。",
+        "en": "Centrifuge product 3D demo animation supporting marketing promotion material production."
+      },
+      "videoUrl": "/videos/mvideo13.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv10",
+      "title": {
+        "zh": "富昶燃油式锅炉 3D 三维动画",
+        "en": "Fuchang Oil-Fired Boiler 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "燃油式锅炉 3D 三维动画，呈现燃烧与换热流程。",
+        "en": "Oil-fired boiler 3D animation presenting combustion and heat-exchange processes."
+      },
+      "videoUrl": "/videos/mvideo14.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv11",
+      "title": {
+        "zh": "春秋制袋机械三维图渲染",
+        "en": "Chunqiu Bag-Making Machinery 3D Rendering"
+      },
+      "category": {
+        "zh": "工业三维渲染",
+        "en": "Industrial 3D Rendering"
+      },
+      "description": {
+        "zh": "制袋机械三维渲染图，展现结构与外观细节。",
+        "en": "Bag-making machinery 3D rendering showing structural and appearance details."
+      },
+      "videoUrl": "/videos/mvideo15.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv12",
+      "title": {
+        "zh": "格劳兰 GLORAIR 工业脉冲除尘设备",
+        "en": "GLORAIR Industrial Pulse Dust Collector"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "脉冲除尘设备三维演示，体现环保治理实力。",
+        "en": "Pulse dust collector 3D demo showcasing environmental governance strength."
+      },
+      "videoUrl": "/videos/mvideo16.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv13",
+      "title": {
+        "zh": "钋镭自动化工业产品三维渲染图（三维分解图）",
+        "en": "Polai Automation Industrial Product 3D Rendering (Exploded View)"
+      },
+      "category": {
+        "zh": "工业三维渲染",
+        "en": "Industrial 3D Rendering"
+      },
+      "description": {
+        "zh": "工业产品三维渲染与分解图制作，透视内部结构。",
+        "en": "Industrial product 3D rendering and exploded-view production revealing internal structure."
+      },
+      "videoUrl": "/videos/mvideo17.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv14",
+      "title": {
+        "zh": "工业桨叶三维 3D 渲染图",
+        "en": "Industrial Blade 3D Rendering"
+      },
+      "category": {
+        "zh": "工业三维渲染",
+        "en": "Industrial 3D Rendering"
+      },
+      "description": {
+        "zh": "工业桨叶三维渲染图，呈现曲面与材质质感。",
+        "en": "Industrial blade 3D rendering showing curved surfaces and material texture."
+      },
+      "videoUrl": "/videos/mvideo18.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv15",
+      "title": {
+        "zh": "格劳兰工业滤筒除尘设备三维演示动画",
+        "en": "GLORAIR Industrial Cartridge Dust Collector 3D Demo Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "滤筒除尘设备三维演示动画，展示过滤流程。",
+        "en": "Cartridge dust collector 3D demo animation showing filtration process."
+      },
+      "videoUrl": "/videos/mvideo19.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv16",
+      "title": {
+        "zh": "全自动塑料板材挤出生产线 3D 动画",
+        "en": "Fully Automatic Plastic Sheet Extrusion Line 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "全自动挤出生产线 3D 动画，完整还原产线节拍。",
+        "en": "Fully automatic extrusion line 3D animation faithfully restoring production rhythm."
+      },
+      "videoUrl": "/videos/mvideo23.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv17",
+      "title": {
+        "zh": "明皓冷镦模具三维演示动画",
+        "en": "Minghao Cold Heading Die 3D Demo Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "冷镦模具三维演示动画，呈现成型工艺。",
+        "en": "Cold heading die 3D demo animation showing forming process."
+      },
+      "videoUrl": "/videos/mvideo24.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv18",
+      "title": {
+        "zh": "暗藏式马桶三维模拟动画",
+        "en": "Concealed Toilet 3D Simulation Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "暗藏式马桶三维模拟动画，演示结构与使用方式。",
+        "en": "Concealed toilet 3D simulation animation demonstrating structure and usage."
+      },
+      "videoUrl": "/videos/mvideo25.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv19",
+      "title": {
+        "zh": "富昶锅炉产品 3D 展示动画",
+        "en": "Fuchang Boiler Product 3D Showcase Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "锅炉产品 3D 展示动画，强化品牌技术感。",
+        "en": "Boiler product 3D showcase animation reinforcing a technical brand feel."
+      },
+      "videoUrl": "/videos/mvideo29.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv20",
+      "title": {
+        "zh": "三维动画作品 1",
+        "en": "3D Animation Work 1"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/mvideo31.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "mv21",
+      "title": {
+        "zh": "三维动画作品 2",
+        "en": "3D Animation Work 2"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/mvideo33.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "mv22",
+      "title": {
+        "zh": "三维动画作品 3",
+        "en": "3D Animation Work 3"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/mvideo34.mp4",
+      "poster": "",
+      "introSkip": "10"
+    },
+    {
+      "id": "rv27",
+      "title": {
+        "zh": "工业陶瓷压力变送器三维动画",
+        "en": "Industrial Ceramic Pressure Transmitter 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video07.mp4",
+      "poster": "",
+      "introSkip": "0"
+    },
+    {
+      "id": "rv28",
+      "title": {
+        "zh": "黄石三通工业气动马达三维动画",
+        "en": "Huangshi Three-way Industrial Pneumatic Motor 3D Animation"
+      },
+      "category": {
+        "zh": "工业三维动画",
+        "en": "Industrial 3D Animation"
+      },
+      "description": {
+        "zh": "",
+        "en": ""
+      },
+      "videoUrl": "/videos/video08.mp4",
+      "poster": "",
+      "introSkip": "0"
+    }
+  ],
+  "stats": [
+    {
+      "id": "stat-0",
+      "value": "23+",
+      "label": {
+        "zh": "创建于 2003，丰富行业经验",
+        "en": "Founded in 2003 with rich industry experience"
+      }
+    },
+    {
+      "id": "stat-1",
+      "value": "600+",
+      "label": {
+        "zh": "长期合作共赢客户",
+        "en": "Long-term win-win cooperative clients"
+      }
+    },
+    {
+      "id": "stat-2",
+      "value": "17",
+      "label": {
+        "zh": "资深设计与技术人员",
+        "en": "Senior design and technical personnel"
+      }
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan-0",
+      "title": {
+        "zh": "内贸营销推广和运维",
+        "en": "Domestic Marketing & Operations"
+      },
+      "items": [
+        {
+          "zh": "百度 SEO 优化排名",
+          "en": "Baidu SEO Ranking Optimization"
+        },
+        {
+          "zh": "百度广告 / 爱采购 / H5 基木鱼",
+          "en": "Baidu Ads / Ai CaiGou / H5 JiMuYu"
+        },
+        {
+          "zh": "短视频拍摄和推广",
+          "en": "Short Video Shooting and Promotion"
+        },
+        {
+          "zh": "1688 站设计和数字营销",
+          "en": "1688 Site Design and Digital Marketing"
+        },
+        {
+          "zh": "社媒广告投放推广",
+          "en": "Social Media Ad Placement and Promotion"
+        },
+        {
+          "zh": "官网设计",
+          "en": "Official Website Design"
+        },
+        {
+          "zh": "必应 Bing 推广运维",
+          "en": "Bing Promotion and O&M"
+        }
+      ]
+    },
+    {
+      "id": "plan-1",
+      "title": {
+        "zh": "外贸营销推广和运维",
+        "en": "Global Marketing & Operations"
+      },
+      "items": [
+        {
+          "zh": "Google ADS & SEO",
+          "en": "Google ADS & SEO"
+        },
+        {
+          "zh": "Yandex ADS & SEO",
+          "en": "Yandex ADS & SEO"
+        },
+        {
+          "zh": "外贸独立网站设计",
+          "en": "Foreign Trade Independent Website Design"
+        },
+        {
+          "zh": "YouTube 搭建和推广",
+          "en": "YouTube Setup and Promotion"
+        },
+        {
+          "zh": "海外社媒 SNS 运维",
+          "en": "Overseas Social Media SNS O&M"
+        },
+        {
+          "zh": "阿里国际站建设运维",
+          "en": "Alibaba International Station Build and O&M"
+        },
+        {
+          "zh": "中国制造网优化运维",
+          "en": "Made-in-China.com Optimization and O&M"
+        },
+        {
+          "zh": "FaceBook ADS",
+          "en": "FaceBook ADS"
+        }
+      ]
+    },
+    {
+      "id": "plan-2",
+      "title": {
+        "zh": "网站 / 小程序 / 公众号",
+        "en": "Website / Mini-program / Official Account"
+      },
+      "items": [
+        {
+          "zh": "企业官网设计",
+          "en": "Corporate Official Website Design"
+        },
+        {
+          "zh": "多语言独立站设计",
+          "en": "Multilingual Independent Site Design"
+        },
+        {
+          "zh": "小程序定制设计",
+          "en": "Mini-Program Custom Design"
+        },
+        {
+          "zh": "B2B / B2C 商城店铺设计",
+          "en": "B2B / B2C Mall Store Design"
+        },
+        {
+          "zh": "微信公众号设计运维",
+          "en": "WeChat Official Account Design and O&M"
+        },
+        {
+          "zh": "落地页详情设计",
+          "en": "Landing Page Detail Design"
+        }
+      ]
+    },
+    {
+      "id": "plan-3",
+      "title": {
+        "zh": "会展资料设计制作",
+        "en": "Exhibition Material Design"
+      },
+      "items": [
+        {
+          "zh": "样本宣传画册",
+          "en": "Sample Promotional Brochure"
+        },
+        {
+          "zh": "海报招贴",
+          "en": "Posters"
+        },
+        {
+          "zh": "PPT 设计",
+          "en": "PPT Design"
+        },
+        {
+          "zh": "品牌 VI 和 Logo",
+          "en": "Brand VI and Logo"
+        },
+        {
+          "zh": "宣传片制作",
+          "en": "Promotional Video Production"
+        },
+        {
+          "zh": "产品三维动画制作",
+          "en": "Product 3D Animation Production"
+        }
+      ]
+    },
+    {
+      "id": "plan-4",
+      "title": {
+        "zh": "文化氛围设计落地",
+        "en": "Cultural Ambience Implementation"
+      },
+      "items": [
+        {
+          "zh": "企业文化氛围设计",
+          "en": "Corporate Culture Atmosphere Design"
+        },
+        {
+          "zh": "展示空间设计制作",
+          "en": "Exhibition Space Design and Production"
+        },
+        {
+          "zh": "红堡文化设计落地",
+          "en": "Hongbao Culture Design Implementation"
+        }
+      ]
+    },
+    {
+      "id": "plan-5",
+      "title": {
+        "zh": "图片视频拍摄后期",
+        "en": "Photo & Video Production"
+      },
+      "items": [
+        {
+          "zh": "工业三维图动画制作",
+          "en": "Industrial 3D Graphic Animation Production"
+        },
+        {
+          "zh": "商业图片和视频拍摄",
+          "en": "Commercial Photo and Video Shooting"
+        },
+        {
+          "zh": "短视频拍摄制作",
+          "en": "Short Video Shooting and Production"
+        },
+        {
+          "zh": "宣传片拍摄制作",
+          "en": "Promotional Film Shooting and Production"
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "svc-0",
+      "title": {
+        "zh": "数字营销推广",
+        "en": "Digital Marketing"
+      },
+      "items": [
+        {
+          "zh": "Google ADS & SEO 运维",
+          "en": "Google ADS & SEO O&M"
+        },
+        {
+          "zh": "百度 Bing 搜索广告运营",
+          "en": "Baidu Bing Search Ad Operations"
+        },
+        {
+          "zh": "独立站优化运维",
+          "en": "Independent Site Optimization and O&M"
+        },
+        {
+          "zh": "海外社媒 SNS 运维",
+          "en": "Overseas Social Media SNS O&M"
+        },
+        {
+          "zh": "国内短视频拍摄和运营",
+          "en": "Domestic Short Video Shooting and Operations"
+        },
+        {
+          "zh": "国际站 Ali 设计运营",
+          "en": "International Station Ali Design and Operations"
+        }
+      ]
+    },
+    {
+      "id": "svc-1",
+      "title": {
+        "zh": "展会品宣设计",
+        "en": "Exhibition Brand Promotion Design"
+      },
+      "items": [
+        {
+          "zh": "宣传画册设计",
+          "en": "Promotional Brochure Design"
+        },
+        {
+          "zh": "PPT 设计",
+          "en": "PPT Design"
+        },
+        {
+          "zh": "展会海报设计",
+          "en": "Exhibition Poster Design"
+        },
+        {
+          "zh": "宣传视频制作",
+          "en": "Promotional Video Production"
+        },
+        {
+          "zh": "产品三维动画",
+          "en": "Product 3D Animation"
+        }
+      ]
+    },
+    {
+      "id": "svc-2",
+      "title": {
+        "zh": "品牌设计包年",
+        "en": "Annual Brand Design"
+      },
+      "items": [
+        {
+          "zh": "VIS & LOGO 设计",
+          "en": "VIS & LOGO Design"
+        },
+        {
+          "zh": "宣传画册 / PPT",
+          "en": "Brochure / PPT"
+        },
+        {
+          "zh": "海报招贴",
+          "en": "Posters"
+        },
+        {
+          "zh": "品牌命名与商标查询",
+          "en": "Brand Naming & Trademark Search"
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-0",
+      "title": {
+        "zh": "企业自建数字营销运维团队的利弊和建议",
+        "en": "Pros, Cons & Tips for In-house Digital Marketing Teams"
+      },
+      "date": "2026-07-12",
+      "category": {
+        "zh": "市场营销",
+        "en": "Marketing"
+      }
+    },
+    {
+      "id": "art-1",
+      "title": {
+        "zh": "独立站设计的内容应该包括哪些要素？",
+        "en": "What Should an Independent Site Design Include?"
+      },
+      "date": "2026-03-20",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-2",
+      "title": {
+        "zh": "用 WORDPRESS 建站的好处",
+        "en": "Benefits of Building with WordPress"
+      },
+      "date": "2026-03-20",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-3",
+      "title": {
+        "zh": "外贸独立站如何设计和优化",
+        "en": "How to Design & Optimize a Global Independent Site"
+      },
+      "date": "2026-01-31",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-4",
+      "title": {
+        "zh": "AI 建站和定制网站设计的区别",
+        "en": "AI Site Builders vs Custom Web Design"
+      },
+      "date": "2026-03-07",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-5",
+      "title": {
+        "zh": "手机版网页成为主流，网页设计应该如何做？",
+        "en": "Mobile-first: How Should Web Design Adapt?"
+      },
+      "date": "2022-10-17",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-6",
+      "title": {
+        "zh": "攻占 SEO 搜寻排名前的关键，你应该先认识 GOOGLE 这三件事",
+        "en": "The key to top SEO rankings: first know these three things about GOOGLE"
+      },
+      "date": "2022-10-17",
+      "category": {
+        "zh": "市场营销",
+        "en": "Marketing"
+      }
+    },
+    {
+      "id": "art-7",
+      "title": {
+        "zh": "什么是网站体验核心指标？GOOGLE 优化人员不可不看的知识！",
+        "en": "What are Core Web Vitals? Essential knowledge every GOOGLE optimizer must see!"
+      },
+      "date": "2022-10-17",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-8",
+      "title": {
+        "zh": "我的网站不好看？记住这几点让网站瞬间美感爆棚！",
+        "en": "My website looks plain? These tips make it instantly beautiful!"
+      },
+      "date": "2022-10-17",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-9",
+      "title": {
+        "zh": "企业宣传册设计制作的主要成本有哪些？",
+        "en": "What are the main costs of corporate brochure design and production?"
+      },
+      "date": "2026-03-09",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-10",
+      "title": {
+        "zh": "品牌为什么要做 VI 设计",
+        "en": "Why brands should invest in VI design"
+      },
+      "date": "2023-04-17",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-11",
+      "title": {
+        "zh": "做品牌设计需要的 5 种思维",
+        "en": "5 mindsets needed for brand design"
+      },
+      "date": "2023-03-08",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-12",
+      "title": {
+        "zh": "为什么要设计品牌专属色？",
+        "en": "Why design a brand-specific color?"
+      },
+      "date": "2023-02-15",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-13",
+      "title": {
+        "zh": "企业品牌 LOGO 设计时经常会遇到那些问题？",
+        "en": "What problems often arise in corporate brand LOGO design?"
+      },
+      "date": "2023-01-30",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-14",
+      "title": {
+        "zh": "常见的 LOGO 设计类型有哪些？",
+        "en": "What are the common LOGO design types?"
+      },
+      "date": "2022-12-20",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-15",
+      "title": {
+        "zh": "优秀 LOGO 设计的抽象美！",
+        "en": "The abstract beauty of excellent LOGO design!"
+      },
+      "date": "2022-11-17",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-16",
+      "title": {
+        "zh": "LOGO 设计需要遵循的五大原则",
+        "en": "Five principles LOGO design must follow"
+      },
+      "date": "2022-10-31",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-17",
+      "title": {
+        "zh": "想要别具一格的画册设计风格？掌握这些要点，轻松制作！",
+        "en": "Want a unique brochure style? Master these points for easy production!"
+      },
+      "date": "2022-10-17",
+      "category": {
+        "zh": "品牌文化",
+        "en": "Brand Culture"
+      }
+    },
+    {
+      "id": "art-18",
+      "title": {
+        "zh": "如何让 GEMINI 和 CATGPT 抓取独立站的内容",
+        "en": "How to let GEMINI and CATGPT crawl your independent site content"
+      },
+      "date": "2026-01-31",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-19",
+      "title": {
+        "zh": "展会作为企业重要推广渠道，其电子邀请函的设计至关重要",
+        "en": "As a key promotion channel, exhibition e-invitations demand careful design"
+      },
+      "date": "2025-05-18",
+      "category": {
+        "zh": "市场营销",
+        "en": "Marketing"
+      }
+    },
+    {
+      "id": "art-20",
+      "title": {
+        "zh": "企业为什么需要做官网设计",
+        "en": "Why enterprises need official website design"
+      },
+      "date": "2023-09-23",
+      "category": {
+        "zh": "站点运营",
+        "en": "Site Operations"
+      }
+    },
+    {
+      "id": "art-21",
+      "title": {
+        "zh": "广告规划的六大核心问题",
+        "en": "Six core issues in advertising planning"
+      },
+      "date": "2018-09-27",
+      "category": {
+        "zh": "市场营销",
+        "en": "Marketing"
+      }
+    },
+    {
+      "id": "art-22",
+      "title": {
+        "zh": "GEO 优化火了！江浙沪老六们都在悄悄研究的“讨好 AI”的学问",
+        "en": "GEO optimization is trending! The AI-pleasing study quietly pursued across Jiangsu-Zhejiang-Shanghai"
+      },
+      "date": "2026-05-04",
+      "category": {
+        "zh": "市场营销",
+        "en": "Marketing"
+      }
+    }
+  ],
+  "aiFdeNews": [
+    {
+      "id": "ai-0",
+      "slug": "fde-20260809-89d09be3",
+      "title": {
+        "zh": "腾讯 × 长安汽车组建 34 人「AI 火箭班」联合 FDE 团队",
+        "en": "Tencent x Changan Auto Form a 34-Person Joint FDE Team"
+      },
+      "summary": {
+        "zh": "长安内部选拔 24 名业务与技术骨干脱产两个月，腾讯派出 10 位产品、研发、交付专家驻场，围绕软件研发、合同智审、智能客服等 7 大核心场景做 Agent。",
+        "en": "Changan seconded 24 business and technical staff full-time for two months while Tencent embedded 10 product, R&D and delivery experts, building agents across seven core scenarios."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "CSDN",
+        "en": "CSDN"
+      },
+      "date": "2026-08-09",
+      "link": "https://blog.csdn.net/2601_94865727/article/details/163514107"
+    },
+    {
+      "id": "ai-1",
+      "slug": "fde-20260809-16eb05e2",
+      "title": {
+        "zh": "AgenticCareers：21 家公司在招 FDE，中位薪资 15.2 万–24 万美元",
+        "en": "AgenticCareers: 21 Companies Hiring FDEs at a $152K–$240K Median"
+      },
+      "summary": {
+        "zh": "截至 2026 年 8 月共追踪 36 个在招 FDE 岗位，最活跃雇主为 Databricks、Brex 与 Clera；Ramp 开出 18.9 万–33 万美元，仅 11% 岗位支持远程。",
+        "en": "As of August 2026 it tracks 36 open FDE roles; the most active employers are Databricks, Brex and Clera. Ramp advertises $189K–$330K, and only 11% of roles are remote."
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "AgenticCareers",
+        "en": "AgenticCareers"
+      },
+      "date": "2026-08-09",
+      "link": "https://agenticcareers.co/roles/forward-deployed-engineer"
+    },
+    {
+      "id": "ai-2",
+      "slug": "fde-20260808-18636616",
+      "title": {
+        "zh": "OpenAI 成立 The Deployment Company，募资超 40 亿美元",
+        "en": "OpenAI Launches The Deployment Company, Raising Over $4B"
+      },
+      "summary": {
+        "zh": "该合资公司专为把 FDE 嵌入企业而设，由 TPG 领投，Advent、贝恩资本、博枫联合领投，高盛、麦肯锡、凯捷为创始伙伴；并收购 Tomoro 带来约 150 名资深 FDE。",
+        "en": "The joint venture exists to embed FDEs inside enterprises, led by TPG with Advent, Bain Capital and Brookfield co-leading; Goldman Sachs, McKinsey and Capgemini are founding partners. It acquired Tomoro for ~150 seasoned FDEs."
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": "Capital Moves"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260808-af7034bb",
+      "title": {
+        "zh": "Anthropic 企业服务公司 Ode 正式亮相",
+        "en": "Anthropic's Enterprise Services Firm Ode Officially Launches"
+      },
+      "summary": {
+        "zh": "2026 年 7 月，Anthropic 与黑石、Hellman & Friedman 共同成立的 Ode 正式落地，投资方含高盛、General Atlantic、阿波罗、GIC 与红杉，基于收购 Fractional AI 组建。",
+        "en": "In July 2026 Ode launched with Blackstone and Hellman & Friedman, backed by Goldman Sachs, General Atlantic, Apollo, GIC and Sequoia, built on the acquisition of Fractional AI."
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": "Capital Moves"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
+    },
+    {
+      "id": "ai-4",
+      "slug": "fde-20260808-9f0388da",
+      "title": {
+        "zh": "Salesforce 宣布组建 1000 人 FDE 团队推动 Agentforce",
+        "en": "Salesforce to Build 1,000-Strong FDE Team for Agentforce"
+      },
+      "summary": {
+        "zh": "Salesforce 公开承诺组建千人 FDE 队伍，并配套六周入职培训；谷歌云 CEO 亦宣布将再招数百名 FDE，在 GTM 部门单设 AI 组织。",
+        "en": "Salesforce has committed to a 1,000-person FDE team with a six-week onboarding programme, while Google Cloud's CEO plans to hire hundreds more within a dedicated AI go-to-market organisation."
+      },
+      "category": {
+        "zh": "巨头动向",
+        "en": "Big Tech"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260808-c961bc91",
+      "title": {
+        "zh": "Gartner：仅不足 41% 的企业 AI 试点能进入生产",
+        "en": "Gartner: Fewer Than 41% of Enterprise AI Pilots Reach Production"
+      },
+      "summary": {
+        "zh": "2026 年全球 AI 总投入预计达 2.52 万亿美元，超九成企业开展过试点，但规模化落地率不足四成；到 2027 年超四成缺乏迭代能力的智能体项目将退出业务体系。",
+        "en": "Global AI spend is projected at $2.52T in 2026 and over 90% of enterprises have piloted AI, yet under 41% scale into production. By 2027 more than 40% of agent projects lacking iteration capability will be retired."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "博客园",
+        "en": "Cnblogs"
+      },
+      "date": "2026-08-08",
+      "link": "https://www.cnblogs.com/shuzihuaguancha/articles/22181745"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260807-dc69bf42",
+      "title": {
+        "zh": "Palantir Q2 财报引爆 FDE 概念，A 股万兴科技卡位场景交付",
+        "en": "Palantir's Q2 Results Ignite FDE Theme; Wondershare Bets on Scenario Delivery"
+      },
+      "summary": {
+        "zh": "Palantir 2026 年二季度营收大幅增长并上调全年指引，带动 FDE 概念升温。国联民生证券研报称 FDE 有望成为连接模型厂商、软件服务商与行业客户的关键组织形态。",
+        "en": "Palantir's Q2 2026 revenue jumped and full-year guidance was raised, heating up the FDE theme. Guolian Minsheng Securities says FDE may become the key organisational form linking model vendors, software providers and industry clients."
+      },
+      "category": {
+        "zh": "资本市场",
+        "en": "Capital Markets"
+      },
+      "source": {
+        "zh": "云财经",
+        "en": "Yuncaijing"
+      },
+      "date": "2026-08-07",
+      "link": "https://www.yuncaijing.com/news/id_17167089.html"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260807-0d80ae19",
+      "title": {
+        "zh": "钉钉六星服务商的 FDE 实验：交付周期从 2–4 周压到 1–3 天",
+        "en": "A DingTalk Partner's FDE Experiment Cuts Delivery from Weeks to Days"
+      },
+      "summary": {
+        "zh": "典铭云赛把「调研—方案—汇报—签约—实施」五步压成「场景发现—现场演示—快速搭建—交付确认」四步，客户在调研阶段就能体验实际效果。",
+        "en": "Dianming Yunsai compressed the classic five-step cycle into four — discover, demo, build, confirm — letting clients experience real results during the discovery phase."
+      },
+      "category": {
+        "zh": "交付模式",
+        "en": "Delivery Model"
+      },
+      "source": {
+        "zh": "和讯科技",
+        "en": "Hexun Tech"
+      },
+      "date": "2026-08-07",
+      "link": "https://tech.hexun.com/2026-08-07/224784288.html"
+    },
+    {
+      "id": "ai-8",
+      "slug": "fde-20260806-92b98027",
+      "title": {
+        "zh": "IDC：中国 FDE 实践加速分化，标签本身正在贬值",
+        "en": "IDC: China's FDE Practices Diverge as the Label Loses Signal Value"
+      },
+      "summary": {
+        "zh": "北京、武汉已将 FDE 写入智能体专项政策。IDC 指出部分服务商只是给传统驻场换了标签，真正拉开差距的是交付逻辑能否说清与传统实施的实质区别。",
+        "en": "Beijing and Wuhan have written FDE into agent policies. IDC warns some vendors merely rebadge traditional onsite delivery; the real differentiator is articulating how delivery logic truly differs."
+      },
+      "category": {
+        "zh": "市场分析",
+        "en": "Market Analysis"
+      },
+      "source": {
+        "zh": "新浪财经",
+        "en": "Sina Finance"
+      },
+      "date": "2026-08-06",
+      "link": "https://finance.sina.cn/tech/2026-08-06/detail-inimksmi0612418.d.html"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260806-957d0823",
+      "title": {
+        "zh": "联想以 FDE 模式驻扎佛山车间，落地城市超级智能体",
+        "en": "Lenovo Embeds FDEs in Foshan Factories for City-Scale AI Agents"
+      },
+      "summary": {
+        "zh": "「佛山市人工智能赋能制造业数智服务平台」进入交付阶段，联想将架构师与工程师以 FDE 模式驻扎生产车间，后方设「擎天创新实验室」持续迭代工业智能体。",
+        "en": "As Foshan's AI manufacturing platform enters delivery, Lenovo has embedded architects and engineers on the shop floor under an FDE model, backed by a lab continuously iterating industrial agents."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "今日头条",
+        "en": "Toutiao"
+      },
+      "date": "2026-08-06",
+      "link": "https://www.toutiao.com/article/7670812778755523122"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260805-bd582a96",
+      "title": {
+        "zh": "腾讯研究院报告：FDE 模式行业观察与实践",
+        "en": "Tencent Research Institute: Industry Report on the FDE Model"
+      },
+      "summary": {
+        "zh": "报告指出 AI 落地矛盾正从「模型能不能做」转向「组织怎么用」；FDE 与传统驻场的本质区别，在于项目结束后能否沉淀为可复用资产。",
+        "en": "The report finds the bottleneck shifting from model capability to organisational adoption, and defines the real FDE difference as whether field experience is distilled into reusable assets."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "36氪",
+        "en": "36Kr"
+      },
+      "date": "2026-08-05",
+      "link": "https://36kr.com/p/3926404419910018"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260805-db318c0e",
+      "title": {
+        "zh": "瓴羊 FDE 驻场雅迪：78 场调研重构 4 万门店客服体系",
+        "en": "Lingyang's FDE Team Rebuilds Yadea's Service Across 40,000 Stores"
+      },
+      "summary": {
+        "zh": "FDE 团队进场后横跨十几个部门开展 78 场深度驻场调研，反复听用户热线录音，分两期落地一体化工作台、坐席辅助与热线机器人。",
+        "en": "The FDE team ran 78 deep onsite studies across a dozen departments, repeatedly listening to hotline recordings, then delivered a unified workbench, agent assist and hotline bots in two phases."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "中国经济网",
+        "en": "CET"
+      },
+      "date": "2026-08-05",
+      "link": "https://www.cet.com.cn/itpd/itxw/10492538.shtml"
+    },
+    {
+      "id": "ai-12",
+      "slug": "fde-20260804-e946d086",
+      "title": {
+        "zh": "Gartner：2026 年底超 85% 技术服务商将以 FDE 为交付 AI 的核心方式",
+        "en": "Gartner: Over 85% of Tech Service Providers Will Deliver AI via FDE by End-2026"
+      },
+      "summary": {
+        "zh": "微软向 Microsoft Frontier 投入 25 亿美元、新增 6000 名工程专家，AWS 投资 10 亿美元建立前沿部署工程中心，谷歌、OpenAI、Anthropic 与埃森哲、德勤同步扩招 FDE。",
+        "en": "Microsoft is investing $2.5B in Microsoft Frontier with 6,000 new engineering specialists, AWS $1B in a forward deployed engineering centre, while Google, OpenAI, Anthropic, Accenture and Deloitte all scale up FDE hiring."
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "腾讯新闻",
+        "en": "QQ News"
+      },
+      "date": "2026-08-04",
+      "link": "https://new.qq.com/rain/a/20260804A000UG00"
+    },
+    {
+      "id": "ai-13",
+      "slug": "fde-20260804-15a5731b",
+      "title": {
+        "zh": "FDX 登场：继 FDE 之后出现「前线部署高管」",
+        "en": "Enter FDX: The Forward Deployed Executive Emerges After FDE"
+      },
+      "summary": {
+        "zh": "MIT 材料学博士 Rick Manelius 提出，若 FDE 是 AI 项目的「外置 CTO」，FDX 就是「外置 CEO」——帮高管识别问题、设定优先级并跨越组织与心理门槛。",
+        "en": "MIT PhD Rick Manelius argues that if the FDE is an AI project's outsourced CTO, the FDX is its outsourced CEO — helping executives frame problems, set priorities and clear organisational barriers."
+      },
+      "category": {
+        "zh": "新兴角色",
+        "en": "New Role"
+      },
+      "source": {
+        "zh": "InfoQ",
+        "en": "InfoQ"
+      },
+      "date": "2026-08-04",
+      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y"
+    },
+    {
+      "id": "ai-14",
+      "slug": "fde-20260804-f5aeb11f",
+      "title": {
+        "zh": "Palantir 演示 AI FDE：智能体开始构建智能体",
+        "en": "Palantir Demos AI FDE: Agents Now Build Agents"
+      },
+      "summary": {
+        "zh": "在 2026 年产品演示中，Palantir 的 AI FDE 可自主编写 AIP Logic 函数、创建评估、调试系统，并在持续循环中把初步方案推进到生产级系统。",
+        "en": "In its 2026 product demo, Palantir showed an AI FDE writing AIP Logic functions, creating evaluations, debugging systems and iterating prototypes into production-grade software."
+      },
+      "category": {
+        "zh": "技术前沿",
+        "en": "Tech Frontier"
+      },
+      "source": {
+        "zh": "腾讯新闻",
+        "en": "QQ News"
+      },
+      "date": "2026-08-04",
+      "link": "https://new.qq.com/rain/a/20260804A09TZG00"
+    },
+    {
+      "id": "ai-15",
+      "slug": "fde-20260804-0c3f3585",
+      "title": {
+        "zh": "Anthropic 与 UST 合作：培训 2 万名员工使用 Claude",
+        "en": "Anthropic Partners with UST to Train 20,000 Staff on Claude"
+      },
+      "summary": {
+        "zh": "UST 计划培训 2 万名员工使用 Claude，其中包括直接进入客户团队工作的前线部署工程师，并建立专门的 Claude 部署团队，显示 FDE 模式正通过系统集成商扩散。",
+        "en": "UST will train 20,000 employees on Claude, including forward deployed engineers embedded in client teams and dedicated Claude deployment squads — evidence the FDE model is spreading through systems integrators."
+      },
+      "category": {
+        "zh": "生态合作",
+        "en": "Ecosystem"
+      },
+      "source": {
+        "zh": "InfoQ",
+        "en": "InfoQ"
+      },
+      "date": "2026-08-04",
+      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y"
+    },
+    {
+      "id": "ai-16",
+      "slug": "fde-20260803-acf8fbbe",
+      "title": {
+        "zh": "FDE 薪酬行情：硅谷资深年包中位数 48.5 万美元",
+        "en": "FDE Pay Watch: Median Senior Package Hits $485K in Silicon Valley"
+      },
+      "summary": {
+        "zh": "OpenAI 旧金山 FDE 年薪 16.2–28 万美元加股权，Anthropic 20–30 万美元；国内字节豆包 FDE 月薪 35–70K×15 薪，年薪最高 105 万元。",
+        "en": "OpenAI's San Francisco FDE roles pay $162K–$280K plus equity, Anthropic $200K–$300K. In China, ByteDance's Doubao FDE offers RMB 35–70K monthly across 15 months, up to RMB 1.05M a year."
+      },
+      "category": {
+        "zh": "薪酬观察",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "Moomoo",
+        "en": "Moomoo"
+      },
+      "date": "2026-08-03",
+      "link": "https://www.moomoobull.com/hans/news/post/74103729"
+    },
+    {
+      "id": "ai-17",
+      "slug": "fde-20260802-ef59df23",
+      "title": {
+        "zh": "Indeed 数据：FDE 岗位一年暴涨 729%",
+        "en": "Indeed Data: FDE Job Postings Surge 729% in One Year"
+      },
+      "summary": {
+        "zh": "2025 年 4 月至 2026 年 4 月，Indeed 上 FDE 职位从 643 条飙升至 5330 条；LinkedIn 显示 2023–2025 年全球 FDE 岗位增长 42 倍，远超 AI 工程师的 13 倍。",
+        "en": "From April 2025 to April 2026, FDE listings on Indeed jumped from 643 to 5,330. LinkedIn reports global FDE roles grew 42x between 2023 and 2025, far outpacing AI engineers at 13x."
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "今日头条",
+        "en": "Toutiao"
+      },
+      "date": "2026-08-02",
+      "link": "https://www.toutiao.com/article/7669419292374598188"
+    },
+    {
+      "id": "ai-18",
+      "slug": "fde-20260801-20f35065",
+      "title": {
+        "zh": "博彦科技以 FDE 模式打通金融 AI 境内外规模化落地",
+        "en": "Beyondsoft Scales Financial AI at Home and Abroad via FDE"
+      },
+      "summary": {
+        "zh": "摒弃按人天核算，国内外双市场统一实行效果付费、收益共担。批量项目实现信贷不良压降 3%–10%、后台运营人力缩减 20% 以上、监管报送工作量降低 60%。",
+        "en": "Dropping day-rate billing for outcome-based, risk-sharing pricing across both markets, its projects cut NPLs by 3–10%, back-office headcount by over 20% and regulatory reporting effort by 60%."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "博彦科技",
+        "en": "Beyondsoft"
+      },
+      "date": "2026-08-01",
+      "link": "https://www.beyondsoft.com/content/details9_8989.html"
+    },
+    {
+      "id": "ai-19",
+      "slug": "fde-20260731-c9d04260",
+      "title": {
+        "zh": "MIT 报告：95% 企业生成式 AI 试点未产生可衡量回报",
+        "en": "MIT Report: 95% of Enterprise GenAI Pilots Show No Measurable ROI"
+      },
+      "summary": {
+        "zh": "MIT Sloan Management Review 2026 年 7 月底报告与 FDE 起薪 40 万美元/年形成鲜明对照——模型能力溢出、企业接不住、中间没人翻译，催生了这个岗位。",
+        "en": "The MIT Sloan Management Review report contrasts sharply with FDE starting pay of $400K a year: model capability overflows, enterprises cannot absorb it, and nobody translates in between."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "CSDN",
+        "en": "CSDN"
+      },
+      "date": "2026-07-31",
+      "link": "https://blog.csdn.net/Autsm_Hanyu/article/details/163400049"
+    }
+  ],
+  "cities": [
+    {
+      "id": "city-0",
+      "name": {
+        "zh": "上海",
+        "en": "Shanghai"
+      }
+    },
+    {
+      "id": "city-1",
+      "name": {
+        "zh": "苏州",
+        "en": "Suzhou"
+      }
+    },
+    {
+      "id": "city-2",
+      "name": {
+        "zh": "南通",
+        "en": "Nantong"
+      }
+    },
+    {
+      "id": "city-3",
+      "name": {
+        "zh": "无锡",
+        "en": "Wuxi"
+      }
+    },
+    {
+      "id": "city-4",
+      "name": {
+        "zh": "常州",
+        "en": "Changzhou"
+      }
+    },
+    {
+      "id": "city-5",
+      "name": {
+        "zh": "泰州",
+        "en": "Taizhou"
+      }
+    },
+    {
+      "id": "city-6",
+      "name": {
+        "zh": "张家港",
+        "en": "Zhangjiagang"
+      }
+    },
+    {
+      "id": "city-7",
+      "name": {
+        "zh": "江阴",
+        "en": "Jiangyin"
+      }
+    },
+    {
+      "id": "city-8",
+      "name": {
+        "zh": "太仓",
+        "en": "Taicang"
+      }
+    },
+    {
+      "id": "city-9",
+      "name": {
+        "zh": "昆山",
+        "en": "Kunshan"
+      }
+    },
+    {
+      "id": "city-10",
+      "name": {
+        "zh": "常熟",
+        "en": "Changshu"
+      }
+    },
+    {
+      "id": "city-11",
+      "name": {
+        "zh": "靖江",
+        "en": "Jingjiang"
+      }
+    },
+    {
+      "id": "city-12",
+      "name": {
+        "zh": "如皋",
+        "en": "Rugao"
+      }
+    },
+    {
+      "id": "city-13",
+      "name": {
+        "zh": "浙江",
+        "en": "Zhejiang"
+      }
+    },
+    {
+      "id": "city-14",
+      "name": {
+        "zh": "南京",
+        "en": "Nanjing"
+      }
+    },
+    {
+      "id": "city-15",
+      "name": {
+        "zh": "湖州",
+        "en": "Huzhou"
+      }
+    },
+    {
+      "id": "city-16",
+      "name": {
+        "zh": "嘉兴",
+        "en": "Jiaxing"
+      }
+    },
+    {
+      "id": "city-17",
+      "name": {
+        "zh": "重庆",
+        "en": "Chongqing"
+      }
+    }
+  ],
+  "footerColumns": [
+    {
+      "id": "foot-0",
+      "title": {
+        "zh": "数字营销推广",
+        "en": "Digital Marketing"
+      },
+      "links": [
+        {
+          "zh": "内贸（百度 SEO / 广告、1688、必应）",
+          "en": "Domestic (Baidu SEO/Ads, 1688, Bing)"
+        },
+        {
+          "zh": "外贸（Google / Yandex ADS & SEO）",
+          "en": "Global (Google / Yandex ADS & SEO)"
+        },
+        {
+          "zh": "海外社媒",
+          "en": "Overseas Social Media"
+        },
+        {
+          "zh": "阿里国际站",
+          "en": "Alibaba.com"
+        }
+      ]
+    },
+    {
+      "id": "foot-1",
+      "title": {
+        "zh": "会展品宣设计",
+        "en": "Exhibition Branding Design"
+      },
+      "links": [
+        {
+          "zh": "会展资料设计",
+          "en": "Exhibition Material Design"
+        },
+        {
+          "zh": "文化氛围设计落地",
+          "en": "Cultural Ambience Implementation"
+        },
+        {
+          "zh": "展示空间设计",
+          "en": "Exhibition Space Design"
+        }
+      ]
+    },
+    {
+      "id": "foot-2",
+      "title": {
+        "zh": "品牌设计包年",
+        "en": "Annual Brand Design"
+      },
+      "links": [
+        {
+          "zh": "VIS & LOGO 设计",
+          "en": "VIS & LOGO Design"
+        },
+        {
+          "zh": "宣传画册 / PPT",
+          "en": "Brochure / PPT"
+        },
+        {
+          "zh": "海报招贴",
+          "en": "Posters"
+        },
+        {
+          "zh": "品牌命名与商标查询",
+          "en": "Brand Naming & Trademark Search"
+        }
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": "contact-main",
+      "address": {
+        "zh": "上海国际金融中心",
+        "en": "Shanghai Int'l Financial Center"
+      },
+      "phoneWechat": "186000888",
+      "qqEmail": "88888888@qq.com"
+    }
+  ],
+  "companyOverview": [
+    {
+      "id": "overview",
+      "text": {
+        "zh": "北港3D不仅是品牌视觉的塑造者，更是品牌数字营销的推广者。23 年深耕，活力依然！北港3D始终专注于为谋求长远发展的企业，提供从品牌塑造与升级、数字营销平台搭建与运维、到文化空间标识设计与落地的一体化服务——以“策划—设计—营销”的全链路解决方案，赋能企业品牌价值成长。北港3D设计正活跃于长三角腹地，服务的城市包括上海、苏州、南通、无锡、常州、泰州、张家港、江阴、太仓、昆山、常熟、靖江、如皋、浙江、南京、湖州、嘉兴、重庆等地。",
+        "en": "Beigang3D is not only a shaper of brand visuals but also a promoter of brand digital marketing. With 23 years of deep cultivation, its vitality endures! Beigang3D focuses on providing integrated services for enterprises seeking long-term development—from brand building and upgrading, digital marketing platform setup and O&M, to cultural-space signage design and implementation—empowering brand value growth through a full-chain planning-design-marketing solution. Beigang3D is active across the Yangtze River Delta hinterland, serving cities including Shanghai, Suzhou, Nantong, Wuxi, Changzhou, Taizhou, Zhangjiagang, Jiangyin, Taicang, Kunshan, Changshu, Jingjiang, Rugao, Zhejiang, Nanjing, Huzhou, Jiaxing, Chongqing and more."
+      }
+    }
+  ],
+  "heroSlogans": [
+    {
+      "id": "slogan-0",
+      "value": {
+        "zh": "AI + 3D 双引擎，优质选材降本增效",
+        "en": "AI + 3D Dual Engine — Premium Materials, Lower Cost, Higher Efficiency"
+      }
+    },
+    {
+      "id": "slogan-1",
+      "value": {
+        "zh": "从创意到交付，让生产力指数级增长",
+        "en": "From Idea to Delivery, Exponential Productivity Growth"
+      }
+    }
+  ],
+  "inquiries": [],
+  "site": [
+    {
+      "id": "site",
+      "brandZh": "北港3D",
+      "brandEn": "BEIGANG DESIGN®",
+      "logo": "/logos/mrx3yd8i-eb62ag.png",
+      "copyrightYearStart": "2019",
+      "copyrightOwner": {
+        "zh": "北港3D数字营销设计",
+        "en": "BEIGANG 3D Digital Marketing Design"
+      },
+      "icpRecord": {
+        "zh": "海ICP备10011688号-8",
+        "en": "ICP License 10011688-8 (Shanghai)"
+      }
+    }
+  ]
+}

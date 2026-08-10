@@ -1,0 +1,526 @@
+{
+  "updatedAt": "2026-08-10",
+  "total": 20,
+  "items": [
+    {
+      "slug": "fde-20260809-89d09be3",
+      "title": {
+        "zh": "腾讯 × 长安汽车组建 34 人「AI 火箭班」联合 FDE 团队",
+        "en": "Tencent x Changan Auto Form a 34-Person Joint FDE Team"
+      },
+      "summary": {
+        "zh": "长安内部选拔 24 名业务与技术骨干脱产两个月，腾讯派出 10 位产品、研发、交付专家驻场，围绕软件研发、合同智审、智能客服等 7 大核心场景做 Agent。",
+        "en": "Changan seconded 24 business and technical staff full-time for two months while Tencent embedded 10 product, R&D and delivery experts, building agents across seven core scenarios."
+      },
+      "body": {
+        "zh": "此次合作采取「联合团队+脱产集训」的组织形式。长安汽车内部选拔 24 名业务与技术骨干脱产两个月，腾讯派出 10 位产品、研发、交付专家驻场，双方组成一支 34 人的联合 FDE 团队，直接坐进业务部门办公。\n\n团队围绕软件研发、合同智审、智能客服等 7 大核心场景构建 Agent，目标不是交付一套系统，而是在两个月内把「怎么把 AI 用起来」的方法论留在长安内部——集训结束后，这 24 名业务骨干本身就成为企业内部的 FDE 种子。\n\n对正在评估 AI 落地路径的团队而言，这类案例的参考价值不在技术选型，而在组织安排：谁进场、进场多久、结束后留下什么。",
+        "en": "This is a joint-team, full-time bootcamp model: Changan seconded 24 business and technical staff for two months while Tencent embedded 10 product, engineering and delivery specialists on site, forming a 34-person joint FDE team seated inside business units.\n\nThe team builds agents across seven core scenarios including software R&D, contract review and intelligent customer service. The goal is not shipping a system but leaving the know-how inside Changan — after the bootcamp the 24 staff become the company's own FDE seeds.\n\nFor teams evaluating AI adoption, the reference value here is organisational rather than technical: who embeds, for how long, and what remains afterwards."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "CSDN",
+        "en": "CSDN"
+      },
+      "date": "2026-08-09",
+      "link": "https://blog.csdn.net/2601_94865727/article/details/163514107",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260809-16eb05e2",
+      "title": {
+        "zh": "AgenticCareers：21 家公司在招 FDE，中位薪资 15.2 万–24 万美元",
+        "en": "AgenticCareers: 21 Companies Hiring FDEs at a $152K–$240K Median"
+      },
+      "summary": {
+        "zh": "截至 2026 年 8 月共追踪 36 个在招 FDE 岗位，最活跃雇主为 Databricks、Brex 与 Clera；Ramp 开出 18.9 万–33 万美元，仅 11% 岗位支持远程。",
+        "en": "As of August 2026 it tracks 36 open FDE roles; the most active employers are Databricks, Brex and Clera. Ramp advertises $189K–$330K, and only 11% of roles are remote."
+      },
+      "body": {
+        "zh": "AgenticCareers 是专门追踪 AI 原生岗位的招聘数据平台。截至 2026 年 8 月，其数据库共收录 36 个在招 FDE 岗位，分布在 21 家公司，最活跃的雇主为 Databricks、Brex 与 Clera。\n\n薪资区间中位数为 15.2 万–24 万美元，头部企业 Ramp 开出 18.9 万–33 万美元。值得注意的是仅 11% 的岗位接受完全远程——FDE 的「驻场」属性在招聘条件上被明确固化，这与传统软件工程师岗位形成鲜明反差。\n\n岗位数量和薪酬区间是观察行业热度最直接的指标，但真正值得关注的是任职要求的变化——它反映了企业对这个角色的期待正在如何收敛。",
+        "en": "AgenticCareers tracks AI-native roles. As of August 2026 its database lists 36 open FDE positions across 21 companies, with Databricks, Brex and Clera the most active employers.\n\nMedian pay lands at $152K–$240K, with Ramp topping the range at $189K–$330K. Notably only 11% of listings accept fully remote work — the on-site nature of FDE is written directly into hiring terms, in sharp contrast with traditional engineering roles.\n\nHeadcount and pay bands are the most direct heat indicators, but the more telling signal is how job requirements evolve — they show where expectations for the role are converging."
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "AgenticCareers",
+        "en": "AgenticCareers"
+      },
+      "date": "2026-08-09",
+      "link": "https://agenticcareers.co/roles/forward-deployed-engineer",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260808-18636616",
+      "title": {
+        "zh": "OpenAI 成立 The Deployment Company，募资超 40 亿美元",
+        "en": "OpenAI Launches The Deployment Company, Raising Over $4B"
+      },
+      "summary": {
+        "zh": "该合资公司专为把 FDE 嵌入企业而设，由 TPG 领投，Advent、贝恩资本、博枫联合领投，高盛、麦肯锡、凯捷为创始伙伴；并收购 Tomoro 带来约 150 名资深 FDE。",
+        "en": "The joint venture exists to embed FDEs inside enterprises, led by TPG with Advent, Bain Capital and Brookfield co-leading; Goldman Sachs, McKinsey and Capgemini are founding partners. It acquired Tomoro for ~150 seasoned FDEs."
+      },
+      "body": {
+        "zh": "The Deployment Company 是一家专为「把 FDE 嵌入企业」而设立的合资公司，由 TPG 领投，Advent、贝恩资本、博枫联合领投，募资规模超过 40 亿美元。高盛、麦肯锡、凯捷作为创始合作伙伴加入。\n\n公司同时完成对 Tomoro 的收购，一次性获得约 150 名资深 FDE。这标志着 FDE 从「模型厂商内部的一个职能」升级为「独立募资、独立估值的商业实体」——交付能力本身正在被资本单独定价。\n\n资本的下注方向通常领先于市场共识。当交付能力开始被单独估值，说明行业已经承认「模型可用」与「模型好用」之间存在巨大的价值空间。",
+        "en": "The Deployment Company is a joint venture built specifically to embed FDEs inside enterprises, raising over $4B led by TPG with Advent, Bain Capital and Brookfield co-leading. Goldman Sachs, McKinsey and Capgemini joined as founding partners.\n\nIt simultaneously acquired Tomoro, bringing roughly 150 senior FDEs in one move. This marks FDE graduating from an internal function at model vendors into a separately funded, separately valued business entity — delivery capability is now priced on its own.\n\nCapital tends to lead consensus. Once delivery capability gets valued on its own, the industry has effectively conceded there is a large value gap between a usable model and a useful one."
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": "Capital Moves"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260808-af7034bb",
+      "title": {
+        "zh": "Anthropic 企业服务公司 Ode 正式亮相",
+        "en": "Anthropic's Enterprise Services Firm Ode Officially Launches"
+      },
+      "summary": {
+        "zh": "2026 年 7 月，Anthropic 与黑石、Hellman & Friedman 共同成立的 Ode 正式落地，投资方含高盛、General Atlantic、阿波罗、GIC 与红杉，基于收购 Fractional AI 组建。",
+        "en": "In July 2026 Ode launched with Blackstone and Hellman & Friedman, backed by Goldman Sachs, General Atlantic, Apollo, GIC and Sequoia, built on the acquisition of Fractional AI."
+      },
+      "body": {
+        "zh": "Ode 由 Anthropic 与黑石、Hellman & Friedman 共同成立，2026 年 7 月正式落地，投资方还包括高盛、General Atlantic、阿波罗与新加坡政府投资公司 GIC。\n\n与 OpenAI 的 The Deployment Company 形成直接对照：两大模型厂商在同一季度分别拉上顶级私募资本，成立专门做企业交付的独立公司。这说明模型能力的竞争已经外溢到「谁能把模型装进企业流程」的竞争。\n\n资本的下注方向通常领先于市场共识。当交付能力开始被单独估值，说明行业已经承认「模型可用」与「模型好用」之间存在巨大的价值空间。",
+        "en": "Ode was founded by Anthropic together with Blackstone and Hellman & Friedman, formally launched in July 2026, with Goldman Sachs, General Atlantic, Apollo and GIC also investing.\n\nIt mirrors OpenAI's The Deployment Company almost exactly: within a single quarter both leading model vendors partnered with top-tier private capital to spin up dedicated enterprise-delivery companies. Competition has spilled from model capability into who can actually wire models into enterprise workflows.\n\nCapital tends to lead consensus. Once delivery capability gets valued on its own, the industry has effectively conceded there is a large value gap between a usable model and a useful one."
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": "Capital Moves"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260808-9f0388da",
+      "title": {
+        "zh": "Salesforce 宣布组建 1000 人 FDE 团队推动 Agentforce",
+        "en": "Salesforce to Build 1,000-Strong FDE Team for Agentforce"
+      },
+      "summary": {
+        "zh": "Salesforce 公开承诺组建千人 FDE 队伍，并配套六周入职培训；谷歌云 CEO 亦宣布将再招数百名 FDE，在 GTM 部门单设 AI 组织。",
+        "en": "Salesforce has committed to a 1,000-person FDE team with a six-week onboarding programme, while Google Cloud's CEO plans to hire hundreds more within a dedicated AI go-to-market organisation."
+      },
+      "body": {
+        "zh": "Salesforce 公开承诺组建千人规模的 FDE 队伍，并配套六周入职培训体系，用于推动 Agentforce 在客户侧的实际落地。谷歌云 CEO 同期宣布将再招数百名 FDE，并在 GTM 部门单独设立 AI 组织。\n\n对 SaaS 厂商而言，Agent 类产品的销售逻辑与传统订阅制不同：客户买的不是席位，而是「场景跑通」。这迫使厂商把交付人力前置到售前，FDE 因此从成本项变成了增长项。\n\n头部厂商的组织调整往往会在 6–12 个月内传导到整个供应链，中小服务商可以据此提前调整自身的能力结构。",
+        "en": "Salesforce publicly committed to building a 1,000-person FDE organisation with a six-week onboarding programme to drive real-world Agentforce adoption. Google Cloud's CEO separately announced hundreds more FDE hires and a dedicated AI organisation inside GTM.\n\nFor SaaS vendors, agent products don't sell like seat-based subscriptions — customers buy a working scenario, not licences. That pushes delivery headcount into pre-sales, turning FDE from a cost line into a growth line.\n\nOrganisational moves at the top usually propagate through the supply chain within 6–12 months, giving smaller providers a window to adjust their own capability mix."
+      },
+      "category": {
+        "zh": "巨头动向",
+        "en": "Big Tech"
+      },
+      "source": {
+        "zh": "HatchWorks",
+        "en": "HatchWorks"
+      },
+      "date": "2026-08-08",
+      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260808-c961bc91",
+      "title": {
+        "zh": "Gartner：仅不足 41% 的企业 AI 试点能进入生产",
+        "en": "Gartner: Fewer Than 41% of Enterprise AI Pilots Reach Production"
+      },
+      "summary": {
+        "zh": "2026 年全球 AI 总投入预计达 2.52 万亿美元，超九成企业开展过试点，但规模化落地率不足四成；到 2027 年超四成缺乏迭代能力的智能体项目将退出业务体系。",
+        "en": "Global AI spend is projected at $2.52T in 2026 and over 90% of enterprises have piloted AI, yet under 41% scale into production. By 2027 more than 40% of agent projects lacking iteration capability will be retired."
+      },
+      "body": {
+        "zh": "Gartner 预计 2026 年全球 AI 总投入将达到 2.52 万亿美元，超过九成企业开展过 AI 试点，但能真正进入生产环境的比例不足四成。\n\n报告同时给出一个更尖锐的判断：到 2027 年，超过四成缺乏持续迭代能力的智能体项目将退出业务体系。换言之，一次性交付的 Agent 项目在两年内会被自然淘汰，能否建立迭代机制成为项目存活的分水岭。\n\n研究机构的数据提供了行业基准线。对具体企业来说，更有用的做法是拿这些比例对照自身项目，判断自己处在分布的哪一段。",
+        "en": "Gartner projects global AI spending will reach $2.52 trillion in 2026. Over 90% of enterprises have run AI pilots, yet fewer than 40% reach production.\n\nThe report adds a sharper call: by 2027, more than 40% of agent projects lacking continuous iteration capability will be retired. One-shot agent deployments will wash out within two years — whether an iteration loop exists becomes the survival line.\n\nResearch data provides an industry baseline. The more useful exercise is benchmarking your own projects against these ratios to see where you sit in the distribution."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "博客园",
+        "en": "Cnblogs"
+      },
+      "date": "2026-08-08",
+      "link": "https://www.cnblogs.com/shuzihuaguancha/articles/22181745",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260807-dc69bf42",
+      "title": {
+        "zh": "Palantir Q2 财报引爆 FDE 概念，A 股万兴科技卡位场景交付",
+        "en": "Palantir's Q2 Results Ignite FDE Theme; Wondershare Bets on Scenario Delivery"
+      },
+      "summary": {
+        "zh": "Palantir 2026 年二季度营收大幅增长并上调全年指引，带动 FDE 概念升温。国联民生证券研报称 FDE 有望成为连接模型厂商、软件服务商与行业客户的关键组织形态。",
+        "en": "Palantir's Q2 2026 revenue jumped and full-year guidance was raised, heating up the FDE theme. Guolian Minsheng Securities says FDE may become the key organisational form linking model vendors, software providers and industry clients."
+      },
+      "body": {
+        "zh": "Palantir 2026 年二季度营收大幅增长并上调全年指引，其长期坚持的 FDE 组织模式随财报再度进入市场视野，A 股相关概念随之升温。\n\n国联民生证券研报指出，FDE 有望成为连接模型厂商、软件服务商与行业客户的关键组织形态；A 股万兴科技被点名卡位「场景交付」环节。资本市场对 FDE 的定价逻辑，正在从「人力外包」转向「交付资产」。\n\n资本的下注方向通常领先于市场共识。当交付能力开始被单独估值，说明行业已经承认「模型可用」与「模型好用」之间存在巨大的价值空间。",
+        "en": "Palantir posted strong Q2 2026 revenue growth and raised full-year guidance, putting its long-standing FDE operating model back in the spotlight and lifting related A-share names.\n\nA Guolian Minsheng Securities note argues FDE could become the key organisational bridge between model vendors, software integrators and industry clients, singling out Wondershare for its position in scenario delivery. Capital markets are repricing FDE from staffing arbitrage to delivery assets.\n\nCapital tends to lead consensus. Once delivery capability gets valued on its own, the industry has effectively conceded there is a large value gap between a usable model and a useful one."
+      },
+      "category": {
+        "zh": "资本市场",
+        "en": "Capital Markets"
+      },
+      "source": {
+        "zh": "云财经",
+        "en": "Yuncaijing"
+      },
+      "date": "2026-08-07",
+      "link": "https://www.yuncaijing.com/news/id_17167089.html",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260807-0d80ae19",
+      "title": {
+        "zh": "钉钉六星服务商的 FDE 实验：交付周期从 2–4 周压到 1–3 天",
+        "en": "A DingTalk Partner's FDE Experiment Cuts Delivery from Weeks to Days"
+      },
+      "summary": {
+        "zh": "典铭云赛把「调研—方案—汇报—签约—实施」五步压成「场景发现—现场演示—快速搭建—交付确认」四步，客户在调研阶段就能体验实际效果。",
+        "en": "Dianming Yunsai compressed the classic five-step cycle into four — discover, demo, build, confirm — letting clients experience real results during the discovery phase."
+      },
+      "body": {
+        "zh": "典铭云赛作为钉钉六星服务商，把传统的「调研—方案—汇报—签约—实施」五步流程，压缩为「场景发现—现场演示—快速搭建—交付确认」四步。\n\n关键变化在于顺序：客户在调研阶段就能看到可运行的效果，而不是等到实施期。交付周期因此从 2–4 周压缩到 1–3 天。这种「先跑起来再谈合同」的方式，本质上是把 FDE 的现场构建能力当作销售工具使用。\n\n交付流程的重构往往比技术升级带来更直接的效率变化，也更容易被同行复制——这意味着窗口期不会太长。",
+        "en": "Dianming Yunsai, a six-star DingTalk partner, collapsed the classic five-step cycle (survey → proposal → review → contract → implementation) into four: scenario discovery → live demo → rapid build → delivery sign-off.\n\nThe critical change is sequencing — clients see something running during discovery rather than after signing. Delivery time dropped from 2–4 weeks to 1–3 days. Building on site becomes the sales motion itself.\n\nRestructuring the delivery process often yields more immediate efficiency gains than technical upgrades, and is easier for peers to copy — the window won't stay open long."
+      },
+      "category": {
+        "zh": "交付模式",
+        "en": "Delivery Model"
+      },
+      "source": {
+        "zh": "和讯科技",
+        "en": "Hexun Tech"
+      },
+      "date": "2026-08-07",
+      "link": "https://tech.hexun.com/2026-08-07/224784288.html",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260806-92b98027",
+      "title": {
+        "zh": "IDC：中国 FDE 实践加速分化，标签本身正在贬值",
+        "en": "IDC: China's FDE Practices Diverge as the Label Loses Signal Value"
+      },
+      "summary": {
+        "zh": "北京、武汉已将 FDE 写入智能体专项政策。IDC 指出部分服务商只是给传统驻场换了标签，真正拉开差距的是交付逻辑能否说清与传统实施的实质区别。",
+        "en": "Beijing and Wuhan have written FDE into agent policies. IDC warns some vendors merely rebadge traditional onsite delivery; the real differentiator is articulating how delivery logic truly differs."
+      },
+      "body": {
+        "zh": "IDC 观察到中国市场的 FDE 实践正在快速分化。北京、武汉已将 FDE 相关内容写入智能体专项政策，地方政府开始把这一角色纳入产业扶持范畴。\n\n但 IDC 同时提醒：部分服务商只是给传统驻场实施换了个新标签。真正拉开差距的是交付逻辑本身——能否说清与传统实施的实质区别，能否在项目结束后留下可复用的资产，而不是留下一份验收报告。\n\n在概念快速扩散的阶段，区分实质与包装是采购方最需要的能力。可复用资产的有无，是一个足够简单也足够硬的判据。",
+        "en": "IDC notes that FDE practice in China is diverging fast. Beijing and Wuhan have written FDE into dedicated agent policies, bringing the role into local industrial support programmes.\n\nIDC also warns that some vendors have merely relabelled traditional on-site implementation. The real differentiator is delivery logic — whether a firm can articulate a substantive difference from legacy implementation, and whether reusable assets remain after sign-off rather than just an acceptance report.\n\nWhile a concept spreads fast, buyers most need to separate substance from packaging. Whether reusable assets exist is a simple and sufficiently hard test."
+      },
+      "category": {
+        "zh": "市场分析",
+        "en": "Market Analysis"
+      },
+      "source": {
+        "zh": "新浪财经",
+        "en": "Sina Finance"
+      },
+      "date": "2026-08-06",
+      "link": "https://finance.sina.cn/tech/2026-08-06/detail-inimksmi0612418.d.html",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260806-957d0823",
+      "title": {
+        "zh": "联想以 FDE 模式驻扎佛山车间，落地城市超级智能体",
+        "en": "Lenovo Embeds FDEs in Foshan Factories for City-Scale AI Agents"
+      },
+      "summary": {
+        "zh": "「佛山市人工智能赋能制造业数智服务平台」进入交付阶段，联想将架构师与工程师以 FDE 模式驻扎生产车间，后方设「擎天创新实验室」持续迭代工业智能体。",
+        "en": "As Foshan's AI manufacturing platform enters delivery, Lenovo has embedded architects and engineers on the shop floor under an FDE model, backed by a lab continuously iterating industrial agents."
+      },
+      "body": {
+        "zh": "「佛山市人工智能赋能制造业数智服务平台」已进入交付阶段。联想将架构师与工程师以 FDE 模式直接驻扎生产车间，与产线人员同场作业。\n\n后方设立「擎天创新实验室」承接前线反馈，持续迭代工业智能体。这种「前线驻场 + 后方实验室」的双层结构，是制造业场景下 FDE 落地的典型形态：现场解决具体问题，后方沉淀通用能力。\n\n对正在评估 AI 落地路径的团队而言，这类案例的参考价值不在技术选型，而在组织安排：谁进场、进场多久、结束后留下什么。",
+        "en": "The Foshan AI-for-manufacturing digital service platform has entered delivery. Lenovo embedded architects and engineers directly on the shop floor in FDE mode, working alongside production staff.\n\nA back-line Qingtian Innovation Lab absorbs frontline feedback and iterates the industrial agents. This front-line-plus-lab structure is the typical FDE shape in manufacturing: solve concrete problems on site, distil general capability behind the line.\n\nFor teams evaluating AI adoption, the reference value here is organisational rather than technical: who embeds, for how long, and what remains afterwards."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "今日头条",
+        "en": "Toutiao"
+      },
+      "date": "2026-08-06",
+      "link": "https://www.toutiao.com/article/7670812778755523122",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260805-bd582a96",
+      "title": {
+        "zh": "腾讯研究院报告：FDE 模式行业观察与实践",
+        "en": "Tencent Research Institute: Industry Report on the FDE Model"
+      },
+      "summary": {
+        "zh": "报告指出 AI 落地矛盾正从「模型能不能做」转向「组织怎么用」；FDE 与传统驻场的本质区别，在于项目结束后能否沉淀为可复用资产。",
+        "en": "The report finds the bottleneck shifting from model capability to organisational adoption, and defines the real FDE difference as whether field experience is distilled into reusable assets."
+      },
+      "body": {
+        "zh": "腾讯研究院发布的 FDE 行业观察报告指出，AI 落地的核心矛盾正在发生位移：从「模型能不能做到」，转向「组织怎么把它用起来」。\n\n报告给出的判断标准很直接——FDE 与传统驻场的本质区别，在于项目结束后能否沉淀为可复用资产。如果交付物只是一次性的定制系统，那么无论现场投入多少人力，都仍属于传统实施范畴。\n\n研究机构的数据提供了行业基准线。对具体企业来说，更有用的做法是拿这些比例对照自身项目，判断自己处在分布的哪一段。",
+        "en": "A Tencent Research Institute report on FDE argues the central tension in AI adoption has shifted from whether the model can do it to how the organisation actually uses it.\n\nIts test is blunt: the substantive difference between FDE and traditional on-site implementation is whether reusable assets remain after the project ends. If the deliverable is a one-off custom system, it is legacy implementation regardless of headcount deployed.\n\nResearch data provides an industry baseline. The more useful exercise is benchmarking your own projects against these ratios to see where you sit in the distribution."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "36氪",
+        "en": "36Kr"
+      },
+      "date": "2026-08-05",
+      "link": "https://36kr.com/p/3926404419910018",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260805-db318c0e",
+      "title": {
+        "zh": "瓴羊 FDE 驻场雅迪：78 场调研重构 4 万门店客服体系",
+        "en": "Lingyang's FDE Team Rebuilds Yadea's Service Across 40,000 Stores"
+      },
+      "summary": {
+        "zh": "FDE 团队进场后横跨十几个部门开展 78 场深度驻场调研，反复听用户热线录音，分两期落地一体化工作台、坐席辅助与热线机器人。",
+        "en": "The FDE team ran 78 deep onsite studies across a dozen departments, repeatedly listening to hotline recordings, then delivered a unified workbench, agent assist and hotline bots in two phases."
+      },
+      "body": {
+        "zh": "瓴羊 FDE 团队进场雅迪后，横跨十几个部门开展了 78 场深度驻场调研，团队成员反复收听用户热线录音，以还原真实的服务断点。\n\n项目分两期落地：一体化工作台、坐席辅助与热线机器人，服务覆盖 4 万家门店的客服体系。78 场调研这一数字本身说明了 FDE 的成本结构——大量时间花在理解业务，而不是写代码。\n\n对正在评估 AI 落地路径的团队而言，这类案例的参考价值不在技术选型，而在组织安排：谁进场、进场多久、结束后留下什么。",
+        "en": "After entering Yadea, the Lingyang FDE team ran 78 deep on-site interviews across more than a dozen departments, repeatedly listening to hotline recordings to reconstruct real service breakpoints.\n\nDelivery came in two phases — a unified workbench, agent assist and a hotline bot — covering a service system spanning 40,000 stores. The 78-interview figure itself reveals the FDE cost structure: most time goes into understanding the business, not writing code.\n\nFor teams evaluating AI adoption, the reference value here is organisational rather than technical: who embeds, for how long, and what remains afterwards."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "中国经济网",
+        "en": "CET"
+      },
+      "date": "2026-08-05",
+      "link": "https://www.cet.com.cn/itpd/itxw/10492538.shtml",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260804-e946d086",
+      "title": {
+        "zh": "Gartner：2026 年底超 85% 技术服务商将以 FDE 为交付 AI 的核心方式",
+        "en": "Gartner: Over 85% of Tech Service Providers Will Deliver AI via FDE by End-2026"
+      },
+      "summary": {
+        "zh": "微软向 Microsoft Frontier 投入 25 亿美元、新增 6000 名工程专家，AWS 投资 10 亿美元建立前沿部署工程中心，谷歌、OpenAI、Anthropic 与埃森哲、德勤同步扩招 FDE。",
+        "en": "Microsoft is investing $2.5B in Microsoft Frontier with 6,000 new engineering specialists, AWS $1B in a forward deployed engineering centre, while Google, OpenAI, Anthropic, Accenture and Deloitte all scale up FDE hiring."
+      },
+      "body": {
+        "zh": "Gartner 预测到 2026 年底，超过 85% 的技术服务商将以 FDE 作为交付 AI 的核心方式。这一预测的背后是巨头们已经落地的真金白银投入。\n\n微软向 Microsoft Frontier 投入 25 亿美元并新增 6000 名工程专家；AWS 投资 10 亿美元建立前沿部署工程中心；谷歌、OpenAI、Anthropic 同步扩编。交付人力正在成为 AI 竞争的第二战场。\n\n趋势判断需要配合执行细节才有意义。关注这类预测时，值得同时追踪厂商实际投入的人力与资金规模，而不只是口径。",
+        "en": "Gartner forecasts that by end-2026 more than 85% of technology service providers will use FDE as their core AI delivery model, backed by capital already committed.\n\nMicrosoft put $2.5B into Microsoft Frontier and added 6,000 engineering specialists; AWS invested $1B in a forward-deployment engineering centre; Google, OpenAI and Anthropic are scaling in parallel. Delivery headcount has become the second battlefield of AI competition.\n\nTrend calls only matter alongside execution detail. Track the actual headcount and capital vendors commit, not just the messaging."
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "腾讯新闻",
+        "en": "QQ News"
+      },
+      "date": "2026-08-04",
+      "link": "https://new.qq.com/rain/a/20260804A000UG00",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260804-15a5731b",
+      "title": {
+        "zh": "FDX 登场：继 FDE 之后出现「前线部署高管」",
+        "en": "Enter FDX: The Forward Deployed Executive Emerges After FDE"
+      },
+      "summary": {
+        "zh": "MIT 材料学博士 Rick Manelius 提出，若 FDE 是 AI 项目的「外置 CTO」，FDX 就是「外置 CEO」——帮高管识别问题、设定优先级并跨越组织与心理门槛。",
+        "en": "MIT PhD Rick Manelius argues that if the FDE is an AI project's outsourced CTO, the FDX is its outsourced CEO — helping executives frame problems, set priorities and clear organisational barriers."
+      },
+      "body": {
+        "zh": "MIT 材料学博士 Rick Manelius 提出了 FDX（Forward Deployed Executive，前线部署高管）这一新角色。他的类比是：如果 FDE 是 AI 项目的「外置 CTO」，FDX 就是「外置 CEO」。\n\nFDX 的职责不是写代码，而是帮企业高管识别真问题、设定优先级，并跨越组织与心理层面的门槛。这一角色的出现说明，AI 落地卡住的地方往往不在技术层，而在决策层——技术可行不等于组织愿意改。\n\n角色的细分通常意味着市场正在成熟。当交付链条上出现更多专门化分工时，说明这套模式已经跑通并开始规模化。",
+        "en": "Rick Manelius, an MIT materials science PhD, proposed FDX — Forward Deployed Executive. His analogy: if FDE is an outsourced CTO for an AI project, FDX is the outsourced CEO.\n\nThe FDX doesn't write code; they help executives identify the real problem, set priorities and cross organisational and psychological thresholds. The role's emergence signals that AI adoption stalls at the decision layer, not the technical one — feasible is not the same as willing to change.\n\nRole specialisation usually signals a maturing market. More division of labour along the delivery chain means the model works and is starting to scale."
+      },
+      "category": {
+        "zh": "新兴角色",
+        "en": "New Role"
+      },
+      "source": {
+        "zh": "InfoQ",
+        "en": "InfoQ"
+      },
+      "date": "2026-08-04",
+      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260804-f5aeb11f",
+      "title": {
+        "zh": "Palantir 演示 AI FDE：智能体开始构建智能体",
+        "en": "Palantir Demos AI FDE: Agents Now Build Agents"
+      },
+      "summary": {
+        "zh": "在 2026 年产品演示中，Palantir 的 AI FDE 可自主编写 AIP Logic 函数、创建评估、调试系统，并在持续循环中把初步方案推进到生产级系统。",
+        "en": "In its 2026 product demo, Palantir showed an AI FDE writing AIP Logic functions, creating evaluations, debugging systems and iterating prototypes into production-grade software."
+      },
+      "body": {
+        "zh": "在 2026 年产品演示中，Palantir 展示了其 AI FDE 能力：智能体可以自主编写 AIP Logic 函数、创建评估用例、调试系统，并在持续循环中把初步方案推进到生产级系统。\n\n这意味着 FDE 工作流中重复度最高的部分（搭建、调试、评估）开始被自动化。人类 FDE 的价值将进一步向前移——从「能搭出来」转向「知道该搭什么」，业务理解与问题定义成为不可替代的部分。\n\n自动化正在重塑 FDE 的能力结构。可被工具替代的部分会快速贬值，而对业务问题的定义能力会持续升值。",
+        "en": "In a 2026 product demo, Palantir showed its AI FDE autonomously writing AIP Logic functions, creating evaluations, debugging systems, and iterating an initial approach into a production-grade system.\n\nThe most repetitive parts of FDE work — building, debugging, evaluating — are being automated. Human FDE value shifts further upstream, from being able to build it to knowing what to build; business understanding and problem framing become the irreplaceable part.\n\nAutomation is reshaping the FDE skill stack. What tooling can replace depreciates fast; the ability to frame the business problem keeps appreciating."
+      },
+      "category": {
+        "zh": "技术前沿",
+        "en": "Tech Frontier"
+      },
+      "source": {
+        "zh": "腾讯新闻",
+        "en": "QQ News"
+      },
+      "date": "2026-08-04",
+      "link": "https://new.qq.com/rain/a/20260804A09TZG00",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260804-0c3f3585",
+      "title": {
+        "zh": "Anthropic 与 UST 合作：培训 2 万名员工使用 Claude",
+        "en": "Anthropic Partners with UST to Train 20,000 Staff on Claude"
+      },
+      "summary": {
+        "zh": "UST 计划培训 2 万名员工使用 Claude，其中包括直接进入客户团队工作的前线部署工程师，并建立专门的 Claude 部署团队，显示 FDE 模式正通过系统集成商扩散。",
+        "en": "UST will train 20,000 employees on Claude, including forward deployed engineers embedded in client teams and dedicated Claude deployment squads — evidence the FDE model is spreading through systems integrators."
+      },
+      "body": {
+        "zh": "UST 与 Anthropic 达成合作，计划培训 2 万名员工使用 Claude，其中包括直接进入客户团队工作的前线部署工程师，并建立专门的 Claude 部署团队。\n\n这是 FDE 模式通过系统集成商向外扩散的典型案例。模型厂商自身的 FDE 团队规模有限，借助 SI 的既有客户关系和交付人力做规模化复制，是目前最现实的扩张路径。\n\n生态扩散是模式规模化的必经阶段。模型厂商与系统集成商的分工方式，将在很大程度上决定 FDE 未来的组织形态。",
+        "en": "UST partnered with Anthropic to train 20,000 employees on Claude, including forward deployed engineers who embed directly with client teams, plus a dedicated Claude deployment practice.\n\nThis is FDE spreading outward through system integrators. Model vendors' own FDE teams are inherently small; leveraging an SI's existing client relationships and delivery bench is currently the most realistic path to scale.\n\nEcosystem diffusion is how a model scales. How work splits between model vendors and system integrators will largely determine the future shape of FDE organisations."
+      },
+      "category": {
+        "zh": "生态合作",
+        "en": "Ecosystem"
+      },
+      "source": {
+        "zh": "InfoQ",
+        "en": "InfoQ"
+      },
+      "date": "2026-08-04",
+      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260803-acf8fbbe",
+      "title": {
+        "zh": "FDE 薪酬行情：硅谷资深年包中位数 48.5 万美元",
+        "en": "FDE Pay Watch: Median Senior Package Hits $485K in Silicon Valley"
+      },
+      "summary": {
+        "zh": "OpenAI 旧金山 FDE 年薪 16.2–28 万美元加股权，Anthropic 20–30 万美元；国内字节豆包 FDE 月薪 35–70K×15 薪，年薪最高 105 万元。",
+        "en": "OpenAI's San Francisco FDE roles pay $162K–$280K plus equity, Anthropic $200K–$300K. In China, ByteDance's Doubao FDE offers RMB 35–70K monthly across 15 months, up to RMB 1.05M a year."
+      },
+      "body": {
+        "zh": "硅谷资深 FDE 年包中位数已达 48.5 万美元。分厂商看：OpenAI 旧金山岗位年薪 16.2 万–28 万美元并附加股权，Anthropic 为 20 万–30 万美元。\n\n国内市场同样水涨船高：字节豆包 FDE 月薪 35–70K、按 15 薪计算，年薪最高可达 105 万元。薪酬曲线陡峭说明供给严重不足——既懂模型又懂业务、还愿意驻场的人，本身就是稀缺组合。\n\n薪酬曲线是供需关系最诚实的反映。价格居高不下，说明合格人才的培养速度仍然远远跟不上需求扩张。",
+        "en": "Median total compensation for senior FDEs in Silicon Valley has reached $485K. By employer: OpenAI's San Francisco roles pay $162K–$280K plus equity; Anthropic pays $200K–$300K.\n\nChina follows the same curve — ByteDance's Doubao FDE roles pay ¥35–70K monthly across 15 months, up to ¥1.05M a year. The steep curve reflects severe supply shortage: people who understand both models and business, and will work on site, are a rare combination.\n\nPay curves are the most honest read on supply and demand. Persistently high prices mean qualified talent still isn't being produced fast enough."
+      },
+      "category": {
+        "zh": "薪酬观察",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "Moomoo",
+        "en": "Moomoo"
+      },
+      "date": "2026-08-03",
+      "link": "https://www.moomoobull.com/hans/news/post/74103729",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260802-ef59df23",
+      "title": {
+        "zh": "Indeed 数据：FDE 岗位一年暴涨 729%",
+        "en": "Indeed Data: FDE Job Postings Surge 729% in One Year"
+      },
+      "summary": {
+        "zh": "2025 年 4 月至 2026 年 4 月，Indeed 上 FDE 职位从 643 条飙升至 5330 条；LinkedIn 显示 2023–2025 年全球 FDE 岗位增长 42 倍，远超 AI 工程师的 13 倍。",
+        "en": "From April 2025 to April 2026, FDE listings on Indeed jumped from 643 to 5,330. LinkedIn reports global FDE roles grew 42x between 2023 and 2025, far outpacing AI engineers at 13x."
+      },
+      "body": {
+        "zh": "Indeed 数据显示，2025 年 4 月至 2026 年 4 月，平台上的 FDE 职位数量从 643 条飙升至 5330 条，一年增幅达 729%。\n\nLinkedIn 数据同样印证了这一趋势，2023 至 2025 年全球 FDE 岗位持续增长。需要注意的是，岗位数量激增的同时职责定义仍不统一，不同公司对 FDE 的期待差异很大，求职者需要逐一确认实际工作内容。\n\n岗位数量和薪酬区间是观察行业热度最直接的指标，但真正值得关注的是任职要求的变化——它反映了企业对这个角色的期待正在如何收敛。",
+        "en": "Indeed data shows FDE listings jumped from 643 to 5,330 between April 2025 and April 2026 — a 729% increase in one year.\n\nLinkedIn data corroborates sustained global growth from 2023 to 2025. Note that job definitions remain inconsistent as volume explodes; expectations differ widely between companies, so candidates should verify the actual scope role by role.\n\nHeadcount and pay bands are the most direct heat indicators, but the more telling signal is how job requirements evolve — they show where expectations for the role are converging."
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "今日头条",
+        "en": "Toutiao"
+      },
+      "date": "2026-08-02",
+      "link": "https://www.toutiao.com/article/7669419292374598188",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260801-20f35065",
+      "title": {
+        "zh": "博彦科技以 FDE 模式打通金融 AI 境内外规模化落地",
+        "en": "Beyondsoft Scales Financial AI at Home and Abroad via FDE"
+      },
+      "summary": {
+        "zh": "摒弃按人天核算，国内外双市场统一实行效果付费、收益共担。批量项目实现信贷不良压降 3%–10%、后台运营人力缩减 20% 以上、监管报送工作量降低 60%。",
+        "en": "Dropping day-rate billing for outcome-based, risk-sharing pricing across both markets, its projects cut NPLs by 3–10%, back-office headcount by over 20% and regulatory reporting effort by 60%."
+      },
+      "body": {
+        "zh": "博彦科技在金融 AI 领域采用 FDE 模式，摒弃传统按人天核算的计费方式，在国内外双市场统一实行效果付费、收益共担。\n\n公开的批量项目成效包括：信贷不良率压降 3%–10%，后台运营人力缩减 20% 以上，监管报送工作量降低 60%。计费方式的改变是 FDE 模式最硬的验证——只有真正能对结果负责，才敢按效果收费。\n\n对正在评估 AI 落地路径的团队而言，这类案例的参考价值不在技术选型，而在组织安排：谁进场、进场多久、结束后留下什么。",
+        "en": "Beyondsoft applies the FDE model in financial AI, abandoning man-day billing in favour of outcome-based pricing and shared upside across both domestic and overseas markets.\n\nReported results across a batch of projects: 3–10% reduction in non-performing loans, over 20% cut in back-office operations headcount, and a 60% drop in regulatory reporting workload. The billing shift is the hardest proof point for FDE — only teams that can own outcomes dare to charge on them.\n\nFor teams evaluating AI adoption, the reference value here is organisational rather than technical: who embeds, for how long, and what remains afterwards."
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": "Case Study"
+      },
+      "source": {
+        "zh": "博彦科技",
+        "en": "Beyondsoft"
+      },
+      "date": "2026-08-01",
+      "link": "https://www.beyondsoft.com/content/details9_8989.html",
+      "archivedAt": "2026-08-10"
+    },
+    {
+      "slug": "fde-20260731-c9d04260",
+      "title": {
+        "zh": "MIT 报告：95% 企业生成式 AI 试点未产生可衡量回报",
+        "en": "MIT Report: 95% of Enterprise GenAI Pilots Show No Measurable ROI"
+      },
+      "summary": {
+        "zh": "MIT Sloan Management Review 2026 年 7 月底报告与 FDE 起薪 40 万美元/年形成鲜明对照——模型能力溢出、企业接不住、中间没人翻译，催生了这个岗位。",
+        "en": "The MIT Sloan Management Review report contrasts sharply with FDE starting pay of $400K a year: model capability overflows, enterprises cannot absorb it, and nobody translates in between."
+      },
+      "body": {
+        "zh": "MIT Sloan Management Review 于 2026 年 7 月底发布报告，指出 95% 的企业生成式 AI 试点未产生可衡量的回报。\n\n这一数字与 FDE 起薪 40 万美元/年形成鲜明对照，也解释了 FDE 岗位为何暴涨：模型能力持续溢出，企业侧却接不住，中间缺少能把业务语言翻译成系统实现的人。FDE 正是为填补这个断层而出现的角色。\n\n研究机构的数据提供了行业基准线。对具体企业来说，更有用的做法是拿这些比例对照自身项目，判断自己处在分布的哪一段。",
+        "en": "MIT Sloan Management Review's late-July 2026 report found that 95% of enterprise generative AI pilots produced no measurable return.\n\nThat figure sits in stark contrast with FDE starting salaries near $400K a year — and explains the hiring surge. Model capability keeps overflowing while enterprises can't absorb it, because nobody in between translates business language into working systems. FDE exists to fill that gap.\n\nResearch data provides an industry baseline. The more useful exercise is benchmarking your own projects against these ratios to see where you sit in the distribution."
+      },
+      "category": {
+        "zh": "研究报告",
+        "en": "Research"
+      },
+      "source": {
+        "zh": "CSDN",
+        "en": "CSDN"
+      },
+      "date": "2026-07-31",
+      "link": "https://blog.csdn.net/Autsm_Hanyu/article/details/163400049",
+      "archivedAt": "2026-08-10"
+    }
+  ]
+}

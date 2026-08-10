@@ -17,6 +17,8 @@ function bg_icon($name, $size = 22, $stroke = 1.8) {
     'menu' => '<line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="18" y2="18"/>',
     'x' => '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
     'arrow-up-right' => '<path d="M7 7h10v10"/><path d="M7 17 17 7"/>',
+    'arrow-right' => '<path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>',
+    'globe' => '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>',
   );
   $fill = ($name === 'play') ? 'fill="currentColor" stroke="none"' : 'fill="none" stroke="currentColor" stroke-width="' . $stroke . '" stroke-linecap="round" stroke-linejoin="round"';
   if ($name === 'play') {
@@ -261,10 +263,9 @@ function bg_render_mobile_nav($nav, $lang) {
 }
 
 // ===== SiteFooter =====
-function bg_render_footer($lang) {
+function bg_render_footer($lang, $showAiFde = false) {
   global $UI;
-  $footerCols = bg_get_collection('footerColumns');
-  $articles = bg_get_collection('articles');
+  $aiFdeNews = $showAiFde ? bg_get_collection($lang === 'en' ? 'aiFdeNewsEn' : 'aiFdeNews') : array();
   $contact = bg_get_singleton('contact');
   $cities = bg_get_collection('cities');
   $site = bg_get_singleton('site');
@@ -275,21 +276,65 @@ function bg_render_footer($lang) {
   $copyrightYearStart = !empty($site['copyrightYearStart']) ? $site['copyrightYearStart'] : '2003';
 
   echo '<footer class="liquid-glass-section relative mt-24 border-t border-[#0c1426]/10">';
-  echo '<div class="relative z-10 mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:grid-cols-2 lg:grid-cols-4">';
-  foreach ($footerCols as $i => $col) {
-    echo '<div>';
-    echo '<div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . ($i + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-tech-ink">' . h(bg_t($col['title'], $lang)) . '</h3></div>';
-    echo '<ul class="space-y-2.5">';
-    foreach (bg_t_list($col['links'], $lang) as $link) {
-      echo '<li class="text-sm text-tech-muted transition-colors hover:text-tech-cyan">' . h($link) . '</li>';
+
+  // AI FDE 最新信息（仅在 FDE Map 页面展示）
+  if ($showAiFde):
+  echo '<div class="relative z-10 mx-auto max-w-6xl px-4 py-12">';
+  echo '<div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">';
+  echo '<div>';
+  bg_eyebrow('', bg_pick($UI['footer']['aiFdeEyebrow'], $lang));
+  echo '<h2 class="mt-2 font-display text-xl font-semibold text-tech-ink sm:text-2xl">' . h(bg_pick($UI['footer']['aiFdeTitle'], $lang)) . '</h2>';
+  echo '<p class="mt-1.5 max-w-2xl text-xs text-tech-muted sm:text-sm">' . h(bg_pick($UI['footer']['aiFdeDesc'], $lang)) . '</p>';
+  echo '</div>';
+  echo '<span class="inline-flex items-center gap-1.5 self-start rounded-full bg-tech-cyan/10 px-2.5 py-1 text-[11px] font-medium text-tech-cyan">';
+  echo '<span class="relative flex h-1.5 w-1.5"><span class="absolute inline-flex h-full w-full animate-ping rounded-full bg-tech-cyan opacity-75"></span><span class="relative inline-flex h-1.5 w-1.5 rounded-full bg-tech-cyan"></span></span>';
+  echo h(bg_pick($UI['footer']['aiFdeBadge'], $lang));
+  echo '</span>';
+  echo '</div>';
+  echo '<div class="mt-7 grid gap-2.5 sm:grid-cols-2 lg:grid-cols-4">';
+  foreach (array_slice($aiFdeNews, 0, 20) as $i => $item) {
+    // 优先跳本站沉淀详情页（标注出处），无 slug 的旧数据回退原文外链
+    if (!empty($item['slug'])) {
+      $href = '/news?slug=' . rawurlencode($item['slug']);
+      $target = '';
+    } else {
+      $href = !empty($item['link']) ? $item['link'] : '#';
+      $target = (strpos($href, 'http') === 0) ? ' target="_blank" rel="noopener"' : '';
     }
-    echo '</ul></div>';
+    bg_reveal_start('', min($i, 8) * 50);
+    echo '<a href="' . h(bg_url($href)) . '"' . $target . ' class="group flex h-full flex-col rounded-xl border border-[#0c1426]/10 bg-white/65 px-3 py-2.5 backdrop-blur-sm transition-all duration-200 hover:-translate-y-0.5 hover:border-tech-blue/40 hover:bg-white/90 hover:shadow-md">';
+    echo '<div class="flex items-center justify-between gap-2">';
+    echo '<span class="truncate rounded bg-tech-blue/10 px-1.5 py-0.5 text-[9px] font-semibold tracking-wide text-tech-blue">' . h(bg_t($item['category'], $lang)) . '</span>';
+    echo '<span class="shrink-0 font-mono text-[10px] text-tech-muted/70">' . h($item['date']) . '</span>';
+    echo '</div>';
+    echo '<h3 class="mt-1.5 flex-1 text-[12.5px] font-medium leading-snug text-tech-ink line-clamp-2 group-hover:text-tech-blue">' . h(bg_t($item['title'], $lang)) . '</h3>';
+    echo '<div class="mt-1.5 flex items-center justify-between gap-2">';
+    if (!empty($item['source'])) {
+      echo '<span class="inline-flex min-w-0 items-center gap-1 text-[10px] text-tech-muted/70">' . bg_icon('globe', 10, 2) . '<span class="truncate">' . h(bg_t($item['source'], $lang)) . '</span></span>';
+    } else {
+      echo '<span></span>';
+    }
+    echo '<span class="shrink-0 text-tech-cyan opacity-0 transition-opacity group-hover:opacity-100">' . bg_icon('arrow-right', 11, 2) . '</span>';
+    echo '</div>';
+    echo '</a>';
+    bg_reveal_end();
   }
-  echo '<div><div class="mb-5 flex items-center gap-2"><span class="font-mono text-xs text-tech-blue/80">0' . (count($footerCols) + 1) . '</span><h3 class="text-sm font-semibold tracking-wide text-tech-ink">' . h(bg_pick($UI['footer']['articlesTitle'], $lang)) . '</h3></div><ul class="space-y-2.5">';
-  foreach (array_slice($articles, 0, 6) as $article) {
-    echo '<li><a href="' . bg_url('/points') . '" class="text-sm text-tech-muted transition-colors hover:text-tech-cyan">' . h(bg_t($article['title'], $lang)) . '</a></li>';
+  echo '</div>';
+
+  // 更多：进入本站资讯归档（历史全量沉淀，可继续翻阅）
+  require_once __DIR__ . '/news.php';
+  $archiveTotal = bg_news_count($lang);
+  echo '<div class="mt-6 flex justify-center">';
+  echo '<a href="' . bg_url('/news') . '" class="group inline-flex items-center gap-2 rounded-full border border-[#0c1426]/12 bg-white/60 px-5 py-2.5 text-xs font-medium text-tech-ink transition-all hover:-translate-y-0.5 hover:border-tech-blue/40 hover:bg-white/90 hover:text-tech-blue">';
+  echo h(bg_pick($UI['footer']['aiFdeMore'], $lang));
+  if ($archiveTotal > 0) {
+    echo '<span class="rounded-full bg-tech-blue/10 px-2 py-0.5 font-mono text-[10px] text-tech-blue">' . (int) $archiveTotal . '</span>';
   }
-  echo '</ul></div></div>';
+  echo '<span class="text-tech-cyan transition-transform group-hover:translate-x-0.5">' . bg_icon('arrow-right', 12, 2) . '</span>';
+  echo '</a>';
+  echo '</div>';
+  echo '</div>';
+  endif; // $showAiFde
 
   echo '<div class="relative z-10 border-t border-[#0c1426]/10"><div class="mx-auto grid gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-3">';
   echo '<div class="glass p-6"><h4 class="mb-3 font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['contactTitle'], $lang)) . '</h4>';
@@ -301,6 +346,7 @@ function bg_render_footer($lang) {
   echo '<div class="glass flex flex-col justify-between p-6"><h4 class="font-mono text-xs uppercase tracking-[0.2em] text-tech-cyan">' . h(bg_pick($UI['footer']['linksTitle'], $lang)) . '</h4><div class="mt-4 flex flex-col gap-2">';
   echo '<a href="' . bg_url('/admin/login') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['adminLogin'], $lang)) . '</a>';
   echo '<a href="' . bg_url('/3d') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['footer']['threedsLink'], $lang)) . '</a>';
+  echo '<a href="' . bg_url('/news') . '" class="text-sm font-medium text-tech-cyan transition-opacity hover:opacity-80">' . h(bg_pick($UI['newsPage']['title'], $lang)) . ' →</a>';
   echo '</div></div></div></div>';
 
   echo '<div class="relative z-10 border-t border-[#0c1426]/10"><div class="mx-auto grid grid-cols-1 items-center gap-8 px-4 py-10 sm:grid-cols-3">';

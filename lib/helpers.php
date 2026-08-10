@@ -30,6 +30,8 @@ function bg_route($path) {
     '/profile'        => '/profile.php',
     '/points'         => '/points.php',
     '/contact'        => '/contact.php',
+    '/fde-map'        => '/fde-map.php',
+    '/news'           => '/news.php',
     '/api/inquiry'    => '/api/inquiry.php',
     '/api/admin/login'       => '/api/login.php',
     '/api/admin/logout'      => '/api/logout.php',
@@ -46,6 +48,9 @@ function bg_route($path) {
   }
   if (preg_match('#^/case(\?.*)?$#', $path, $m)) {
     return '/case.php' . (isset($m[1]) ? $m[1] : '');
+  }
+  if (preg_match('#^/news(\?.*)?$#', $path, $m)) {
+    return '/news.php' . (isset($m[1]) ? $m[1] : '');
   }
   if (preg_match('#^/api/content/([a-zA-Z0-9_]+)/([^/]+)$#', $path, $m)) {
     return '/api/content.php?type=' . $m[1] . '&id=' . $m[2];

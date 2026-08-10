@@ -1,5 +1,30 @@
 # 更新日志
 
+## v20260810-1501 — 2026-08-10 15:01
+FDE地图飘图随导航下拉自动更新；导航移除顶层WiKi、FDE下拉保留；AI FDE资讯仅FDE地图页脚
+
+### 提交记录
+- release: v20260810-1501 — FDE地图飘图随导航下拉自动更新；导航移除顶层WiKi、FDE下拉保留；AI FDE资讯仅FDE地图页脚 (cc8f008)
+
+### 变更文件
+```
+A	data/content.json.bak
+A	data/fde-archive.json
+A	data/fde-archive.json.bak
+A	data/fde-archive.json.bak2
+A	fde-map.php
+M	lib/helpers.php
+A	lib/news.php
+M	lib/render.php
+M	lib/schema.php
+M	lib/ui-text.php
+A	news.php
+A	tools/fde_news_write.py
+A	tools/fde_seed_archive.py
+A	tools/fde_seed_en.py
+```
+
+---
 ## v20260805-1056 — 2026-08-05 10:56
 新增3个视频片头10秒跳过(MOXA-mvideo06/暗藏式马桶/三维动画作品3),video01仅10秒恢复不跳过
 
