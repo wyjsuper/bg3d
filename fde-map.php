@@ -22,6 +22,8 @@ $projectMeta = array(
   'https://fortune.eupgrading.com/' => array('icon' => '🔮', 'desc' => array('zh' => '数据洞察、预测与智能分析', 'en' => 'Data insights, forecasting and intelligent analytics')),
   'https://oral.eupgrading.com/' => array('icon' => '🗣️', 'desc' => array('zh' => 'AI 驱动的英语口语练习', 'en' => 'AI-powered spoken English practice')),
   'https://kidbbc.eupgrading.com/' => array('icon' => '🎬', 'desc' => array('zh' => '儿童教育视频内容库', 'en' => 'Children educational video content library')),
+  'https://face.eupgrading.com/' => array('icon' => '🤡', 'desc' => array('zh' => 'AI 人脸融合与换脸特效', 'en' => 'AI face fusion and swap effects')),
+  'https://ec.eupgrading.com/' => array('icon' => '🛒', 'desc' => array('zh' => '电商数据监控与运营看板', 'en' => 'Real-time e-commerce monitoring and analytics')),
 );
 $fallbackMeta = array('icon' => '🚀', 'desc' => array('zh' => '点击探索该项目', 'en' => 'Click to explore this project'));
 
@@ -480,18 +482,7 @@ bg_render_nav($lang);
         </defs>
       </svg>
 
-      <?php
-      // 初始布局（无 JS / 降级时仍可见）；JS 会接管为轨道运动
-      $positions = array(
-        array('left' => '50%', 'top' => '50%'),
-        array('left' => '50%', 'top' => '6%'),
-        array('left' => '87%', 'top' => '26%'),
-        array('left' => '87%', 'top' => '74%'),
-        array('left' => '50%', 'top' => '94%'),
-        array('left' => '13%', 'top' => '74%'),
-        array('left' => '13%', 'top' => '26%'),
-      );
-      foreach ($projects as $i => $p):
+      <?php foreach ($projects as $i => $p):
         $isCenter = ($i === 0);
         $isExternal = (strpos($p['href'], 'http') === 0);
         $pos = $positions[$i];
