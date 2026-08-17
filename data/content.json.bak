@@ -73,58 +73,27 @@
             "en": "Kids Video Library"
           },
           "href": "https://kidbbc.eupgrading.com/"
-        }
-      ]
-    },
-    {
-      "id": "nav-1",
-      "label": {
-        "zh": "WiKi知识库",
-        "en": "WiKi Knowledge Base"
-      },
-      "href": "https://wiki.eupgrading.com/",
-      "children": [
-        {
-          "label": {
-            "zh": "内贸营销推广和运维",
-            "en": "Domestic Marketing & Operations"
-          },
-          "href": "https://wiki.091384.xyz/"
         },
         {
           "label": {
-            "zh": "外贸营销推广和运维",
-            "en": "Global Marketing & Operations"
+            "zh": "换脸",
+            "en": "Face Swap"
           },
-          "href": "/plan#overseas"
+          "href": "https://face.eupgrading.com/"
         },
         {
           "label": {
-            "zh": "网站 / 小程序 / 公众号",
-            "en": "Website / Mini-program / Official Account"
+            "zh": "电商ERP",
+            "en": "EC-ERP"
           },
-          "href": "/plan#platform"
+          "href": "https://erp.eupgrading.com/"
         },
         {
           "label": {
-            "zh": "会展资料设计制作",
-            "en": "Exhibition Material Design"
+            "zh": "电商监控",
+            "en": "E-commerce Monitoring"
           },
-          "href": "/plan#expo"
-        },
-        {
-          "label": {
-            "zh": "文化氛围设计落地",
-            "en": "Cultural Ambience Implementation"
-          },
-          "href": "/plan#culture"
-        },
-        {
-          "label": {
-            "zh": "图片视频拍摄后期",
-            "en": "Photo & Video Production"
-          },
-          "href": "/plan#shoot"
+          "href": "https://ec.eupgrading.com/"
         }
       ]
     },
@@ -1773,443 +1742,443 @@
   "aiFdeNews": [
     {
       "id": "ai-0",
-      "slug": "fde-20260809-89d09be3",
+      "slug": "fde-20260815-f0b689ad",
       "title": {
-        "zh": "腾讯 × 长安汽车组建 34 人「AI 火箭班」联合 FDE 团队",
-        "en": "Tencent x Changan Auto Form a 34-Person Joint FDE Team"
+        "zh": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+        "en": ""
       },
       "summary": {
-        "zh": "长安内部选拔 24 名业务与技术骨干脱产两个月，腾讯派出 10 位产品、研发、交付专家驻场，围绕软件研发、合同智审、智能客服等 7 大核心场景做 Agent。",
-        "en": "Changan seconded 24 business and technical staff full-time for two months while Tencent embedded 10 product, R&D and delivery experts, building agents across seven core scenarios."
-      },
-      "category": {
-        "zh": "落地案例",
-        "en": "Case Study"
-      },
-      "source": {
-        "zh": "CSDN",
-        "en": "CSDN"
-      },
-      "date": "2026-08-09",
-      "link": "https://blog.csdn.net/2601_94865727/article/details/163514107"
-    },
-    {
-      "id": "ai-1",
-      "slug": "fde-20260809-16eb05e2",
-      "title": {
-        "zh": "AgenticCareers：21 家公司在招 FDE，中位薪资 15.2 万–24 万美元",
-        "en": "AgenticCareers: 21 Companies Hiring FDEs at a $152K–$240K Median"
-      },
-      "summary": {
-        "zh": "截至 2026 年 8 月共追踪 36 个在招 FDE 岗位，最活跃雇主为 Databricks、Brex 与 Clera；Ramp 开出 18.9 万–33 万美元，仅 11% 岗位支持远程。",
-        "en": "As of August 2026 it tracks 36 open FDE roles; the most active employers are Databricks, Brex and Clera. Ramp advertises $189K–$330K, and only 11% of roles are remote."
-      },
-      "category": {
-        "zh": "人才市场",
-        "en": "Talent Market"
-      },
-      "source": {
-        "zh": "AgenticCareers",
-        "en": "AgenticCareers"
-      },
-      "date": "2026-08-09",
-      "link": "https://agenticcareers.co/roles/forward-deployed-engineer"
-    },
-    {
-      "id": "ai-2",
-      "slug": "fde-20260808-18636616",
-      "title": {
-        "zh": "OpenAI 成立 The Deployment Company，募资超 40 亿美元",
-        "en": "OpenAI Launches The Deployment Company, Raising Over $4B"
-      },
-      "summary": {
-        "zh": "该合资公司专为把 FDE 嵌入企业而设，由 TPG 领投，Advent、贝恩资本、博枫联合领投，高盛、麦肯锡、凯捷为创始伙伴；并收购 Tomoro 带来约 150 名资深 FDE。",
-        "en": "The joint venture exists to embed FDEs inside enterprises, led by TPG with Advent, Bain Capital and Brookfield co-leading; Goldman Sachs, McKinsey and Capgemini are founding partners. It acquired Tomoro for ~150 seasoned FDEs."
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": "Capital Moves"
-      },
-      "source": {
-        "zh": "HatchWorks",
-        "en": "HatchWorks"
-      },
-      "date": "2026-08-08",
-      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
-    },
-    {
-      "id": "ai-3",
-      "slug": "fde-20260808-af7034bb",
-      "title": {
-        "zh": "Anthropic 企业服务公司 Ode 正式亮相",
-        "en": "Anthropic's Enterprise Services Firm Ode Officially Launches"
-      },
-      "summary": {
-        "zh": "2026 年 7 月，Anthropic 与黑石、Hellman & Friedman 共同成立的 Ode 正式落地，投资方含高盛、General Atlantic、阿波罗、GIC 与红杉，基于收购 Fractional AI 组建。",
-        "en": "In July 2026 Ode launched with Blackstone and Hellman & Friedman, backed by Goldman Sachs, General Atlantic, Apollo, GIC and Sequoia, built on the acquisition of Fractional AI."
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": "Capital Moves"
-      },
-      "source": {
-        "zh": "HatchWorks",
-        "en": "HatchWorks"
-      },
-      "date": "2026-08-08",
-      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
-    },
-    {
-      "id": "ai-4",
-      "slug": "fde-20260808-9f0388da",
-      "title": {
-        "zh": "Salesforce 宣布组建 1000 人 FDE 团队推动 Agentforce",
-        "en": "Salesforce to Build 1,000-Strong FDE Team for Agentforce"
-      },
-      "summary": {
-        "zh": "Salesforce 公开承诺组建千人 FDE 队伍，并配套六周入职培训；谷歌云 CEO 亦宣布将再招数百名 FDE，在 GTM 部门单设 AI 组织。",
-        "en": "Salesforce has committed to a 1,000-person FDE team with a six-week onboarding programme, while Google Cloud's CEO plans to hire hundreds more within a dedicated AI go-to-market organisation."
-      },
-      "category": {
-        "zh": "巨头动向",
-        "en": "Big Tech"
-      },
-      "source": {
-        "zh": "HatchWorks",
-        "en": "HatchWorks"
-      },
-      "date": "2026-08-08",
-      "link": "https://hatchworks.com/blog/fde/forward-deployed-engineer"
-    },
-    {
-      "id": "ai-5",
-      "slug": "fde-20260808-c961bc91",
-      "title": {
-        "zh": "Gartner：仅不足 41% 的企业 AI 试点能进入生产",
-        "en": "Gartner: Fewer Than 41% of Enterprise AI Pilots Reach Production"
-      },
-      "summary": {
-        "zh": "2026 年全球 AI 总投入预计达 2.52 万亿美元，超九成企业开展过试点，但规模化落地率不足四成；到 2027 年超四成缺乏迭代能力的智能体项目将退出业务体系。",
-        "en": "Global AI spend is projected at $2.52T in 2026 and over 90% of enterprises have piloted AI, yet under 41% scale into production. By 2027 more than 40% of agent projects lacking iteration capability will be retired."
-      },
-      "category": {
-        "zh": "研究报告",
-        "en": "Research"
-      },
-      "source": {
-        "zh": "博客园",
-        "en": "Cnblogs"
-      },
-      "date": "2026-08-08",
-      "link": "https://www.cnblogs.com/shuzihuaguancha/articles/22181745"
-    },
-    {
-      "id": "ai-6",
-      "slug": "fde-20260807-dc69bf42",
-      "title": {
-        "zh": "Palantir Q2 财报引爆 FDE 概念，A 股万兴科技卡位场景交付",
-        "en": "Palantir's Q2 Results Ignite FDE Theme; Wondershare Bets on Scenario Delivery"
-      },
-      "summary": {
-        "zh": "Palantir 2026 年二季度营收大幅增长并上调全年指引，带动 FDE 概念升温。国联民生证券研报称 FDE 有望成为连接模型厂商、软件服务商与行业客户的关键组织形态。",
-        "en": "Palantir's Q2 2026 revenue jumped and full-year guidance was raised, heating up the FDE theme. Guolian Minsheng Securities says FDE may become the key organisational form linking model vendors, software providers and industry clients."
-      },
-      "category": {
-        "zh": "资本市场",
-        "en": "Capital Markets"
-      },
-      "source": {
-        "zh": "云财经",
-        "en": "Yuncaijing"
-      },
-      "date": "2026-08-07",
-      "link": "https://www.yuncaijing.com/news/id_17167089.html"
-    },
-    {
-      "id": "ai-7",
-      "slug": "fde-20260807-0d80ae19",
-      "title": {
-        "zh": "钉钉六星服务商的 FDE 实验：交付周期从 2–4 周压到 1–3 天",
-        "en": "A DingTalk Partner's FDE Experiment Cuts Delivery from Weeks to Days"
-      },
-      "summary": {
-        "zh": "典铭云赛把「调研—方案—汇报—签约—实施」五步压成「场景发现—现场演示—快速搭建—交付确认」四步，客户在调研阶段就能体验实际效果。",
-        "en": "Dianming Yunsai compressed the classic five-step cycle into four — discover, demo, build, confirm — letting clients experience real results during the discovery phase."
-      },
-      "category": {
-        "zh": "交付模式",
-        "en": "Delivery Model"
-      },
-      "source": {
-        "zh": "和讯科技",
-        "en": "Hexun Tech"
-      },
-      "date": "2026-08-07",
-      "link": "https://tech.hexun.com/2026-08-07/224784288.html"
-    },
-    {
-      "id": "ai-8",
-      "slug": "fde-20260806-92b98027",
-      "title": {
-        "zh": "IDC：中国 FDE 实践加速分化，标签本身正在贬值",
-        "en": "IDC: China's FDE Practices Diverge as the Label Loses Signal Value"
-      },
-      "summary": {
-        "zh": "北京、武汉已将 FDE 写入智能体专项政策。IDC 指出部分服务商只是给传统驻场换了标签，真正拉开差距的是交付逻辑能否说清与传统实施的实质区别。",
-        "en": "Beijing and Wuhan have written FDE into agent policies. IDC warns some vendors merely rebadge traditional onsite delivery; the real differentiator is articulating how delivery logic truly differs."
-      },
-      "category": {
-        "zh": "市场分析",
-        "en": "Market Analysis"
-      },
-      "source": {
-        "zh": "新浪财经",
-        "en": "Sina Finance"
-      },
-      "date": "2026-08-06",
-      "link": "https://finance.sina.cn/tech/2026-08-06/detail-inimksmi0612418.d.html"
-    },
-    {
-      "id": "ai-9",
-      "slug": "fde-20260806-957d0823",
-      "title": {
-        "zh": "联想以 FDE 模式驻扎佛山车间，落地城市超级智能体",
-        "en": "Lenovo Embeds FDEs in Foshan Factories for City-Scale AI Agents"
-      },
-      "summary": {
-        "zh": "「佛山市人工智能赋能制造业数智服务平台」进入交付阶段，联想将架构师与工程师以 FDE 模式驻扎生产车间，后方设「擎天创新实验室」持续迭代工业智能体。",
-        "en": "As Foshan's AI manufacturing platform enters delivery, Lenovo has embedded architects and engineers on the shop floor under an FDE model, backed by a lab continuously iterating industrial agents."
-      },
-      "category": {
-        "zh": "落地案例",
-        "en": "Case Study"
-      },
-      "source": {
-        "zh": "今日头条",
-        "en": "Toutiao"
-      },
-      "date": "2026-08-06",
-      "link": "https://www.toutiao.com/article/7670812778755523122"
-    },
-    {
-      "id": "ai-10",
-      "slug": "fde-20260805-bd582a96",
-      "title": {
-        "zh": "腾讯研究院报告：FDE 模式行业观察与实践",
-        "en": "Tencent Research Institute: Industry Report on the FDE Model"
-      },
-      "summary": {
-        "zh": "报告指出 AI 落地矛盾正从「模型能不能做」转向「组织怎么用」；FDE 与传统驻场的本质区别，在于项目结束后能否沉淀为可复用资产。",
-        "en": "The report finds the bottleneck shifting from model capability to organisational adoption, and defines the real FDE difference as whether field experience is distilled into reusable assets."
-      },
-      "category": {
-        "zh": "研究报告",
-        "en": "Research"
-      },
-      "source": {
-        "zh": "36氪",
-        "en": "36Kr"
-      },
-      "date": "2026-08-05",
-      "link": "https://36kr.com/p/3926404419910018"
-    },
-    {
-      "id": "ai-11",
-      "slug": "fde-20260805-db318c0e",
-      "title": {
-        "zh": "瓴羊 FDE 驻场雅迪：78 场调研重构 4 万门店客服体系",
-        "en": "Lingyang's FDE Team Rebuilds Yadea's Service Across 40,000 Stores"
-      },
-      "summary": {
-        "zh": "FDE 团队进场后横跨十几个部门开展 78 场深度驻场调研，反复听用户热线录音，分两期落地一体化工作台、坐席辅助与热线机器人。",
-        "en": "The FDE team ran 78 deep onsite studies across a dozen departments, repeatedly listening to hotline recordings, then delivered a unified workbench, agent assist and hotline bots in two phases."
-      },
-      "category": {
-        "zh": "落地案例",
-        "en": "Case Study"
-      },
-      "source": {
-        "zh": "中国经济网",
-        "en": "CET"
-      },
-      "date": "2026-08-05",
-      "link": "https://www.cet.com.cn/itpd/itxw/10492538.shtml"
-    },
-    {
-      "id": "ai-12",
-      "slug": "fde-20260804-e946d086",
-      "title": {
-        "zh": "Gartner：2026 年底超 85% 技术服务商将以 FDE 为交付 AI 的核心方式",
-        "en": "Gartner: Over 85% of Tech Service Providers Will Deliver AI via FDE by End-2026"
-      },
-      "summary": {
-        "zh": "微软向 Microsoft Frontier 投入 25 亿美元、新增 6000 名工程专家，AWS 投资 10 亿美元建立前沿部署工程中心，谷歌、OpenAI、Anthropic 与埃森哲、德勤同步扩招 FDE。",
-        "en": "Microsoft is investing $2.5B in Microsoft Frontier with 6,000 new engineering specialists, AWS $1B in a forward deployed engineering centre, while Google, OpenAI, Anthropic, Accenture and Deloitte all scale up FDE hiring."
+        "zh": "理解大模型，无需再训练一个替代网络",
+        "en": ""
       },
       "category": {
         "zh": "行业趋势",
-        "en": "Industry Trend"
+        "en": ""
       },
       "source": {
-        "zh": "腾讯新闻",
-        "en": "QQ News"
+        "zh": "qbitai.com",
+        "en": ""
       },
-      "date": "2026-08-04",
-      "link": "https://new.qq.com/rain/a/20260804A000UG00"
+      "date": "2026-08-15",
+      "link": "https://www.qbitai.com/2026/08/473876.html"
     },
     {
-      "id": "ai-13",
-      "slug": "fde-20260804-15a5731b",
+      "id": "ai-1",
+      "slug": "fde-20260815-43437d1c",
       "title": {
-        "zh": "FDX 登场：继 FDE 之后出现「前线部署高管」",
-        "en": "Enter FDX: The Forward Deployed Executive Emerges After FDE"
+        "zh": "联想集团刘军：AI PC国内市场销量占比过半",
+        "en": ""
       },
       "summary": {
-        "zh": "MIT 材料学博士 Rick Manelius 提出，若 FDE 是 AI 项目的「外置 CTO」，FDX 就是「外置 CEO」——帮高管识别问题、设定优先级并跨越组织与心理门槛。",
-        "en": "MIT PhD Rick Manelius argues that if the FDE is an AI project's outsourced CTO, the FDX is its outsourced CEO — helping executives frame problems, set priorities and clear organisational barriers."
+        "zh": "联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%，国内市场销量占笔记本电脑总销量的比例已突破50%。他透露，在技术侧，联想正全面升级端侧和边缘侧的算力，把Token生产更多留在本地，兼顾隐私与成本；在生态侧则加速引入Skills，增强天禧AI的L3级任务执行能力。（证券时报）",
+        "en": ""
       },
       "category": {
-        "zh": "新兴角色",
-        "en": "New Role"
+        "zh": "行业趋势",
+        "en": ""
       },
       "source": {
-        "zh": "InfoQ",
-        "en": "InfoQ"
+        "zh": "36kr.com",
+        "en": ""
       },
-      "date": "2026-08-04",
-      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y"
+      "date": "2026-08-15",
+      "link": "https://36kr.com/newsflashes/3940352545078405?f=rss"
     },
     {
-      "id": "ai-14",
-      "slug": "fde-20260804-f5aeb11f",
+      "id": "ai-2",
+      "slug": "fde-20260815-cdd7b3d0",
       "title": {
-        "zh": "Palantir 演示 AI FDE：智能体开始构建智能体",
-        "en": "Palantir Demos AI FDE: Agents Now Build Agents"
+        "zh": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+        "en": ""
       },
       "summary": {
-        "zh": "在 2026 年产品演示中，Palantir 的 AI FDE 可自主编写 AIP Logic 函数、创建评估、调试系统，并在持续循环中把初步方案推进到生产级系统。",
-        "en": "In its 2026 product demo, Palantir showed an AI FDE writing AIP Logic functions, creating evaluations, debugging systems and iterating prototypes into production-grade software."
+        "zh": "36氪获悉，8月15日，阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。",
+        "en": ""
       },
       "category": {
-        "zh": "技术前沿",
-        "en": "Tech Frontier"
+        "zh": "行业趋势",
+        "en": ""
       },
       "source": {
-        "zh": "腾讯新闻",
-        "en": "QQ News"
+        "zh": "36kr.com",
+        "en": ""
       },
-      "date": "2026-08-04",
-      "link": "https://new.qq.com/rain/a/20260804A09TZG00"
+      "date": "2026-08-15",
+      "link": "https://36kr.com/newsflashes/3940346809810055?f=rss"
     },
     {
-      "id": "ai-15",
-      "slug": "fde-20260804-0c3f3585",
+      "id": "ai-3",
+      "slug": "fde-20260815-5e6ab67b",
       "title": {
-        "zh": "Anthropic 与 UST 合作：培训 2 万名员工使用 Claude",
-        "en": "Anthropic Partners with UST to Train 20,000 Staff on Claude"
+        "zh": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+        "en": ""
       },
       "summary": {
-        "zh": "UST 计划培训 2 万名员工使用 Claude，其中包括直接进入客户团队工作的前线部署工程师，并建立专门的 Claude 部署团队，显示 FDE 模式正通过系统集成商扩散。",
-        "en": "UST will train 20,000 employees on Claude, including forward deployed engineers embedded in client teams and dedicated Claude deployment squads — evidence the FDE model is spreading through systems integrators."
+        "zh": "推理能力还能自定义",
+        "en": ""
       },
       "category": {
-        "zh": "生态合作",
-        "en": "Ecosystem"
+        "zh": "行业趋势",
+        "en": ""
       },
       "source": {
-        "zh": "InfoQ",
-        "en": "InfoQ"
+        "zh": "qbitai.com",
+        "en": ""
       },
-      "date": "2026-08-04",
-      "link": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y"
+      "date": "2026-08-15",
+      "link": "https://www.qbitai.com/2026/08/473669.html"
     },
     {
-      "id": "ai-16",
-      "slug": "fde-20260803-acf8fbbe",
+      "id": "ai-4",
+      "slug": "fde-20260815-3abd84d9",
       "title": {
-        "zh": "FDE 薪酬行情：硅谷资深年包中位数 48.5 万美元",
-        "en": "FDE Pay Watch: Median Senior Package Hits $485K in Silicon Valley"
+        "zh": "段永平继续加仓拼多多，大幅减持英伟达、谷歌",
+        "en": ""
       },
       "summary": {
-        "zh": "OpenAI 旧金山 FDE 年薪 16.2–28 万美元加股权，Anthropic 20–30 万美元；国内字节豆包 FDE 月薪 35–70K×15 薪，年薪最高 105 万元。",
-        "en": "OpenAI's San Francisco FDE roles pay $162K–$280K plus equity, Anthropic $200K–$300K. In China, ByteDance's Doubao FDE offers RMB 35–70K monthly across 15 months, up to RMB 1.05M a year."
+        "zh": "截至二季度末，由段永平管理的H&H International Investment基金总持仓市值约191亿美元，约合人民币1370亿元，较去年四季度末的200亿美元有所下降。二季度，段永平继续增持拼多多，重新买入阿里巴巴，同时减持苹果、英伟达、谷歌、微软等，清仓台积电、CrowdStrike等个股。（证券时报）",
+        "en": ""
       },
       "category": {
-        "zh": "薪酬观察",
-        "en": "Compensation"
+        "zh": "行业趋势",
+        "en": ""
       },
       "source": {
-        "zh": "Moomoo",
-        "en": "Moomoo"
+        "zh": "36kr.com",
+        "en": ""
       },
-      "date": "2026-08-03",
-      "link": "https://www.moomoobull.com/hans/news/post/74103729"
+      "date": "2026-08-15",
+      "link": "https://36kr.com/newsflashes/3940412779150472?f=rss"
     },
     {
-      "id": "ai-17",
-      "slug": "fde-20260802-ef59df23",
+      "id": "ai-5",
+      "slug": "fde-20260815-91587c4c",
       "title": {
-        "zh": "Indeed 数据：FDE 岗位一年暴涨 729%",
-        "en": "Indeed Data: FDE Job Postings Surge 729% in One Year"
+        "zh": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发",
+        "en": ""
       },
       "summary": {
-        "zh": "2025 年 4 月至 2026 年 4 月，Indeed 上 FDE 职位从 643 条飙升至 5330 条；LinkedIn 显示 2023–2025 年全球 FDE 岗位增长 42 倍，远超 AI 工程师的 13 倍。",
-        "en": "From April 2025 to April 2026, FDE listings on Indeed jumped from 643 to 5,330. LinkedIn reports global FDE roles grew 42x between 2023 and 2025, far outpacing AI engineers at 13x."
+        "zh": "图源/企业 本文约 2200 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元融资。本轮融资由韦豪创芯、共达电声（002655）联合领投，华策影视（300133）、苏创投、苏金控、创领资本、后浪资本等机构跟投。融资资金将主要用于万比特专用光计算集群与通用量子计算芯片组的研发。 硅臻芯片2020年成立于合肥，核心技术源自中国科学技术大学郭光灿院士领衔的中国科学院量子…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-15",
+      "link": "https://36kr.com/p/3940103536491910?f=rss"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260815-6266b52f",
+      "title": {
+        "zh": "大疆Osmo 360 II发布首日拿下全渠道销量 TOP1",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月13日20:00，大疆正式发布全新8K全景相机Osmo 360 II。数据显示，发布24小时后，Osmo 360 II全渠道首日销量位列TOP1，并在京东、天猫、抖音三大平台全景相机相关榜单中登顶。据了解，Osmo 360 II搭载1英寸全景影像系统与高性能芯片，支持原生8K/60fps超清全景视频；主角跟随、NFC一碰即连、AI一键成片等智能功能，进一步降低了创作门槛；适用于旅行、运动、聚会、亲子等多元场景。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-15",
+      "link": "https://36kr.com/newsflashes/3940246159506561?f=rss"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260814-2e43fc51",
+      "title": {
+        "zh": "独家 | 腾讯混元徐灿转岗微信WeLM，微信AI进入加速阶段",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文 | 李炤锋 编辑 | 张雨忻 智能涌现从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。 多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是， 这次转岗发生在微信持续强化自研大模型和Agent能力的阶段 。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。 公开招聘信息…",
+        "en": ""
       },
       "category": {
         "zh": "人才市场",
-        "en": "Talent Market"
+        "en": ""
       },
       "source": {
-        "zh": "今日头条",
-        "en": "Toutiao"
+        "zh": "36kr.com",
+        "en": ""
       },
-      "date": "2026-08-02",
-      "link": "https://www.toutiao.com/article/7669419292374598188"
+      "date": "2026-08-14",
+      "link": "https://36kr.com/p/3939234424700041?f=rss"
     },
     {
-      "id": "ai-18",
-      "slug": "fde-20260801-20f35065",
+      "id": "ai-8",
+      "slug": "fde-20260814-dd2150e4",
       "title": {
-        "zh": "博彦科技以 FDE 模式打通金融 AI 境内外规模化落地",
-        "en": "Beyondsoft Scales Financial AI at Home and Abroad via FDE"
+        "zh": "阿里灵犀再传15亿美元出售，或许这就是中国游戏行业的现实",
+        "en": ""
       },
       "summary": {
-        "zh": "摒弃按人天核算，国内外双市场统一实行效果付费、收益共担。批量项目实现信贷不良压降 3%–10%、后台运营人力缩减 20% 以上、监管报送工作量降低 60%。",
-        "en": "Dropping day-rate billing for outcome-based, risk-sharing pricing across both markets, its projects cut NPLs by 3–10%, back-office headcount by over 20% and regulatory reporting effort by 60%."
+        "zh": "灵犀互娱这次真的要易主了？ 据彭博社报道称，亚洲私股权公司信宸资本接近达成收购阿里巴巴集团控股有限公司视频游戏业务的交易。知情人士表示，信宸资本成为了灵犀互娱最有可能的买家，其出价高于包括电子游戏制造商在内的其他竞购方。据他们透露，此次交易对这家工作室的估值可能超过15亿美元。 来源：彭博社 截至发稿，灵犀互娱以及信宸资本未作回应。 前不久的6月23日，就有多家媒体报道，阿里巴巴集团正计划出售旗下游戏业务品牌灵犀互娱，整体报价70亿至9…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/p/3939187139935369?f=rss"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260814-a2fcbe3e",
+      "title": {
+        "zh": "热门中概股美股盘前涨跌不一，京东跌超3%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，京东跌超3%，爱奇艺跌超1%，百度跌0.92%，腾讯音乐跌0.59%，蔚来跌0.24%，网易涨0.77%，理想汽车涨0.73%，阿里巴巴涨0.68%，哔哩哔哩涨0.47%，小鹏汽车涨0.17%，拼多多涨0.04%。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/newsflashes/3939374230453385?f=rss"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260814-3ff00eaf",
+      "title": {
+        "zh": "韩国财阀掌门人上半年薪酬曝光：SK会长崔泰源获17.5亿韩元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "监管文件显示，三星电子会长李在镕今年上半年继续未从三星电子领取薪酬，这一做法自2017年延续至今。SK集团会长崔泰源从集团控股公司SK Inc.获得17.5亿韩元（约合人民币836万元）。斗山集团会长朴正元上半年薪酬最高，达455.8亿韩元（约合人民币2.18亿元）；韩华集团会长金升渊从集团旗下公司获得115.8亿韩元（约合人民币5530万元），乐天集团会长辛东彬获得112亿韩元（约合人民币5350万元）。LG集团会长具光谟获得48.3…",
+        "en": ""
+      },
+      "category": {
+        "zh": "薪酬观察",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/newsflashes/3939311423012225?f=rss"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260814-6e7c355e",
+      "title": {
+        "zh": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+        "en": ""
+      },
+      "summary": {
+        "zh": "所有人都可免费下载部署及商用。",
+        "en": ""
       },
       "category": {
         "zh": "落地案例",
-        "en": "Case Study"
+        "en": ""
       },
       "source": {
-        "zh": "博彦科技",
-        "en": "Beyondsoft"
+        "zh": "qbitai.com",
+        "en": ""
       },
-      "date": "2026-08-01",
-      "link": "https://www.beyondsoft.com/content/details9_8989.html"
+      "date": "2026-08-14",
+      "link": "https://www.qbitai.com/2026/08/473379.html"
     },
     {
-      "id": "ai-19",
-      "slug": "fde-20260731-c9d04260",
+      "id": "ai-12",
+      "slug": "fde-20260814-0a0e596c",
       "title": {
-        "zh": "MIT 报告：95% 企业生成式 AI 试点未产生可衡量回报",
-        "en": "MIT Report: 95% of Enterprise GenAI Pilots Show No Measurable ROI"
+        "zh": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+        "en": ""
       },
       "summary": {
-        "zh": "MIT Sloan Management Review 2026 年 7 月底报告与 FDE 起薪 40 万美元/年形成鲜明对照——模型能力溢出、企业接不住、中间没人翻译，催生了这个岗位。",
-        "en": "The MIT Sloan Management Review report contrasts sharply with FDE starting pay of $400K a year: model capability overflows, enterprises cannot absorb it, and nobody translates in between."
+        "zh": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://www.qbitai.com/2026/08/473144.html"
+    },
+    {
+      "id": "ai-13",
+      "slug": "fde-20260814-6ebe1759",
+      "title": {
+        "zh": "华强北AI眼镜销量暴涨100%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "今年前7个月，华强北AI产品全品类销售额同比增长55%以上，其中AI眼镜销量激增100%，无人机、机器人销量增长60%至70%。翻译耳机、3D打印设备、智能穿戴等高新科技产品，成为吸引海内外游客的闪亮名片。目前，华强北跑出了“上午设计、下午打样、次日量产、一周出海”的科创速度。最新数据显示，华强北电子产品出口覆盖全球190多个国家和地区，全年发出的超10亿件快递中，四成发往海外。（央视财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/newsflashes/3939337442770306?f=rss"
+    },
+    {
+      "id": "ai-14",
+      "slug": "fde-20260814-890cc89d",
+      "title": {
+        "zh": "2026年上半年超935亿元涌入具身智能赛道",
+        "en": ""
+      },
+      "summary": {
+        "zh": "机器人正在加速“进厂打工”，资本也在用真金白银押注这一赛道。2026年上半年，国内具身智能赛道融资总额突破935亿元，同比增长5倍。（央视财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/newsflashes/3939323205746051?f=rss"
+    },
+    {
+      "id": "ai-15",
+      "slug": "fde-20260814-927453b7",
+      "title": {
+        "zh": "优邦科技创业板IPO定于8月21日上会",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，深圳证券交易所上市审核委员会定于2026年8月21日召开2026年第53次上市审核委员会审议会议，审议东莞优邦材料科技股份有限公司（首发）。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://36kr.com/newsflashes/3939318677323138?f=rss"
+    },
+    {
+      "id": "ai-16",
+      "slug": "fde-20260814-a99d5a35",
+      "title": {
+        "zh": "国泰海通：FDE×Harness 形成商业化飞轮，助力 AI 规模化落地",
+        "en": ""
+      },
+      "summary": {
+        "zh": "国泰海通8月14日发研报称，FDE深入业务现场沉淀行业Know-how，Harness保障智能体稳定执行，二者协同推动企业AI从“人力复制”走向“能力复制”，边际部署成本持续下降。",
+        "en": ""
       },
       "category": {
         "zh": "研究报告",
-        "en": "Research"
+        "en": ""
       },
       "source": {
-        "zh": "CSDN",
-        "en": "CSDN"
+        "zh": "国泰海通/智通财经",
+        "en": ""
       },
-      "date": "2026-07-31",
-      "link": "https://blog.csdn.net/Autsm_Hanyu/article/details/163400049"
+      "date": "2026-08-14",
+      "link": "https://www.163.com/dy/article/L499OGDH05198UNI.html"
+    },
+    {
+      "id": "ai-17",
+      "slug": "fde-20260814-ddc666d7",
+      "title": {
+        "zh": "软通动力引入阿里云Qoder打造FDE新范式，组建500人交付团队",
+        "en": ""
+      },
+      "summary": {
+        "zh": "软通动力8月14日宣布全面引入阿里云全栈Agentic编程平台Qoder，升级FDE（全栈交付工程）模式，构建超500人的行业解决方案团队，将架构与组件沉淀为可复用资产。",
+        "en": ""
+      },
+      "category": {
+        "zh": "生态合作",
+        "en": ""
+      },
+      "source": {
+        "zh": "软通动力/网易",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://www.163.com/dy/article/L4A1GHUD05509EKV.html"
+    },
+    {
+      "id": "ai-18",
+      "slug": "fde-20260814-12bf5c13",
+      "title": {
+        "zh": "FDE×Harness 从模型能力转向企业规模化部署，多家厂商落地",
+        "en": ""
+      },
+      "summary": {
+        "zh": "华尔街见闻8月14日梳理：金蝶将Harness内生于ERP底座，赛意FDE交付周期压缩36%，科大讯飞智能评审准确率达97%，易鑫AI平台调用超1.25亿次。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "华尔街见闻",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://wallstreetcn.com/articles/3779425"
+    },
+    {
+      "id": "ai-19",
+      "slug": "fde-20260814-b66aa847",
+      "title": {
+        "zh": "腾讯重金托举WorkBuddy，二季度自由现金流为-138亿元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "腾讯8月14日被曝重押WorkBuddy：二季度销售推广开支同比+26%至119亿元，自由现金流-138亿元，但被视为“AI时代船票”，优先级一路绿灯。",
+        "en": ""
+      },
+      "category": {
+        "zh": "巨头动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "新浪财经",
+        "en": ""
+      },
+      "date": "2026-08-14",
+      "link": "https://t.cj.sina.com.cn/articles/view/9171525735/222aa606700103dxz8"
     }
   ],
   "cities": [
@@ -2465,6 +2434,448 @@
         "zh": "海ICP备10011688号-8",
         "en": "ICP License 10011688-8 (Shanghai)"
       }
+    }
+  ],
+  "aiFdeNewsEn": [
+    {
+      "id": "ai-0",
+      "slug": "fde-20260815-62712976",
+      "title": {
+        "zh": "",
+        "en": "Anthropic shares more details about how Claude’s new watermarks will work"
+      },
+      "summary": {
+        "zh": "",
+        "en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-15",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "id": "ai-1",
+      "slug": "fde-20260815-9e860324",
+      "title": {
+        "zh": "",
+        "en": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong"
+      },
+      "summary": {
+        "zh": "",
+        "en": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results visible to end users: Verifying that what …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-15",
+      "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong"
+    },
+    {
+      "id": "ai-2",
+      "slug": "fde-20260815-167d1e67",
+      "title": {
+        "zh": "",
+        "en": "SpaceX officially closes its Cursor acquisition"
+      },
+      "summary": {
+        "zh": "",
+        "en": "AI coding startup Cursor is now officially a part of SpaceX."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-15",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260815-f7209b94",
+      "title": {
+        "zh": "",
+        "en": "Every fusion startup that has raised over $100M"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-15",
+      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/"
+    },
+    {
+      "id": "ai-4",
+      "slug": "fde-20260814-e936ac9f",
+      "title": {
+        "zh": "",
+        "en": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider"
+      },
+      "summary": {
+        "zh": "",
+        "en": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260814-dac2095d",
+      "title": {
+        "zh": "",
+        "en": "Does Mark Zuckerberg really believe AI is ‘for everyone’?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260814-49143f63",
+      "title": {
+        "zh": "",
+        "en": "Hyperscalers might regret embracing natural gas if new forecast proves correct"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260814-0552204f",
+      "title": {
+        "zh": "",
+        "en": "Meta’s ‘open’ AI, and a $250M deal gone very wrong"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+    },
+    {
+      "id": "ai-8",
+      "slug": "fde-20260814-a0985931",
+      "title": {
+        "zh": "",
+        "en": "Apple trained its own AI model for China with help from Alibaba"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focus…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260814-0f5dde25",
+      "title": {
+        "zh": "",
+        "en": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260814-d6301962",
+      "title": {
+        "zh": "",
+        "en": "Kog is going deeper to squeeze more inference out of GPUs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260814-964d7389",
+      "title": {
+        "zh": "",
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+      },
+      "summary": {
+        "zh": "",
+        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "id": "ai-12",
+      "slug": "fde-20260814-90c26167",
+      "title": {
+        "zh": "",
+        "en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 30 # Comments: 0"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-14",
+      "link": "https://arxiv.org/abs/2608.12700"
+    },
+    {
+      "id": "ai-13",
+      "slug": "fde-20260814-5d8dfb43",
+      "title": {
+        "zh": "",
+        "en": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon coding and a more conseq…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor"
+    },
+    {
+      "id": "ai-14",
+      "slug": "fde-20260814-ef9410bb",
+      "title": {
+        "zh": "",
+        "en": "You can now turn off Google Gemini’s visible watermarks"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "id": "ai-15",
+      "slug": "fde-20260814-747b38df",
+      "title": {
+        "zh": "",
+        "en": "Maximizing the value of your Claude Code sessions"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 118 # Comments: 80"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-14",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+    },
+    {
+      "id": "ai-16",
+      "slug": "fde-20260814-ec47b0e8",
+      "title": {
+        "en": "Gemini App Tops 1 Billion Monthly Users as Google's Fastest-Growing Product",
+        "zh": "Gemini 应用月活突破 10 亿，成谷歌增长最快产品"
+      },
+      "summary": {
+        "en": "Google says its Gemini app has crossed 1 billion monthly active users, making it the company's fastest-growing product ever and a sign that consumer AI assistants are hitting mass scale.",
+        "zh": "谷歌称 Gemini 应用月活用户突破 10 亿，是其史上增长最快的产品，也标志着消费级 AI 助手进入大众规模。"
+      },
+      "category": {
+        "en": "Industry Trend",
+        "zh": "行业趋势"
+      },
+      "source": {
+        "en": "Unite.AI",
+        "zh": "Unite.AI"
+      },
+      "date": "2026-08-14",
+      "link": "https://www.unite.ai/gemini-app-tops-1-billion-monthly-users-as-googles-fastest-growing-product"
+    },
+    {
+      "id": "ai-17",
+      "slug": "fde-20260814-7453d71e",
+      "title": {
+        "en": "White House and AI Companies Quietly Build Secret Model Safety Measures",
+        "zh": "白宫与 AI 企业悄然构建前沿模型保密安全措施"
+      },
+      "summary": {
+        "en": "Defense One reports that the White House and leading AI labs have been developing confidential safety and evaluation measures for frontier models, amid rising concern over autonomous capabilities.",
+        "zh": "Defense One 报道，白宫与头部 AI 实验室正私下制定前沿模型的安全评估与管控措施，引发监督问责讨论。"
+      },
+      "category": {
+        "en": "Regulation & Policy",
+        "zh": "政策法规"
+      },
+      "source": {
+        "en": "Defense One",
+        "zh": "Defense One"
+      },
+      "date": "2026-08-14",
+      "link": "https://defenseone.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415227"
+    },
+    {
+      "id": "ai-18",
+      "slug": "fde-20260814-bb955a8a",
+      "title": {
+        "en": "Nvidia Partners with Wall Street Giants to Raise $500 Billion for AI Buildout",
+        "zh": "英伟达联手华尔街巨头，拟募资 5000 亿美元建 AI 基建"
+      },
+      "summary": {
+        "en": "Nvidia is working with major financial institutions to assemble a $500 billion pool aimed at funding AI data-center and infrastructure buildout.",
+        "zh": "英伟达正与多家金融机构合作，组建约 5000 亿美元资金池，专门用于 AI 数据中心与基础设施建设。"
+      },
+      "category": {
+        "en": "Capital & Funding",
+        "zh": "资本动态"
+      },
+      "source": {
+        "en": "Economic Times",
+        "zh": "经济时报"
+      },
+      "date": "2026-08-14",
+      "link": "https://m.economictimes.com/markets/us-stocks/news/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/amp_articleshow/133140190.cms"
+    },
+    {
+      "id": "ai-19",
+      "slug": "fde-20260814-dec9440d",
+      "title": {
+        "en": "The 2026 AI Agent Benchmark Results: Most 'Computer Use' Tools Still Fall Short of 82%",
+        "zh": "2026 智能体基准：多数'电脑操作'工具仍不及 82%"
+      },
+      "summary": {
+        "en": "While GPT-5.4's 75% made headlines, Coasty argues its own 82% on OSWorld is the real production threshold - and that benchmark gaming is a real risk.",
+        "zh": "在 GPT-5.4 的 75% 刷屏之际，Coasty 认为其 82% 才是真正生产阈值，并警示基准刷分风险。"
+      },
+      "category": {
+        "en": "Industry Trend",
+        "zh": "行业趋势"
+      },
+      "source": {
+        "en": "Coasty",
+        "zh": "Coasty"
+      },
+      "date": "2026-08-14",
+      "link": "https://coasty.ai/blog/ai-agent-benchmark-results-2026"
     }
   ]
 }
