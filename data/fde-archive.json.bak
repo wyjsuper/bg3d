@@ -1,7 +1,412 @@
 {
-  "updatedAt": "2026-08-16",
-  "total": 200,
+  "updatedAt": "2026-08-17",
+  "total": 217,
   "items": [
+    {
+      "slug": "fde-20260817-2382bd29",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic联合创始人承认人工智能正遭遇信任危机",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Anthropic联合创始人兼首席执行官达里奥·阿莫代伊否认公众对人工智能普遍产生的末日感应由他负责，但他承认行业确实存在信任难题。他提到当下存在一种非此即彼的错误认知：一部分人认为监管会造成监管俘获、权力集中；另一部分人则认为广泛分发人工智能模型（包括开源模型）才是约束技术风险的最优路径。阿莫代伊指出，法院这类制度机构可以实现权力去中心化；同时他表示Anthropic支持相关政策：一方面约束前沿AI企业发展速度，另一方面为小型竞争对手…",
+        "en": ""
+      },
+      "body": {
+        "zh": "Anthropic联合创始人兼首席执行官达里奥·阿莫代伊否认公众对人工智能普遍产生的末日感应由他负责，但他承认行业确实存在信任难题。他提到当下存在一种非此即彼的错误认知：一部分人认为监管会造成监管俘获、权力集中；另一部分人则认为广泛分发人工智能模型（包括开源模型）才是约束技术风险的最优路径。阿莫代伊指出，法院这类制度机构可以实现权力去中心化；同时他表示Anthropic支持相关政策：一方面约束前沿AI企业发展速度，另一方面为小型竞争对手…",
+        "en": ""
+      },
+      "category": {
+        "zh": "政策合规",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942802014256256?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260817-9f16d0e1",
+      "lang": "zh",
+      "title": {
+        "zh": "招商证券：市场将更加聚焦于业绩主线的结构性机会",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，招商证券发布研报指出，近期市场快速反弹后转为震荡，本质上是基于美联储TACO与非农、就业数据，交易宽松流动性与降息预期。对于市场而言，8月以来由宏微观流动性改善共振带来的风险偏好回升和市场系统性修复或已进入尾声，叠加中报业绩集中披露窗口临近，市场将更加聚焦于业绩主线的结构性机会。配置上建议沿科技创新+企业出海+传统低估值再平衡三线均衡布局，重点关注电子、电力设备、化学制药、有色金属、煤炭。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，招商证券发布研报指出，近期市场快速反弹后转为震荡，本质上是基于美联储TACO与非农、就业数据，交易宽松流动性与降息预期。对于市场而言，8月以来由宏微观流动性改善共振带来的风险偏好回升和市场系统性修复或已进入尾声，叠加中报业绩集中披露窗口临近，市场将更加聚焦于业绩主线的结构性机会。配置上建议沿科技创新+企业出海+传统低估值再平衡三线均衡布局，重点关注电子、电力设备、化学制药、有色金属、煤炭。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942794603527561?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260817-f0f21fdf",
+      "lang": "zh",
+      "title": {
+        "zh": "全球开源AI大洗牌，中国开源模型加速崛起",
+        "en": ""
+      },
+      "summary": {
+        "zh": "全球最大AI开源平台Hugging Face近日发布的最新观察报告显示，全球开源人工智能生态正在快速扩张，而中国模型正在成为其中的重要力量。Hugging Face的报告指出，2026年以来的大部分月份，中国AI企业发布的最大开源模型在参数规模上显著超越美国同行：中国模型的月度参数上限在7540亿至2.78万亿之间，而美国模型在同期多数月份则低于1300亿。不仅规模领先，中国模型在开放生态建设方面同样表现突出。Hugging Face的…",
+        "en": ""
+      },
+      "body": {
+        "zh": "全球最大AI开源平台Hugging Face近日发布的最新观察报告显示，全球开源人工智能生态正在快速扩张，而中国模型正在成为其中的重要力量。Hugging Face的报告指出，2026年以来的大部分月份，中国AI企业发布的最大开源模型在参数规模上显著超越美国同行：中国模型的月度参数上限在7540亿至2.78万亿之间，而美国模型在同期多数月份则低于1300亿。不仅规模领先，中国模型在开放生态建设方面同样表现突出。Hugging Face的…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942795773787527?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260817-1c7242ac",
+      "lang": "zh",
+      "title": {
+        "zh": "传奇投资人Stanley Druckenmiller买入美国上市的中概股",
+        "en": ""
+      },
+      "summary": {
+        "zh": "华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。彭博对其主要投资平台Duquesne Family Office LLC最新的13F文件的分析发现，该家族办公室第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。汇总的数据显示，Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。彭博对其主要投资平台Duquesne Family Office LLC最新的13F文件的分析发现，该家族办公室第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。汇总的数据显示，Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942790755531905?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260817-607c457e",
+      "lang": "zh",
+      "title": {
+        "zh": "A股年内94只新股上市，首日平均涨幅279.22%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。据Wind数据，年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。（证券时报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。据Wind数据，年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942841138429064?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260817-3a917eb2",
+      "lang": "zh",
+      "title": {
+        "zh": "北交所40份半年报出炉，超七成净利增长",
+        "en": ""
+      },
+      "summary": {
+        "zh": "根据Wind统计，截至8月15日，北交所共有40家上市公司披露了2026年半年报。整体来看，目前已披露半年报的企业中，30家企业实现净利润同比增长或扭亏为盈，占比75%；营业收入超1亿元的企业37家，其中超10亿元的企业共6家，分别为一诺威、安达科技、颖泰生物、欧伦电气、吉林碳谷和雷神科技。（中证报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "根据Wind统计，截至8月15日，北交所共有40家上市公司披露了2026年半年报。整体来看，目前已披露半年报的企业中，30家企业实现净利润同比增长或扭亏为盈，占比75%；营业收入超1亿元的企业37家，其中超10亿元的企业共6家，分别为一诺威、安达科技、颖泰生物、欧伦电气、吉林碳谷和雷神科技。（中证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942814809292162?f=rss",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-72fe17f7",
+      "lang": "zh",
+      "title": {
+        "zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "en": ""
+      },
+      "summary": {
+        "zh": "背后是四项关键能力",
+        "en": ""
+      },
+      "body": {
+        "zh": "背后是四项关键能力",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-16",
+      "link": "https://www.qbitai.com/2026/08/473972.html",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-96edadf4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT’s Computer History tracks your clicks and keystrokes"
+      },
+      "summary": {
+        "zh": "",
+        "en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo…"
+      },
+      "body": {
+        "zh": "",
+        "en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-1737d8fa",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+      },
+      "body": {
+        "zh": "",
+        "en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-16",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-27d4cf7a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-16",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-c6314cb3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude: System Prompts"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 494 # Comments: 211"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 494 # Comments: 211"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-16",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-1ea2ff05",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-16",
+      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-60110410",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site tex…"
+      },
+      "body": {
+        "zh": "",
+        "en": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site tex…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-16",
+      "link": "https://news.ycombinator.com/item?id=49322107",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-82955cdc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenRouter's CEO recently described the startup as Stripe for AI."
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenRouter's CEO recently described the startup as Stripe for AI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-16",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260816-56011fe6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI reportedly disbanded its preparedness team"
+      },
+      "summary": {
+        "zh": "",
+        "en": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (Y…"
+      },
+      "body": {
+        "zh": "",
+        "en": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (Y…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "archivedAt": "2026-08-17"
+    },
     {
       "slug": "fde-20260815-f0b689ad",
       "lang": "zh",
@@ -298,6 +703,60 @@
       "date": "2026-08-15",
       "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
       "archivedAt": "2026-08-16"
+    },
+    {
+      "slug": "fde-20260814-0673ceef",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google Meet can take notes for your in-person meetings now - here's how it works"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google's Gemini-driven meeting software can now save a transcript, send it to Google Drive, and email you a copy."
+      },
+      "body": {
+        "zh": "",
+        "en": "Google's Gemini-driven meeting software can now save a transcript, send it to Google Drive, and email you a copy."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
+      "archivedAt": "2026-08-17"
+    },
+    {
+      "slug": "fde-20260814-ed0a6243",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT's new Computer History tracks your Mac activity to create a timeline - but should you let it?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Rolling out to ChatGPT's Mac app, Computer History creates a timeline from your activities across the apps and websites you use on your Mac. Is that a privacy risk?"
+      },
+      "body": {
+        "zh": "",
+        "en": "Rolling out to ChatGPT's Mac app, Computer History creates a timeline from your activities across the apps and websites you use on your Mac. Is that a privacy risk?"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-14",
+      "link": "https://www.zdnet.com/article/chatgpt-computer-history/",
+      "archivedAt": "2026-08-17"
     },
     {
       "slug": "fde-20260814-e936ac9f",
