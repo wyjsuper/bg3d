@@ -7,6 +7,7 @@ require_once __DIR__ . '/lang.php';
 require_once __DIR__ . '/ui-text.php';
 require_once __DIR__ . '/content.php';
 require_once __DIR__ . '/helpers.php';
+require_once __DIR__ . '/news.php';
 
 // ===== 内联图标（替代 lucide-react） =====
 function bg_icon($name, $size = 22, $stroke = 1.8) {
@@ -265,7 +266,9 @@ function bg_render_mobile_nav($nav, $lang) {
 // ===== SiteFooter =====
 function bg_render_footer($lang, $showAiFde = false) {
   global $UI;
-  $aiFdeNews = $showAiFde ? bg_get_collection($lang === 'en' ? 'aiFdeNewsEn' : 'aiFdeNews') : array();
+  // AI FDE 最新信息：直接读归档库 fde-archive.json（按语言筛选最新 20 条）。
+  // 不复用 content.json 的 aiFdeNews/aiFdeNewsEn——那是生成的副本，在线更新会保留 content.json 导致不刷新。
+  $aiFdeNews = $showAiFde ? bg_news_filter_lang(bg_news_load(), $lang) : array();
   $contact = bg_get_singleton('contact');
   $cities = bg_get_collection('cities');
   $site = bg_get_singleton('site');
