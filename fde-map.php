@@ -24,6 +24,7 @@ $projectMeta = array(
   'https://kidbbc.eupgrading.com/' => array('icon' => '🎬', 'desc' => array('zh' => '儿童教育视频内容库', 'en' => 'Children educational video content library')),
   'https://face.eupgrading.com/' => array('icon' => '🤡', 'desc' => array('zh' => 'AI 人脸融合与换脸特效', 'en' => 'AI face fusion and swap effects')),
   'https://ec.eupgrading.com/' => array('icon' => '🛒', 'desc' => array('zh' => '电商数据监控与运营看板', 'en' => 'Real-time e-commerce monitoring and analytics')),
+  'https://3d.eupgrading.com/' => array('icon' => '🧊', 'desc' => array('zh' => '3D 设计展示与沉浸式交互体验', 'en' => '3D design showcase with immersive interactive experience')),
 );
 $fallbackMeta = array('icon' => '🚀', 'desc' => array('zh' => '点击探索该项目', 'en' => 'Click to explore this project'));
 
@@ -48,6 +49,22 @@ if ($navFde && !empty($navFde['children']) && is_array($navFde['children'])) {
       'href' => $href,
     );
   }
+}
+
+// 固定注入「北港3D」节点：即使 CMS nav 未添加也不会缺失；若 nav 已含同 href 则不重复
+$__bg_3d_href = 'https://3d.eupgrading.com/';
+$__bg_has_3d = false;
+foreach ($satellites as $s) { if (isset($s['href']) && $s['href'] === $__bg_3d_href) { $__bg_has_3d = true; break; } }
+if (!$__bg_has_3d) {
+  $meta = isset($projectMeta[$__bg_3d_href]) ? $projectMeta[$__bg_3d_href] : $fallbackMeta;
+  $satellites[] = array(
+    'id' => 'fde-' . substr(md5($__bg_3d_href), 0, 8),
+    'icon' => $meta['icon'],
+    'title' => '北港3D',
+    'en' => 'Beigang 3D',
+    'desc' => $meta['desc'],
+    'href' => $__bg_3d_href,
+  );
 }
 
 $projects = array_merge(
