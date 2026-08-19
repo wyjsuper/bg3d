@@ -1,5 +1,22 @@
 # 更新日志
 
+## v20260819-1147 — 2026-08-19 11:47
+
+### 提交记录
+- chore: 排除 *.bak 备份文件；同步 FDE 归档数据更新 (d331d08)
+- auto: 同步本地改动 2026-08-19 (949b77f)
+- release: v20260805-0633 — 视频自动循环播放+手机版优化(按钮常驻/滚出暂停)+英文版完整性修复+去除'工业三维动画'字样 (30b8af5)
+
+### 变更文件
+```
+M	.gitignore
+A	.workbuddy/automations/automation-1786957034705/memory.md
+M	data/content.json.bak
+M	data/fde-archive.json
+M	data/fde-archive.json.bak
+```
+
+---
 ## v20260817-1306 — 2026-08-17 13:06
 同步最新 FDE 资讯（归档更新至 2026-08-17，217 条）；含换脸🤡/电商监控🛒图标、飘图自动更新、AI FDE资讯仅FDE地图页脚
 
