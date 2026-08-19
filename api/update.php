@@ -21,7 +21,7 @@ if ($action === 'do') {
   $body = bg_input_json();
   $target = isset($body['tag']) ? preg_replace('/[^a-zA-Z0-9._-]/', '', (string)$body['tag']) : '';
 
-  // 需要先用线上 update.php 里的查询函数拿到 download_url
+  // 先用线上 update.php 里的查询函数拿到 download_url（lib/update.php 不再加载 apply 函数）
   require_once __DIR__ . '/../lib/update.php';
 
   $info = $target ? bg_update_release_by_tag($target) : bg_update_latest_info();
@@ -51,8 +51,10 @@ if ($action === 'do') {
   if ($__bg_update_apply_tmp && is_file($__bg_update_apply_tmp)) {
     define('BG_LIB_DIR', realpath(__DIR__ . '/../lib'));
     require_once $__bg_update_apply_tmp;
+  } else {
+    // 兜底：从本地加载 apply 函数
+    require_once __DIR__ . '/../lib/update-apply.php';
   }
-  // 如果提取失败，仍然使用线上已加载的 lib/update.php 里的 bg_update_apply 作为兜底
 
   $full = !empty($body['full']);
   if ($full && !BG_UPDATE_ALLOW_FULL) {
