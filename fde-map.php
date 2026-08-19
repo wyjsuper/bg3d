@@ -24,7 +24,7 @@ $projectMeta = array(
   'https://kidbbc.eupgrading.com/' => array('icon' => '🎬', 'desc' => array('zh' => '儿童教育视频内容库', 'en' => 'Children educational video content library')),
   'https://face.eupgrading.com/' => array('icon' => '🤡', 'desc' => array('zh' => 'AI 人脸融合与换脸特效', 'en' => 'AI face fusion and swap effects')),
   'https://ec.eupgrading.com/' => array('icon' => '🛒', 'desc' => array('zh' => '电商数据监控与运营看板', 'en' => 'Real-time e-commerce monitoring and analytics')),
-  'https://3d.eupgrading.com/' => array('icon' => '🧊', 'desc' => array('zh' => '3D 设计展示与沉浸式交互体验', 'en' => '3D design showcase with immersive interactive experience')),
+  'https://3d.eupgrading.com/' => array('icon' => '<img src="' . bg_url('assets/img/beigang-3d.jpg') . '" alt="北港3D" class="fde-node-thumb">', 'desc' => array('zh' => '3D 设计展示与沉浸式交互体验', 'en' => '3D design showcase with immersive interactive experience')),
 );
 $fallbackMeta = array('icon' => '🚀', 'desc' => array('zh' => '点击探索该项目', 'en' => 'Click to explore this project'));
 
@@ -369,6 +369,14 @@ bg_render_nav($lang);
   transition: transform 0.45s ease, box-shadow 0.45s ease;
   position: relative;
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+  overflow: hidden;
+}
+.fde-icon img.fde-node-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: inherit;
+  display: block;
 }
 .fde-card:hover .fde-icon {
   transform: scale(1.14) rotate(-8deg);
