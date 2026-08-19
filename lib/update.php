@@ -196,9 +196,12 @@ function bg_update_apply($download_url, $preserve_data = true, $allow_full = fal
     $name = $za->getNameIndex($i);
     if ($name === false) continue;
     $name = ltrim($name, '/');
-    if (!$doFull && (strpos($name, 'data/') === 0 || strpos($name, 'uploads/') === 0)) {
-      $skipped++;
-      continue;
+    // 保留数据模式下，仅保留真正的运营数据与用户备份；归档类文件（如 fde-archive.json）应随版本更新
+    if (!$doFull) {
+      if (strpos($name, 'uploads/') === 0) { $skipped++; continue; }
+      if (strpos($name, 'data/backups/') === 0) { $skipped++; continue; }
+      if ($name === 'data/content.json' || $name === 'data/auth.json') { $skipped++; continue; }
+      if (preg_match('#^data/.+\.bak(\\d+)?$#', $name)) { $skipped++; continue; }
     }
     // 备份将被覆盖的现有文件
     $target = $root . '/' . $name;
