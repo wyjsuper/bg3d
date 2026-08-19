@@ -1742,6 +1742,358 @@
   "aiFdeNews": [
     {
       "id": "ai-0",
+      "slug": "fde-20260818-a7fcd851",
+      "title": {
+        "zh": "OpenAI总裁回应高管流失潮：并非十分反常",
+        "en": ""
+      },
+      "summary": {
+        "zh": "OpenAI总裁格雷格・布罗克曼于周一回应，淡化市场对这家人工智能公司高管流失的担忧，他认为这一轮离职潮“实际上并非十分反常”。布罗克曼表示：“我其实觉得，OpenAI和其他机构的区别在于我们处在极高的聚光灯下，每一次人员离职都会受到格外审视，而普通企业的人员变动不会遭遇这样的待遇。”“公司发展历经不同阶段，各个时期都有不同的管理团队。”布罗克曼周一称，“我和萨姆・奥尔特曼始终留在公司，我认为，正是这种韧性以及团队多元性，让我们变得更强…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944221563763845?f=rss"
+    },
+    {
+      "id": "ai-1",
+      "slug": "fde-20260818-d25921e8",
+      "title": {
+        "zh": "英伟达为OpenAI俄亥俄州AI数据中心提供最高1050亿美元担保",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月17日，英伟达宣布与SB Energy达成多年期合作，推进美国俄亥俄州PORTS Technology Campus大型AI数据中心建设。OpenAI将作为该项目租户，使用约4.25吉瓦IT负载容量部署英伟达全栈DSX AI工厂平台。英伟达已就相关租赁安排提供最高1050亿美元的剩余价值担保，并可自行决定为额外约3.8吉瓦容量提供信用支持。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944219159281028?f=rss"
+    },
+    {
+      "id": "ai-2",
+      "slug": "fde-20260818-75875f93",
+      "title": {
+        "zh": "软银向建筑机器人公司Gravis Robotics投资2亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月17日，Gravis Robotics宣布完成2亿美元A轮融资，由软银投资。公司称，这是建筑机器人领域规模最大的A轮融资，将用于推进重型工程机械自动化，并在全球建筑工地扩大部署。Gravis Robotics成立于2022年，由苏黎世联邦理工学院孵化，主要开发用于挖掘机等重型工程机械的人工智能系统。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944217400393088?f=rss"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260818-f5dafd8a",
+      "title": {
+        "zh": "Anthropic在IPO之前的年化营收突破650亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Anthropic在IPO之前的年化营收突破650亿美元。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944249114492296?f=rss"
+    },
+    {
+      "id": "ai-4",
+      "slug": "fde-20260818-ba2e8b24",
+      "title": {
+        "zh": "美国投资级债券8月发行创历年同月新高，AI基建推动企业举债",
+        "en": ""
+      },
+      "summary": {
+        "zh": "随着人工智能基础设施建设支出推动企业举债，美国投资级债券发行规模连续第三个月创历年同月纪录新高，创纪录的发债速度仍在延续。数据显示，截至周一，8月美国投资级债券发行规模已达1452亿美元，超过2020年8月创下的1360亿美元历年同月纪录。今年1月、6月和7月也分别创下历年同月最高纪录，另有三个月的发行规模为历年同月第二高。（财联社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944224336346503?f=rss"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260818-85ce0c2a",
+      "title": {
+        "zh": "地球本身可作为行星尺度暗物质探测器",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据SciTechDaily网站近日报道，一个国际研究团队提出，地球本身的磁场与大气层可构成一种行星尺度的超轻暗物质探测器，并通过分析英国地质调查局长达十年的地磁数据，对轴子信号给出了比此前地面实验严格约100倍的限制。（科技日报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/newsflashes/3944243857112451?f=rss"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260817-74e65df5",
+      "title": {
+        "zh": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "硬氪获悉，近日国内机器人力传感器企业蓝点触控完成数亿元人民币D轮融资。本轮融资由广汽集团旗下广汽资本领投，德业股份及曦晨资本跟投。融资将主要用于新一代机器人力传感器产品研发、产能扩充及全球化市场布局。 从2025年底至今，公司已完成多轮亿元级融资，股东阵容包括红杉中国、宁德时代、智元机器人、银河通用、广汽、上汽、中芯等财务资本与产业资本。 蓝点触控成立于2019年，是国内较早一批的力传感器研发企业。其核心团队来自航天科技集团、中科院、北…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/p/3943183864560776?f=rss"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260817-6ea1e1d4",
+      "title": {
+        "zh": "36氪首发 | 清北团队做工业功能涂层数字喷印，获五源、小米、蔚来资本等数亿融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "本文约4000字，建议阅读8分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉， 专注工业场景功能性涂层数字喷印技术的企业「什方科技」 连续完成两轮融资。自 B 轮起至本次 B + 轮收官，融资总额近3亿元。由五源资本、创世伙伴创投、同创伟业及头部产业战略投资机构恒旭资本、小米集团、蔚来资本联合入局，多家老股东同步追加投资。 「什方科技」成立于2020年，致力于为产业界提供高精密、高粘度、微米级功能涂层数字喷印核心部件和系统解决方案。公…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/p/3943133334535300?f=rss"
+    },
+    {
+      "id": "ai-8",
+      "slug": "fde-20260817-9b712000",
+      "title": {
+        "zh": "科创板上市公司投资脑机接口，微灵医疗获超亿元融资 ｜36氪独家",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文｜刘凌果 胡香赟 编辑｜海若镜 36氪独家获悉，医学脑机接口企业微灵医疗，近日完成超亿元人民币融资。本轮融资由君重资本领投,英诺特（688253.SH）作为该基金的核心产业出资人，募集资金将重点用于推进植入式脑机接口核心产品的临床验证，加快医疗器械注册申报进程，完善生产制造体系建设，并持续拓展面向神经功能修复领域的临床应用布局。此前，微灵医疗已获得高榕资本、生命园创投、鼎晖投资、力合科创等多家一线投资机构加持。 微灵医疗成立于2019…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/p/3941648190242185?f=rss"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260817-2382bd29",
+      "title": {
+        "zh": "Anthropic联合创始人承认人工智能正遭遇信任危机",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Anthropic联合创始人兼首席执行官达里奥·阿莫代伊否认公众对人工智能普遍产生的末日感应由他负责，但他承认行业确实存在信任难题。他提到当下存在一种非此即彼的错误认知：一部分人认为监管会造成监管俘获、权力集中；另一部分人则认为广泛分发人工智能模型（包括开源模型）才是约束技术风险的最优路径。阿莫代伊指出，法院这类制度机构可以实现权力去中心化；同时他表示Anthropic支持相关政策：一方面约束前沿AI企业发展速度，另一方面为小型竞争对手…",
+        "en": ""
+      },
+      "category": {
+        "zh": "政策合规",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942802014256256?f=rss"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260817-9f16d0e1",
+      "title": {
+        "zh": "招商证券：市场将更加聚焦于业绩主线的结构性机会",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，招商证券发布研报指出，近期市场快速反弹后转为震荡，本质上是基于美联储TACO与非农、就业数据，交易宽松流动性与降息预期。对于市场而言，8月以来由宏微观流动性改善共振带来的风险偏好回升和市场系统性修复或已进入尾声，叠加中报业绩集中披露窗口临近，市场将更加聚焦于业绩主线的结构性机会。配置上建议沿科技创新+企业出海+传统低估值再平衡三线均衡布局，重点关注电子、电力设备、化学制药、有色金属、煤炭。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942794603527561?f=rss"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260817-f0f21fdf",
+      "title": {
+        "zh": "全球开源AI大洗牌，中国开源模型加速崛起",
+        "en": ""
+      },
+      "summary": {
+        "zh": "全球最大AI开源平台Hugging Face近日发布的最新观察报告显示，全球开源人工智能生态正在快速扩张，而中国模型正在成为其中的重要力量。Hugging Face的报告指出，2026年以来的大部分月份，中国AI企业发布的最大开源模型在参数规模上显著超越美国同行：中国模型的月度参数上限在7540亿至2.78万亿之间，而美国模型在同期多数月份则低于1300亿。不仅规模领先，中国模型在开放生态建设方面同样表现突出。Hugging Face的…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942795773787527?f=rss"
+    },
+    {
+      "id": "ai-12",
+      "slug": "fde-20260817-1c7242ac",
+      "title": {
+        "zh": "传奇投资人Stanley Druckenmiller买入美国上市的中概股",
+        "en": ""
+      },
+      "summary": {
+        "zh": "华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。彭博对其主要投资平台Duquesne Family Office LLC最新的13F文件的分析发现，该家族办公室第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。汇总的数据显示，Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942790755531905?f=rss"
+    },
+    {
+      "id": "ai-13",
+      "slug": "fde-20260817-607c457e",
+      "title": {
+        "zh": "A股年内94只新股上市，首日平均涨幅279.22%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。据Wind数据，年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942841138429064?f=rss"
+    },
+    {
+      "id": "ai-14",
+      "slug": "fde-20260817-3a917eb2",
+      "title": {
+        "zh": "北交所40份半年报出炉，超七成净利增长",
+        "en": ""
+      },
+      "summary": {
+        "zh": "根据Wind统计，截至8月15日，北交所共有40家上市公司披露了2026年半年报。整体来看，目前已披露半年报的企业中，30家企业实现净利润同比增长或扭亏为盈，占比75%；营业收入超1亿元的企业37家，其中超10亿元的企业共6家，分别为一诺威、安达科技、颖泰生物、欧伦电气、吉林碳谷和雷神科技。（中证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-17",
+      "link": "https://36kr.com/newsflashes/3942814809292162?f=rss"
+    },
+    {
+      "id": "ai-15",
+      "slug": "fde-20260816-72fe17f7",
+      "title": {
+        "zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "en": ""
+      },
+      "summary": {
+        "zh": "背后是四项关键能力",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-16",
+      "link": "https://www.qbitai.com/2026/08/473972.html"
+    },
+    {
+      "id": "ai-16",
       "slug": "fde-20260815-f0b689ad",
       "title": {
         "zh": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -1763,7 +2115,7 @@
       "link": "https://www.qbitai.com/2026/08/473876.html"
     },
     {
-      "id": "ai-1",
+      "id": "ai-17",
       "slug": "fde-20260815-43437d1c",
       "title": {
         "zh": "联想集团刘军：AI PC国内市场销量占比过半",
@@ -1785,7 +2137,7 @@
       "link": "https://36kr.com/newsflashes/3940352545078405?f=rss"
     },
     {
-      "id": "ai-2",
+      "id": "ai-18",
       "slug": "fde-20260815-cdd7b3d0",
       "title": {
         "zh": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
@@ -1807,7 +2159,7 @@
       "link": "https://36kr.com/newsflashes/3940346809810055?f=rss"
     },
     {
-      "id": "ai-3",
+      "id": "ai-19",
       "slug": "fde-20260815-5e6ab67b",
       "title": {
         "zh": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
@@ -1827,358 +2179,6 @@
       },
       "date": "2026-08-15",
       "link": "https://www.qbitai.com/2026/08/473669.html"
-    },
-    {
-      "id": "ai-4",
-      "slug": "fde-20260815-3abd84d9",
-      "title": {
-        "zh": "段永平继续加仓拼多多，大幅减持英伟达、谷歌",
-        "en": ""
-      },
-      "summary": {
-        "zh": "截至二季度末，由段永平管理的H&H International Investment基金总持仓市值约191亿美元，约合人民币1370亿元，较去年四季度末的200亿美元有所下降。二季度，段永平继续增持拼多多，重新买入阿里巴巴，同时减持苹果、英伟达、谷歌、微软等，清仓台积电、CrowdStrike等个股。（证券时报）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://36kr.com/newsflashes/3940412779150472?f=rss"
-    },
-    {
-      "id": "ai-5",
-      "slug": "fde-20260815-91587c4c",
-      "title": {
-        "zh": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发",
-        "en": ""
-      },
-      "summary": {
-        "zh": "图源/企业 本文约 2200 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元融资。本轮融资由韦豪创芯、共达电声（002655）联合领投，华策影视（300133）、苏创投、苏金控、创领资本、后浪资本等机构跟投。融资资金将主要用于万比特专用光计算集群与通用量子计算芯片组的研发。 硅臻芯片2020年成立于合肥，核心技术源自中国科学技术大学郭光灿院士领衔的中国科学院量子…",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://36kr.com/p/3940103536491910?f=rss"
-    },
-    {
-      "id": "ai-6",
-      "slug": "fde-20260815-6266b52f",
-      "title": {
-        "zh": "大疆Osmo 360 II发布首日拿下全渠道销量 TOP1",
-        "en": ""
-      },
-      "summary": {
-        "zh": "8月13日20:00，大疆正式发布全新8K全景相机Osmo 360 II。数据显示，发布24小时后，Osmo 360 II全渠道首日销量位列TOP1，并在京东、天猫、抖音三大平台全景相机相关榜单中登顶。据了解，Osmo 360 II搭载1英寸全景影像系统与高性能芯片，支持原生8K/60fps超清全景视频；主角跟随、NFC一碰即连、AI一键成片等智能功能，进一步降低了创作门槛；适用于旅行、运动、聚会、亲子等多元场景。",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://36kr.com/newsflashes/3940246159506561?f=rss"
-    },
-    {
-      "id": "ai-7",
-      "slug": "fde-20260814-2e43fc51",
-      "title": {
-        "zh": "独家 | 腾讯混元徐灿转岗微信WeLM，微信AI进入加速阶段",
-        "en": ""
-      },
-      "summary": {
-        "zh": "文 | 李炤锋 编辑 | 张雨忻 智能涌现从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。 多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是， 这次转岗发生在微信持续强化自研大模型和Agent能力的阶段 。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。 公开招聘信息…",
-        "en": ""
-      },
-      "category": {
-        "zh": "人才市场",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/p/3939234424700041?f=rss"
-    },
-    {
-      "id": "ai-8",
-      "slug": "fde-20260814-dd2150e4",
-      "title": {
-        "zh": "阿里灵犀再传15亿美元出售，或许这就是中国游戏行业的现实",
-        "en": ""
-      },
-      "summary": {
-        "zh": "灵犀互娱这次真的要易主了？ 据彭博社报道称，亚洲私股权公司信宸资本接近达成收购阿里巴巴集团控股有限公司视频游戏业务的交易。知情人士表示，信宸资本成为了灵犀互娱最有可能的买家，其出价高于包括电子游戏制造商在内的其他竞购方。据他们透露，此次交易对这家工作室的估值可能超过15亿美元。 来源：彭博社 截至发稿，灵犀互娱以及信宸资本未作回应。 前不久的6月23日，就有多家媒体报道，阿里巴巴集团正计划出售旗下游戏业务品牌灵犀互娱，整体报价70亿至9…",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/p/3939187139935369?f=rss"
-    },
-    {
-      "id": "ai-9",
-      "slug": "fde-20260814-a2fcbe3e",
-      "title": {
-        "zh": "热门中概股美股盘前涨跌不一，京东跌超3%",
-        "en": ""
-      },
-      "summary": {
-        "zh": "36氪获悉，热门中概股美股盘前涨跌不一，截至发稿，京东跌超3%，爱奇艺跌超1%，百度跌0.92%，腾讯音乐跌0.59%，蔚来跌0.24%，网易涨0.77%，理想汽车涨0.73%，阿里巴巴涨0.68%，哔哩哔哩涨0.47%，小鹏汽车涨0.17%，拼多多涨0.04%。",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/newsflashes/3939374230453385?f=rss"
-    },
-    {
-      "id": "ai-10",
-      "slug": "fde-20260814-3ff00eaf",
-      "title": {
-        "zh": "韩国财阀掌门人上半年薪酬曝光：SK会长崔泰源获17.5亿韩元",
-        "en": ""
-      },
-      "summary": {
-        "zh": "监管文件显示，三星电子会长李在镕今年上半年继续未从三星电子领取薪酬，这一做法自2017年延续至今。SK集团会长崔泰源从集团控股公司SK Inc.获得17.5亿韩元（约合人民币836万元）。斗山集团会长朴正元上半年薪酬最高，达455.8亿韩元（约合人民币2.18亿元）；韩华集团会长金升渊从集团旗下公司获得115.8亿韩元（约合人民币5530万元），乐天集团会长辛东彬获得112亿韩元（约合人民币5350万元）。LG集团会长具光谟获得48.3…",
-        "en": ""
-      },
-      "category": {
-        "zh": "薪酬观察",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/newsflashes/3939311423012225?f=rss"
-    },
-    {
-      "id": "ai-11",
-      "slug": "fde-20260814-6e7c355e",
-      "title": {
-        "zh": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-        "en": ""
-      },
-      "summary": {
-        "zh": "所有人都可免费下载部署及商用。",
-        "en": ""
-      },
-      "category": {
-        "zh": "落地案例",
-        "en": ""
-      },
-      "source": {
-        "zh": "qbitai.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://www.qbitai.com/2026/08/473379.html"
-    },
-    {
-      "id": "ai-12",
-      "slug": "fde-20260814-0a0e596c",
-      "title": {
-        "zh": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-        "en": ""
-      },
-      "summary": {
-        "zh": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "qbitai.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://www.qbitai.com/2026/08/473144.html"
-    },
-    {
-      "id": "ai-13",
-      "slug": "fde-20260814-6ebe1759",
-      "title": {
-        "zh": "华强北AI眼镜销量暴涨100%",
-        "en": ""
-      },
-      "summary": {
-        "zh": "今年前7个月，华强北AI产品全品类销售额同比增长55%以上，其中AI眼镜销量激增100%，无人机、机器人销量增长60%至70%。翻译耳机、3D打印设备、智能穿戴等高新科技产品，成为吸引海内外游客的闪亮名片。目前，华强北跑出了“上午设计、下午打样、次日量产、一周出海”的科创速度。最新数据显示，华强北电子产品出口覆盖全球190多个国家和地区，全年发出的超10亿件快递中，四成发往海外。（央视财经）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/newsflashes/3939337442770306?f=rss"
-    },
-    {
-      "id": "ai-14",
-      "slug": "fde-20260814-890cc89d",
-      "title": {
-        "zh": "2026年上半年超935亿元涌入具身智能赛道",
-        "en": ""
-      },
-      "summary": {
-        "zh": "机器人正在加速“进厂打工”，资本也在用真金白银押注这一赛道。2026年上半年，国内具身智能赛道融资总额突破935亿元，同比增长5倍。（央视财经）",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/newsflashes/3939323205746051?f=rss"
-    },
-    {
-      "id": "ai-15",
-      "slug": "fde-20260814-927453b7",
-      "title": {
-        "zh": "优邦科技创业板IPO定于8月21日上会",
-        "en": ""
-      },
-      "summary": {
-        "zh": "36氪获悉，深圳证券交易所上市审核委员会定于2026年8月21日召开2026年第53次上市审核委员会审议会议，审议东莞优邦材料科技股份有限公司（首发）。",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://36kr.com/newsflashes/3939318677323138?f=rss"
-    },
-    {
-      "id": "ai-16",
-      "slug": "fde-20260814-a99d5a35",
-      "title": {
-        "zh": "国泰海通：FDE×Harness 形成商业化飞轮，助力 AI 规模化落地",
-        "en": ""
-      },
-      "summary": {
-        "zh": "国泰海通8月14日发研报称，FDE深入业务现场沉淀行业Know-how，Harness保障智能体稳定执行，二者协同推动企业AI从“人力复制”走向“能力复制”，边际部署成本持续下降。",
-        "en": ""
-      },
-      "category": {
-        "zh": "研究报告",
-        "en": ""
-      },
-      "source": {
-        "zh": "国泰海通/智通财经",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://www.163.com/dy/article/L499OGDH05198UNI.html"
-    },
-    {
-      "id": "ai-17",
-      "slug": "fde-20260814-ddc666d7",
-      "title": {
-        "zh": "软通动力引入阿里云Qoder打造FDE新范式，组建500人交付团队",
-        "en": ""
-      },
-      "summary": {
-        "zh": "软通动力8月14日宣布全面引入阿里云全栈Agentic编程平台Qoder，升级FDE（全栈交付工程）模式，构建超500人的行业解决方案团队，将架构与组件沉淀为可复用资产。",
-        "en": ""
-      },
-      "category": {
-        "zh": "生态合作",
-        "en": ""
-      },
-      "source": {
-        "zh": "软通动力/网易",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://www.163.com/dy/article/L4A1GHUD05509EKV.html"
-    },
-    {
-      "id": "ai-18",
-      "slug": "fde-20260814-12bf5c13",
-      "title": {
-        "zh": "FDE×Harness 从模型能力转向企业规模化部署，多家厂商落地",
-        "en": ""
-      },
-      "summary": {
-        "zh": "华尔街见闻8月14日梳理：金蝶将Harness内生于ERP底座，赛意FDE交付周期压缩36%，科大讯飞智能评审准确率达97%，易鑫AI平台调用超1.25亿次。",
-        "en": ""
-      },
-      "category": {
-        "zh": "落地案例",
-        "en": ""
-      },
-      "source": {
-        "zh": "华尔街见闻",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://wallstreetcn.com/articles/3779425"
-    },
-    {
-      "id": "ai-19",
-      "slug": "fde-20260814-b66aa847",
-      "title": {
-        "zh": "腾讯重金托举WorkBuddy，二季度自由现金流为-138亿元",
-        "en": ""
-      },
-      "summary": {
-        "zh": "腾讯8月14日被曝重押WorkBuddy：二季度销售推广开支同比+26%至119亿元，自由现金流-138亿元，但被视为“AI时代船票”，优先级一路绿灯。",
-        "en": ""
-      },
-      "category": {
-        "zh": "巨头动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "新浪财经",
-        "en": ""
-      },
-      "date": "2026-08-14",
-      "link": "https://t.cj.sina.com.cn/articles/view/9171525735/222aa606700103dxz8"
     }
   ],
   "cities": [
@@ -2439,14 +2439,14 @@
   "aiFdeNewsEn": [
     {
       "id": "ai-0",
-      "slug": "fde-20260815-62712976",
+      "slug": "fde-20260817-9244911c",
       "title": {
         "zh": "",
-        "en": "Anthropic shares more details about how Claude’s new watermarks will work"
+        "en": "My friends all hate AI; I just joined an AI startup"
       },
       "summary": {
         "zh": "",
-        "en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+        "en": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 17 # Comments: 24"
       },
       "category": {
         "zh": "",
@@ -2454,43 +2454,65 @@
       },
       "source": {
         "zh": "",
-        "en": "techcrunch.com"
+        "en": "hnrss.org"
       },
-      "date": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+      "date": "2026-08-17",
+      "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
     },
     {
       "id": "ai-1",
-      "slug": "fde-20260815-9e860324",
+      "slug": "fde-20260817-4e8b5510",
       "title": {
         "zh": "",
-        "en": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong"
+        "en": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer"
       },
       "summary": {
         "zh": "",
-        "en": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results visible to end users: Verifying that what …"
+        "en": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them. Gartner estimates that the average global Fortune 500 company will have more than …"
       },
       "category": {
         "zh": "",
-        "en": "Industry Trend"
+        "en": "Enterprise Adoption"
       },
       "source": {
         "zh": "",
         "en": "venturebeat.com"
       },
-      "date": "2026-08-15",
-      "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong"
+      "date": "2026-08-17",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer"
     },
     {
       "id": "ai-2",
-      "slug": "fde-20260815-167d1e67",
+      "slug": "fde-20260817-6af5bd7e",
       "title": {
         "zh": "",
-        "en": "SpaceX officially closes its Cursor acquisition"
+        "en": "Business adoption of AI agents tripled this year - as measurable ROI emerges"
       },
       "summary": {
         "zh": "",
-        "en": "AI coding startup Cursor is now officially a part of SpaceX."
+        "en": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-17",
+      "link": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260817-788af52c",
+      "title": {
+        "zh": "",
+        "en": "Google Workspace lets Gemini access your company data by default - how to shut it down"
+      },
+      "summary": {
+        "zh": "",
+        "en": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today."
       },
       "category": {
         "zh": "",
@@ -2498,21 +2520,87 @@
       },
       "source": {
         "zh": "",
-        "en": "techcrunch.com"
+        "en": "zdnet.com"
       },
-      "date": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      "date": "2026-08-17",
+      "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/"
     },
     {
-      "id": "ai-3",
-      "slug": "fde-20260815-f7209b94",
+      "id": "ai-4",
+      "slug": "fde-20260817-c29fb02f",
       "title": {
         "zh": "",
-        "en": "Every fusion startup that has raised over $100M"
+        "en": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira"
       },
       "summary": {
         "zh": "",
-        "en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies."
+        "en": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 304 # Comments: 123"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-17",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260817-a3ac92a1",
+      "title": {
+        "zh": "",
+        "en": "Anthropic explains how Claude’s invisible text watermarks will work"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-17",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260817-8c126ddc",
+      "title": {
+        "zh": "",
+        "en": "Get closer to the game with Gemini and Pixel"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "blog.google"
+      },
+      "date": "2026-08-17",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260817-6465ab9b",
+      "title": {
+        "zh": "",
+        "en": "Groq raises $350M to fuel its pivot from AI chips to neocloud"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
       },
       "category": {
         "zh": "",
@@ -2522,195 +2610,19 @@
         "zh": "",
         "en": "techcrunch.com"
       },
-      "date": "2026-08-15",
-      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/"
-    },
-    {
-      "id": "ai-4",
-      "slug": "fde-20260814-e936ac9f",
-      "title": {
-        "zh": "",
-        "en": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider"
-      },
-      "summary": {
-        "zh": "",
-        "en": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "feeds.arstechnica.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
-    },
-    {
-      "id": "ai-5",
-      "slug": "fde-20260814-dac2095d",
-      "title": {
-        "zh": "",
-        "en": "Does Mark Zuckerberg really believe AI is ‘for everyone’?"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release …"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
-    },
-    {
-      "id": "ai-6",
-      "slug": "fde-20260814-49143f63",
-      "title": {
-        "zh": "",
-        "en": "Hyperscalers might regret embracing natural gas if new forecast proves correct"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
-    },
-    {
-      "id": "ai-7",
-      "slug": "fde-20260814-0552204f",
-      "title": {
-        "zh": "",
-        "en": "Meta’s ‘open’ AI, and a $250M deal gone very wrong"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release …"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+      "date": "2026-08-17",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
     },
     {
       "id": "ai-8",
-      "slug": "fde-20260814-a0985931",
+      "slug": "fde-20260817-0e599c68",
       "title": {
         "zh": "",
-        "en": "Apple trained its own AI model for China with help from Alibaba"
+        "en": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
       },
       "summary": {
         "zh": "",
-        "en": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focus…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "theverge.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-    },
-    {
-      "id": "ai-9",
-      "slug": "fde-20260814-0f5dde25",
-      "title": {
-        "zh": "",
-        "en": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe"
-      },
-      "summary": {
-        "zh": "",
-        "en": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/"
-    },
-    {
-      "id": "ai-10",
-      "slug": "fde-20260814-d6301962",
-      "title": {
-        "zh": "",
-        "en": "Kog is going deeper to squeeze more inference out of GPUs"
-      },
-      "summary": {
-        "zh": "",
-        "en": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
-    },
-    {
-      "id": "ai-11",
-      "slug": "fde-20260814-964d7389",
-      "title": {
-        "zh": "",
-        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
-      },
-      "summary": {
-        "zh": "",
-        "en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "feeds.arstechnica.com"
-      },
-      "date": "2026-08-14",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
-    },
-    {
-      "id": "ai-12",
-      "slug": "fde-20260814-90c26167",
-      "title": {
-        "zh": "",
-        "en": "A Contract-Grade Verifier for LLM-Generated GPU Kernels"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 30 # Comments: 0"
+        "en": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo:…"
       },
       "category": {
         "zh": "",
@@ -2720,19 +2632,63 @@
         "zh": "",
         "en": "hnrss.org"
       },
-      "date": "2026-08-14",
-      "link": "https://arxiv.org/abs/2608.12700"
+      "date": "2026-08-17",
+      "link": "https://speko.ai/"
     },
     {
-      "id": "ai-13",
-      "slug": "fde-20260814-5d8dfb43",
+      "id": "ai-9",
+      "slug": "fde-20260817-51081c5d",
       "title": {
         "zh": "",
-        "en": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor"
+        "en": "Amazon, which started off selling books, is destroying rare texts to train AI"
       },
       "summary": {
         "zh": "",
-        "en": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon coding and a more conseq…"
+        "en": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-17",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260817-d3b72fb0",
+      "title": {
+        "zh": "",
+        "en": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening — not …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-17",
+      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260816-c3fd9509",
+      "title": {
+        "zh": "",
+        "en": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context t…"
       },
       "category": {
         "zh": "",
@@ -2742,19 +2698,19 @@
         "zh": "",
         "en": "venturebeat.com"
       },
-      "date": "2026-08-14",
-      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor"
+      "date": "2026-08-16",
+      "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm"
     },
     {
-      "id": "ai-14",
-      "slug": "fde-20260814-ef9410bb",
+      "id": "ai-12",
+      "slug": "fde-20260816-96edadf4",
       "title": {
         "zh": "",
-        "en": "You can now turn off Google Gemini’s visible watermarks"
+        "en": "ChatGPT’s Computer History tracks your clicks and keystrokes"
       },
       "summary": {
         "zh": "",
-        "en": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator,…"
+        "en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo…"
       },
       "category": {
         "zh": "",
@@ -2764,19 +2720,41 @@
         "zh": "",
         "en": "theverge.com"
       },
-      "date": "2026-08-14",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+      "date": "2026-08-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
     },
     {
-      "id": "ai-15",
-      "slug": "fde-20260814-747b38df",
+      "id": "ai-13",
+      "slug": "fde-20260816-1737d8fa",
       "title": {
         "zh": "",
-        "en": "Maximizing the value of your Claude Code sessions"
+        "en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’"
       },
       "summary": {
         "zh": "",
-        "en": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 118 # Comments: 80"
+        "en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-16",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    },
+    {
+      "id": "ai-14",
+      "slug": "fde-20260816-27d4cf7a",
+      "title": {
+        "zh": "",
+        "en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74"
       },
       "category": {
         "zh": "",
@@ -2786,96 +2764,118 @@
         "zh": "",
         "en": "hnrss.org"
       },
-      "date": "2026-08-14",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+      "date": "2026-08-16",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
+    },
+    {
+      "id": "ai-15",
+      "slug": "fde-20260816-c6314cb3",
+      "title": {
+        "zh": "",
+        "en": "Claude: System Prompts"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 494 # Comments: 211"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-16",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts"
     },
     {
       "id": "ai-16",
-      "slug": "fde-20260814-ec47b0e8",
+      "slug": "fde-20260816-1ea2ff05",
       "title": {
-        "en": "Gemini App Tops 1 Billion Monthly Users as Google's Fastest-Growing Product",
-        "zh": "Gemini 应用月活突破 10 亿，成谷歌增长最快产品"
+        "zh": "",
+        "en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee"
       },
       "summary": {
-        "en": "Google says its Gemini app has crossed 1 billion monthly active users, making it the company's fastest-growing product ever and a sign that consumer AI assistants are hitting mass scale.",
-        "zh": "谷歌称 Gemini 应用月活用户突破 10 亿，是其史上增长最快的产品，也标志着消费级 AI 助手进入大众规模。"
+        "zh": "",
+        "en": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7"
       },
       "category": {
-        "en": "Industry Trend",
-        "zh": "行业趋势"
+        "zh": "",
+        "en": "Capital & M&A"
       },
       "source": {
-        "en": "Unite.AI",
-        "zh": "Unite.AI"
+        "zh": "",
+        "en": "hnrss.org"
       },
-      "date": "2026-08-14",
-      "link": "https://www.unite.ai/gemini-app-tops-1-billion-monthly-users-as-googles-fastest-growing-product"
+      "date": "2026-08-16",
+      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
     },
     {
       "id": "ai-17",
-      "slug": "fde-20260814-7453d71e",
+      "slug": "fde-20260816-60110410",
       "title": {
-        "en": "White House and AI Companies Quietly Build Secret Model Safety Measures",
-        "zh": "白宫与 AI 企业悄然构建前沿模型保密安全措施"
+        "zh": "",
+        "en": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers"
       },
       "summary": {
-        "en": "Defense One reports that the White House and leading AI labs have been developing confidential safety and evaluation measures for frontier models, amid rising concern over autonomous capabilities.",
-        "zh": "Defense One 报道，白宫与头部 AI 实验室正私下制定前沿模型的安全评估与管控措施，引发监督问责讨论。"
+        "zh": "",
+        "en": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site tex…"
       },
       "category": {
-        "en": "Regulation & Policy",
-        "zh": "政策法规"
+        "zh": "",
+        "en": "Industry Trend"
       },
       "source": {
-        "en": "Defense One",
-        "zh": "Defense One"
+        "zh": "",
+        "en": "hnrss.org"
       },
-      "date": "2026-08-14",
-      "link": "https://defenseone.com/technology/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415227"
+      "date": "2026-08-16",
+      "link": "https://news.ycombinator.com/item?id=49322107"
     },
     {
       "id": "ai-18",
-      "slug": "fde-20260814-bb955a8a",
+      "slug": "fde-20260816-82955cdc",
       "title": {
-        "en": "Nvidia Partners with Wall Street Giants to Raise $500 Billion for AI Buildout",
-        "zh": "英伟达联手华尔街巨头，拟募资 5000 亿美元建 AI 基建"
+        "zh": "",
+        "en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
       },
       "summary": {
-        "en": "Nvidia is working with major financial institutions to assemble a $500 billion pool aimed at funding AI data-center and infrastructure buildout.",
-        "zh": "英伟达正与多家金融机构合作，组建约 5000 亿美元资金池，专门用于 AI 数据中心与基础设施建设。"
+        "zh": "",
+        "en": "OpenRouter's CEO recently described the startup as Stripe for AI."
       },
       "category": {
-        "en": "Capital & Funding",
-        "zh": "资本动态"
+        "zh": "",
+        "en": "Industry Trend"
       },
       "source": {
-        "en": "Economic Times",
-        "zh": "经济时报"
+        "zh": "",
+        "en": "techcrunch.com"
       },
-      "date": "2026-08-14",
-      "link": "https://m.economictimes.com/markets/us-stocks/news/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/amp_articleshow/133140190.cms"
+      "date": "2026-08-16",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
       "id": "ai-19",
-      "slug": "fde-20260814-dec9440d",
+      "slug": "fde-20260816-56011fe6",
       "title": {
-        "en": "The 2026 AI Agent Benchmark Results: Most 'Computer Use' Tools Still Fall Short of 82%",
-        "zh": "2026 智能体基准：多数'电脑操作'工具仍不及 82%"
+        "zh": "",
+        "en": "OpenAI reportedly disbanded its preparedness team"
       },
       "summary": {
-        "en": "While GPT-5.4's 75% made headlines, Coasty argues its own 82% on OSWorld is the real production threshold - and that benchmark gaming is a real risk.",
-        "zh": "在 GPT-5.4 的 75% 刷屏之际，Coasty 认为其 82% 才是真正生产阈值，并警示基准刷分风险。"
+        "zh": "",
+        "en": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (Y…"
       },
       "category": {
-        "en": "Industry Trend",
-        "zh": "行业趋势"
+        "zh": "",
+        "en": "Industry Trend"
       },
       "source": {
-        "en": "Coasty",
-        "zh": "Coasty"
+        "zh": "",
+        "en": "theverge.com"
       },
-      "date": "2026-08-14",
-      "link": "https://coasty.ai/blog/ai-agent-benchmark-results-2026"
+      "date": "2026-08-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
     }
   ]
 }

@@ -6,6 +6,11 @@
 /data/backups/
 /version.json
 
+# CMS 运行时备份文件（不进版本库）
+*.bak
+/data/content.json.bak
+/data/fde-archive.json.bak
+
 # 构建产物
 *.zip
 
