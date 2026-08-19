@@ -92,6 +92,30 @@ if ($n > 0) {
   }
 }
 
+// 将「北港3D」注入 FDE地图 导航子项（下拉 / 移动菜单显示）。
+// 仅修改内存态的 _bg_data，绝不写回 content.json；
+// 因此在线更新（保留数据模式，不覆盖 content.json）也能让下拉出现北港3D，无需后台手动加子项。
+bg_load_data();
+if (isset($GLOBALS['_bg_data']['nav']) && is_array($GLOBALS['_bg_data']['nav'])) {
+  foreach ($GLOBALS['_bg_data']['nav'] as &$__nav_item) {
+    if (is_array($__nav_item) && isset($__nav_item['id']) && $__nav_item['id'] === 'nav-fde') {
+      if (!isset($__nav_item['children']) || !is_array($__nav_item['children'])) $__nav_item['children'] = array();
+      $__has3d = false;
+      foreach ($__nav_item['children'] as $__c) {
+        if (is_array($__c) && isset($__c['href']) && $__c['href'] === $__bg_3d_href) { $__has3d = true; break; }
+      }
+      if (!$__has3d) {
+        $__nav_item['children'][] = array(
+          'label' => array('zh' => '北港3D', 'en' => 'Beigang 3D'),
+          'href' => $__bg_3d_href,
+        );
+      }
+      break;
+    }
+  }
+  unset($__nav_item);
+}
+
 bg_head($lang, $title . ' | ' . $siteName, $desc);
 bg_render_nav($lang);
 ?>
