@@ -3,12 +3,16 @@
  * 在线更新核心：读取当前版本、获取远程最新发布、下载并覆盖（保留数据）。
  * 仅由后台 /api/update.php（已登录）调用。
  */
-require_once __DIR__ . '/config.php';
-require_once __DIR__ . '/helpers.php';
+// 支持从临时副本执行：api/update.php 会先把 zip 里的新版 update.php 解压到临时文件再 require，
+// 此时 __DIR__ 已变，需要外部传入真实 lib 目录。
+$__bg_update_lib_dir = defined('BG_LIB_DIR') ? BG_LIB_DIR : __DIR__;
+require_once $__bg_update_lib_dir . '/config.php';
+require_once $__bg_update_lib_dir . '/helpers.php';
 
 /** 站点根目录（lib 的上一级） */
 function bg_site_root() {
-  return dirname(__DIR__);
+  global $__bg_update_lib_dir;
+  return dirname($__bg_update_lib_dir);
 }
 
 /** 读取当前部署版本（version.json） */
@@ -229,3 +233,6 @@ function bg_update_apply($download_url, $preserve_data = true, $allow_full = fal
     'backup' => $backupDir,
   );
 }
+
+// 应用逻辑拆分到独立文件，便于 api/update.php 从目标 zip 里解压最新版到临时位置执行。
+require_once $__bg_update_lib_dir . '/update-apply.php';
