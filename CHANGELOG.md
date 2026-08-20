@@ -1,5 +1,19 @@
 # 更新日志
 
+## v20260820-0847 — 2026-08-20 08:47
+
+### 提交记录
+- release: v20260820-0847 (0f9c06d)
+
+### 变更文件
+```
+M	assets/img/beigang-3d.jpg
+M	data/content.json.bak
+M	data/fde-archive.json
+M	data/fde-archive.json.bak
+```
+
+---
 ## v20260819-1732 — 2026-08-19 17:32
 
 ### 提交记录

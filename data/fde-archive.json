@@ -1,7 +1,601 @@
 {
-  "updatedAt": "2026-08-19",
-  "total": 262,
+  "updatedAt": "2026-08-20",
+  "total": 284,
   "items": [
+    {
+      "slug": "fde-20260820-e376c863",
+      "lang": "zh",
+      "title": {
+        "zh": "中信建投：物理AI正成为下一阶段AI增长的核心变量",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，中信建投证券研报称，物理AI正接棒成为下一阶段AI增长的核心变量。物理世界数据作为贯穿感知至反馈的关键引擎，面临巨大需求刚性缺口。受制于保真、规模与成本的“不可能三角”，物理世界数据获取倒逼行业有望迎来三重变革：商业模式端通过社会化众包采数，技术范式端依托世界模型虚拟造数，资产属性端跃升为企业高溢价核心无形资产。供需失衡驱动物理数据资产价值重估，资本加速向数据基础设施与评测集聚。市场格局尚未定局，掌控稀缺数据与造数闭环能力的…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，中信建投证券研报称，物理AI正接棒成为下一阶段AI增长的核心变量。物理世界数据作为贯穿感知至反馈的关键引擎，面临巨大需求刚性缺口。受制于保真、规模与成本的“不可能三角”，物理世界数据获取倒逼行业有望迎来三重变革：商业模式端通过社会化众包采数，技术范式端依托世界模型虚拟造数，资产属性端跃升为企业高溢价核心无形资产。供需失衡驱动物理数据资产价值重估，资本加速向数据基础设施与评测集聚。市场格局尚未定局，掌控稀缺数据与造数闭环能力的…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/newsflashes/3947106750839941?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260820-a5d0965d",
+      "lang": "zh",
+      "title": {
+        "zh": "解锁AI算力新场景，科创债发行持续扩容提质",
+        "en": ""
+      },
+      "summary": {
+        "zh": "无锡高新区科创产业发展集团有限公司近期在上海证券交易所成功发行全国首单专项用于词元（Token）算力工厂建设的科技创新公司债券。Wind数据显示，今年以来，科创债发行扩容提质，发行规模超1.2万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "无锡高新区科创产业发展集团有限公司近期在上海证券交易所成功发行全国首单专项用于词元（Token）算力工厂建设的科技创新公司债券。Wind数据显示，今年以来，科创债发行扩容提质，发行规模超1.2万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/newsflashes/3947105147878531?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260820-c540eba3",
+      "lang": "zh",
+      "title": {
+        "zh": "券商上半年科创债承销规模突破5000亿元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月18日晚间，中国证券业协会发布2026年上半年度证券公司债券（含企业债券）承销业务专项统计，全面披露券商各类专项债承销单数、业务规模及行业排名等核心经营指标。上半年，证券行业紧扣科技创新、民营经济发展等国家战略方向发力，行业呈现差异化发展格局，头部券商持续夯实底盘、领跑核心赛道，部分中小券商在特定赛道上精耕细作，频频突围。盘古智库（北京）信息咨询有限公司高级研究员江瀚表示：“券商行业上半年债券承销业务呈现鲜明的分层发展特征，头部券商…",
+        "en": ""
+      },
+      "body": {
+        "zh": "8月18日晚间，中国证券业协会发布2026年上半年度证券公司债券（含企业债券）承销业务专项统计，全面披露券商各类专项债承销单数、业务规模及行业排名等核心经营指标。上半年，证券行业紧扣科技创新、民营经济发展等国家战略方向发力，行业呈现差异化发展格局，头部券商持续夯实底盘、领跑核心赛道，部分中小券商在特定赛道上精耕细作，频频突围。盘古智库（北京）信息咨询有限公司高级研究员江瀚表示：“券商行业上半年债券承销业务呈现鲜明的分层发展特征，头部券商…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/newsflashes/3947125342256517?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260820-e7fc0e29",
+      "lang": "zh",
+      "title": {
+        "zh": "从单向展示到双向奔赴，机器人产业迎质变拐点",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月19日，2026世界机器人大会在北京经济技术开发区北人亦创国际会展中心开幕。对比去年的大会，一个清晰的信号浮现：机器人产业正从“秀肌肉”转向“接订单”，从供给侧的单向展示走向产需两端的双向奔赴。工业和信息化部副部长辛国斌在开幕式上披露了一组关键数据：2025年机器人产业规模以上企业营业收入突破3000亿元，近五年年均增速超过20%，今年上半年达到1655亿元，同比增长24.5%。“机器人技术和产品已广泛应用于国民经济和社会发展的方方…",
+        "en": ""
+      },
+      "body": {
+        "zh": "8月19日，2026世界机器人大会在北京经济技术开发区北人亦创国际会展中心开幕。对比去年的大会，一个清晰的信号浮现：机器人产业正从“秀肌肉”转向“接订单”，从供给侧的单向展示走向产需两端的双向奔赴。工业和信息化部副部长辛国斌在开幕式上披露了一组关键数据：2025年机器人产业规模以上企业营业收入突破3000亿元，近五年年均增速超过20%，今年上半年达到1655亿元，同比增长24.5%。“机器人技术和产品已广泛应用于国民经济和社会发展的方方…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/newsflashes/3947101589585032?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-a9e69563",
+      "lang": "zh",
+      "title": {
+        "zh": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+        "en": ""
+      },
+      "summary": {
+        "zh": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+        "en": ""
+      },
+      "body": {
+        "zh": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://www.qbitai.com/2026/08/475901.html",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-f3a24c3d",
+      "lang": "zh",
+      "title": {
+        "zh": "郭富城换车，30万级顶配华为全家桶",
+        "en": ""
+      },
+      "summary": {
+        "zh": "5.3米六座家用SUV",
+        "en": ""
+      },
+      "body": {
+        "zh": "5.3米六座家用SUV",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://www.qbitai.com/2026/08/475009.html",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-33786a61",
+      "lang": "zh",
+      "title": {
+        "zh": "从矿山到动力电池｜清研精准第二个具身智能垂类中试场景落地",
+        "en": ""
+      },
+      "summary": {
+        "zh": "开展首日，清研精准将动力电池真实生产场景“搬到”展会现场，集中呈现汽车电池包接插件插拔、零部件抓取与装配等典型任务。这是继榆林矿用场景之后，清研精准落地的第二个具身智能垂类中试场景，标志着其工程化能力开始从矿山向汽车与新能源制造领域跨场景复制。目前，该场景已在某头部动力电池厂商实现规模化数据采集，并打通从真实数采、数据治理、仿真验证到模型训练与真机应用的完整闭环。 |清研精准已在头部动力电池厂实现真实场景规模化落地 01聚焦动力电池，还…",
+        "en": ""
+      },
+      "body": {
+        "zh": "开展首日，清研精准将动力电池真实生产场景“搬到”展会现场，集中呈现汽车电池包接插件插拔、零部件抓取与装配等典型任务。这是继榆林矿用场景之后，清研精准落地的第二个具身智能垂类中试场景，标志着其工程化能力开始从矿山向汽车与新能源制造领域跨场景复制。目前，该场景已在某头部动力电池厂商实现规模化数据采集，并打通从真实数采、数据治理、仿真验证到模型训练与真机应用的完整闭环。 |清研精准已在头部动力电池厂实现真实场景规模化落地 01聚焦动力电池，还…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/p/3946264412339335?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-126a25e2",
+      "lang": "zh",
+      "title": {
+        "zh": "科氪 | 当AI走进厨房，老板电器加速迈向AI烹饪科技企业",
+        "en": ""
+      },
+      "summary": {
+        "zh": "当AI不再停留在屏幕里的对话，而是真正走进烟火升腾的厨房——一场关于烹饪与厨房的技术变革，就此开启。 近日，老板电器举办了一场“AI让烹饪更有意义——老板电器AI烹饪科技体验日”活动，邀请众多媒体实地参观、亲身体验，并与老板电器技术体系相关负责人深入交流。 老板电器AI烹饪科技体验日活动合影 现场，老板电器首次系统性地展示了在AI烹饪领域的投入、技术布局与创新成果，并分享对AI烹饪未来的深度思考。这不只是一次技术亮相，更标志着这家深耕烹…",
+        "en": ""
+      },
+      "body": {
+        "zh": "当AI不再停留在屏幕里的对话，而是真正走进烟火升腾的厨房——一场关于烹饪与厨房的技术变革，就此开启。 近日，老板电器举办了一场“AI让烹饪更有意义——老板电器AI烹饪科技体验日”活动，邀请众多媒体实地参观、亲身体验，并与老板电器技术体系相关负责人深入交流。 老板电器AI烹饪科技体验日活动合影 现场，老板电器首次系统性地展示了在AI烹饪领域的投入、技术布局与创新成果，并分享对AI烹饪未来的深度思考。这不只是一次技术亮相，更标志着这家深耕烹…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/p/3945943299783812?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-d3c1b126",
+      "lang": "zh",
+      "title": {
+        "zh": "对话宇树早期投资人：未来具身赛道可能只有三家过得好，十家过得去，剩下的活不下去｜硬氪专访",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 容亿投资创始合伙人黄金平做硬科技投资已经15年了。 黄金平是中国第一批无线通讯人，他90年代加入中兴通讯，待了15年，见证了中国通讯产业从0到1再到全球龙头的全过程。 黄金平说话有属于他过往履历沉淀下来的理智，没太多情绪。他投资的赛道及公司也和本人一样，带着浓厚的技术底色，从通讯、智能汽车、AI机器人、eVTOL再到XR眼镜产业，业界更熟悉容亿投过的案例，比如宇树科技、银河通用、雷鸟创新、御风未来、蓝特光学、江…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 容亿投资创始合伙人黄金平做硬科技投资已经15年了。 黄金平是中国第一批无线通讯人，他90年代加入中兴通讯，待了15年，见证了中国通讯产业从0到1再到全球龙头的全过程。 黄金平说话有属于他过往履历沉淀下来的理智，没太多情绪。他投资的赛道及公司也和本人一样，带着浓厚的技术底色，从通讯、智能汽车、AI机器人、eVTOL再到XR眼镜产业，业界更熟悉容亿投过的案例，比如宇树科技、银河通用、雷鸟创新、御风未来、蓝特光学、江…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/p/3942012454419592?f=rss",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-d5c8e401",
+      "lang": "zh",
+      "title": {
+        "zh": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+        "en": ""
+      },
+      "summary": {
+        "zh": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+        "en": ""
+      },
+      "body": {
+        "zh": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://www.qbitai.com/2026/08/475931.html",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-4bf924f5",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI seeks to one-up Anthropic with new customer privacy protections"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+      },
+      "body": {
+        "zh": "",
+        "en": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-eef1324c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Another day, another new AI agent harness is released. Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while redu…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Another day, another new AI agent harness is released. Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while redu…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-0041a898",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-09045eba",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Extensible Software in the age of LLMs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49363668 Points: 98 # Comments: 47"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49363668 Points: 98 # Comments: 47"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-19",
+      "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-8a1ef9a4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Cognition CEO denies report that SpaceX tried to acquire the startup"
+      },
+      "summary": {
+        "zh": "",
+        "en": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+      },
+      "body": {
+        "zh": "",
+        "en": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-009e2e53",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google packs Search and Gemini with new AI study tools"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+      },
+      "body": {
+        "zh": "",
+        "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-cce2862f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI hit the brakes. Now what?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had …"
+      },
+      "body": {
+        "zh": "",
+        "en": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-a2bcaea8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Feature Request: Support AGENTS.md"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 110 # Comments: 55"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 110 # Comments: 55"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-19",
+      "link": "https://github.com/anthropics/claude-code/issues/6235",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-90c63b03",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google Gemini is getting a dedicated student hub"
+      },
+      "summary": {
+        "zh": "",
+        "en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui…"
+      },
+      "body": {
+        "zh": "",
+        "en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice qui…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-31265ca0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Meet the startup helping Wall Street put a price on AI compute"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp…"
+      },
+      "body": {
+        "zh": "",
+        "en": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-9af58ffc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+      },
+      "body": {
+        "zh": "",
+        "en": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+      },
+      "category": {
+        "zh": "",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "archivedAt": "2026-08-20"
+    },
+    {
+      "slug": "fde-20260819-55d7738b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI isn’t close to curing cancer. This startup says it knows what it will take."
+      },
+      "summary": {
+        "zh": "",
+        "en": "It's the data, stupid."
+      },
+      "body": {
+        "zh": "",
+        "en": "It's the data, stupid."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-19",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "archivedAt": "2026-08-20"
+    },
     {
       "slug": "fde-20260819-ddfd4829",
       "lang": "zh",

@@ -94,6 +94,13 @@
             "en": "E-commerce Monitoring"
           },
           "href": "https://ec.eupgrading.com/"
+        },
+        {
+          "label": {
+            "zh": "北港3D",
+            "en": "Beigang 3D"
+          },
+          "href": "https://3d.eupgrading.com/"
         }
       ]
     },
@@ -1742,6 +1749,270 @@
   "aiFdeNews": [
     {
       "id": "ai-0",
+      "slug": "fde-20260819-ddfd4829",
+      "title": {
+        "zh": "谷歌宣称其AI可承担前沿部署工程师的工作",
+        "en": ""
+      },
+      "summary": {
+        "zh": "谷歌云数据库产品副总裁兼总经理安迪·古特曼表示，尽管谷歌云近期宣布计划招聘数百名前沿部署工程师，协助客户基于Gemini开发应用，但目前公司正在用AI自动化这批专业顾问面向大型企业的部分工作，主要负责企业数据治理。古特曼表示，谷歌已经意识到这种高度依赖人力模式的局限性。“如果你想要激活企业全部数据，靠招人是不足以实现目标的。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945705659186569?f=rss"
+    },
+    {
+      "id": "ai-1",
+      "slug": "fde-20260819-72dbfe4d",
+      "title": {
+        "zh": "中信建投：稳健者加大算力投入力度，应用飞轮闭环优于预期",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，中信建投研报称，2026年以来，AI产业投资逻辑正从模型能力与资本开支竞赛，逐步转向订单、收入及盈利的商业化验证。海外Agent产品率先形成收入增量，云厂商高强度算力投入仍有云收入和在手订单支撑；国内模型在Coding及Agent任务上的能力差距快速收窄，推理效率、Token调用量及产品收入同步提升。展望未来一至两个季度，国产模型迭代、Agent产品升级和旗舰模型重新定价有望共同推进，建议持续关注算力服务、国产芯片与超节点，…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945696319814793?f=rss"
+    },
+    {
+      "id": "ai-2",
+      "slug": "fde-20260819-13f8b3c1",
+      "title": {
+        "zh": "央地打出消费“组合拳”，推动内需提质升级",
+        "en": ""
+      },
+      "summary": {
+        "zh": "发放新一轮消费券、调整优化住房公积金政策、“三新”消费试点项目加速落地……近期央地接连部署，打出了一轮促消费政策的“组合拳”。多位受访专家表示，目前消费政策思路正从“大水漫灌”向“精准滴灌”转变，进一步向更多元化、细分化的特色消费场景延伸。展望下半年，多个促消费政策将陆续出台，消费有望边际回暖，未来政策仍有空间。（上证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945676524109191?f=rss"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260819-27c0f221",
+      "title": {
+        "zh": "从成本传导走向AI需求共振，功率半导体行业迎景气周期",
+        "en": ""
+      },
+      "summary": {
+        "zh": "2026年上半年，功率半导体行业受益于AI（人工智能）服务器、新能源汽车、光储等领域需求爆发，叠加8英寸成熟制程产能紧缺，呈现景气度上行、量价齐升的发展态势。民德电子、扬杰科技、士兰微等产业链公司相继披露半年度业绩显示，功率半导体行业正从成本传导走向AI需求共振，一场由数据中心功率密度跃升引发的产业变局正在加速展开。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945686752361857?f=rss"
+    },
+    {
+      "id": "ai-4",
+      "slug": "fde-20260819-39482108",
+      "title": {
+        "zh": "法国官员：政府将引入人工智能工具测试系统网络安全漏洞",
+        "en": ""
+      },
+      "summary": {
+        "zh": "法国预算部长阿米耶尔表示，法国政府将使用人工智能工具来测试政府系统中的网络安全漏洞。此前，法国税务部门遭到大规模黑客攻击，约70万名纳税人的信息和数据被盗。（央视新闻）",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945716455341448?f=rss"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260819-7530e2b1",
+      "title": {
+        "zh": "据传优步通过大宗交易出售部分Aurora Innovation股权",
+        "en": ""
+      },
+      "summary": {
+        "zh": "知情人士透露，优步科技公司于周一通过一笔4.766亿美元的非注册大宗交易，出售了所持Aurora Innovation公司的部分股权。本次发售这家自动驾驶技术企业的7200万股股票，定价6.62美元，处于6.62‑6.97美元推介价格区间的下限。摩根大通负责本次发售相关工作。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-19",
+      "link": "https://36kr.com/newsflashes/3945705912728961?f=rss"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260818-9d437425",
+      "title": {
+        "zh": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "MyContext补上Agent的数据加工层",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://www.qbitai.com/2026/08/474647.html"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260818-17559581",
+      "title": {
+        "zh": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://www.qbitai.com/2026/08/474840.html"
+    },
+    {
+      "id": "ai-8",
+      "slug": "fde-20260818-5d7fed46",
+      "title": {
+        "zh": "今日起，阿里“千问办公”接入企业微信",
+        "en": ""
+      },
+      "summary": {
+        "zh": "国内三大办公平台全面支持",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://www.qbitai.com/2026/08/474803.html"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260818-f381e1f7",
+      "title": {
+        "zh": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "en": ""
+      },
+      "summary": {
+        "zh": "代码能跑≠游戏能玩",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://www.qbitai.com/2026/08/474806.html"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260818-1e617634",
+      "title": {
+        "zh": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+        "en": ""
+      },
+      "summary": {
+        "zh": "回头看，A社就这样完成了反超",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://www.qbitai.com/2026/08/474673.html"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260818-52e6a2a7",
+      "title": {
+        "zh": "36氪首发｜给泳池机器人造“眼睛”，前科沃斯员工做芯片获千万元天使融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文｜张子怡 编辑｜袁斯来 硬氪获悉，水下感知芯片企业「芯旸微」近日完成千万元天使轮融资，本轮投资方为险峰长青和隐峰资本，资金将主要用于团队建设和人才体系搭建。 随着水下机器人从遥控作业走向自主运行，感知成为绕不过去的一道门槛。 Fortune Business Insights数据显示，2025年全球水下/海洋机器人市场规模约58.2亿美元，预计2034年增长至196.6亿美元。但相比陆地机器人，水下环境对常见传感器并不友好：水体中的颗…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-18",
+      "link": "https://36kr.com/p/3943789702036611?f=rss"
+    },
+    {
+      "id": "ai-12",
       "slug": "fde-20260818-a7fcd851",
       "title": {
         "zh": "OpenAI总裁回应高管流失潮：并非十分反常",
@@ -1763,7 +2034,7 @@
       "link": "https://36kr.com/newsflashes/3944221563763845?f=rss"
     },
     {
-      "id": "ai-1",
+      "id": "ai-13",
       "slug": "fde-20260818-d25921e8",
       "title": {
         "zh": "英伟达为OpenAI俄亥俄州AI数据中心提供最高1050亿美元担保",
@@ -1785,7 +2056,7 @@
       "link": "https://36kr.com/newsflashes/3944219159281028?f=rss"
     },
     {
-      "id": "ai-2",
+      "id": "ai-14",
       "slug": "fde-20260818-75875f93",
       "title": {
         "zh": "软银向建筑机器人公司Gravis Robotics投资2亿美元",
@@ -1807,7 +2078,7 @@
       "link": "https://36kr.com/newsflashes/3944217400393088?f=rss"
     },
     {
-      "id": "ai-3",
+      "id": "ai-15",
       "slug": "fde-20260818-f5dafd8a",
       "title": {
         "zh": "Anthropic在IPO之前的年化营收突破650亿美元",
@@ -1829,7 +2100,7 @@
       "link": "https://36kr.com/newsflashes/3944249114492296?f=rss"
     },
     {
-      "id": "ai-4",
+      "id": "ai-16",
       "slug": "fde-20260818-ba2e8b24",
       "title": {
         "zh": "美国投资级债券8月发行创历年同月新高，AI基建推动企业举债",
@@ -1851,7 +2122,7 @@
       "link": "https://36kr.com/newsflashes/3944224336346503?f=rss"
     },
     {
-      "id": "ai-5",
+      "id": "ai-17",
       "slug": "fde-20260818-85ce0c2a",
       "title": {
         "zh": "地球本身可作为行星尺度暗物质探测器",
@@ -1873,7 +2144,7 @@
       "link": "https://36kr.com/newsflashes/3944243857112451?f=rss"
     },
     {
-      "id": "ai-6",
+      "id": "ai-18",
       "slug": "fde-20260817-74e65df5",
       "title": {
         "zh": "硬氪首发 | 机器人力传感器企业完成数亿元D轮融资，广汽领投、红杉押注，市占率超70%",
@@ -1895,7 +2166,7 @@
       "link": "https://36kr.com/p/3943183864560776?f=rss"
     },
     {
-      "id": "ai-7",
+      "id": "ai-19",
       "slug": "fde-20260817-6ea1e1d4",
       "title": {
         "zh": "36氪首发 | 清北团队做工业功能涂层数字喷印，获五源、小米、蔚来资本等数亿融资",
@@ -1915,270 +2186,6 @@
       },
       "date": "2026-08-17",
       "link": "https://36kr.com/p/3943133334535300?f=rss"
-    },
-    {
-      "id": "ai-8",
-      "slug": "fde-20260817-9b712000",
-      "title": {
-        "zh": "科创板上市公司投资脑机接口，微灵医疗获超亿元融资 ｜36氪独家",
-        "en": ""
-      },
-      "summary": {
-        "zh": "文｜刘凌果 胡香赟 编辑｜海若镜 36氪独家获悉，医学脑机接口企业微灵医疗，近日完成超亿元人民币融资。本轮融资由君重资本领投,英诺特（688253.SH）作为该基金的核心产业出资人，募集资金将重点用于推进植入式脑机接口核心产品的临床验证，加快医疗器械注册申报进程，完善生产制造体系建设，并持续拓展面向神经功能修复领域的临床应用布局。此前，微灵医疗已获得高榕资本、生命园创投、鼎晖投资、力合科创等多家一线投资机构加持。 微灵医疗成立于2019…",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/p/3941648190242185?f=rss"
-    },
-    {
-      "id": "ai-9",
-      "slug": "fde-20260817-2382bd29",
-      "title": {
-        "zh": "Anthropic联合创始人承认人工智能正遭遇信任危机",
-        "en": ""
-      },
-      "summary": {
-        "zh": "Anthropic联合创始人兼首席执行官达里奥·阿莫代伊否认公众对人工智能普遍产生的末日感应由他负责，但他承认行业确实存在信任难题。他提到当下存在一种非此即彼的错误认知：一部分人认为监管会造成监管俘获、权力集中；另一部分人则认为广泛分发人工智能模型（包括开源模型）才是约束技术风险的最优路径。阿莫代伊指出，法院这类制度机构可以实现权力去中心化；同时他表示Anthropic支持相关政策：一方面约束前沿AI企业发展速度，另一方面为小型竞争对手…",
-        "en": ""
-      },
-      "category": {
-        "zh": "政策合规",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942802014256256?f=rss"
-    },
-    {
-      "id": "ai-10",
-      "slug": "fde-20260817-9f16d0e1",
-      "title": {
-        "zh": "招商证券：市场将更加聚焦于业绩主线的结构性机会",
-        "en": ""
-      },
-      "summary": {
-        "zh": "36氪获悉，招商证券发布研报指出，近期市场快速反弹后转为震荡，本质上是基于美联储TACO与非农、就业数据，交易宽松流动性与降息预期。对于市场而言，8月以来由宏微观流动性改善共振带来的风险偏好回升和市场系统性修复或已进入尾声，叠加中报业绩集中披露窗口临近，市场将更加聚焦于业绩主线的结构性机会。配置上建议沿科技创新+企业出海+传统低估值再平衡三线均衡布局，重点关注电子、电力设备、化学制药、有色金属、煤炭。",
-        "en": ""
-      },
-      "category": {
-        "zh": "资本动向",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942794603527561?f=rss"
-    },
-    {
-      "id": "ai-11",
-      "slug": "fde-20260817-f0f21fdf",
-      "title": {
-        "zh": "全球开源AI大洗牌，中国开源模型加速崛起",
-        "en": ""
-      },
-      "summary": {
-        "zh": "全球最大AI开源平台Hugging Face近日发布的最新观察报告显示，全球开源人工智能生态正在快速扩张，而中国模型正在成为其中的重要力量。Hugging Face的报告指出，2026年以来的大部分月份，中国AI企业发布的最大开源模型在参数规模上显著超越美国同行：中国模型的月度参数上限在7540亿至2.78万亿之间，而美国模型在同期多数月份则低于1300亿。不仅规模领先，中国模型在开放生态建设方面同样表现突出。Hugging Face的…",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942795773787527?f=rss"
-    },
-    {
-      "id": "ai-12",
-      "slug": "fde-20260817-1c7242ac",
-      "title": {
-        "zh": "传奇投资人Stanley Druckenmiller买入美国上市的中概股",
-        "en": ""
-      },
-      "summary": {
-        "zh": "华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。彭博对其主要投资平台Duquesne Family Office LLC最新的13F文件的分析发现，该家族办公室第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。汇总的数据显示，Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。（新浪财经）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942790755531905?f=rss"
-    },
-    {
-      "id": "ai-13",
-      "slug": "fde-20260817-607c457e",
-      "title": {
-        "zh": "A股年内94只新股上市，首日平均涨幅279.22%",
-        "en": ""
-      },
-      "summary": {
-        "zh": "近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。据Wind数据，年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。（证券时报）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942841138429064?f=rss"
-    },
-    {
-      "id": "ai-14",
-      "slug": "fde-20260817-3a917eb2",
-      "title": {
-        "zh": "北交所40份半年报出炉，超七成净利增长",
-        "en": ""
-      },
-      "summary": {
-        "zh": "根据Wind统计，截至8月15日，北交所共有40家上市公司披露了2026年半年报。整体来看，目前已披露半年报的企业中，30家企业实现净利润同比增长或扭亏为盈，占比75%；营业收入超1亿元的企业37家，其中超10亿元的企业共6家，分别为一诺威、安达科技、颖泰生物、欧伦电气、吉林碳谷和雷神科技。（中证报）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-17",
-      "link": "https://36kr.com/newsflashes/3942814809292162?f=rss"
-    },
-    {
-      "id": "ai-15",
-      "slug": "fde-20260816-72fe17f7",
-      "title": {
-        "zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-        "en": ""
-      },
-      "summary": {
-        "zh": "背后是四项关键能力",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "qbitai.com",
-        "en": ""
-      },
-      "date": "2026-08-16",
-      "link": "https://www.qbitai.com/2026/08/473972.html"
-    },
-    {
-      "id": "ai-16",
-      "slug": "fde-20260815-f0b689ad",
-      "title": {
-        "zh": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-        "en": ""
-      },
-      "summary": {
-        "zh": "理解大模型，无需再训练一个替代网络",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "qbitai.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://www.qbitai.com/2026/08/473876.html"
-    },
-    {
-      "id": "ai-17",
-      "slug": "fde-20260815-43437d1c",
-      "title": {
-        "zh": "联想集团刘军：AI PC国内市场销量占比过半",
-        "en": ""
-      },
-      "summary": {
-        "zh": "联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%，国内市场销量占笔记本电脑总销量的比例已突破50%。他透露，在技术侧，联想正全面升级端侧和边缘侧的算力，把Token生产更多留在本地，兼顾隐私与成本；在生态侧则加速引入Skills，增强天禧AI的L3级任务执行能力。（证券时报）",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://36kr.com/newsflashes/3940352545078405?f=rss"
-    },
-    {
-      "id": "ai-18",
-      "slug": "fde-20260815-cdd7b3d0",
-      "title": {
-        "zh": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
-        "en": ""
-      },
-      "summary": {
-        "zh": "36氪获悉，8月15日，阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "36kr.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://36kr.com/newsflashes/3940346809810055?f=rss"
-    },
-    {
-      "id": "ai-19",
-      "slug": "fde-20260815-5e6ab67b",
-      "title": {
-        "zh": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-        "en": ""
-      },
-      "summary": {
-        "zh": "推理能力还能自定义",
-        "en": ""
-      },
-      "category": {
-        "zh": "行业趋势",
-        "en": ""
-      },
-      "source": {
-        "zh": "qbitai.com",
-        "en": ""
-      },
-      "date": "2026-08-15",
-      "link": "https://www.qbitai.com/2026/08/473669.html"
     }
   ],
   "cities": [
@@ -2439,6 +2446,270 @@
   "aiFdeNewsEn": [
     {
       "id": "ai-0",
+      "slug": "fde-20260818-aafefef0",
+      "title": {
+        "zh": "",
+        "en": "Commerce AI is fragmenting. Here is why that matters."
+      },
+      "summary": {
+        "zh": "",
+        "en": "Presented by Rezolve Ai Enterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result o…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters"
+    },
+    {
+      "id": "ai-1",
+      "slug": "fde-20260818-66994921",
+      "title": {
+        "zh": "",
+        "en": "Google's AI can see your business data by default in Workspace - unless you disable it"
+      },
+      "summary": {
+        "zh": "",
+        "en": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/"
+    },
+    {
+      "id": "ai-2",
+      "slug": "fde-20260818-cdc5512f",
+      "title": {
+        "zh": "",
+        "en": "OpenAI launches a safer ChatGPT for teens — years after teens started using it"
+      },
+      "summary": {
+        "zh": "",
+        "en": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+    },
+    {
+      "id": "ai-3",
+      "slug": "fde-20260818-72b751b0",
+      "title": {
+        "zh": "",
+        "en": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower — even as trust in automated evaluation i…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one"
+    },
+    {
+      "id": "ai-4",
+      "slug": "fde-20260818-da24c8ce",
+      "title": {
+        "zh": "",
+        "en": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Enterprise teams running AI agents at scale are finding that a single model handles every task poorly — either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which pic…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x"
+    },
+    {
+      "id": "ai-5",
+      "slug": "fde-20260818-0b434f2a",
+      "title": {
+        "zh": "",
+        "en": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google. It was a 27-billion-parameter model fro…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required"
+    },
+    {
+      "id": "ai-6",
+      "slug": "fde-20260818-e5b8f3da",
+      "title": {
+        "zh": "",
+        "en": "Elon Musk broke the FAA — Palantir is picking up the pieces"
+      },
+      "summary": {
+        "zh": "",
+        "en": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspac…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir"
+    },
+    {
+      "id": "ai-7",
+      "slug": "fde-20260818-ca419dd8",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT is getting a dedicated mode for teens"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger us…"
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+    },
+    {
+      "id": "ai-8",
+      "slug": "fde-20260818-2974dfe1",
+      "title": {
+        "zh": "",
+        "en": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49352806 Points: 105 # Comments: 68"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-18",
+      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver"
+    },
+    {
+      "id": "ai-9",
+      "slug": "fde-20260818-93519f62",
+      "title": {
+        "zh": "",
+        "en": "Claude Code May–August 2026 weekly limits promotion"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 255 # Comments: 223"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-18",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
+    },
+    {
+      "id": "ai-10",
+      "slug": "fde-20260818-0fd77cd5",
+      "title": {
+        "zh": "",
+        "en": "Microsoft Copilot reveals secret input that allowed it to be hacked"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-08-18",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+    },
+    {
+      "id": "ai-11",
+      "slug": "fde-20260817-b50cdb6d",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s annualized revenue surges to $65B"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The model maker added $18 billion in annualized revenue in two months."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-17",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
+      "id": "ai-12",
       "slug": "fde-20260817-9244911c",
       "title": {
         "zh": "",
@@ -2460,7 +2731,7 @@
       "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/"
     },
     {
-      "id": "ai-1",
+      "id": "ai-13",
       "slug": "fde-20260817-4e8b5510",
       "title": {
         "zh": "",
@@ -2482,7 +2753,7 @@
       "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer"
     },
     {
-      "id": "ai-2",
+      "id": "ai-14",
       "slug": "fde-20260817-6af5bd7e",
       "title": {
         "zh": "",
@@ -2504,7 +2775,7 @@
       "link": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/"
     },
     {
-      "id": "ai-3",
+      "id": "ai-15",
       "slug": "fde-20260817-788af52c",
       "title": {
         "zh": "",
@@ -2526,7 +2797,7 @@
       "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/"
     },
     {
-      "id": "ai-4",
+      "id": "ai-16",
       "slug": "fde-20260817-c29fb02f",
       "title": {
         "zh": "",
@@ -2548,7 +2819,7 @@
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
     },
     {
-      "id": "ai-5",
+      "id": "ai-17",
       "slug": "fde-20260817-a3ac92a1",
       "title": {
         "zh": "",
@@ -2570,7 +2841,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
     },
     {
-      "id": "ai-6",
+      "id": "ai-18",
       "slug": "fde-20260817-8c126ddc",
       "title": {
         "zh": "",
@@ -2592,7 +2863,7 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
     },
     {
-      "id": "ai-7",
+      "id": "ai-19",
       "slug": "fde-20260817-6465ab9b",
       "title": {
         "zh": "",
@@ -2612,270 +2883,6 @@
       },
       "date": "2026-08-17",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
-    {
-      "id": "ai-8",
-      "slug": "fde-20260817-0e599c68",
-      "title": {
-        "zh": "",
-        "en": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo:…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "hnrss.org"
-      },
-      "date": "2026-08-17",
-      "link": "https://speko.ai/"
-    },
-    {
-      "id": "ai-9",
-      "slug": "fde-20260817-51081c5d",
-      "title": {
-        "zh": "",
-        "en": "Amazon, which started off selling books, is destroying rare texts to train AI"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-17",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-    },
-    {
-      "id": "ai-10",
-      "slug": "fde-20260817-d3b72fb0",
-      "title": {
-        "zh": "",
-        "en": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one"
-      },
-      "summary": {
-        "zh": "",
-        "en": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening — not …"
-      },
-      "category": {
-        "zh": "",
-        "en": "Enterprise Adoption"
-      },
-      "source": {
-        "zh": "",
-        "en": "venturebeat.com"
-      },
-      "date": "2026-08-17",
-      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one"
-    },
-    {
-      "id": "ai-11",
-      "slug": "fde-20260816-c3fd9509",
-      "title": {
-        "zh": "",
-        "en": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context t…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "venturebeat.com"
-      },
-      "date": "2026-08-16",
-      "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm"
-    },
-    {
-      "id": "ai-12",
-      "slug": "fde-20260816-96edadf4",
-      "title": {
-        "zh": "",
-        "en": "ChatGPT’s Computer History tracks your clicks and keystrokes"
-      },
-      "summary": {
-        "zh": "",
-        "en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses yo…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "theverge.com"
-      },
-      "date": "2026-08-16",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-    },
-    {
-      "id": "ai-13",
-      "slug": "fde-20260816-1737d8fa",
-      "title": {
-        "zh": "",
-        "en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-16",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
-    },
-    {
-      "id": "ai-14",
-      "slug": "fde-20260816-27d4cf7a",
-      "title": {
-        "zh": "",
-        "en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "hnrss.org"
-      },
-      "date": "2026-08-16",
-      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-    },
-    {
-      "id": "ai-15",
-      "slug": "fde-20260816-c6314cb3",
-      "title": {
-        "zh": "",
-        "en": "Claude: System Prompts"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 494 # Comments: 211"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "hnrss.org"
-      },
-      "date": "2026-08-16",
-      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts"
-    },
-    {
-      "id": "ai-16",
-      "slug": "fde-20260816-1ea2ff05",
-      "title": {
-        "zh": "",
-        "en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7"
-      },
-      "category": {
-        "zh": "",
-        "en": "Capital & M&A"
-      },
-      "source": {
-        "zh": "",
-        "en": "hnrss.org"
-      },
-      "date": "2026-08-16",
-      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
-    },
-    {
-      "id": "ai-17",
-      "slug": "fde-20260816-60110410",
-      "title": {
-        "zh": "",
-        "en": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers"
-      },
-      "summary": {
-        "zh": "",
-        "en": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site tex…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "hnrss.org"
-      },
-      "date": "2026-08-16",
-      "link": "https://news.ycombinator.com/item?id=49322107"
-    },
-    {
-      "id": "ai-18",
-      "slug": "fde-20260816-82955cdc",
-      "title": {
-        "zh": "",
-        "en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
-      },
-      "summary": {
-        "zh": "",
-        "en": "OpenRouter's CEO recently described the startup as Stripe for AI."
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "techcrunch.com"
-      },
-      "date": "2026-08-16",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "id": "ai-19",
-      "slug": "fde-20260816-56011fe6",
-      "title": {
-        "zh": "",
-        "en": "OpenAI reportedly disbanded its preparedness team"
-      },
-      "summary": {
-        "zh": "",
-        "en": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (Y…"
-      },
-      "category": {
-        "zh": "",
-        "en": "Industry Trend"
-      },
-      "source": {
-        "zh": "",
-        "en": "theverge.com"
-      },
-      "date": "2026-08-16",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
     }
   ]
 }
