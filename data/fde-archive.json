@@ -1,7 +1,466 @@
 {
-  "updatedAt": "2026-08-20",
-  "total": 284,
+  "updatedAt": "2026-08-21",
+  "total": 301,
   "items": [
+    {
+      "slug": "fde-20260821-4e946a3f",
+      "lang": "zh",
+      "title": {
+        "zh": "机器人“大脑”加速进化，模型与数据成为产业竞争新焦点",
+        "en": ""
+      },
+      "summary": {
+        "zh": "过去，机器人大会上的“明星”往往是能够完成复杂动作的机器人本体。今年，产业关注点正在发生变化：从“机器人能做什么”，转向“机器人如何学会更多事情”。在2026世界机器人大会现场，越来越多企业展示的不再只是机器人行走、抓取、运动控制等单项能力，而是围绕具身智能模型、世界模型、数据采集、仿真训练等底层能力展开布局。机器人产业竞争正在从过去的硬件性能比拼，转向“模型+数据”的综合能力竞争。这一变化背后，是人工智能技术向物理世界加速延伸。业内人…",
+        "en": ""
+      },
+      "body": {
+        "zh": "过去，机器人大会上的“明星”往往是能够完成复杂动作的机器人本体。今年，产业关注点正在发生变化：从“机器人能做什么”，转向“机器人如何学会更多事情”。在2026世界机器人大会现场，越来越多企业展示的不再只是机器人行走、抓取、运动控制等单项能力，而是围绕具身智能模型、世界模型、数据采集、仿真训练等底层能力展开布局。机器人产业竞争正在从过去的硬件性能比拼，转向“模型+数据”的综合能力竞争。这一变化背后，是人工智能技术向物理世界加速延伸。业内人…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3948570144914565?f=rss",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260821-4494c510",
+      "lang": "zh",
+      "title": {
+        "zh": "中部地区增设先进计算创新平台",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月20日，由国家发展改革委批复建设的国家先进计算产业创新中心在安徽增设分中心。未来，安徽分中心将更好为中部地区的大科学装置集群、重大科研任务、人工智能应用等提供算力服务。本次是国家先进计算产业创新中心在中部地区进行系统化布局，推动国产算力在不同场景中的适配及规模应用，新一代智算超集群也同步启用。（央视新闻）",
+        "en": ""
+      },
+      "body": {
+        "zh": "8月20日，由国家发展改革委批复建设的国家先进计算产业创新中心在安徽增设分中心。未来，安徽分中心将更好为中部地区的大科学装置集群、重大科研任务、人工智能应用等提供算力服务。本次是国家先进计算产业创新中心在中部地区进行系统化布局，推动国产算力在不同场景中的适配及规模应用，新一代智算超集群也同步启用。（央视新闻）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3948565195177095?f=rss",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260821-c6aa00ad",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Slack wants to drag AI coding out of the terminal and into the group chat"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Slack wants to drag AI coding out of the terminal and into the group chat. The Salesforce-owned messaging platform today announced Slack Code , a new product that embeds AI coding agents — including Anthropic's Claude Co…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Slack wants to drag AI coding out of the terminal and into the group chat. The Salesforce-owned messaging platform today announced Slack Code , a new product that embeds AI coding agents — including Anthropic's Claude Co…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-30da4ae8",
+      "lang": "zh",
+      "title": {
+        "zh": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单",
+        "en": ""
+      },
+      "summary": {
+        "zh": "硬氪获悉，近日具身智能企业中科第五纪连续完成A1轮、A2轮融资，总融资金额超过十亿元。其中A1轮由锡高投、中国银行旗下中银AIC基金、三锋投资联合投资；A2轮由芯能创投、中银AIC基金、中山创投、鸿瑞达投资、博彦科技、金创投(浙江省新能源汽车子基金)联合投资。 中科第五纪成立于2024年，成立不到两年时间已完成数十亿融资。第五纪是一家头部的“具身大脑”公司，围绕具身操作大模型构建产品与解决方案。国内已服务中石化集团、零跑、国家电网等十余…",
+        "en": ""
+      },
+      "body": {
+        "zh": "硬氪获悉，近日具身智能企业中科第五纪连续完成A1轮、A2轮融资，总融资金额超过十亿元。其中A1轮由锡高投、中国银行旗下中银AIC基金、三锋投资联合投资；A2轮由芯能创投、中银AIC基金、中山创投、鸿瑞达投资、博彦科技、金创投(浙江省新能源汽车子基金)联合投资。 中科第五纪成立于2024年，成立不到两年时间已完成数十亿融资。第五纪是一家头部的“具身大脑”公司，围绕具身操作大模型构建产品与解决方案。国内已服务中石化集团、零跑、国家电网等十余…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/p/3947288204770693?f=rss",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-a0ecb83e",
+      "lang": "zh",
+      "title": {
+        "zh": "最前线｜拓竹启动消费级UV打印机项目，已开放首批研发岗位",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文｜张子怡 编辑｜袁斯来 36氪获悉，拓竹科技已启动消费级UV打印机项目，首批研发岗位近期已上线招聘。 8月19日，拓竹科技确认，公司已经启动消费级UV打印机项目。接近拓竹的知情人士称，目前项目已规划十余个岗位方向，覆盖喷头驱动、波形与墨路、材料验证以及软件协同等研发环节。 目前，拓竹官网已经开放UV打印技术专家、FPGA开发工程师、喷墨控制工程师、机械结构工程师（墨路系统）等岗位。从招聘要求来看，部分岗位要求候选人具备Epson、Ri…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文｜张子怡 编辑｜袁斯来 36氪获悉，拓竹科技已启动消费级UV打印机项目，首批研发岗位近期已上线招聘。 8月19日，拓竹科技确认，公司已经启动消费级UV打印机项目。接近拓竹的知情人士称，目前项目已规划十余个岗位方向，覆盖喷头驱动、波形与墨路、材料验证以及软件协同等研发环节。 目前，拓竹官网已经开放UV打印技术专家、FPGA开发工程师、喷墨控制工程师、机械结构工程师（墨路系统）等岗位。从招聘要求来看，部分岗位要求候选人具备Epson、Ri…",
+        "en": ""
+      },
+      "category": {
+        "zh": "人才市场",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/p/3947546313374851?f=rss",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-bd900f61",
+      "lang": "zh",
+      "title": {
+        "zh": "一年四轮融资近10亿，这家中性原子量子公司具备超千比特规模整机交付能力丨36氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "原子矩阵自主研发的中性原子量子计算机局部细节图（图源/企业） 本文约 3500 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，杭州原子矩阵计算有限公司（MatriQ，下称“原子矩阵”）宣布完成数亿元人民币A+轮融资。本轮由云锋基金、三七互娱、普华资本、财通资本、上海半导体产投、唐兴资本、博睿资本、合创资本、海邦投资等多家机构联合投资，老股东民银国际持续加注，融资阵容覆盖头部财务投资机构、产业资本与国有资本。 至此，原子矩阵…",
+        "en": ""
+      },
+      "body": {
+        "zh": "原子矩阵自主研发的中性原子量子计算机局部细节图（图源/企业） 本文约 3500 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，杭州原子矩阵计算有限公司（MatriQ，下称“原子矩阵”）宣布完成数亿元人民币A+轮融资。本轮由云锋基金、三七互娱、普华资本、财通资本、上海半导体产投、唐兴资本、博睿资本、合创资本、海邦投资等多家机构联合投资，老股东民银国际持续加注，融资阵容覆盖头部财务投资机构、产业资本与国有资本。 至此，原子矩阵…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-20",
+      "link": "https://36kr.com/p/3946560900185480?f=rss",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-07781772",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI is gaining on Anthropic with business users, new data indicates"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+      },
+      "body": {
+        "zh": "",
+        "en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-23e00bcd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds"
+      },
+      "summary": {
+        "zh": "",
+        "en": "ChatGPT and other AI models are now authoring and editing much of the new web."
+      },
+      "body": {
+        "zh": "",
+        "en": "ChatGPT and other AI models are now authoring and editing much of the new web."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-963b73cc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "One in five enterprises can't stop a runaway AI agent's spending in real time"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, accordin…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, accordin…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-ab3779e5",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems. Now NanoCo ., the comp…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems. Now NanoCo ., the comp…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-2001188e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Binance now lets AI agents trade, but keeping them in check is largely up to users"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
+      },
+      "body": {
+        "zh": "",
+        "en": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-8a429cc4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Vomit: Clean up Claude 5's token output with a separate LLM"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 191 # Comments: 202"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 191 # Comments: 202"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-20",
+      "link": "https://github.com/zachahn/vomit",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-09f98828",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Hacking with Claude on a $27 smart watch"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 85 # Comments: 46"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html Comments URL: https://news.ycombinator.com/item?id=49374772 Points: 85 # Comments: 46"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-20",
+      "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-974404bd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT can now send texts for you with new Apple Messages plug-in"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+      },
+      "body": {
+        "zh": "",
+        "en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-9e521ffb",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Ramp launches its own AI model router, called Router"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+      },
+      "body": {
+        "zh": "",
+        "en": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-0ad78e3d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Serval is making Catalyst , its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and the…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Serval is making Catalyst , its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and the…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-61584f97",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Grok exfiltrates user data when malicious instructions are encrypted"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      },
+      "body": {
+        "zh": "",
+        "en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "archivedAt": "2026-08-21"
+    },
     {
       "slug": "fde-20260820-e376c863",
       "lang": "zh",
