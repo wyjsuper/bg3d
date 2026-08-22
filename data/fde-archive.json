@@ -1,7 +1,628 @@
 {
-  "updatedAt": "2026-08-21",
-  "total": 301,
+  "updatedAt": "2026-08-22",
+  "total": 325,
   "items": [
+    {
+      "slug": "fde-20260821-9ec1e031",
+      "lang": "zh",
+      "title": {
+        "zh": "日本最年轻华人终身教授创业AI+新材料，自研200+物理模型，研发周期缩至两月丨36氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "图源/企业 本文约 2800 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，AI+新材料科技企业——苏州材科源图科技有限公司（MatSource，以下简称“材科源图”）宣布，近三个月内连续完成两轮超亿元天使轮系列融资。 前轮融资由苏高新、硅港资本、合肥原初陆号、上海远鼓参投，老股东亿合、清新资本追投；新一轮融资由经纬创投领投，苏创投及老股东中科创星、硅港资本持续追投。融资资金将重点用于深化“数据—物理模型—AI智能体—自动…",
+        "en": ""
+      },
+      "body": {
+        "zh": "图源/企业 本文约 2800 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，AI+新材料科技企业——苏州材科源图科技有限公司（MatSource，以下简称“材科源图”）宣布，近三个月内连续完成两轮超亿元天使轮系列融资。 前轮融资由苏高新、硅港资本、合肥原初陆号、上海远鼓参投，老股东亿合、清新资本追投；新一轮融资由经纬创投领投，苏创投及老股东中科创星、硅港资本持续追投。融资资金将重点用于深化“数据—物理模型—AI智能体—自动…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3949036757155202?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-1e6e9cb0",
+      "lang": "zh",
+      "title": {
+        "zh": "WPS Comate百城AI智能体赋能计划正式启动",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，8月21日，“WPS Comate百城AI智能体赋能计划”正式启动。该计划由金山办公联合各地国资委、大数据局、经信局、金融监管机构及其下辖的数字科技公司、行业协会等，面向企业数字化及AI业务负责人开设专项培训，通过产品培训加AI演练的模式，助力企业AI规模化落地。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，8月21日，“WPS Comate百城AI智能体赋能计划”正式启动。该计划由金山办公联合各地国资委、大数据局、经信局、金融监管机构及其下辖的数字科技公司、行业协会等，面向企业数字化及AI业务负责人开设专项培训，通过产品培训加AI演练的模式，助力企业AI规模化落地。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949280883719558?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-408ab46b",
+      "lang": "zh",
+      "title": {
+        "zh": "超算互联网发布科学智能体共创计划阶段成果：已汇聚智能体500余个",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，曙光智算副总裁兼首席技术官吕灼恒在2026科学智能大会上透露，国家超算互联网自7月发布“科学计算智能体生态共创与开发者招募合作计划”以来，已吸引近300名来自高校、科研院所、企业及个人开发者加入。目前超算互联网已汇聚技能17000余项、MCP工具13000余项、知识库1000余个、智能体500余个，覆盖生物信息、材料计算等100余个核心科研场景，并依托“超智融合”“智能体协同”等技术架构，提供低代码开发环境，形成“模型+技能…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，曙光智算副总裁兼首席技术官吕灼恒在2026科学智能大会上透露，国家超算互联网自7月发布“科学计算智能体生态共创与开发者招募合作计划”以来，已吸引近300名来自高校、科研院所、企业及个人开发者加入。目前超算互联网已汇聚技能17000余项、MCP工具13000余项、知识库1000余个、智能体500余个，覆盖生物信息、材料计算等100余个核心科研场景，并依托“超智融合”“智能体协同”等技术架构，提供低代码开发环境，形成“模型+技能…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949260212976777?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-b8ac11b0",
+      "lang": "zh",
+      "title": {
+        "zh": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+        "en": ""
+      },
+      "summary": {
+        "zh": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+        "en": ""
+      },
+      "body": {
+        "zh": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://www.qbitai.com/2026/08/476733.html",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-e1115682",
+      "lang": "zh",
+      "title": {
+        "zh": "李强主持召开国务院常务会议",
+        "en": ""
+      },
+      "summary": {
+        "zh": "国务院总理李强8月21日主持召开国务院常务会议，听取新一代通信网建设情况汇报，部署进一步清理拖欠企业账款工作，研究持续改善空气质量有关工作，审议通过《电力安全事故应急处置和调查处理条例（修订草案）》和《市场监督管理所条例（草案）》。（央视新闻）",
+        "en": ""
+      },
+      "body": {
+        "zh": "国务院总理李强8月21日主持召开国务院常务会议，听取新一代通信网建设情况汇报，部署进一步清理拖欠企业账款工作，研究持续改善空气质量有关工作，审议通过《电力安全事故应急处置和调查处理条例（修订草案）》和《市场监督管理所条例（草案）》。（央视新闻）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949269200584071?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-880403c9",
+      "lang": "zh",
+      "title": {
+        "zh": "卫星终端量产、数据平台开放，「天行探索」完成数千万天使+轮融资｜36氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，卫星互联网连接与数据服务提供商北京天行探索科技有限公司（以下简称“天行探索”） 已完成数千万天使+轮融资，由陆石投资和梅花创投共同出资。这也是陆石投资继天使轮独家投资后的连续加注。 本轮资金将主要用于产品研发与生产，以及多体制融合中试平台和软件平台的搭建，重点强化团队设计、开发、测试三个环节的能力。 天行探索成立于2025年4月，是36氪长期关注的企业。创始人告诉36氪，公司 高轨高通量和低轨物联网终端均已进入批量生产和销售…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，卫星互联网连接与数据服务提供商北京天行探索科技有限公司（以下简称“天行探索”） 已完成数千万天使+轮融资，由陆石投资和梅花创投共同出资。这也是陆石投资继天使轮独家投资后的连续加注。 本轮资金将主要用于产品研发与生产，以及多体制融合中试平台和软件平台的搭建，重点强化团队设计、开发、测试三个环节的能力。 天行探索成立于2025年4月，是36氪长期关注的企业。创始人告诉36氪，公司 高轨高通量和低轨物联网终端均已进入批量生产和销售…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3948924484107395?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-04ef56e8",
+      "lang": "zh",
+      "title": {
+        "zh": "热门中概股美股盘前多数上涨，网易涨超7%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，网易涨超7%，百度涨超3%，爱奇艺、哔哩哔哩、小鹏集团、富途控股涨超2%，老虎证券、蔚来、理想汽车涨超1%；阿里巴巴跌近3%，微博跌0.14%。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，网易涨超7%，百度涨超3%，爱奇艺、哔哩哔哩、小鹏集团、富途控股涨超2%，老虎证券、蔚来、理想汽车涨超1%；阿里巴巴跌近3%，微博跌0.14%。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949279081774213?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-d4eaaad2",
+      "lang": "zh",
+      "title": {
+        "zh": "涉及百余家机构千余只产品，第三批公募业绩基准调整落地",
+        "en": ""
+      },
+      "summary": {
+        "zh": "公募基金第三批业绩比较基准调整落地。近日，百余家基金公司按照统一部署同步发布公告，完成旗下千余只产品存量基金业绩比较基准调整，以及基金合同等法律文件的修订工作。本次第三批调整覆盖主动权益、固收、固收+、FOF、QDII等多品类，延续前两批改革实践，基准设置进一步贴合产品合同定位与历史实际运作特征。业内人士指出，前两批调整期间市场运行平稳，充分验证“调基准不等于调仓”的核心原则：调整业绩比较基准，是修订合同当中的业绩评价参照标准，不属于投…",
+        "en": ""
+      },
+      "body": {
+        "zh": "公募基金第三批业绩比较基准调整落地。近日，百余家基金公司按照统一部署同步发布公告，完成旗下千余只产品存量基金业绩比较基准调整，以及基金合同等法律文件的修订工作。本次第三批调整覆盖主动权益、固收、固收+、FOF、QDII等多品类，延续前两批改革实践，基准设置进一步贴合产品合同定位与历史实际运作特征。业内人士指出，前两批调整期间市场运行平稳，充分验证“调基准不等于调仓”的核心原则：调整业绩比较基准，是修订合同当中的业绩评价参照标准，不属于投…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949223567408256?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-659cb215",
+      "lang": "zh",
+      "title": {
+        "zh": "专访任利锋：那个曾做出抖音的人，如今在工厂里做AI",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文｜温丽虹 编辑｜张雨忻 位于北京海淀的互联网金融中心，任利锋创办的“数美万物”在这里有3个办公地点。其中的一间不是办公室而是实验室，他们采购来市面上主流的3D打印机，在实验室桌面上次第排开，每天打印自研生成式3D模型生成的东西。经自研模型Hi3D生成的图纸打印出的实物有没有破面或其它瑕疵，又如何改进、修补，都在这间屋内见分晓。 8月中旬，“数美万物”自研的Hi3D V3.0模型走入公开发布前的最后阶段。随着团队每天的调试与讨论，测试打…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文｜温丽虹 编辑｜张雨忻 位于北京海淀的互联网金融中心，任利锋创办的“数美万物”在这里有3个办公地点。其中的一间不是办公室而是实验室，他们采购来市面上主流的3D打印机，在实验室桌面上次第排开，每天打印自研生成式3D模型生成的东西。经自研模型Hi3D生成的图纸打印出的实物有没有破面或其它瑕疵，又如何改进、修补，都在这间屋内见分晓。 8月中旬，“数美万物”自研的Hi3D V3.0模型走入公开发布前的最后阶段。随着团队每天的调试与讨论，测试打…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3948773732728195?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-2cc2dd7c",
+      "lang": "zh",
+      "title": {
+        "zh": "《促进网信企业高质量发展行动计划（2026-2030年）》发布",
+        "en": ""
+      },
+      "summary": {
+        "zh": "近日，中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》（以下简称《行动计划》），深入贯彻党中央关于网络强国建设和“十五五”时期网信工作有关部署，促进网信企业高质量发展。《行动计划》提出，以网络信息技术为核心驱动力、以网络安全和信息化为主要业务的网信企业是网络强国建设的重要力量，对培育发展新质生产力、巩固提升国际竞争力具有关键作用。《行动计划》提出坚持鼓励支持和规范发展并行、政策引导和依法管理并举、…",
+        "en": ""
+      },
+      "body": {
+        "zh": "近日，中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》（以下简称《行动计划》），深入贯彻党中央关于网络强国建设和“十五五”时期网信工作有关部署，促进网信企业高质量发展。《行动计划》提出，以网络信息技术为核心驱动力、以网络安全和信息化为主要业务的网信企业是网络强国建设的重要力量，对培育发展新质生产力、巩固提升国际竞争力具有关键作用。《行动计划》提出坚持鼓励支持和规范发展并行、政策引导和依法管理并举、…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/newsflashes/3949240235965833?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-a154c193",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪2024年度中国最具影响力产业投资暨十大领域年度名册｜正式发布",
+        "en": ""
+      },
+      "summary": {
+        "zh": "向内求。 出品｜ 36氪创投研究院 2024年，全球经济格局正在经历深刻调整，世界产业链的格局也在急剧转变中。在环境变革的持续影响下，中国风险投资乃至整个金融市场，都处在一个漫长的调整期。 这一点，从募资、退出数据上就可见端倪：2024上半年新募集基金数量和募资规模均大幅下降，分别接近50%和23%，且其中大笔基金来源以国资、地方政府、产业龙头为主，携带着精准服务区域招商引资、严格把控风险、支持中小企业和科技创新发展等要求。 退出难度也…",
+        "en": ""
+      },
+      "body": {
+        "zh": "向内求。 出品｜ 36氪创投研究院 2024年，全球经济格局正在经历深刻调整，世界产业链的格局也在急剧转变中。在环境变革的持续影响下，中国风险投资乃至整个金融市场，都处在一个漫长的调整期。 这一点，从募资、退出数据上就可见端倪：2024上半年新募集基金数量和募资规模均大幅下降，分别接近50%和23%，且其中大笔基金来源以国资、地方政府、产业龙头为主，携带着精准服务区域招商引资、严格把控风险、支持中小企业和科技创新发展等要求。 退出难度也…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3949029563677824?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-05721858",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪2024年度中国股权投资机构年度名册｜正式发布",
+        "en": ""
+      },
+      "summary": {
+        "zh": "选择之年。 2024年，中国股权投资市场已然进入新周期，市场参与者们也做出了自己的选择。一部分投资机构将搜索的目光置于全球，而一部分则坚守在本土市场。 在本土市场中，国有资本和产业资本占据市场主要地位，尤其在半导体芯片、新材料、新能源和制造等硬科技领域。随着一级市场退出需求的持续加剧，IPO、并购和股权转让等多种退出方式并存，产业整合与赋能成为市场关注重点，新一轮退出周期加速推进。 在此历史时刻，36氪将两大榜单IP“最受创业者欢迎投资…",
+        "en": ""
+      },
+      "body": {
+        "zh": "选择之年。 2024年，中国股权投资市场已然进入新周期，市场参与者们也做出了自己的选择。一部分投资机构将搜索的目光置于全球，而一部分则坚守在本土市场。 在本土市场中，国有资本和产业资本占据市场主要地位，尤其在半导体芯片、新材料、新能源和制造等硬科技领域。随着一级市场退出需求的持续加剧，IPO、并购和股权转让等多种退出方式并存，产业整合与赋能成为市场关注重点，新一轮退出周期加速推进。 在此历史时刻，36氪将两大榜单IP“最受创业者欢迎投资…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3949025253309833?f=rss",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-7942574f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia just showed that the harness, not the AI model, is now the real hero"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+      },
+      "body": {
+        "zh": "",
+        "en": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-1ec3136d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia finds that simple linear math can replace costly AI model handoffs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs an…"
+      },
+      "body": {
+        "zh": "",
+        "en": "When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs an…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-6e8e0185",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 73 # Comments: 48"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49390463 Points: 73 # Comments: 48"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-edb2b13a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claudette: Make Claude stop talking like a BuzzFeed article"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 170 # Comments: 125"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 170 # Comments: 125"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-122c30ef",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s Opus 4.6 is a smut-machine"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-eb3bc5ed",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon."
+      },
+      "body": {
+        "zh": "",
+        "en": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-6b889a33",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0"
+      },
+      "category": {
+        "zh": "",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-f0d45eb0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0"
+      },
+      "category": {
+        "zh": "",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-3642cf34",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful"
+      },
+      "summary": {
+        "zh": "",
+        "en": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others."
+      },
+      "body": {
+        "zh": "",
+        "en": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-82e5d352",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Starcloud raises $250 million for orbital data centers as launch options dry up"
+      },
+      "summary": {
+        "zh": "",
+        "en": "There's about to be a big fight to secure access to space."
+      },
+      "body": {
+        "zh": "",
+        "en": "There's about to be a big fight to secure access to space."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "archivedAt": "2026-08-22"
+    },
+    {
+      "slug": "fde-20260821-e50b0540",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      },
+      "body": {
+        "zh": "",
+        "en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "archivedAt": "2026-08-22"
+    },
     {
       "slug": "fde-20260821-4e946a3f",
       "lang": "zh",
@@ -82,6 +703,33 @@
       "date": "2026-08-21",
       "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
       "archivedAt": "2026-08-21"
+    },
+    {
+      "slug": "fde-20260820-70fa93d7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Slack is launching collaborative vibe-coding channels"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels …"
+      },
+      "body": {
+        "zh": "",
+        "en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-08-20",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "archivedAt": "2026-08-22"
     },
     {
       "slug": "fde-20260820-30da4ae8",
