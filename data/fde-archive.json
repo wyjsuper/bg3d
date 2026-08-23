@@ -1,7 +1,520 @@
 {
-  "updatedAt": "2026-08-22",
-  "total": 325,
+  "updatedAt": "2026-08-23",
+  "total": 344,
   "items": [
+    {
+      "slug": "fde-20260822-a2d580a6",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI将GPT-5.6 Sol模型API定价下调两成以上",
+        "en": ""
+      },
+      "summary": {
+        "zh": "当地时间8月21日，OpenAI官方在其开发者社区公告称，GPT-5.6 Sol模型API和积分定价将在未来3个月内下调20%以上。现已通过API提供，并逐步向符合条件的ChatGPT Work和Codex积分套餐开放。Pro、Plus 和 Business 订阅用户的使用价格保持不变。（界面新闻）",
+        "en": ""
+      },
+      "body": {
+        "zh": "当地时间8月21日，OpenAI官方在其开发者社区公告称，GPT-5.6 Sol模型API和积分定价将在未来3个月内下调20%以上。现已通过API提供，并逐步向符合条件的ChatGPT Work和Codex积分套餐开放。Pro、Plus 和 Business 订阅用户的使用价格保持不变。（界面新闻）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://36kr.com/newsflashes/3950062675377280?f=rss",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-39da9da8",
+      "lang": "zh",
+      "title": {
+        "zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+        "en": ""
+      },
+      "summary": {
+        "zh": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+        "en": ""
+      },
+      "body": {
+        "zh": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://www.qbitai.com/2026/08/477253.html",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-47098eba",
+      "lang": "zh",
+      "title": {
+        "zh": "都是谁在买WRC上的机器人啊！",
+        "en": ""
+      },
+      "summary": {
+        "zh": "撰文 | 刘思洁 刘孜妍 刘辰艺 编辑 | 张薇 头图设计 | 曲枚 做爆米花、打冰淇淋，机器人偶尔会出错，但没关系，一旁有工作人员协助。 在世界机器人大会现场，跨维智能的人形机器人，在一个便利店的模拟场景里“施展拳脚”。 这款机器人去年9月开始销售，早期不好卖，直到硬件迭代、成本下降，销售情况才有所改善，目前总出货量三十多台。买方有景区便利店，也有政府开办的数据采集中心。这些机器人被用来采集真机操作数据，采集来的数据则被用于模型的后训…",
+        "en": ""
+      },
+      "body": {
+        "zh": "撰文 | 刘思洁 刘孜妍 刘辰艺 编辑 | 张薇 头图设计 | 曲枚 做爆米花、打冰淇淋，机器人偶尔会出错，但没关系，一旁有工作人员协助。 在世界机器人大会现场，跨维智能的人形机器人，在一个便利店的模拟场景里“施展拳脚”。 这款机器人去年9月开始销售，早期不好卖，直到硬件迭代、成本下降，销售情况才有所改善，目前总出货量三十多台。买方有景区便利店，也有政府开办的数据采集中心。这些机器人被用来采集真机操作数据，采集来的数据则被用于模型的后训…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://36kr.com/p/3950374720306563?f=rss",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-ffe9073f",
+      "lang": "zh",
+      "title": {
+        "zh": "科大讯飞与中国药科大学签署战略合作协议",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据科大讯飞消息，近日，中国药科大学与科大讯飞正式签署战略合作协议。此次战略合作签约是科大讯飞以人工智能核心技术赋能生物医药产业的重要实践。未来，科大讯飞将与中国药科大学深化产学研合作，细化合作清单、落地专项项目，共同打造“人工智能+医药”产教融合标杆，为生物医药产业高质量发展注入新动能。（证券时报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "据科大讯飞消息，近日，中国药科大学与科大讯飞正式签署战略合作协议。此次战略合作签约是科大讯飞以人工智能核心技术赋能生物医药产业的重要实践。未来，科大讯飞将与中国药科大学深化产学研合作，细化合作清单、落地专项项目，共同打造“人工智能+医药”产教融合标杆，为生物医药产业高质量发展注入新动能。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://36kr.com/newsflashes/3950179929210248?f=rss",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-c6207ec7",
+      "lang": "zh",
+      "title": {
+        "zh": "钱大妈递表港交所，全国门店超3000家",
+        "en": ""
+      },
+      "summary": {
+        "zh": "8月21日，社区连锁生鲜企业钱大妈国际控股有限公司向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。截至2026年7月31日，全国门店达3020家。2026年上半年加盟门店日均客数近600人次，较2023年提升近6%，经营活力持续释放。",
+        "en": ""
+      },
+      "body": {
+        "zh": "8月21日，社区连锁生鲜企业钱大妈国际控股有限公司向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。截至2026年7月31日，全国门店达3020家。2026年上半年加盟门店日均客数近600人次，较2023年提升近6%，经营活力持续释放。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://36kr.com/newsflashes/3950092174802050?f=rss",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-c003d52c",
+      "lang": "zh",
+      "title": {
+        "zh": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "en": ""
+      },
+      "summary": {
+        "zh": "让具身智能技术真正落地千行万业。",
+        "en": ""
+      },
+      "body": {
+        "zh": "让具身智能技术真正落地千行万业。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-22",
+      "link": "https://www.qbitai.com/2026/08/476930.html",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-e5ae0006",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Enterprises winning with AI agents are limiting how much the agents can do alone"
+      },
+      "summary": {
+        "zh": "",
+        "en": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much ro…"
+      },
+      "body": {
+        "zh": "",
+        "en": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much ro…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-c4c98cbd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+      },
+      "body": {
+        "zh": "",
+        "en": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-4288c1fc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Why your local LLM feels dumber than it is"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 151 # Comments: 37"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 151 # Comments: 37"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-22",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-191b1ede",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Michael Polansky is training an AI model on skin that’s still alive"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside t…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside t…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-214fffef",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors"
+      },
+      "summary": {
+        "zh": "",
+        "en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+      },
+      "body": {
+        "zh": "",
+        "en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-bc7b27cb",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Frontier AI labs still won’t say how they’d contain a rogue model"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+      },
+      "body": {
+        "zh": "",
+        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260822-104b08ff",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
+      },
+      "body": {
+        "zh": "",
+        "en": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-bb5237d8",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪项目推荐周榜|第14期，本期热度TOP10",
+        "en": ""
+      },
+      "summary": {
+        "zh": "上周，AI的角色正在进一步变化。它不只是一种生成内容、回答问题的工具，也开始进入创业决策、工程设计、医疗协同、算力供给与文化资产管理等更复杂的产业场景。 本期项目推荐中，我们看到一批项目正在把智能能力放进具体流程：有人试图让创业判断更接近真实需求，有人解决工程设计中的交付一致性，也有人从补能、材料、增材制造等底层环节，为下一轮产业升级提供支撑。技术的价值，正在从“能做什么”转向“能否真正把一件事做得更好”。 项目推荐 36氪总结 每一个…",
+        "en": ""
+      },
+      "body": {
+        "zh": "上周，AI的角色正在进一步变化。它不只是一种生成内容、回答问题的工具，也开始进入创业决策、工程设计、医疗协同、算力供给与文化资产管理等更复杂的产业场景。 本期项目推荐中，我们看到一批项目正在把智能能力放进具体流程：有人试图让创业判断更接近真实需求，有人解决工程设计中的交付一致性，也有人从补能、材料、增材制造等底层环节，为下一轮产业升级提供支撑。技术的价值，正在从“能做什么”转向“能否真正把一件事做得更好”。 项目推荐 36氪总结 每一个…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-21",
+      "link": "https://36kr.com/p/3949071263562881?f=rss",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-8b8fc1ee",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "A week of using Codex more than Claude"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 112 # Comments: 110"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 112 # Comments: 110"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-cebd3697",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+      },
+      "summary": {
+        "zh": "",
+        "en": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie resear…"
+      },
+      "body": {
+        "zh": "",
+        "en": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie resear…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://ozbrain.com",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-94928d73",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "One night in Uzbekistan: Why was this one data point so influential?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=493…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=493…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-08-21",
+      "link": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-6a95f94d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia partners with data center developer Cloverleaf"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+      },
+      "body": {
+        "zh": "",
+        "en": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "archivedAt": "2026-08-23"
+    },
+    {
+      "slug": "fde-20260821-43b737bc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
+      },
+      "body": {
+        "zh": "",
+        "en": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-21",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "archivedAt": "2026-08-23"
+    },
     {
       "slug": "fde-20260821-9ec1e031",
       "lang": "zh",
