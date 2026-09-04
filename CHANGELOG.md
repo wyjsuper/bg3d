@@ -1,5 +1,32 @@
 # 更新日志
 
+## v20260904-1758 — 2026-09-04 17:58
+FDE 资讯网页端手动刷新（PHP 引擎 + API + 后台/地图页按钮）+ 自动上传 GitHub
+
+### 提交记录
+- release: v20260904-1758 — FDE 资讯网页端手动刷新（PHP 引擎 + API + 后台/地图页按钮）+ 自动上传 GitHub (5b2a183)
+- auto: FDE 每日更新与同步 2026-09-04 (cdaabb9)
+- feat: 新增 FDE 资讯网页端手动刷新（PHP 引擎 + API + 后台/地图页按钮） (b71d80b)
+- auto: 同步本地改动 2026-08-23 (dc25d7c)
+- auto: 同步本地改动 2026-08-22 (f5ac358)
+- auto: 同步本地改动 2026-08-21 (87dca31)
+
+### 变更文件
+```
+M	.gitignore
+D	.workbuddy/automations/automation-1786957034705/memory.md
+M	admin/index.php
+A	api/fde-refresh.php
+M	assets/js/admin.js
+D	data/content.json.bak
+M	data/fde-archive.json
+D	data/fde-archive.json.bak
+M	fde-map.php
+A	lib/fde_refresh.php
+M	lib/helpers.php
+```
+
+---
 ## v20260820-0847 — 2026-08-20 08:47
 
 ### 提交记录
