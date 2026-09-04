@@ -1,7 +1,898 @@
 {
-  "updatedAt": "2026-08-23",
-  "total": 344,
+  "updatedAt": "2026-09-04",
+  "total": 377,
   "items": [
+    {
+      "slug": "fde-20260904-21d66129",
+      "lang": "zh",
+      "title": {
+        "zh": "Agent做医生“首席助理”：看片速度快，人机协作仍是最优解",
+        "en": ""
+      },
+      "summary": {
+        "zh": "近日，第五届医学影像AI学术会议在上海举办。现场，一场公开的“人机读片大赛”成为会议讨论焦点。 在国内，AI医学影像企业一贯喜欢举办“人类VS人工智能”的读片大赛，展示自家AI的“判断力”。但这次，不同于行业常见的内部测评，会议主办方从各地三甲医院中征集了10份“令医生们觉得‘见所未见’”的真实影像病例，设置7类“医生+AI协作”或AI智能体独立写作的参赛组，由这些参赛选手们提前完成10份诊断报告撰写，再让医生专家现场打分，直观体现报告…",
+        "en": ""
+      },
+      "body": {
+        "zh": "近日，第五届医学影像AI学术会议在上海举办。现场，一场公开的“人机读片大赛”成为会议讨论焦点。 在国内，AI医学影像企业一贯喜欢举办“人类VS人工智能”的读片大赛，展示自家AI的“判断力”。但这次，不同于行业常见的内部测评，会议主办方从各地三甲医院中征集了10份“令医生们觉得‘见所未见’”的真实影像病例，设置7类“医生+AI协作”或AI智能体独立写作的参赛组，由这些参赛选手们提前完成10份诊断报告撰写，再让医生专家现场打分，直观体现报告…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/p/3968685170700801?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-ec36f260",
+      "lang": "zh",
+      "title": {
+        "zh": "持股市值超100亿，腾讯成燧原科技IPO最大赢家",
+        "en": ""
+      },
+      "summary": {
+        "zh": "随着国产云端AI芯片龙头燧原科技正式开启科创板新股申购，作为公司第一大外部股东的腾讯成为此次IPO最引人注目的赢家。腾讯不仅通过旗下平台在战略配售中拿出2.48亿元获配174.71万股，更在IPO前通过腾讯科技（上海）有限公司直接持有燧原科技7726.70万股、占比19.9493%，是燧原科技第一大外部股东；加之其一致行动人苏州湃益持股0.3087%，腾讯系发行前合计持股20.2580%，发行后约20.26%。按发行价计算，腾讯系持有燧…",
+        "en": ""
+      },
+      "body": {
+        "zh": "随着国产云端AI芯片龙头燧原科技正式开启科创板新股申购，作为公司第一大外部股东的腾讯成为此次IPO最引人注目的赢家。腾讯不仅通过旗下平台在战略配售中拿出2.48亿元获配174.71万股，更在IPO前通过腾讯科技（上海）有限公司直接持有燧原科技7726.70万股、占比19.9493%，是燧原科技第一大外部股东；加之其一致行动人苏州湃益持股0.3087%，腾讯系发行前合计持股20.2580%，发行后约20.26%。按发行价计算，腾讯系持有燧…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968838744814087?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-04ffaf07",
+      "lang": "zh",
+      "title": {
+        "zh": "恒生科技指数收涨2.27%，希音跌超9%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，恒生指数收涨1.74%，恒生科技指数收涨2.27%；科技股领涨，联想集团、美团涨超5%，百度集团涨超4%；传媒板块走强，凤凰卫视涨超11%，阅文集团涨超8%；半导体板块跌幅居前，华虹宏力跌超8%，天数智芯跌超4%；医疗设备板块下挫，天星医疗跌超8%，真健康医疗跌超7%；希音跌超9%，已连续四日下跌；南向资金净卖出100.21亿港元。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，恒生指数收涨1.74%，恒生科技指数收涨2.27%；科技股领涨，联想集团、美团涨超5%，百度集团涨超4%；传媒板块走强，凤凰卫视涨超11%，阅文集团涨超8%；半导体板块跌幅居前，华虹宏力跌超8%，天数智芯跌超4%；医疗设备板块下挫，天星医疗跌超8%，真健康医疗跌超7%；希音跌超9%，已连续四日下跌；南向资金净卖出100.21亿港元。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968818143818245?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-d707fb65",
+      "lang": "zh",
+      "title": {
+        "zh": "硬氪首发 | 解决钙钛矿材料涂布难题，中科院系企业完成数千万元Pre-A轮融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜乔钰杰 编辑｜袁斯来 本文1500字，预计阅读4分钟 硬氪获悉，钙钛矿太阳能电池企业长春日耀光电科技有限公司（以下简称“日耀光电”）完成数千万元Pre-A轮融资，由天津创业投资管理有限公司（天创资本）与吉林省科技投资基金有限公司（吉林省科投）联合出资。此前，公司曾获长兴基金数千万元天使轮独家投资。 日耀光电成立于2023年，依托中国科学院长春应用化学研究所秦川江研究员团队的研究成果创立，团队在Science、Nature等期刊累计…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜乔钰杰 编辑｜袁斯来 本文1500字，预计阅读4分钟 硬氪获悉，钙钛矿太阳能电池企业长春日耀光电科技有限公司（以下简称“日耀光电”）完成数千万元Pre-A轮融资，由天津创业投资管理有限公司（天创资本）与吉林省科技投资基金有限公司（吉林省科投）联合出资。此前，公司曾获长兴基金数千万元天使轮独家投资。 日耀光电成立于2023年，依托中国科学院长春应用化学研究所秦川江研究员团队的研究成果创立，团队在Science、Nature等期刊累计…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/p/3963287086496899?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-d1ed88c3",
+      "lang": "zh",
+      "title": {
+        "zh": "央行：实施好适度宽松的货币政策，稳妥化解重点领域风险",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，9月4日，中国人民银行召开党委扩大会议暨党建工作领导小组会议。会议要求，全系统要坚持以正确政绩观引领金融高质量发展，立足央行职能职责，坚持为人民出政绩、以实干出政绩，落实好“十五五”规划纲要各项任务，实施好适度宽松的货币政策，高质量推进金融“五篇大文章”，稳妥化解重点领域风险，稳步深化金融改革和对外开放，进一步提升金融管理和服务水平，确保党中央各项决策部署落地见效，努力创造更多经得起实践、人民、历史检验的实绩。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，9月4日，中国人民银行召开党委扩大会议暨党建工作领导小组会议。会议要求，全系统要坚持以正确政绩观引领金融高质量发展，立足央行职能职责，坚持为人民出政绩、以实干出政绩，落实好“十五五”规划纲要各项任务，实施好适度宽松的货币政策，高质量推进金融“五篇大文章”，稳妥化解重点领域风险，稳步深化金融改革和对外开放，进一步提升金融管理和服务水平，确保党中央各项决策部署落地见效，努力创造更多经得起实践、人民、历史检验的实绩。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968792339182080?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-27448755",
+      "lang": "zh",
+      "title": {
+        "zh": "万千气象北京行：感受经开区高端智造成果",
+        "en": ""
+      },
+      "summary": {
+        "zh": "9月3日上午，由中央网信办网络社会工作局、北京市委网信办主办，新京报贝壳财经承办的“中国式现代化的万千气象”网络名人北京行活动来到经开区。网络名人一行先后来到高级别自动驾驶示范区创新运营中心、小米汽车工厂、Robot Mall具神智能机器人4S店、北京人形机器人创新中心、火箭大街展厅。在这里，高端智造成果百花齐放，科技创新氛围浓厚。 智驾未来一路畅行 科技感十足的小型巴士在路间穿梭，定睛一看，车辆前方没有手握方向盘的司机 ——这是北京市…",
+        "en": ""
+      },
+      "body": {
+        "zh": "9月3日上午，由中央网信办网络社会工作局、北京市委网信办主办，新京报贝壳财经承办的“中国式现代化的万千气象”网络名人北京行活动来到经开区。网络名人一行先后来到高级别自动驾驶示范区创新运营中心、小米汽车工厂、Robot Mall具神智能机器人4S店、北京人形机器人创新中心、火箭大街展厅。在这里，高端智造成果百花齐放，科技创新氛围浓厚。 智驾未来一路畅行 科技感十足的小型巴士在路间穿梭，定睛一看，车辆前方没有手握方向盘的司机 ——这是北京市…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/p/3968317634900485?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-265ece0b",
+      "lang": "zh",
+      "title": {
+        "zh": "辛帕智能北交所IPO过会",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，北交所上市委员会召开2026年第82次审议会议。审议结果显示，上海辛帕智能科技股份有限公司符合发行条件、上市条件和信息披露要求。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，北交所上市委员会召开2026年第82次审议会议。审议结果显示，上海辛帕智能科技股份有限公司符合发行条件、上市条件和信息披露要求。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968804854673665?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-b3574ddb",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The sameness problem behind those unappetizing AI-generated menus"
+      },
+      "summary": {
+        "zh": "",
+        "en": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+      },
+      "body": {
+        "zh": "",
+        "en": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-13c8f93a",
+      "lang": "zh",
+      "title": {
+        "zh": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "en": ""
+      },
+      "summary": {
+        "zh": "全球最强C",
+        "en": ""
+      },
+      "body": {
+        "zh": "全球最强C",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-09-03",
+      "link": "https://www.qbitai.com/2026/09/483898.html",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-119c4414",
+      "lang": "zh",
+      "title": {
+        "zh": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+        "en": ""
+      },
+      "summary": {
+        "zh": "眼镜、耳机、麦克风都来了",
+        "en": ""
+      },
+      "body": {
+        "zh": "眼镜、耳机、麦克风都来了",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-09-03",
+      "link": "https://www.qbitai.com/2026/09/483786.html",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-5b85b07d",
+      "lang": "zh",
+      "title": {
+        "zh": "科氪｜2026 年上半年雷鸟创新包揽第一，雷鸟 iO 首销即爆款开启新增长曲线",
+        "en": ""
+      },
+      "summary": {
+        "zh": "近日，IDC、Counterpoint、CINNO、洛图科技、奥维云网等多家权威市场研究机构相继发布了 2026 年上半年 AR 眼镜与智能眼镜市场报告，雷鸟创新（RayNeo）以横扫之势，包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。 其中，IDC、Counterpoint 数据共同显示，上半年雷鸟创新以领先优势稳居全球 AR 眼镜出货量榜首，市场份额更高达 24.8% 。换言之，在全球范围内，每售出四台 AR 眼镜，就有一…",
+        "en": ""
+      },
+      "body": {
+        "zh": "近日，IDC、Counterpoint、CINNO、洛图科技、奥维云网等多家权威市场研究机构相继发布了 2026 年上半年 AR 眼镜与智能眼镜市场报告，雷鸟创新（RayNeo）以横扫之势，包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。 其中，IDC、Counterpoint 数据共同显示，上半年雷鸟创新以领先优势稳居全球 AR 眼镜出货量榜首，市场份额更高达 24.8% 。换言之，在全球范围内，每售出四台 AR 眼镜，就有一…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-03",
+      "link": "https://36kr.com/p/3967816023929097?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-d348bef9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Four major AI models suffer rare overlapping downtime"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
+      },
+      "body": {
+        "zh": "",
+        "en": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-fa18a847",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "ChatGPT, Grok, and Claude all went down at the same time"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying …"
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-fbebecf9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 211 # Comments: 97"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 211 # Comments: 97"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-03",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-aeaae4ac",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+      },
+      "summary": {
+        "zh": "",
+        "en": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and ship…"
+      },
+      "body": {
+        "zh": "",
+        "en": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and ship…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-03",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-49fefbbb",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google’s latest AI weather model gives you no excuse to forget your umbrella"
+      },
+      "summary": {
+        "zh": "",
+        "en": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
+      },
+      "body": {
+        "zh": "",
+        "en": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260902-6162a7ec",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "US government sides with OpenAI on issue of training LLMs on copyrighted material"
+      },
+      "summary": {
+        "zh": "",
+        "en": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
+      },
+      "body": {
+        "zh": "",
+        "en": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-02",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260902-ced56962",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
+      },
+      "body": {
+        "zh": "",
+        "en": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-02",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260902-caa54888",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling to…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling to…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-02",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260902-b32d2c11",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Wonderful more than doubles its valuation to $5B in under 6 months"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+      },
+      "body": {
+        "zh": "",
+        "en": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-02",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260902-679c1a87",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+      },
+      "body": {
+        "zh": "",
+        "en": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-09-02",
+      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260901-8e0f9799",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The latest AI news we announced in August 2026"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+      },
+      "body": {
+        "zh": "",
+        "en": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "blog.google"
+      },
+      "date": "2026-09-01",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260824-ca15c5dd",
+      "lang": "zh",
+      "title": {
+        "zh": "AI智能体能自主生成并运行量子计算代码",
+        "en": ""
+      },
+      "summary": {
+        "zh": "氛围编程（Vibe Coding）正从传统软件开发进入量子计算领域。据英国《自然》杂志日前消息，法国量子计算初创企业Pasqal研究人员开发出一种人工智能（AI）智能体，能根据英文自然语言指令生成量子计算代码，并自动在真实量子计算机上运行。研究人员表示，这种量子氛围编程有望降低量子计算实验的技术门槛，让更多人能够开展量子计算研究。（科技日报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "氛围编程（Vibe Coding）正从传统软件开发进入量子计算领域。据英国《自然》杂志日前消息，法国量子计算初创企业Pasqal研究人员开发出一种人工智能（AI）智能体，能根据英文自然语言指令生成量子计算代码，并自动在真实量子计算机上运行。研究人员表示，这种量子氛围编程有望降低量子计算实验的技术门槛，让更多人能够开展量子计算研究。（科技日报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-24",
+      "link": "https://36kr.com/newsflashes/3952708603362433?f=rss",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260824-14c0d601",
+      "lang": "zh",
+      "title": {
+        "zh": "Hugging Face据悉寻求出售，估值或超130亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据报道，AI初创公司Hugging Face正寻求出售，公司估值可能达到至少130亿美元。据悉，Hugging Face正与一家银行合作评估潜在买家意向。此前，Hugging Face在2023年的一轮融资中估值达到45亿美元，该轮融资由包括Salesforce、Alphabe、谷歌和英伟达在内的科技巨头领投。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "据报道，AI初创公司Hugging Face正寻求出售，公司估值可能达到至少130亿美元。据悉，Hugging Face正与一家银行合作评估潜在买家意向。此前，Hugging Face在2023年的一轮融资中估值达到45亿美元，该轮融资由包括Salesforce、Alphabe、谷歌和英伟达在内的科技巨头领投。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-24",
+      "link": "https://36kr.com/newsflashes/3952740352228744?f=rss",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260824-e9d867d2",
+      "lang": "zh",
+      "title": {
+        "zh": "年内A股新上市企业达百家，有96家属于战略性新兴产业",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Wind数据显示，按上市日期计算，截至8月21日，2026年以来A股新增IPO累计达100家，同比增长53.85%；合计首发募资总额约1884.70亿元，同比增长189.31%。从板块分布看，北交所新股上市数量占比过半，科创板新股募资规模接近总额一半。进一步看，前述100家企业中有96家属于战略性新兴产业，来自新一代信息技术产业、新材料产业、高端装备制造产业的分别有25家、20家、20家。（证券日报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "Wind数据显示，按上市日期计算，截至8月21日，2026年以来A股新增IPO累计达100家，同比增长53.85%；合计首发募资总额约1884.70亿元，同比增长189.31%。从板块分布看，北交所新股上市数量占比过半，科创板新股募资规模接近总额一半。进一步看，前述100家企业中有96家属于战略性新兴产业，来自新一代信息技术产业、新材料产业、高端装备制造产业的分别有25家、20家、20家。（证券日报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-24",
+      "link": "https://36kr.com/newsflashes/3952746585783425?f=rss",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260824-4c647b07",
+      "lang": "zh",
+      "title": {
+        "zh": "半年报业绩成调研“发令枪”，券商锚定主线布局下半场",
+        "en": ""
+      },
+      "summary": {
+        "zh": "随着A股半年报进入集中披露窗口期，上市公司经营成绩单成为券商机构调研的“发令枪”。Choice数据显示，近一个月内（7月23日至8月23日），137家券商累计调研402家A股上市公司。记者梳理发现，获调研企业大多具备扎实基本面与清晰的技术落地场景，调研过程中券商围绕业绩持续性、产能扩张、成果转化等关键问题深挖企业长期价值。（上证报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "随着A股半年报进入集中披露窗口期，上市公司经营成绩单成为券商机构调研的“发令枪”。Choice数据显示，近一个月内（7月23日至8月23日），137家券商累计调研402家A股上市公司。记者梳理发现，获调研企业大多具备扎实基本面与清晰的技术落地场景，调研过程中券商围绕业绩持续性、产能扩张、成果转化等关键问题深挖企业长期价值。（上证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-24",
+      "link": "https://36kr.com/newsflashes/3952724012973448?f=rss",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-7eb7526e",
+      "lang": "zh",
+      "title": {
+        "zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Tokenizer、视频编码、API报错全扒一遍",
+        "en": ""
+      },
+      "body": {
+        "zh": "Tokenizer、视频编码、API报错全扒一遍",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-08-23",
+      "link": "https://www.qbitai.com/2026/08/478191.html",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-52b4915c",
+      "lang": "zh",
+      "title": {
+        "zh": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企",
+        "en": ""
+      },
+      "summary": {
+        "zh": "中信证券研报认为，科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1)商业化的速率和空间是否跟得上市场预期；2)算力优势是不是带来份额和定价权优势；3)当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的…",
+        "en": ""
+      },
+      "body": {
+        "zh": "中信证券研报认为，科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1)商业化的速率和空间是否跟得上市场预期；2)算力优势是不是带来份额和定价权优势；3)当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-08-23",
+      "link": "https://36kr.com/newsflashes/3951906148072579?f=rss",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-479d28c4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Enterprise AI agents are only as reliable as the messiest documents behind them"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications.…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications.…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "venturebeat.com"
+      },
+      "date": "2026-08-23",
+      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-1414a8f5",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Who’s behind the new ‘stealth model’ Ox Alpha?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+      },
+      "body": {
+        "zh": "",
+        "en": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-23",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-892a9284",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Is it legal to train AI models on copyrighted books? It’s complicated"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+      },
+      "body": {
+        "zh": "",
+        "en": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-23",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260823-ea960be7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      },
+      "body": {
+        "zh": "",
+        "en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-08-23",
+      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "archivedAt": "2026-08-24"
+    },
+    {
+      "slug": "fde-20260822-a900437e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google's latest smartwatch costs the same as the previous generation for now, but the upgrade could be worth it for a certain user."
+      },
+      "body": {
+        "zh": "",
+        "en": "Google's latest smartwatch costs the same as the previous generation for now, but the upgrade could be worth it for a certain user."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-08-22",
+      "link": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
+      "archivedAt": "2026-08-24"
+    },
     {
       "slug": "fde-20260822-a2d580a6",
       "lang": "zh",

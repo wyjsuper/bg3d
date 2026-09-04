@@ -49,7 +49,18 @@ bg_admin_frame_start('工作台', '__dashboard__');
       </div>
       <?php echo bg_admin_icon('arrow-right', 16); ?>
     </button>
+
+    <button type="button" data-fde-refresh class="glass-panel group flex w-full items-center gap-4 p-5 text-left transition-all hover:-translate-y-0.5 hover:border-tech-blue/40 hover:shadow-lg hover:shadow-tech-blue/10">
+      <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-tech-blue/15 text-tech-cyan transition-colors group-hover:bg-tech-blue group-hover:text-white"><?php echo bg_admin_icon('refresh', 20); ?></span>
+      <div class="min-w-0 flex-1">
+        <p class="truncate text-sm font-semibold text-tech-ink">刷新 FDE 资讯</p>
+        <p class="text-xs text-tech-muted">手动拉取最近 3 天中/英文科技·AI 资讯</p>
+      </div>
+      <?php echo bg_admin_icon('arrow-right', 16); ?>
+    </button>
   </div>
+
+  <div id="fde-refresh-log" class="hidden rounded-md border px-3 py-2 text-sm"></div>
 
   <div class="glass-panel mt-8 border-dashed p-5 text-xs leading-relaxed text-tech-muted">
     说明：后台登录接入服务端校验（账号密码在 <code>lib/config.php</code>，默认 admin / admin123），会话以 HttpOnly 签名 Cookie 维持，守卫 <code>/admin</code> 与 <code>/api/content</code>。所有内容存储于 <code>data/content.json</code>，由后台修改并实时反映到前台页面。

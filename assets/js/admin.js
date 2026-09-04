@@ -427,6 +427,59 @@
     render();
   }
 
+  /* ============ FDE 资讯刷新 ============ */
+  function initFdeRefresh() {
+    var btn = document.querySelector("[data-fde-refresh]");
+    if (!btn) return;
+    var log = document.getElementById("fde-refresh-log");
+
+    function setLog(msg, isErr) {
+      if (!log) return;
+      log.className = "mt-4 rounded-md border px-3 py-2 text-sm " + (isErr
+        ? "border-red-500/30 bg-red-500/10 text-red-600"
+        : "border-green-500/30 bg-green-500/10 text-green-700");
+      log.innerHTML = msg;
+    }
+
+    btn.addEventListener("click", function () {
+      btn.disabled = true;
+      btn.style.opacity = "0.7";
+      if (log) {
+        log.className = "mt-4 rounded-md border border-blue-500/30 bg-blue-500/10 px-3 py-2 text-sm text-tech-ink";
+        log.textContent = "正在抓取 RSS 并写入归档…（最多约 1 分钟，请勿关闭页面）";
+      }
+      fetch(BG_BASE + "/api/fde-refresh.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ lang: "both", days: 3, cap: 12 })
+      })
+        .then(function (r) { return r.json().catch(function () { return {}; }); })
+        .then(function (d) {
+          btn.disabled = false; btn.style.opacity = "1";
+          if (!d || !d.ok) { setLog("刷新失败：" + esc(d.error || "未知错误"), true); return; }
+          var zh = (d.stats && d.stats.zh) ? d.stats.zh : {};
+          var en = (d.stats && d.stats.en) ? d.stats.en : {};
+          var html = "<b>刷新完成</b> · 新增 " + esc(d.added || 0) + " 条（中文 " + esc(zh.added || 0) + " / 英文 " + esc(en.added || 0) + "）· 归档共 " + esc(d.total || 0) + " 条。";
+          html += "<div class=\"mt-1 text-xs text-tech-muted\">抓取 " + esc((zh.fetched || 0) + (en.fetched || 0)) +
+            " · 已存在 " + esc((zh.dup || 0) + (en.dup || 0)) +
+            " · 过期 " + esc((zh.old || 0) + (en.old || 0)) +
+            " · 不相关 " + esc((zh.irrelevant || 0) + (en.irrelevant || 0)) + "</div>";
+          if (d.new_items && d.new_items.length) {
+            html += '<ul class="mt-2 list-disc pl-5 space-y-0.5">';
+            d.new_items.slice(0, 8).forEach(function (it) {
+              html += "<li>[" + esc(it.date) + '] <span class="uppercase">' + esc(it.lang) + "</span> " + esc(it.title) + "</li>";
+            });
+            html += "</ul>";
+          }
+          setLog(html, false);
+        })
+        .catch(function () {
+          btn.disabled = false; btn.style.opacity = "1";
+          setLog("网络异常，请重试", true);
+        });
+    });
+  }
+
   /* ============ 在线更新 ============ */
   function initUpdate() {
     var page = document.querySelector("[data-update-page]");
@@ -575,5 +628,6 @@
     initPwModal();
     initContentEditor();
     initUpdate();
+    initFdeRefresh();
   });
 })();

@@ -676,5 +676,61 @@ bg_render_nav($lang);
 })();
 </script>
 
+<?php
+// 管理员登录后，在 FDE 资讯所在页面提供「刷新 FDE 资讯」按钮（手动触发网页端自更新）
+require_once __DIR__ . '/lib/auth.php';
+if (bg_current_user()):
+  $fdeApiUrl = bg_url('/api/fde-refresh.php');
+?>
+<section class="relative z-10 mx-auto max-w-6xl px-4 pb-2">
+  <div class="flex flex-wrap items-center gap-3 rounded-2xl border border-tech-blue/20 bg-white/70 px-4 py-3 backdrop-blur">
+    <span class="inline-flex h-9 w-9 items-center justify-center rounded-xl bg-tech-blue/15 text-tech-cyan">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+    </span>
+    <div class="min-w-0 flex-1">
+      <p class="text-sm font-semibold text-tech-ink">FDE 资讯刷新</p>
+      <p class="text-xs text-tech-muted">手动拉取最近 3 天中/英文科技·AI 资讯并写入归档（等效每日自动任务）。仅管理员可见。</p>
+    </div>
+    <button type="button" id="fde-refresh-public" class="rounded-lg bg-tech-blue px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90">立即刷新</button>
+  </div>
+  <div id="fde-refresh-public-log" class="mt-2 hidden rounded-md border px-3 py-2 text-sm"></div>
+</section>
+<script>
+(function () {
+  var btn = document.getElementById('fde-refresh-public');
+  if (!btn) return;
+  var log = document.getElementById('fde-refresh-public-log');
+  var API = <?php echo json_encode($fdeApiUrl); ?>;
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+  btn.addEventListener('click', function () {
+    btn.disabled = true; btn.textContent = '刷新中…';
+    log.className = 'mt-2 rounded-md border border-blue-500/30 bg-blue-500/10 px-3 py-2 text-sm text-tech-ink';
+    log.textContent = '正在抓取 RSS 并写入归档…';
+    fetch(API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ lang: 'both', days: 3, cap: 12 }) })
+      .then(function (r) { return r.json().catch(function () { return {}; }); })
+      .then(function (d) {
+        btn.disabled = false; btn.textContent = '立即刷新';
+        if (!d || !d.ok) { log.className = 'mt-2 rounded-md border border-red-500/30 bg-red-500/10 px-3 py-2 text-sm text-red-600'; log.textContent = '刷新失败：' + (d.error || '未知错误'); return; }
+        var zh = (d.stats && d.stats.zh) ? d.stats.zh : {}, en = (d.stats && d.stats.en) ? d.stats.en : {};
+        var html = '<b>刷新完成</b> · 新增 ' + esc(d.added || 0) + ' 条（中文 ' + esc(zh.added || 0) + ' / 英文 ' + esc(en.added || 0) + '）· 归档共 ' + esc(d.total || 0) + ' 条。';
+        if (d.new_items && d.new_items.length) {
+          html += '<ul class="mt-1 list-disc pl-5">';
+          d.new_items.slice(0, 8).forEach(function (it) { html += '<li>[' + esc(it.date) + '] <span class="uppercase">' + esc(it.lang) + '</span> ' + esc(it.title) + '</li>'; });
+          html += '</ul>';
+        }
+        log.className = 'mt-2 rounded-md border border-green-500/30 bg-green-500/10 px-3 py-2 text-sm text-green-700';
+        log.innerHTML = html;
+        setTimeout(function () { location.reload(); }, 1500);
+      })
+      .catch(function () { btn.disabled = false; btn.textContent = '立即刷新'; log.className = 'mt-2 rounded-md border border-red-500/30 bg-red-500/10 px-3 py-2 text-sm text-red-600'; log.textContent = '网络异常，请重试'; });
+  });
+})();
+</script>
+<?php endif; ?>
+
 <?php bg_render_footer($lang, true); ?>
 <?php bg_foot_js(); ?>

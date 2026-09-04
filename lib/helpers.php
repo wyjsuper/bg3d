@@ -38,6 +38,7 @@ function bg_route($path) {
     '/api/admin/change-password' => '/api/change-password.php',
     '/api/upload'     => '/api/upload.php',
     '/api/update'     => '/api/update.php',
+    '/api/fde-refresh' => '/api/fde-refresh.php',
   );
   if (isset($map[$path])) {
     return $map[$path];
