@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-04",
-  "total": 377,
+  "total": 392,
   "items": [
     {
       "slug": "fde-20260904-21d66129",
@@ -219,6 +219,114 @@
       "archivedAt": "2026-09-04"
     },
     {
+      "slug": "fde-20260904-b0fd7002",
+      "lang": "zh",
+      "title": {
+        "zh": "致尚科技：拟增资取得恒扬数据增发后总股本5%-10%的股份",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，致尚科技公告，公司拟使用现金通过增资方式取得深圳市恒扬数据股份有限公司增发后总股本5%-10%的股份，标的公司100%股权投后整体估值为8亿元。本次交易尚需满足多项先决条件，存在不确定性。恒扬数据专注于智能计算和数据处理产品及应用解决方案的研发、销售与服务，此次投资旨在拓展公司在数据通信及智能计算领域的战略布局。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，致尚科技公告，公司拟使用现金通过增资方式取得深圳市恒扬数据股份有限公司增发后总股本5%-10%的股份，标的公司100%股权投后整体估值为8亿元。本次交易尚需满足多项先决条件，存在不确定性。恒扬数据专注于智能计算和数据处理产品及应用解决方案的研发、销售与服务，此次投资旨在拓展公司在数据通信及智能计算领域的战略布局。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968901041697026?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-508870b7",
+      "lang": "zh",
+      "title": {
+        "zh": "美国多家人工智能公司旗下服务同日发生故障",
+        "en": ""
+      },
+      "summary": {
+        "zh": "美国多家人工智能公司旗下服务3日在相近时段发生故障，部分用户一度无法正常使用聊天、应用程序编程接口（API）等服务。目前相关主要服务均已恢复，公开信息尚不能确认几起故障是否存在共同原因。多家主要人工智能公司旗下服务在相近时间发生故障较为罕见。目前三家公司公布的信息尚不能确认几起故障是否存在共同原因。（新华社）",
+        "en": ""
+      },
+      "body": {
+        "zh": "美国多家人工智能公司旗下服务3日在相近时段发生故障，部分用户一度无法正常使用聊天、应用程序编程接口（API）等服务。目前相关主要服务均已恢复，公开信息尚不能确认几起故障是否存在共同原因。多家主要人工智能公司旗下服务在相近时间发生故障较为罕见。目前三家公司公布的信息尚不能确认几起故障是否存在共同原因。（新华社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968911238541573?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-555202cd",
+      "lang": "zh",
+      "title": {
+        "zh": "车联天下港股上市获中国证监会备案",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，9月4日，中国证监会国际合作司发布关于无锡车联天下智能科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过68263500股境外上市普通股并在香港联合交易所上市。公司39名股东拟将所持合计336371100股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，9月4日，中国证监会国际合作司发布关于无锡车联天下智能科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过68263500股境外上市普通股并在香港联合交易所上市。公司39名股东拟将所持合计336371100股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://36kr.com/newsflashes/3968894611501320?f=rss",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260904-3df8c7bf",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Crusoe reportedly raises $3B at a $30B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+      },
+      "body": {
+        "zh": "",
+        "en": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "archivedAt": "2026-09-04"
+    },
+    {
       "slug": "fde-20260903-13c8f93a",
       "lang": "zh",
       "title": {
@@ -432,6 +540,303 @@
       },
       "date": "2026-09-03",
       "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-6961697a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia is buying Hugging Face for almost $13 billion"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-608a9bc8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Ollie is betting its focus on privacy can help it win the AI assistant race"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
+      },
+      "body": {
+        "zh": "",
+        "en": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-e64f87a1",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI’s next big AI model has ‘entered the AGI era’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced…"
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced…"
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-8e5050a8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Startup ARR is less secure than ever, new research shows"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate."
+      },
+      "body": {
+        "zh": "",
+        "en": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-191596b2",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups."
+      },
+      "body": {
+        "zh": "",
+        "en": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-47339af4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 557 # Comments: 182"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 557 # Comments: 182"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-03",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-0dc3694b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "K2 Horizon: A connected fleet of six open models"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 299 # Comments: 97"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 299 # Comments: 97"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-03",
+      "link": "https://ifm.ai/blog/k2/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-d55dcaed",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The high-profile startup's annual revenue run rate stands at over $100 million."
+      },
+      "body": {
+        "zh": "",
+        "en": "The high-profile startup's annual revenue run rate stands at over $100 million."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-a9681739",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Abliteration.ai is making a business out of removing AI guardrails"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+      },
+      "body": {
+        "zh": "",
+        "en": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-8c2bf41f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Meta is paying to peek at how you use their latest AI model"
+      },
+      "summary": {
+        "zh": "",
+        "en": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the…"
+      },
+      "body": {
+        "zh": "",
+        "en": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "archivedAt": "2026-09-04"
+    },
+    {
+      "slug": "fde-20260903-665df1d9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI launches Astra, its powerful (and controversial) new model"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-03",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "archivedAt": "2026-09-04"
     },
     {
