@@ -1,7 +1,466 @@
 {
-  "updatedAt": "2026-09-04",
-  "total": 392,
+  "updatedAt": "2026-09-05",
+  "total": 409,
   "items": [
+    {
+      "slug": "fde-20260905-f90c2103",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI称需要扩大对齐失范事件的披露范围",
+        "en": ""
+      },
+      "summary": {
+        "zh": "OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-05",
+      "link": "https://36kr.com/newsflashes/3970189273248260?f=rss",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260905-4c557529",
+      "lang": "zh",
+      "title": {
+        "zh": "小米发布结构化数据大模型Xiaomi-TabLDM",
+        "en": ""
+      },
+      "summary": {
+        "zh": "9月5日，小米正式发布Xiaomi-TabLDM：通用表格数据基础大模型。Xiaomi-TabLDM以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。（证券时报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "9月5日，小米正式发布Xiaomi-TabLDM：通用表格数据基础大模型。Xiaomi-TabLDM以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-05",
+      "link": "https://36kr.com/newsflashes/3970039177359622?f=rss",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260905-c4841495",
+      "lang": "zh",
+      "title": {
+        "zh": "Kimi、MiniMax即将在天猫开店",
+        "en": ""
+      },
+      "summary": {
+        "zh": "智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-05",
+      "link": "https://36kr.com/newsflashes/3970153928651273?f=rss",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260905-f7250547",
+      "lang": "zh",
+      "title": {
+        "zh": "阿布扎比G42考虑引入美国资本控股，保障AI芯片获取",
+        "en": ""
+      },
+      "summary": {
+        "zh": "知情人士透露，总部位于阿布扎比的人工智能企业G42高管已开展初步磋商，探讨向美国企业出售多数股权，以求保障明年之后依旧可以获得高端芯片供应。这意味着该公司将迎来深度重组。G42由一位颇具影响力的王室成员监管，约8年前成立，承载阿布扎比首次大规模进军科技行业的目标。G42近期获得许可，可在无需美国出口许可的情况下采购尖端AI芯片，许可有效期至2027年4月前后；但想要继续拿到芯片，该公司必须调整自身公司架构。知情人士表示，高管正在研究多种…",
+        "en": ""
+      },
+      "body": {
+        "zh": "知情人士透露，总部位于阿布扎比的人工智能企业G42高管已开展初步磋商，探讨向美国企业出售多数股权，以求保障明年之后依旧可以获得高端芯片供应。这意味着该公司将迎来深度重组。G42由一位颇具影响力的王室成员监管，约8年前成立，承载阿布扎比首次大规模进军科技行业的目标。G42近期获得许可，可在无需美国出口许可的情况下采购尖端AI芯片，许可有效期至2027年4月前后；但想要继续拿到芯片，该公司必须调整自身公司架构。知情人士表示，高管正在研究多种…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-09-05",
+      "link": "https://36kr.com/newsflashes/3970040744227336?f=rss",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-cbde7c73",
+      "lang": "zh",
+      "title": {
+        "zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+        "en": ""
+      },
+      "summary": {
+        "zh": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+        "en": ""
+      },
+      "body": {
+        "zh": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-09-04",
+      "link": "https://www.qbitai.com/2026/09/484437.html",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-a567337d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge"
+      },
+      "summary": {
+        "zh": "",
+        "en": "It's the latest failure of OpenAI's internal monitoring and security systems."
+      },
+      "body": {
+        "zh": "",
+        "en": "It's the latest failure of OpenAI's internal monitoring and security systems."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-54b17955",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google’s Gemini Spark can now manage your Google Photos library"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+      },
+      "body": {
+        "zh": "",
+        "en": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-10347f6d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Roland is getting into generative AI music with Melody Flip"
+      },
+      "summary": {
+        "zh": "",
+        "en": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offer…"
+      },
+      "body": {
+        "zh": "",
+        "en": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offer…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-b5f90047",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Rogue OpenAI agents appear to have organized another attack using a German wiki"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepare…"
+      },
+      "body": {
+        "zh": "",
+        "en": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepare…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-d5a7590a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI agents discussed ways to escape their sandbox on public wiki"
+      },
+      "summary": {
+        "zh": "",
+        "en": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+      },
+      "body": {
+        "zh": "",
+        "en": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-e7347d0e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The round is being raised just months after the robot data startup exited from stealth."
+      },
+      "body": {
+        "zh": "",
+        "en": "The round is being raised just months after the robot data startup exited from stealth."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-3a268583",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Portal by Spotify cut my Claude Code token usage by 90%"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 142 # Comments: 62"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 142 # Comments: 62"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-04",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-5d00841d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Fermat's Last Theorem in Lean 4"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 111 # Comments: 21"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 111 # Comments: 21"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-04",
+      "link": "https://github.com/anthropics/fermats-last-theorem",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-eb01836b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Formalizing Fermat's Last Theorem"
+      },
+      "summary": {
+        "zh": "",
+        "en": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 622 # Comments: 388"
+      },
+      "body": {
+        "zh": "",
+        "en": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 622 # Comments: 388"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-09-04",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-3fd96e55",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright cl…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright cl…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-6908bd83",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+      },
+      "body": {
+        "zh": "",
+        "en": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "archivedAt": "2026-09-05"
+    },
+    {
+      "slug": "fde-20260904-21c0ea92",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+      },
+      "body": {
+        "zh": "",
+        "en": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-09-04",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "archivedAt": "2026-09-05"
+    },
     {
       "slug": "fde-20260904-21d66129",
       "lang": "zh",
