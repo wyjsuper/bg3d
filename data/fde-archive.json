@@ -1,7 +1,466 @@
 {
-  "updatedAt": "2026-09-05",
-  "total": 409,
+  "updatedAt": "2026-10-27",
+  "total": 426,
   "items": [
+    {
+      "slug": "fde-20261026-1ba02665",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI开始断网训练最强模型：“安全起见”",
+        "en": ""
+      },
+      "summary": {
+        "zh": "模型开始利用GPU缓存聊天？",
+        "en": ""
+      },
+      "body": {
+        "zh": "模型开始利用GPU缓存聊天？",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-26",
+      "link": "https://www.qbitai.com/2026/10/505529.html",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-68bc1852",
+      "lang": "zh",
+      "title": {
+        "zh": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+        "en": ""
+      },
+      "summary": {
+        "zh": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+        "en": ""
+      },
+      "body": {
+        "zh": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-26",
+      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-50fe94ad",
+      "lang": "zh",
+      "title": {
+        "zh": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+        "en": ""
+      },
+      "summary": {
+        "zh": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+        "en": ""
+      },
+      "body": {
+        "zh": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-26",
+      "link": "https://www.qbitai.com/2026/10/505443.html",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-fe222722",
+      "lang": "zh",
+      "title": {
+        "zh": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+        "en": ""
+      },
+      "summary": {
+        "zh": "高品质 AI Token 成为行业新风向",
+        "en": ""
+      },
+      "body": {
+        "zh": "高品质 AI Token 成为行业新风向",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-26",
+      "link": "https://www.qbitai.com/2026/10/505429.html",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-6cac1cc4",
+      "lang": "zh",
+      "title": {
+        "zh": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+        "en": ""
+      },
+      "summary": {
+        "zh": "一张卡，512路长推理同时跑",
+        "en": ""
+      },
+      "body": {
+        "zh": "一张卡，512路长推理同时跑",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-26",
+      "link": "https://www.qbitai.com/2026/10/505407.html",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-2477ffef",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic officially files for its public debut"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-4a28c784",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic is burning gas to feed the AI boom"
+      },
+      "summary": {
+        "zh": "",
+        "en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i…"
+      },
+      "body": {
+        "zh": "",
+        "en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-597ba912",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic S-1"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1430 # Comments: 1395"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1430 # Comments: 1395"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-26",
+      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-8be09a62",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-10e998ae",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The RealReal won’t let AI agents hog designer clothing"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported th…"
+      },
+      "body": {
+        "zh": "",
+        "en": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported th…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-1c764d8e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Five weird details from Anthropic’s IPO filing"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-d72616af",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list o…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list o…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-a7ca36be",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and C…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and C…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-26",
+      "link": "https://github.com/FrigadeHQ/hob",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-7f6bdaf0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 26 # Comments: 6"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 26 # Comments: 6"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-26",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261026-b13666b0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "This startup’s self-driving excavators help dig up $600M in new funding"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      },
+      "body": {
+        "zh": "",
+        "en": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-26",
+      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261024-92b7141d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Block’s new voice model sounds eerily human"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
+      },
+      "body": {
+        "zh": "",
+        "en": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "archivedAt": "2026-10-27"
+    },
+    {
+      "slug": "fde-20261024-c44ea973",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Here are the top AI agents that can live in your text messages"
+      },
+      "summary": {
+        "zh": "",
+        "en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      },
+      "body": {
+        "zh": "",
+        "en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-24",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "archivedAt": "2026-10-27"
+    },
     {
       "slug": "fde-20260905-f90c2103",
       "lang": "zh",
