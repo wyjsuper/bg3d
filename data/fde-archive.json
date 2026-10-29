@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-10-27",
-  "total": 426,
+  "updatedAt": "2026-10-29",
+  "total": 450,
   "items": [
+    {
+      "slug": "fde-20261029-7b5a2064",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI与ServiceNow扩大合作",
+        "en": ""
+      },
+      "summary": {
+        "zh": "OpenAI与ServiceNow宣布扩大合作伙伴关系，将更多OpenAI模型和智能体引入ServiceNow产品，并将ServiceNow工作流与ChatGPT和Codex打通。双方旨在让企业更便捷地利用AI构建应用、处理IT服务请求和解决安全问题。此次扩展基于两家公司1月宣布的合作，将把OpenAI的能力嵌入ServiceNow对客户的服务及其自身业务运营的更多环节。（财联社）",
+        "en": ""
+      },
+      "body": {
+        "zh": "OpenAI与ServiceNow宣布扩大合作伙伴关系，将更多OpenAI模型和智能体引入ServiceNow产品，并将ServiceNow工作流与ChatGPT和Codex打通。双方旨在让企业更便捷地利用AI构建应用、处理IT服务请求和解决安全问题。此次扩展基于两家公司1月宣布的合作，将把OpenAI的能力嵌入ServiceNow对客户的服务及其自身业务运营的更多环节。（财联社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046175017227398?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261029-e63c5bc9",
+      "lang": "zh",
+      "title": {
+        "zh": "谷歌推出Gemini 4 Carbon前沿人工智能模型",
+        "en": ""
+      },
+      "summary": {
+        "zh": "谷歌发布新一代前沿AI模型Gemini 4 Carbon。该模型用于维护网络安全防御并处理复杂工程问题，能够处理长流程AI智能体任务、生成安全代码，并降低模型失准和编造信息的比例。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "谷歌发布新一代前沿AI模型Gemini 4 Carbon。该模型用于维护网络安全防御并处理复杂工程问题，能够处理长流程AI智能体任务、生成安全代码，并降低模型失准和编造信息的比例。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046168369894528?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261029-483fc014",
+      "lang": "zh",
+      "title": {
+        "zh": "英伟达推出本地AI语音模型，RTX Spark新增模型与智能体工具支持",
+        "en": ""
+      },
+      "summary": {
+        "zh": "英伟达宣布，Nemotron 3.5 Transcribe开放权重语音模型已支持RTX Spark，可实现语音转录、说话人识别及翻译，支持40种语言。Liquid AI的LFM3系列模型也已获得支持，可在本地运行并进行微调。此外，英伟达新增GPU资源管理功能，允许用户在前台应用与后台AI智能体之间分配GPU算力。RTX Spark笔记本目前已由华硕、戴尔、惠普、联想、微软及微星等厂商推出，起售价2599美元，最高配备128GB统一内存，…",
+        "en": ""
+      },
+      "body": {
+        "zh": "英伟达宣布，Nemotron 3.5 Transcribe开放权重语音模型已支持RTX Spark，可实现语音转录、说话人识别及翻译，支持40种语言。Liquid AI的LFM3系列模型也已获得支持，可在本地运行并进行微调。此外，英伟达新增GPU资源管理功能，允许用户在前台应用与后台AI智能体之间分配GPU算力。RTX Spark笔记本目前已由华硕、戴尔、惠普、联想、微软及微星等厂商推出，起售价2599美元，最高配备128GB统一内存，…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046159216153481?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261029-9afe1803",
+      "lang": "zh",
+      "title": {
+        "zh": "百度秒哒运营团队并入百度搭子",
+        "en": ""
+      },
+      "summary": {
+        "zh": "从多位知情人士处获悉，百度智能云事业群组（ACG）近日进行了架构调整，百度秒哒运营团队并入百度搭子，由百度搭子产品负责人李景秋管理，秒哒产品与研发继续由产品总经理朱广翔负责，二人均向殷大伟汇报。在产品层面，秒哒和百度搭子也进行了整合：秒哒以垂直应用开发工作台方式集成入百度搭子。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "从多位知情人士处获悉，百度智能云事业群组（ACG）近日进行了架构调整，百度秒哒运营团队并入百度搭子，由百度搭子产品负责人李景秋管理，秒哒产品与研发继续由产品总经理朱广翔负责，二人均向殷大伟汇报。在产品层面，秒哒和百度搭子也进行了整合：秒哒以垂直应用开发工作台方式集成入百度搭子。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046160254309512?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261029-59110481",
+      "lang": "zh",
+      "title": {
+        "zh": "算力租赁板块三季报冷暖不一",
+        "en": ""
+      },
+      "summary": {
+        "zh": "随着AI（人工智能）产业化纵深推进，算力需求持续高位运行。万得数据显示，截至10月28日，算力租赁板块53家上市公司中，已有25家披露2026年三季报，其中，4家企业前三季度同比减亏，2家同比扭亏，7家归母净利润实现同比增长。苏商银行特约研究员武泽伟表示，算力租赁行业上市公司业绩出现显著分化的原因，一部分是企业营收高速增长，却受一次性收益扰动、资产折旧摊销拖累，利润短期承压；另一部分是企业凭借优质长单落地与商业模式迭代，前三季度业绩表现…",
+        "en": ""
+      },
+      "body": {
+        "zh": "随着AI（人工智能）产业化纵深推进，算力需求持续高位运行。万得数据显示，截至10月28日，算力租赁板块53家上市公司中，已有25家披露2026年三季报，其中，4家企业前三季度同比减亏，2家同比扭亏，7家归母净利润实现同比增长。苏商银行特约研究员武泽伟表示，算力租赁行业上市公司业绩出现显著分化的原因，一部分是企业营收高速增长，却受一次性收益扰动、资产折旧摊销拖累，利润短期承压；另一部分是企业凭借优质长单落地与商业模式迭代，前三季度业绩表现…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046177485607816?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261029-c54dbb6d",
+      "lang": "zh",
+      "title": {
+        "zh": "亚马逊AWS成为国际汽联官方AI及云计算合作伙伴，将参与制定下一代F1赛车技术规则",
+        "en": ""
+      },
+      "summary": {
+        "zh": "亚马逊旗下云服务部门AWS成为国际汽车联合会（FIA）官方AI及云计算合作伙伴。根据合作安排，FIA将把更多业务应用和托管服务迁移至AWS；AWS还将利用云计算、人工智能及高性能计算技术，参与下一代一级方程式赛车技术规则的制定，并支持空气动力学模拟及赛车安全、性能和可持续性相关技术研发。（财联社）",
+        "en": ""
+      },
+      "body": {
+        "zh": "亚马逊旗下云服务部门AWS成为国际汽车联合会（FIA）官方AI及云计算合作伙伴。根据合作安排，FIA将把更多业务应用和托管服务迁移至AWS；AWS还将利用云计算、人工智能及高性能计算技术，参与下一代一级方程式赛车技术规则的制定，并支持空气动力学模拟及赛车安全、性能和可持续性相关技术研发。（财联社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-29",
+      "link": "https://36kr.com/newsflashes/4046161200157833?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-eaf7a5b7",
+      "lang": "zh",
+      "title": {
+        "zh": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+        "en": ""
+      },
+      "summary": {
+        "zh": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+        "en": ""
+      },
+      "body": {
+        "zh": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-28",
+      "link": "https://www.qbitai.com/2026/10/505928.html",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-889ca527",
+      "lang": "zh",
+      "title": {
+        "zh": "对话星连资本张鸣晨：在清华挖宝，看教授的虎气、猴气与熊气",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文 | 海若镜 又一支清华系基金募到了新钱，这一次是张鸣晨和他创立的星连资本。 年轻的星连资本，2021年出道时投了智谱天使＋轮，此后一路加仓，一期基金40%的钱押在智谱。勇猛加仓的故事，还发生在基流、生数科技、面壁智能身上。 对基流，他们连投了五六轮，投成了外部第一大股东。基流以15亿估值融资的关口，原本谈好的投资人临时爽约，张鸣晨说，“没关系，我们领”。不到一年，基流估值翻了10倍。 见到张鸣晨前，我理解他可能是很敢bet的激进型投…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文 | 海若镜 又一支清华系基金募到了新钱，这一次是张鸣晨和他创立的星连资本。 年轻的星连资本，2021年出道时投了智谱天使＋轮，此后一路加仓，一期基金40%的钱押在智谱。勇猛加仓的故事，还发生在基流、生数科技、面壁智能身上。 对基流，他们连投了五六轮，投成了外部第一大股东。基流以15亿估值融资的关口，原本谈好的投资人临时爽约，张鸣晨说，“没关系，我们领”。不到一年，基流估值翻了10倍。 见到张鸣晨前，我理解他可能是很敢bet的激进型投…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-28",
+      "link": "https://36kr.com/p/3997098817310595?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-590ab9cf",
+      "lang": "zh",
+      "title": {
+        "zh": "「微至航空」完成近亿元A轮融资，“云熊”累计飞行超12000公里，已获特许飞行证｜36氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文 | 阿至 “ 空中五菱 ” 正加速其在低空经济场景的落地。 36氪获悉，经济型通用无人运输机研发制造商「微至航空」已完成近亿元A轮融资，由自贡市通航产业发展股权投资基金领投，航发基金持续跟投。 本轮资金将主要用于新技术、新机型的研发试制，以及加速成熟机型适航取证进程和场景落地相关的市场拓展。 微至航空成立于2020年10月，专注研发和制造兼具“可靠性、实用性和经济性”的大型通用无人运输机，是36氪长期关注的企业。创始人兼总经理徐淳曾…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文 | 阿至 “ 空中五菱 ” 正加速其在低空经济场景的落地。 36氪获悉，经济型通用无人运输机研发制造商「微至航空」已完成近亿元A轮融资，由自贡市通航产业发展股权投资基金领投，航发基金持续跟投。 本轮资金将主要用于新技术、新机型的研发试制，以及加速成熟机型适航取证进程和场景落地相关的市场拓展。 微至航空成立于2020年10月，专注研发和制造兼具“可靠性、实用性和经济性”的大型通用无人运输机，是36氪长期关注的企业。创始人兼总经理徐淳曾…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-28",
+      "link": "https://36kr.com/p/4044989810692999?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-478c96fc",
+      "lang": "zh",
+      "title": {
+        "zh": "硬氪首发｜中科卓尔完成数亿元B+轮融资，进入多家头部掩模版厂商供应链",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜杨媛 编辑｜彭孝秋 硬氪获悉，近日，成都中科卓尔智能科技集团有限公司（以下简称“中科卓尔”）完成数亿元B+轮融资。本轮投资方包括中银国际投资、济南产发集成电路、建投华科、江阴新国联及川流投资等。 本轮融资将主要用于高端石英空白掩模版核心工艺升级及量产产线建设，围绕超精密抛光、低缺陷清洗、真空镀膜等关键工序提升工艺稳定性和产品一致性，并以自主及协同研制的专用装备支撑规模化生产与稳定交付。 中科卓尔成立于2018年，是一家以高端石英空…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜杨媛 编辑｜彭孝秋 硬氪获悉，近日，成都中科卓尔智能科技集团有限公司（以下简称“中科卓尔”）完成数亿元B+轮融资。本轮投资方包括中银国际投资、济南产发集成电路、建投华科、江阴新国联及川流投资等。 本轮融资将主要用于高端石英空白掩模版核心工艺升级及量产产线建设，围绕超精密抛光、低缺陷清洗、真空镀膜等关键工序提升工艺稳定性和产品一致性，并以自主及协同研制的专用装备支撑规模化生产与稳定交付。 中科卓尔成立于2018年，是一家以高端石英空…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-10-28",
+      "link": "https://36kr.com/p/4043853334483844?f=rss",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-7d767c7a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Gemini 4 Carbon"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 768 # Comments: 626"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 768 # Comments: 626"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-28",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-0b6e826c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic just launched tools to show companies what their AI spending is buying"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+      },
+      "body": {
+        "zh": "",
+        "en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-7aebe60e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artifi…"
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-af671897",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+      },
+      "body": {
+        "zh": "",
+        "en": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-bbd74faa",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "These Claude Enterprise features let you track AI ROI – what’s new"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools."
+      },
+      "body": {
+        "zh": "",
+        "en": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-aa5c7bff",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 191 # Comments: 117"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 191 # Comments: 117"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-28",
+      "link": "https://surgehq.ai/blog/dayjob-tax",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-f28d15c4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+      },
+      "body": {
+        "zh": "",
+        "en": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-104dcafd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Microsoft is ending Copilot support on smart TVs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-b36c8351",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Upwind raises $400M after walking away from Datadog acquisition offer"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+      },
+      "body": {
+        "zh": "",
+        "en": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-28",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261028-f2297542",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=50280824 Points: 0 # Comments: 0"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=50280824 Points: 0 # Comments: 0"
+      },
+      "category": {
+        "zh": "",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-28",
+      "link": "https://nango.dev/careers",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261027-54655606",
+      "lang": "zh",
+      "title": {
+        "zh": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "en": ""
+      },
+      "summary": {
+        "zh": "还是专业的模型做专业的事情",
+        "en": ""
+      },
+      "body": {
+        "zh": "还是专业的模型做专业的事情",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-27",
+      "link": "https://www.qbitai.com/2026/10/505694.html",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261027-90e537b1",
+      "lang": "zh",
+      "title": {
+        "zh": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+        "en": ""
+      },
+      "summary": {
+        "zh": "同一天，OpenAI还甩出3项AI科学新发现",
+        "en": ""
+      },
+      "body": {
+        "zh": "同一天，OpenAI还甩出3项AI科学新发现",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-10-27",
+      "link": "https://www.qbitai.com/2026/10/505719.html",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261027-0ad608f3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+      },
+      "body": {
+        "zh": "",
+        "en": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-10-27",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "archivedAt": "2026-10-29"
+    },
+    {
+      "slug": "fde-20261027-5f7a0edd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+      },
+      "body": {
+        "zh": "",
+        "en": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-10-27",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "archivedAt": "2026-10-29"
+    },
     {
       "slug": "fde-20261026-1ba02665",
       "lang": "zh",
