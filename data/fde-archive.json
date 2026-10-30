@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-10-29",
-  "total": 450,
+  "updatedAt": "2026-10-30",
+  "total": 462,
   "items": [
+    {
+      "slug": "fde-20261029-a3c76460",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the Un…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the Un…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-de4a6ce8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round"
+      },
+      "summary": {
+        "zh": "",
+        "en": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+      },
+      "body": {
+        "zh": "",
+        "en": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-000fae8e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic is asking Wall Street to believe in AGI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthrop…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthrop…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-3227a691",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "We ran AI agent swarms in Minecraft and Mindustry"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 115 # Comments: 43"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 115 # Comments: 43"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-29",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-38c26d27",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firm…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Hi HN, we're Ahnaf and Seungmin from Simantic ( https://simantic.com ). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware. Before Simantic, we were ex-firm…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-29",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-062639d6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "You can generate and edit Google Docs files directly in Gemini chats now"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-f58e2df3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Stop sharing your passwords with AI agents, Bank of America warns customers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access."
+      },
+      "body": {
+        "zh": "",
+        "en": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-556ce772",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 35 # Comments: 23"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 35 # Comments: 23"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-29",
+      "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-919b5e07",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Duet is the first personal-assistant-type harness that feels useful"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 97 # Comments: 76"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 97 # Comments: 76"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-10-29",
+      "link": "https://fig.blue/posts/duet-is-the-future/",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-d1cdc49f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic’s business plan: Build God or die trying"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build…"
+      },
+      "body": {
+        "zh": "",
+        "en": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-b71e3dc6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "US investigated Chinese spy plot aimed at Nvidia CEO"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+      },
+      "body": {
+        "zh": "",
+        "en": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "archivedAt": "2026-10-30"
+    },
+    {
+      "slug": "fde-20261029-fd4b4156",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents."
+      },
+      "body": {
+        "zh": "",
+        "en": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-29",
+      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "archivedAt": "2026-10-30"
+    },
     {
       "slug": "fde-20261029-7b5a2064",
       "lang": "zh",
