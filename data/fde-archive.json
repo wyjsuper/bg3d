@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-10-30",
-  "total": 462,
+  "updatedAt": "2026-11-02",
+  "total": 474,
   "items": [
+    {
+      "slug": "fde-20261101-22571281",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-01",
+      "link": "https://hackerbooks.org",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261101-1f8aab03",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Data centers are deeply unpopular. But what if we called them something else?"
+      },
+      "body": {
+        "zh": "",
+        "en": "Data centers are deeply unpopular. But what if we called them something else?"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-01",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261101-006f9549",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Data centers are now a midterm issue, even in Brooklyn"
+      },
+      "summary": {
+        "zh": "",
+        "en": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+      },
+      "body": {
+        "zh": "",
+        "en": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-01",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261031-84133084",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia"
+      },
+      "summary": {
+        "zh": "",
+        "en": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+      },
+      "body": {
+        "zh": "",
+        "en": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-31",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261031-c59d5a75",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+      },
+      "summary": {
+        "zh": "",
+        "en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+      },
+      "body": {
+        "zh": "",
+        "en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-31",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-c034c9e1",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-13a16c17",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Last-minute Halloween costumes for tech nerds"
+      },
+      "summary": {
+        "zh": "",
+        "en": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+      },
+      "body": {
+        "zh": "",
+        "en": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-d1dd4a15",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Zest’s new AI agent finds restaurants and books reservations over text"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+      },
+      "body": {
+        "zh": "",
+        "en": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-133986b8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "DoorDash said that it is open to working with third-party agent makers."
+      },
+      "body": {
+        "zh": "",
+        "en": "DoorDash said that it is open to working with third-party agent makers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-e526dd46",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Basically no one is using AI agents for their DoorDash orders"
+      },
+      "summary": {
+        "zh": "",
+        "en": "But it's still early days for the relatively new e-commerce use case."
+      },
+      "body": {
+        "zh": "",
+        "en": "But it's still early days for the relatively new e-commerce use case."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-31cbbb4a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
+      },
+      "summary": {
+        "zh": "",
+        "en": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+      },
+      "body": {
+        "zh": "",
+        "en": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "archivedAt": "2026-11-02"
+    },
+    {
+      "slug": "fde-20261030-3ddeb716",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Can AI data centers be mass-produced like cars? This startup aims to find out"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
+      },
+      "body": {
+        "zh": "",
+        "en": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-10-30",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "archivedAt": "2026-11-02"
+    },
     {
       "slug": "fde-20261029-a3c76460",
       "lang": "en",
