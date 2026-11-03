@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-11-02",
-  "total": 474,
+  "updatedAt": "2026-11-03",
+  "total": 486,
   "items": [
+    {
+      "slug": "fde-20261102-6e82911c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude’s new rules against game cloning won’t stop the AI copying boom"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The tsunami of imitators is way bigger than any one model maker can stem."
+      },
+      "body": {
+        "zh": "",
+        "en": "The tsunami of imitators is way bigger than any one model maker can stem."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-0dd8f461",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Athenahealth patients can ask Claude about their medical records now"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data."
+      },
+      "body": {
+        "zh": "",
+        "en": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-cb9189ed",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Agentic backdoors via pretraining poisoning"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://arxiv.org/abs/2610.37741 Comments URL: https://news.ycombinator.com/item?id=50341334 Points: 84 # Comments: 28"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://arxiv.org/abs/2610.37741 Comments URL: https://news.ycombinator.com/item?id=50341334 Points: 84 # Comments: 28"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-02",
+      "link": "https://arxiv.org/abs/2610.37741",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-0b9c1ff5",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+      },
+      "body": {
+        "zh": "",
+        "en": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-aaa9a4d3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI is finally merging ChatGPT’s Chat and Work tabs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-53d4e357",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic clamps down on Claude’s AI video game clones"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-12ebf6fd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect"
+      },
+      "summary": {
+        "zh": "",
+        "en": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out."
+      },
+      "body": {
+        "zh": "",
+        "en": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-6c06caf4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well"
+      },
+      "summary": {
+        "zh": "",
+        "en": "It turns out even bots can’t escape bureaucracy."
+      },
+      "body": {
+        "zh": "",
+        "en": "It turns out even bots can’t escape bureaucracy."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-adc805b9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic's growth just flattened"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 115 # Comments: 137"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 115 # Comments: 137"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-6aacca88",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The SEC Should Block Anthropic's IPO to Protect the Public"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 110 # Comments: 59"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 110 # Comments: 59"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-02",
+      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-f87b906a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The one-year-old startup is now valued at $300 million."
+      },
+      "body": {
+        "zh": "",
+        "en": "The one-year-old startup is now valued at $300 million."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "archivedAt": "2026-11-03"
+    },
+    {
+      "slug": "fde-20261102-441ba40b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+      },
+      "body": {
+        "zh": "",
+        "en": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "archivedAt": "2026-11-03"
+    },
     {
       "slug": "fde-20261101-22571281",
       "lang": "en",
