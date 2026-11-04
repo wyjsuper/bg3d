@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-11-03",
-  "total": 486,
+  "updatedAt": "2026-11-04",
+  "total": 498,
   "items": [
+    {
+      "slug": "fde-20261103-d268433b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic is working on a system to prove AI models’ identity"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+      },
+      "body": {
+        "zh": "",
+        "en": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-a8e1683e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 166 # Comments: 21"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 166 # Comments: 21"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-03",
+      "link": "https://arxiv.org/abs/2605.29713",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-fa8fc908",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, …"
+      },
+      "body": {
+        "zh": "",
+        "en": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-abea439f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI says ChatGPT is catching up to Google in search"
+      },
+      "summary": {
+        "zh": "",
+        "en": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam …"
+      },
+      "body": {
+        "zh": "",
+        "en": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-ac7dd664",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off"
+      },
+      "summary": {
+        "zh": "",
+        "en": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing."
+      },
+      "body": {
+        "zh": "",
+        "en": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-87adf564",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+      },
+      "body": {
+        "zh": "",
+        "en": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-bdf59561",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic is still grappling with the economics of compute"
+      },
+      "summary": {
+        "zh": "",
+        "en": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+      },
+      "body": {
+        "zh": "",
+        "en": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-8f96517a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Is Claude Code truly faster with message threads? I did the math on my logs"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result."
+      },
+      "body": {
+        "zh": "",
+        "en": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-968637ce",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+      },
+      "body": {
+        "zh": "",
+        "en": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-03",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-05936df2",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Postman silently auto-installs AI plugins and attempts to share all API data"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 969 # Comments: 319"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 969 # Comments: 319"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-03",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261103-43ed8f3e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "There is no posttraining data commons"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/ Comments URL: https://news.ycombinator.com/item?id=50352641 Points: 5 # Comments: 1"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/ Comments URL: https://news.ycombinator.com/item?id=50352641 Points: 5 # Comments: 1"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-03",
+      "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "archivedAt": "2026-11-04"
+    },
+    {
+      "slug": "fde-20261102-3bbc4a32",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "New York Times and other outlets sue web browser Brave over alleged content scraping"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+      },
+      "body": {
+        "zh": "",
+        "en": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-02",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "archivedAt": "2026-11-04"
+    },
     {
       "slug": "fde-20261102-6e82911c",
       "lang": "en",
