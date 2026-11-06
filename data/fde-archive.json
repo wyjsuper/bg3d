@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-11-05",
-  "total": 522,
+  "updatedAt": "2026-11-06",
+  "total": 546,
   "items": [
+    {
+      "slug": "fde-20261106-809266d8",
+      "lang": "zh",
+      "title": {
+        "zh": "Meta收购AI代码初创公司Conductor",
+        "en": ""
+      },
+      "summary": {
+        "zh": "多名知情人士透露，Meta收购了AI代码初创企业Conductor，这款产品可以让程序员同时管理多个代码智能体。代码已经成为AI落地、抢占企业开支的关键赛道，Meta正加入OpenAI等AI巨头的竞争，争夺开发者工具生态。这笔收购体现Meta持续加码AI的野心，将为其自研模型与生态打下基础，争夺开发者群体——开发者是AI最重要的核心用户。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "多名知情人士透露，Meta收购了AI代码初创企业Conductor，这款产品可以让程序员同时管理多个代码智能体。代码已经成为AI落地、抢占企业开支的关键赛道，Meta正加入OpenAI等AI巨头的竞争，争夺开发者工具生态。这笔收购体现Meta持续加码AI的野心，将为其自研模型与生态打下基础，争夺开发者群体——开发者是AI最重要的核心用户。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057581194056834?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261106-1ba0941a",
+      "lang": "zh",
+      "title": {
+        "zh": "工信部：加强智能体终端设备进网管理",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，工信部发布关于加强智能体终端设备进网管理的通知。其中提到，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；依法开展智能体终端涉诈风险安全评估和反诈能力前置性评测，落实重要通信工作要求。终端上使用的智能体应参考智能体互联系列国家标准配备唯一身份码。终端生产企业应当保证智能体终端获得进网许可证前后的…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，工信部发布关于加强智能体终端设备进网管理的通知。其中提到，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；依法开展智能体终端涉诈风险安全评估和反诈能力前置性评测，落实重要通信工作要求。终端上使用的智能体应参考智能体互联系列国家标准配备唯一身份码。终端生产企业应当保证智能体终端获得进网许可证前后的…",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057584511800452?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261106-4f63ea41",
+      "lang": "zh",
+      "title": {
+        "zh": "恒指开盘跌1.58%，恒生科技指数跌3.11%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，恒指开盘跌1.58%，恒生科技指数跌3.11%；光通信概念领跌，长飞光纤光缆、中际旭创、剑桥科技跌超10%；科技股走弱，百度集团、哔哩哔哩跌超4%，阿里巴巴跌超3%；石油石化板块涨幅居前，山东墨龙涨超5%，中国石油股份涨超1%",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，恒指开盘跌1.58%，恒生科技指数跌3.11%；光通信概念领跌，长飞光纤光缆、中际旭创、剑桥科技跌超10%；科技股走弱，百度集团、哔哩哔哩跌超4%，阿里巴巴跌超3%；石油石化板块涨幅居前，山东墨龙涨超5%，中国石油股份涨超1%",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057599451812999?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261106-c3bd7429",
+      "lang": "zh",
+      "title": {
+        "zh": "马克・洛尔旗下Wonder秘密递交IPO申请",
+        "en": ""
+      },
+      "summary": {
+        "zh": "食品科技初创企业Wonder周四对外披露，已经秘密提交首次公开募股申请。Wonder今年早些时候完成D轮融资，投前估值达到90亿美元。洛尔9月接受采访时表示，IPO募集资金将用于更多收购。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "食品科技初创企业Wonder周四对外披露，已经秘密提交首次公开募股申请。Wonder今年早些时候完成D轮融资，投前估值达到90亿美元。洛尔9月接受采访时表示，IPO募集资金将用于更多收购。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057568414552966?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261106-6bce7e8b",
+      "lang": "zh",
+      "title": {
+        "zh": "富锂锰电池企业“陀普科技”完成数千万元融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，富锂锰电池企业“陀普科技”近日完成数千万元A轮融资，投资方包括淮北集善、安徽恒纳、重庆海特。本轮融资资金用于安徽淮北0.5GWh生产基地的产能扩建，并计划于2027年1月投入生产。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，富锂锰电池企业“陀普科技”近日完成数千万元A轮融资，投资方包括淮北集善、安徽恒纳、重庆海特。本轮融资资金用于安徽淮北0.5GWh生产基地的产能扩建，并计划于2027年1月投入生产。",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057593166271360?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261106-325b63a9",
+      "lang": "zh",
+      "title": {
+        "zh": "15只光纤概念股业绩高增长，7股获机构资金净买入超1000万元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "在行业高景气度拉动之下，光纤产业链相关企业盈利显著修复。国家统计局数据显示，2026年1—9月算力与数据中心建设带动光纤制造、光缆制造行业利润分别增长5.7倍和1.1倍。映射至A股市场，多家光纤行业核心上市公司业绩迎来高增。据统计，2026年前三季度，15只概念股净利润增速超40%（含扭亏为盈）。杭电股份、通鼎互联、华脉科技净利润扭亏为盈。非扭亏股中，长江通信、长飞光纤、杭电股份、信德新材、亨通光电等净利润均实现翻倍增长。从资金层面来看…",
+        "en": ""
+      },
+      "body": {
+        "zh": "在行业高景气度拉动之下，光纤产业链相关企业盈利显著修复。国家统计局数据显示，2026年1—9月算力与数据中心建设带动光纤制造、光缆制造行业利润分别增长5.7倍和1.1倍。映射至A股市场，多家光纤行业核心上市公司业绩迎来高增。据统计，2026年前三季度，15只概念股净利润增速超40%（含扭亏为盈）。杭电股份、通鼎互联、华脉科技净利润扭亏为盈。非扭亏股中，长江通信、长飞光纤、杭电股份、信德新材、亨通光电等净利润均实现翻倍增长。从资金层面来看…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://36kr.com/newsflashes/4057562789123209?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-a2f7625f",
+      "lang": "zh",
+      "title": {
+        "zh": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://www.qbitai.com/2026/11/507787.html",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-eecc8d7b",
+      "lang": "zh",
+      "title": {
+        "zh": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Data + AI 技术实践巡展 · 上海站",
+        "en": ""
+      },
+      "body": {
+        "zh": "Data + AI 技术实践巡展 · 上海站",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://www.qbitai.com/2026/11/507696.html",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-b4ea346f",
+      "lang": "zh",
+      "title": {
+        "zh": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+        "en": ""
+      },
+      "summary": {
+        "zh": "薪资+期权不限！实习生也能训核心模型",
+        "en": ""
+      },
+      "body": {
+        "zh": "薪资+期权不限！实习生也能训核心模型",
+        "en": ""
+      },
+      "category": {
+        "zh": "薪酬观察",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://www.qbitai.com/2026/11/507675.html",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-330349a6",
+      "lang": "zh",
+      "title": {
+        "zh": "Personal Agent的竞争，开始于用户想清楚之前",
+        "en": ""
+      },
+      "summary": {
+        "zh": "谁能更早承接用户尚未明确的需求，谁就更有机会成为新的消费入口。 一笔消费，究竟从什么时候开始？很多人会觉得，是下单付款的那一刻。但只要回想一次最近的外出，就会发现它的起点其实早得多。 订下一家餐厅之前，可能经历过想见朋友、想庆祝、想换个环境等不同念头；同样一句今晚想出去，最终可能对应一顿饭、一场演出，也可能是一条没有预设目的地的路线。 换句话说，在店名、品类、价格这些具体信息出现之前，消费就已经开始了。只是在那个阶段，它还没有名字，更像…",
+        "en": ""
+      },
+      "body": {
+        "zh": "谁能更早承接用户尚未明确的需求，谁就更有机会成为新的消费入口。 一笔消费，究竟从什么时候开始？很多人会觉得，是下单付款的那一刻。但只要回想一次最近的外出，就会发现它的起点其实早得多。 订下一家餐厅之前，可能经历过想见朋友、想庆祝、想换个环境等不同念头；同样一句今晚想出去，最终可能对应一顿饭、一场演出，也可能是一条没有预设目的地的路线。 换句话说，在店名、品类、价格这些具体信息出现之前，消费就已经开始了。只是在那个阶段，它还没有名字，更像…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://36kr.com/p/4056508925432710?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-dde7b7ab",
+      "lang": "zh",
+      "title": {
+        "zh": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+        "en": ""
+      },
+      "summary": {
+        "zh": "被轰成筛子了…",
+        "en": ""
+      },
+      "body": {
+        "zh": "被轰成筛子了…",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://www.qbitai.com/2026/11/507697.html",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-221cc61a",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪首发丨创新工场投了家成都具身模型公司，已实现拣选环节新零件免训练",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3000字，建议阅读8分钟 硬氪获悉，成都睿芯行科技有限公司（以下简称“睿芯行”）近日完成数千万元新一轮融资，投资方包括创新工场、中力股份及今天国际。 睿芯行成立于2019年，由长江学者特聘教授、电子科技大学教授周军与西南交通大学教授徐菱联合创立，聚焦工业场景下的具身智能技术与产品研发。 公司早期从移动机器人控制器切入，围绕AGV、AMR等产品积累了SLAM、导航、运动控制、视觉感知与决策等技术…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3000字，建议阅读8分钟 硬氪获悉，成都睿芯行科技有限公司（以下简称“睿芯行”）近日完成数千万元新一轮融资，投资方包括创新工场、中力股份及今天国际。 睿芯行成立于2019年，由长江学者特聘教授、电子科技大学教授周军与西南交通大学教授徐菱联合创立，聚焦工业场景下的具身智能技术与产品研发。 公司早期从移动机器人控制器切入，围绕AGV、AMR等产品积累了SLAM、导航、运动控制、视觉感知与决策等技术…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-05",
+      "link": "https://36kr.com/p/4056586458862728?f=rss",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-42c40fb7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Perplexity launches its own take on AI agents for work"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-3b8d2cd9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Code sends your email address to websites"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 454 # Comments: 160"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 454 # Comments: 160"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-05",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-c60d77dd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "My psychophysics as a bilateral cochlear implant user"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf Comments URL: https://news.ycombinator.com/item?id=50381033 Points: 158 # Comments: 69"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf Comments URL: https://news.ycombinator.com/item?id=50381033 Points: 158 # Comments: 69"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-05",
+      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-fa3722c2",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+      },
+      "body": {
+        "zh": "",
+        "en": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-29ec058e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Meta says US users can now video chat with their Muse AI avatar"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+      },
+      "body": {
+        "zh": "",
+        "en": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-402e1295",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude can now analyze your spending with its new Personal Finance tool"
+      },
+      "summary": {
+        "zh": "",
+        "en": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+      },
+      "body": {
+        "zh": "",
+        "en": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-c4806b24",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Aina's ring can also take calls and help you dictate notes on your Mac."
+      },
+      "body": {
+        "zh": "",
+        "en": "Aina's ring can also take calls and help you dictate notes on your Mac."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-7b8637d0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Airbnb is working on an AI travel agent"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple,…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple,…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-1edcf7b9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Muse has a voice mode now"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article.…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-42196da6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude AI can plug directly into your bank account"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can a…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can a…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-fa80120f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google is technically offering schools more choice but not the choices anyone wants."
+      },
+      "body": {
+        "zh": "",
+        "en": "Google is technically offering schools more choice but not the choices anyone wants."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "archivedAt": "2026-11-06"
+    },
+    {
+      "slug": "fde-20261105-5c8af499",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic has released what appears to be its answer to ChatGPT Finances."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic has released what appears to be its answer to ChatGPT Finances."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-05",
+      "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+      "archivedAt": "2026-11-06"
+    },
     {
       "slug": "fde-20261105-50bafe4e",
       "lang": "zh",
