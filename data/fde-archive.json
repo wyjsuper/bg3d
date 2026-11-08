@@ -1,7 +1,385 @@
 {
-  "updatedAt": "2026-11-07",
-  "total": 570,
+  "updatedAt": "2026-11-08",
+  "total": 594,
   "items": [
+    {
+      "slug": "fde-20261107-7846ef7a",
+      "lang": "zh",
+      "title": {
+        "zh": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。审查可能包括现场检查，重点考察银行如何评估未来现金流、抵押品价值及应对潜在违约风险。此次审查范围可能小于欧洲央行数年前开展的杠杆融资审查，具体方案尚未敲定。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。审查可能包括现场检查，重点考察银行如何评估未来现金流、抵押品价值及应对潜在违约风险。此次审查范围可能小于欧洲央行数年前开展的杠杆融资审查，具体方案尚未敲定。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059026136388742?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-9d455a7a",
+      "lang": "zh",
+      "title": {
+        "zh": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+        "en": ""
+      },
+      "summary": {
+        "zh": "苦单Session久矣，两大Agent玩家不谋而合。",
+        "en": ""
+      },
+      "body": {
+        "zh": "苦单Session久矣，两大Agent玩家不谋而合。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://www.qbitai.com/2026/11/508264.html",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-9081a049",
+      "lang": "zh",
+      "title": {
+        "zh": "AGENTS.MD，危险危险危险！！！",
+        "en": ""
+      },
+      "summary": {
+        "zh": "全新的电脑病毒",
+        "en": ""
+      },
+      "body": {
+        "zh": "全新的电脑病毒",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://www.qbitai.com/2026/11/508244.html",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-67797a0e",
+      "lang": "zh",
+      "title": {
+        "zh": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，成都具身大脑公司「奇林波」近日完成千万级人民币天使轮融资，投资方包括成都方寸引擎科技有限公司及天使投资人。本轮资金将重点用于核心技术研发、研发团队建设和市场拓展，为公司持续推进机器脑与多机协作系统的研发、产品化及应用落地提供资金支持。 奇林波成立于2025年12月，公司聚焦具身智能核心软件，以机器人自主行动与多机协作为核心方向，致力于让机器人具备持续执行任务的能力，并通过多机协作完成更复杂的工…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，成都具身大脑公司「奇林波」近日完成千万级人民币天使轮融资，投资方包括成都方寸引擎科技有限公司及天使投资人。本轮资金将重点用于核心技术研发、研发团队建设和市场拓展，为公司持续推进机器脑与多机协作系统的研发、产品化及应用落地提供资金支持。 奇林波成立于2025年12月，公司聚焦具身智能核心软件，以机器人自主行动与多机协作为核心方向，致力于让机器人具备持续执行任务的能力，并通过多机协作完成更复杂的工…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/p/4052696726328452?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-f76ae150",
+      "lang": "zh",
+      "title": {
+        "zh": "AI板块遭“聪明钱”抛售，美国对冲基金10月普遍亏损",
+        "en": ""
+      },
+      "summary": {
+        "zh": "10月以来，围绕人工智能投资前景、融资成本与盈利兑现的担忧持续发酵，美股科技股剧烈调整并迅速传导至对冲基金业绩，无论是老虎环球等押注科技成长的明星选股基金，还是千禧年基金等以风控分散见长的多策略巨头，大多没能躲过这波回撤。进入11月，“聪明钱”抛售潮仍在继续，对冲基金集中减持半导体等科技股，市场避险情绪快速升温。尽管当前市场情绪较为悲观，但仍有不少主流机构认为，此轮波动更像是一次拥挤交易的“出清”，而非AI投资热潮的终结。（上证报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "10月以来，围绕人工智能投资前景、融资成本与盈利兑现的担忧持续发酵，美股科技股剧烈调整并迅速传导至对冲基金业绩，无论是老虎环球等押注科技成长的明星选股基金，还是千禧年基金等以风控分散见长的多策略巨头，大多没能躲过这波回撤。进入11月，“聪明钱”抛售潮仍在继续，对冲基金集中减持半导体等科技股，市场避险情绪快速升温。尽管当前市场情绪较为悲观，但仍有不少主流机构认为，此轮波动更像是一次拥挤交易的“出清”，而非AI投资热潮的终结。（上证报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059020817273728?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-d474f16e",
+      "lang": "zh",
+      "title": {
+        "zh": "A股一周牛股出炉：最牛股ST豆神涨超65%，浙文影业五连板",
+        "en": ""
+      },
+      "summary": {
+        "zh": "剔除月内上市新股和退市整理期个股，前20只牛股当周股价均涨超33%。其中电力设��板块独占8席，光伏上下游全线走强，成为本周市场焦点；传媒板块紧随其后，短剧、AI影视题材持续发酵，多股涨幅居前。最牛股ST豆神主营业务是人工智能（AI）教育、艺术类学习服务、智慧教育服务及文旅研学，受AI应用题材催化，该股股价连续拉升，本周累计大涨65.78%，登顶全市场涨幅榜。紧随其后的ST亿晶、浙文影业周涨幅均超61%。其中ST亿晶受益于光伏板块整体回…",
+        "en": ""
+      },
+      "body": {
+        "zh": "剔除月内上市新股和退市整理期个股，前20只牛股当周股价均涨超33%。其中电力设��板块独占8席，光伏上下游全线走强，成为本周市场焦点；传媒板块紧随其后，短剧、AI影视题材持续发酵，多股涨幅居前。最牛股ST豆神主营业务是人工智能（AI）教育、艺术类学习服务、智慧教育服务及文旅研学，受AI应用题材催化，该股股价连续拉升，本周累计大涨65.78%，登顶全市场涨幅榜。紧随其后的ST亿晶、浙文影业周涨幅均超61%。其中ST亿晶受益于光伏板块整体回…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059042576307333?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-093b647e",
+      "lang": "zh",
+      "title": {
+        "zh": "银行股为QFII三季度盈利主要来源",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Wind数据统计显示，截至三季度末，QFII共持有1309只A股，三季度上涨的个股有752只，占比57.4%，平均涨幅为5.66%，跑赢上证指数11.82个百分点，跑赢创业板指33.46个百分点，其中涨幅超50%的有67只，翻倍的有25只。QFII持股三季度涨幅超50%的个股中，按申万一级行业分类，医药生物最多，达13只，占比26%，平均涨幅高达102%；基础化工5只，家用电器、电子、农林牧渔、轻工制造均为4只，食品饮料、房地产各3只。…",
+        "en": ""
+      },
+      "body": {
+        "zh": "Wind数据统计显示，截至三季度末，QFII共持有1309只A股，三季度上涨的个股有752只，占比57.4%，平均涨幅为5.66%，跑赢上证指数11.82个百分点，跑赢创业板指33.46个百分点，其中涨幅超50%的有67只，翻倍的有25只。QFII持股三季度涨幅超50%的个股中，按申万一级行业分类，医药生物最多，达13只，占比26%，平均涨幅高达102%；基础化工5只，家用电器、电子、农林牧渔、轻工制造均为4只，食品饮料、房地产各3只。…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059040488969347?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-ededed5a",
+      "lang": "zh",
+      "title": {
+        "zh": "大量资金涌入科技成长宽基ETF",
+        "en": ""
+      },
+      "summary": {
+        "zh": "在近期的震荡调整行情中，大量资金借道ETF积极入市。据Choice测算，自9月28日以来，截至11月5日，股票型ETF连续24个交易日资金净流入，合计净流入6106.28亿元。从具体产品看，12只宽基ETF资金净流入均超过百亿元。“市场或已完成深度调整，筹码基本出清。”国联安基金认为，近期大量资金流入科创板ETF和创业板ETF等，托住了指数下限，系统性风险被阻断。多家机构表示，中国科技产业发展趋势向好，看好基本面强劲增长的公司。部分机构…",
+        "en": ""
+      },
+      "body": {
+        "zh": "在近期的震荡调整行情中，大量资金借道ETF积极入市。据Choice测算，自9月28日以来，截至11月5日，股票型ETF连续24个交易日资金净流入，合计净流入6106.28亿元。从具体产品看，12只宽基ETF资金净流入均超过百亿元。“市场或已完成深度调整，筹码基本出清。”国联安基金认为，近期大量资金流入科创板ETF和创业板ETF等，托住了指数下限，系统性风险被阻断。多家机构表示，中国科技产业发展趋势向好，看好基本面强劲增长的公司。部分机构…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059022300337286?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-306f89f1",
+      "lang": "zh",
+      "title": {
+        "zh": "台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月6日，据报道，台积电正评估扩大先进存储芯片生产，以争取更多人工智能基础设施投资。据悉，台积电应主要客户英伟达要求，已开始制定生产垂直堆叠3D DRAM的计划。消息传台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM出后，台积电美国存托凭证周五早盘一度上涨7.7%。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月6日，据报道，台积电正评估扩大先进存储芯片生产，以争取更多人工智能基础设施投资。据悉，台积电应主要客户英伟达要求，已开始制定生产垂直堆叠3D DRAM的计划。消息传台积电据悉考虑进军先进存储芯片领域，为英伟达生产3D DRAM出后，台积电美国存托凭证周五早盘一度上涨7.7%。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://36kr.com/newsflashes/4059024621392777?f=rss",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-59e842cf",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Why a new report on Anthropic automating AI development is alarming researchers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's ac…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's ac…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-07",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-e876ee4c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 101 # Comments: 74"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 101 # Comments: 74"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-07",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-8e566a1a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not eve…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not eve…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-07",
+      "link": "https://eyesrhythm.com/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-54e1b3d6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Crusoe sells troubled Wyoming data center project to Google"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The deal highlights the challenges of developing massive AI data centers."
+      },
+      "body": {
+        "zh": "",
+        "en": "The deal highlights the challenges of developing massive AI data centers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-07",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261107-73a6da81",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The US let Nvidia sell chips to an empty office in China"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-07",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "archivedAt": "2026-11-08"
+    },
     {
       "slug": "fde-20261107-6bd3b72e",
       "lang": "zh",
@@ -55,6 +433,276 @@
       "date": "2026-11-07",
       "link": "https://36kr.com/p/4058473008616581?f=rss",
       "archivedAt": "2026-11-07"
+    },
+    {
+      "slug": "fde-20261106-c3fd7937",
+      "lang": "zh",
+      "title": {
+        "zh": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+        "en": ""
+      },
+      "summary": {
+        "zh": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+        "en": ""
+      },
+      "body": {
+        "zh": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://www.qbitai.com/2026/11/508174.html",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-4626d662",
+      "lang": "zh",
+      "title": {
+        "zh": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+        "en": ""
+      },
+      "summary": {
+        "zh": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+        "en": ""
+      },
+      "body": {
+        "zh": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://www.qbitai.com/2026/11/508170.html",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-1bee48bb",
+      "lang": "zh",
+      "title": {
+        "zh": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-06",
+      "link": "https://www.qbitai.com/2026/11/508165.html",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-a2f7902b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil…"
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-f6f0ac1c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-211a3fd7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "How a Blue Wave midterm might reshape the AI industry"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-3e15aa69",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "After the midterms, is the AI industry in for a rough two years?"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-d0ccf945",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Physicl raises $10M to make the digital world real enough for robots"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+      },
+      "body": {
+        "zh": "",
+        "en": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-0106cfbc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "All the latest updates on AI data centers"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "archivedAt": "2026-11-08"
+    },
+    {
+      "slug": "fde-20261106-3b95c3ca",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Big Tech lost big in the 2026 election"
+      },
+      "summary": {
+        "zh": "",
+        "en": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even h…"
+      },
+      "body": {
+        "zh": "",
+        "en": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even h…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-06",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "archivedAt": "2026-11-08"
     },
     {
       "slug": "fde-20261106-589aa0b5",
