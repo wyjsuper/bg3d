@@ -1,7 +1,169 @@
 {
-  "updatedAt": "2026-11-08",
-  "total": 594,
+  "updatedAt": "2026-11-09",
+  "total": 600,
   "items": [
+    {
+      "slug": "fde-20261108-39cbe1a6",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 542 # Comments: 329"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 542 # Comments: 329"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-08",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "archivedAt": "2026-11-09"
+    },
+    {
+      "slug": "fde-20261108-1ded1747",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Apple is racing to make Siri more agentic"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-08",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "archivedAt": "2026-11-09"
+    },
+    {
+      "slug": "fde-20261108-0e85e0a8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 343 # Comments: 143"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 343 # Comments: 143"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-08",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "archivedAt": "2026-11-09"
+    },
+    {
+      "slug": "fde-20261107-9e7e1d38",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI新融资到账110亿美元，不及原计划一半",
+        "en": ""
+      },
+      "summary": {
+        "zh": "融资缩水，硅谷投资人也谨慎了",
+        "en": ""
+      },
+      "body": {
+        "zh": "融资缩水，硅谷投资人也谨慎了",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://www.qbitai.com/2026/11/508344.html",
+      "archivedAt": "2026-11-09"
+    },
+    {
+      "slug": "fde-20261107-9621419e",
+      "lang": "zh",
+      "title": {
+        "zh": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+        "en": ""
+      },
+      "summary": {
+        "zh": "中国版cosmos再交卷",
+        "en": ""
+      },
+      "body": {
+        "zh": "中国版cosmos再交卷",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://www.qbitai.com/2026/11/508236.html",
+      "archivedAt": "2026-11-09"
+    },
+    {
+      "slug": "fde-20261107-f32b2cbe",
+      "lang": "zh",
+      "title": {
+        "zh": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+        "en": ""
+      },
+      "summary": {
+        "zh": "AI写代码太快，基础设施跟不上了",
+        "en": ""
+      },
+      "body": {
+        "zh": "AI写代码太快，基础设施跟不上了",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-07",
+      "link": "https://www.qbitai.com/2026/11/508449.html",
+      "archivedAt": "2026-11-09"
+    },
     {
       "slug": "fde-20261107-7846ef7a",
       "lang": "zh",
