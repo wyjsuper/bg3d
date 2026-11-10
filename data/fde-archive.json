@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-11-09",
-  "total": 600,
+  "updatedAt": "2026-11-10",
+  "total": 624,
   "items": [
+    {
+      "slug": "fde-20261110-84d3d0a2",
+      "lang": "zh",
+      "title": {
+        "zh": "据报英伟达CEO黄仁勋退出两场活动，日程中不再出现其姓名",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Business Insider援引一名不具名知情人士报道，英伟达首席执行官黄仁勋原定周一晚间在一场非公开CEO论坛上接受Anthropic一名高管的访谈，但目前已不在活动议程中。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "Business Insider援引一名不具名知情人士报道，英伟达首席执行官黄仁勋原定周一晚间在一场非公开CEO论坛上接受Anthropic一名高管的访谈，但目前已不在活动议程中。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/newsflashes/4063154781180801?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261110-efa04de3",
+      "lang": "zh",
+      "title": {
+        "zh": "英伟达、SK电信与Rebellions签署备忘录，共建异构AI计算系统",
+        "en": ""
+      },
+      "summary": {
+        "zh": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施…",
+        "en": ""
+      },
+      "body": {
+        "zh": "英伟达、SK电信以及韩国本土AI芯片初创企业Rebellions周一达成合作，将整合各自技术优势搭建异构计算系统。根据三方谅解备忘录，各方将合作搭建异构AI计算系统，把英伟达GPU与Rebellions自研NPU联动，这套系统将用于SK电信AI数据中心建设。韩国产业部补充称，本次合作依托英伟达NVLink Fusion项目开展。NVLink Fusion项目支持超大规模云厂商与定制芯片设计方，将自研AI处理器直接接入英伟达机架级基础设施…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/newsflashes/4063168669700997?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261110-e4fad758",
+      "lang": "zh",
+      "title": {
+        "zh": "QumulusAI签订丹佛数据中心托管协议，新增1.2兆瓦算力容量，预计2027年初投运",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月9日，人工智能基础设施公司QumulusAI宣布，已在美国丹佛签订一项为期五年的数据中心托管协议，涉及1.2兆瓦关键IT负载容量，预计相关设施将于2027年第一季度具备运营条件。协议自服务正式启动之日起生效，并包含自动续约五年的条款。QumulusAI表示，此次协议将在公司现有丹佛业务基础上进一步扩大算力容量，计划利用已投运设施产生的现金流为新增项目提供资金支持。公司首席执行官Michael Maniscalco表示，Qumulu…",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月9日，人工智能基础设施公司QumulusAI宣布，已在美国丹佛签订一项为期五年的数据中心托管协议，涉及1.2兆瓦关键IT负载容量，预计相关设施将于2027年第一季度具备运营条件。协议自服务正式启动之日起生效，并包含自动续约五年的条款。QumulusAI表示，此次协议将在公司现有丹佛业务基础上进一步扩大算力容量，计划利用已投运设施产生的现金流为新增项目提供资金支持。公司首席执行官Michael Maniscalco表示，Qumulu…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/newsflashes/4063166410691714?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261110-431e7197",
+      "lang": "zh",
+      "title": {
+        "zh": "产业链赋能资本加持，深圳消费级3D打印机领跑全球",
+        "en": ""
+      },
+      "summary": {
+        "zh": "从动辄数万元的高价“极客工具”，到千元级的电子产品，消费级3D打印机市场正快速增长。日前，据调研发现，依托完善的产业链配套、成熟的跨境电商物流网络及资本加持，拓竹科技、创想三维、智能派、纵维立方等深圳企业领跑全球消费级3D打印机赛道，产品畅销海外。业内人士表示，目前消费级3D打印机行业处于小众市场，但增长势头强劲。多色彩打印、AI建模、高端耗材等技术仍需持续攻坚。行业企业需加快推动AI与3D打印深度融合，持续提升产品性能，压缩成本，降低…",
+        "en": ""
+      },
+      "body": {
+        "zh": "从动辄数万元的高价“极客工具”，到千元级的电子产品，消费级3D打印机市场正快速增长。日前，据调研发现，依托完善的产业链配套、成熟的跨境电商物流网络及资本加持，拓竹科技、创想三维、智能派、纵维立方等深圳企业领跑全球消费级3D打印机赛道，产品畅销海外。业内人士表示，目前消费级3D打印机行业处于小众市场，但增长势头强劲。多色彩打印、AI建模、高端耗材等技术仍需持续攻坚。行业企业需加快推动AI与3D打印深度融合，持续提升产品性能，压缩成本，降低…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/newsflashes/4063149612503944?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261110-d020a711",
+      "lang": "zh",
+      "title": {
+        "zh": "QFII优化持仓，配置指向产业升级",
+        "en": ""
+      },
+      "summary": {
+        "zh": "公开数据显示，截至三季度末，QFII（合格境外机构投资者）现身逾1500家公司前十大流通股股东名单，合计持仓市值逾2700亿元，持仓格局勾勒出头部集中、金融底仓与产业升级双线并进的特征。宁波银行、生益科技、南京银行、长鑫科技获QFII持仓均超百亿元，显示外资在稳固银行股防御性配置的同时，也将增量资金投向半导体、电子等硬科技龙头。近年来，QFII对于中国资产的配置整体呈扩张态势，伴随QFII机构数量突破千家，多家外资机构维持对A股中长期走…",
+        "en": ""
+      },
+      "body": {
+        "zh": "公开数据显示，截至三季度末，QFII（合格境外机构投资者）现身逾1500家公司前十大流通股股东名单，合计持仓市值逾2700亿元，持仓格局勾勒出头部集中、金融底仓与产业升级双线并进的特征。宁波银行、生益科技、南京银行、长鑫科技获QFII持仓均超百亿元，显示外资在稳固银行股防御性配置的同时，也将增量资金投向半导体、电子等硬科技龙头。近年来，QFII对于中国资产的配置整体呈扩张态势，伴随QFII机构数量突破千家，多家外资机构维持对A股中长期走…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/newsflashes/4063164368737410?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-2c523178",
+      "lang": "zh",
+      "title": {
+        "zh": "前歌尔、华为团队做全彩3D拼装DIY创作平台，拿下元禾、梅花等天使系列融资｜硬氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，全彩3D拼装DIY软硬件创作平台「睿岭智能」近日连续完成两轮数千万元融资，天使轮由元禾原点领投、天使+轮梅花创投领投，高秉强教授及旗下Brizan Venture基金、麟阁创投、某全球头部IP企业创始人跟投。资金将重点用于首款产品的量产落地与工艺迭代，加快内容生态体系搭建，拓展线下渠道布局，以实现商业化规模起量。 睿岭智能成立于2024年，公司定位拼装DIY创作平台，通过“3D激光切割+全彩打印”技术…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，全彩3D拼装DIY软硬件创作平台「睿岭智能」近日连续完成两轮数千万元融资，天使轮由元禾原点领投、天使+轮梅花创投领投，高秉强教授及旗下Brizan Venture基金、麟阁创投、某全球头部IP企业创始人跟投。资金将重点用于首款产品的量产落地与工艺迭代，加快内容生态体系搭建，拓展线下渠道布局，以实现商业化规模起量。 睿岭智能成立于2024年，公司定位拼装DIY创作平台，通过“3D激光切割+全彩打印”技术…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://36kr.com/p/4053486898418569?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-1c935fa6",
+      "lang": "zh",
+      "title": {
+        "zh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+        "en": ""
+      },
+      "summary": {
+        "zh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+        "en": ""
+      },
+      "body": {
+        "zh": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-279d313a",
+      "lang": "zh",
+      "title": {
+        "zh": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://www.qbitai.com/2026/11/508603.html",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-198ffbc1",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪首发丨数十台套产品在轨稳定运行，国科大系卫星推进器公司完成近亿元融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3800字，建议阅读9分钟 硬氪获悉，空间推进企业国科星擎航天科技有限公司（以下简称“国科星擎”）已完成多轮融资，截至目前累计融资近亿元，投资方包括上海国投旗下上海科创集团策源基金、杭州科创集团、南山战新投、兴湘科创、国泰海通、新微资本等多家头部科创投资机构和产业资本方。 融资资金将重点用于智能化产线建设和新型推进产品研发，持续加快各型号产品批量生产和稳定交付、新产品在轨应用与数据积累。 国科星…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3800字，建议阅读9分钟 硬氪获悉，空间推进企业国科星擎航天科技有限公司（以下简称“国科星擎”）已完成多轮融资，截至目前累计融资近亿元，投资方包括上海国投旗下上海科创集团策源基金、杭州科创集团、南山战新投、兴湘科创、国泰海通、新微资本等多家头部科创投资机构和产业资本方。 融资资金将重点用于智能化产线建设和新型推进产品研发，持续加快各型号产品批量生产和稳定交付、新产品在轨应用与数据积累。 国科星…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://36kr.com/p/4062043589432195?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-528126b0",
+      "lang": "zh",
+      "title": {
+        "zh": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月9日，千问办公发布2.0版本",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月9日，千问办公发布2.0版本",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://www.qbitai.com/2026/11/508694.html",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-0a54fcec",
+      "lang": "zh",
+      "title": {
+        "zh": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Worker不够了主管Agent还能自己招！",
+        "en": ""
+      },
+      "body": {
+        "zh": "Worker不够了主管Agent还能自己招！",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://www.qbitai.com/2026/11/508607.html",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-01c1a26b",
+      "lang": "zh",
+      "title": {
+        "zh": "一年融5轮，首颗星计划明年一季度发射，「谱星航天」连续完成两轮近3亿元融资｜融资首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文 | 阿至 36 氪获悉， 光学载荷与微纳卫星系统解决方案提供商「谱星航天」已于近期连续完成Pre-A+、A轮两轮融资，融资规模近3亿元 ，投后估值达数十亿元 ，资金将主要用 于团队建设、研发投入，以及首个轨道面 128 颗星的投产与快速组网。 Pre-A+轮由老股东金浦智能、联融志道追加投资，新鼎资本跟投；A轮由长发基金、闵金投、长兴基金联合领投，贵州省高新基金、崇山资本等机构跟投。谱星航天成立一年，共完成 5 轮融资，累计融 资金…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文 | 阿至 36 氪获悉， 光学载荷与微纳卫星系统解决方案提供商「谱星航天」已于近期连续完成Pre-A+、A轮两轮融资，融资规模近3亿元 ，投后估值达数十亿元 ，资金将主要用 于团队建设、研发投入，以及首个轨道面 128 颗星的投产与快速组网。 Pre-A+轮由老股东金浦智能、联融志道追加投资，新鼎资本跟投；A轮由长发基金、闵金投、长兴基金联合领投，贵州省高新基金、崇山资本等机构跟投。谱星航天成立一年，共完成 5 轮融资，累计融 资金…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-09",
+      "link": "https://36kr.com/p/4061912127247490?f=rss",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-621febda",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 254 # Comments: 175"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 254 # Comments: 175"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-09",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-aa600485",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, …"
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-053ad1f9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Disney and Adobe are building generative AI tools together"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, …"
+      },
+      "body": {
+        "zh": "",
+        "en": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-d058c2ed",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google Gemini routes personal Drive files and emails to human annotators"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 314 # Comments: 72"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 314 # Comments: 72"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-09",
+      "link": "https://github.com/thisisme6598/gemini_files/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-f10fbeca",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-7283d622",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+      },
+      "body": {
+        "zh": "",
+        "en": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-829f3eff",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Automattic aims to compete with the likes of Lovable with Spacefast."
+      },
+      "body": {
+        "zh": "",
+        "en": "Automattic aims to compete with the likes of Lovable with Spacefast."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-c46dc9cb",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Code is accidentally exposing secrets all over GitHub"
+      },
+      "summary": {
+        "zh": "",
+        "en": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+      },
+      "body": {
+        "zh": "",
+        "en": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-5385b3a0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Apple’s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions."
+      },
+      "body": {
+        "zh": "",
+        "en": "Apple’s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-0ec95f76",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Fable 5.2 and Mythos 5.2"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 855 # Comments: 514"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 855 # Comments: 514"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-09",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-28744ec4",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+      },
+      "body": {
+        "zh": "",
+        "en": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "archivedAt": "2026-11-10"
+    },
+    {
+      "slug": "fde-20261109-0e933545",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI hardware startup Nominal triples valuation to $3B in 8 months"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+      },
+      "body": {
+        "zh": "",
+        "en": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-09",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "archivedAt": "2026-11-10"
+    },
     {
       "slug": "fde-20261108-39cbe1a6",
       "lang": "en",
