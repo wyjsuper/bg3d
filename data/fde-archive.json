@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-11-10",
-  "total": 624,
+  "updatedAt": "2026-11-11",
+  "total": 648,
   "items": [
+    {
+      "slug": "fde-20261111-2103845d",
+      "lang": "zh",
+      "title": {
+        "zh": "OpenAI第三季度营收据悉达到100亿美元，环比激增近50%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据知情人士透露，OpenAI已告知投资者，其第三季度营收环比激增近50%，达到100亿美元。此前，该公司曾经历过一段增长放缓的时期，而随着市场对其最新模型及企业级产品的需求回升，营收实现了反弹。在当地时间周二举行的一次电话会议上，OpenAI 向投资者披露了部分财务指标。目前，该公司正寻求完成新一轮融资，其估值有望达到 1.25 万亿美元。该公司第三季度营收增速不仅高于第二季度17%的环比增幅，而且是去年同期增速的 2.6 倍。（新浪财…",
+        "en": ""
+      },
+      "body": {
+        "zh": "据知情人士透露，OpenAI已告知投资者，其第三季度营收环比激增近50%，达到100亿美元。此前，该公司曾经历过一段增长放缓的时期，而随着市场对其最新模型及企业级产品的需求回升，营收实现了反弹。在当地时间周二举行的一次电话会议上，OpenAI 向投资者披露了部分财务指标。目前，该公司正寻求完成新一轮融资，其估值有望达到 1.25 万亿美元。该公司第三季度营收增速不仅高于第二季度17%的环比增幅，而且是去年同期增速的 2.6 倍。（新浪财…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064577870500742?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-46108aa0",
+      "lang": "zh",
+      "title": {
+        "zh": "中信建投：2027年看好AI从模型能力走向场景落地带来的应用机会",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，中信建投证券研报称，2027年，看好AI从模型能力走向场景落地带来的应用机会。大模型看预训练继续Scaling、后训练加速，国模进步曲线有望再加速，Token量将长期驱动ARR；算力端海外CSP资本开支延续增长，国内阿里云高毛利的PaaS、MaaS占比提升，重视投入回报。应用围绕“快、大、新”展开：落地速度快、市场规模大、应用场景新。AI内容从短到长，平台率先受益；程序化广告持续享受算法红利。平台端，电商与本地生活竞争边际趋…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，中信建投证券研报称，2027年，看好AI从模型能力走向场景落地带来的应用机会。大模型看预训练继续Scaling、后训练加速，国模进步曲线有望再加速，Token量将长期驱动ARR；算力端海外CSP资本开支延续增长，国内阿里云高毛利的PaaS、MaaS占比提升，重视投入回报。应用围绕“快、大、新”展开：落地速度快、市场规模大、应用场景新。AI内容从短到长，平台率先受益；程序化广告持续享受算法红利。平台端，电商与本地生活竞争边际趋…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064600870687873?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-ff595431",
+      "lang": "zh",
+      "title": {
+        "zh": "我国太空算力网加快部署，10月以来5只概念股获机构调研",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月9日举办的2026太空云产业生态大会上，“星云星座计划”等我国太空云产业化成果发布，标志着我国“太空云”生态建设迈出了从技术验证走向产业化布局的关键一步。本次发布的“星云星座计划”是中国科学院空天信息创新研究院与国内科创企业联合研发的全栈国产化太空算力网。据统计，目前A股布局太空算力产业链的上市公司共有24家，11月10日平均上涨3.01%。从机构关注度来看，10月以来5只概念股获机构调研，开普云、软通动力、复旦微电获机构调研家数…",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月9日举办的2026太空云产业生态大会上，“星云星座计划”等我国太空云产业化成果发布，标志着我国“太空云”生态建设迈出了从技术验证走向产业化布局的关键一步。本次发布的“星云星座计划”是中国科学院空天信息创新研究院与国内科创企业联合研发的全栈国产化太空算力网。据统计，目前A股布局太空算力产业链的上市公司共有24家，11月10日平均上涨3.01%。从机构关注度来看，10月以来5只概念股获机构调研，开普云、软通动力、复旦微电获机构调研家数…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064580844196996?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-d687252c",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "根据周二公布的最新招股书，Anthropic的七名联合创始人将在下周的首次公开募股中合计出售价值17.5亿美元的股票。按IPO发行价区间中点计算，每位联合创始人拟出售价值约2.5亿美元的股票。据亿万富翁指数，按这一估值计算，每人的净资产将达到约180亿美元。根据文件，总部位于旧金山的Anthropic寻求通过首次公开募股和私募配售筹集最多904亿美元，对应估值约1.4万亿美元。根据看到的交易条款，此次IPO计划于11月18日定价，并于次…",
+        "en": ""
+      },
+      "body": {
+        "zh": "根据周二公布的最新招股书，Anthropic的七名联合创始人将在下周的首次公开募股中合计出售价值17.5亿美元的股票。按IPO发行价区间中点计算，每位联合创始人拟出售价值约2.5亿美元的股票。据亿万富翁指数，按这一估值计算，每人的净资产将达到约180亿美元。根据文件，总部位于旧金山的Anthropic寻求通过首次公开募股和私募配售筹集最多904亿美元，对应估值约1.4万亿美元。根据看到的交易条款，此次IPO计划于11月18日定价，并于次…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064597584991108?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-4b802799",
+      "lang": "zh",
+      "title": {
+        "zh": "AI眼镜市场持续升温，终端产品与应用服务正加快更新",
+        "en": ""
+      },
+      "summary": {
+        "zh": "AI（人工智能）眼镜市场持续升温。11月10日，A股AI眼镜概念股集体走强，视涯科技-UW、富瀚微、康冠科技等多股涨停。资本市场关注背后，终端产品与应用服务正加快更新：雷鸟iOAI智能眼镜接入高德导航，康冠科技展出全彩AI眼镜，芯片企业同步推进可穿戴终端布局。与此同时，消费补贴政策陆续落地，进一步降低购买门槛。从语音交互到近眼显示，从拍摄记录到出行导航，AI眼镜不断拓展使用场景，行业竞争正从功能展示转向佩戴体验、应用黏性与生态协同。（证…",
+        "en": ""
+      },
+      "body": {
+        "zh": "AI（人工智能）眼镜市场持续升温。11月10日，A股AI眼镜概念股集体走强，视涯科技-UW、富瀚微、康冠科技等多股涨停。资本市场关注背后，终端产品与应用服务正加快更新：雷鸟iOAI智能眼镜接入高德导航，康冠科技展出全彩AI眼镜，芯片企业同步推进可穿戴终端布局。与此同时，消费补贴政策陆续落地，进一步降低购买门槛。从语音交互到近眼显示，从拍摄记录到出行导航，AI眼镜不断拓展使用场景，行业竞争正从功能展示转向佩戴体验、应用黏性与生态协同。（证…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064589730485126?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-0970cdea",
+      "lang": "zh",
+      "title": {
+        "zh": "美联储理事鲍曼警告AI投资回报不及预期或导致股市估值大幅回调",
+        "en": ""
+      },
+      "summary": {
+        "zh": "美联储理事米歇尔·鲍曼表示，她认为金融市场给经济活动带来诸多风险，其中包括一旦人工智能领域的投资回报不及预期，股价可能大幅下跌。鲍曼周二在华盛顿发表讲话时警告，AI投资回报问题可能引发“股票估值大幅回调”的风险，同时还提及“私营部门长期利率急剧上升”的隐患。“股价下跌可能削弱消费者支出的韧性，”她说。“而利率上升可能进一步给住房和小企业投资等利率敏感的经济领域带来压力。”（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "美联储理事米歇尔·鲍曼表示，她认为金融市场给经济活动带来诸多风险，其中包括一旦人工智能领域的投资回报不及预期，股价可能大幅下跌。鲍曼周二在华盛顿发表讲话时警告，AI投资回报问题可能引发“股票估值大幅回调”的风险，同时还提及“私营部门长期利率急剧上升”的隐患。“股价下跌可能削弱消费者支出的韧性，”她说。“而利率上升可能进一步给住房和小企业投资等利率敏感的经济领域带来压力。”（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064582682104709?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261111-53ea6965",
+      "lang": "zh",
+      "title": {
+        "zh": "CoreWeave上调年度营收展望",
+        "en": ""
+      },
+      "summary": {
+        "zh": "当地时间11月10日，人工智能算力提供商CoreWeave公布三季度营收36.6亿美元，分析师预测均值为35.6亿美元；每股亏损1.27美元，好于分析师预计的每股亏损1.46美元。该公司预计今年营收为130亿至133亿美元。此前的预测区间上限为132亿美元。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "当地时间11月10日，人工智能算力提供商CoreWeave公布三季度营收36.6亿美元，分析师预测均值为35.6亿美元；每股亏损1.27美元，好于分析师预计的每股亏损1.46美元。该公司预计今年营收为130亿至133亿美元。此前的预测区间上限为132亿美元。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-11",
+      "link": "https://36kr.com/newsflashes/4064559890175113?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-a8250de6",
+      "lang": "zh",
+      "title": {
+        "zh": "G7易流7700亿Token背后：物流AI从屏幕走向一线现场｜最前线",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 当大模型的概念热潮逐渐回落，物流行业的AI竞赛正在发生微妙转向。行业不再满足于演示台上的效果，开始追问：AI如何真正走进场站、车厢、装卸交接的真实现场，转化成看得见的经营结果。 在无锡举办的2026数字物流大会上，三千余位产业从业者围绕“AI开工”，抛出一个核心命题：物流AI的胜负手，不在于模型参数有多华丽，而在于能不能打通总部与一线现场的双向通路。 中国物流与采购联合会会长蔡进在致辞中提出，物流早已不只是一门…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 当大模型的概念热潮逐渐回落，物流行业的AI竞赛正在发生微妙转向。行业不再满足于演示台上的效果，开始追问：AI如何真正走进场站、车厢、装卸交接的真实现场，转化成看得见的经营结果。 在无锡举办的2026数字物流大会上，三千余位产业从业者围绕“AI开工”，抛出一个核心命题：物流AI的胜负手，不在于模型参数有多华丽，而在于能不能打通总部与一线现场的双向通路。 中国物流与采购联合会会长蔡进在致辞中提出，物流早已不只是一门…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/p/4063605732627331?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-dad86477",
+      "lang": "zh",
+      "title": {
+        "zh": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+        "en": ""
+      },
+      "summary": {
+        "zh": "让每一次任务，都成为下一次进步的起点",
+        "en": ""
+      },
+      "body": {
+        "zh": "让每一次任务，都成为下一次进步的起点",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://www.qbitai.com/2026/11/508998.html",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-a7a45825",
+      "lang": "zh",
+      "title": {
+        "zh": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+        "en": ""
+      },
+      "summary": {
+        "zh": "办公AI结束单机模式",
+        "en": ""
+      },
+      "body": {
+        "zh": "办公AI结束单机模式",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://www.qbitai.com/2026/11/508798.html",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-2a28cae5",
+      "lang": "zh",
+      "title": {
+        "zh": "产业对接五大赛道集结，点名！速来——WISE2026「产业对接」火热报名中",
+        "en": ""
+      },
+      "summary": {
+        "zh": "不卖关子，报名通道真的已经“爆”了 WISE2026“世界咖啡·产业对接”开放报名的这两个星期来，后台的报名就没停过。这两天，我们梳理了前两轮报名的企业，他们的需求和能够提供的技术能力集中在以下五大赛道： 工业制造与研发；商业经营与企业运营；医疗健康；具身智能与机器人产业；海外应用与产业合作。 列完五大赛道，我们继续把报名公司的问题痛点和技术方案捋了一遍，发现每条赛道底下，都有人在聊真事。我们把这些需求和技术提前“踩一遍点”，梳理在下面…",
+        "en": ""
+      },
+      "body": {
+        "zh": "不卖关子，报名通道真的已经“爆”了 WISE2026“世界咖啡·产业对接”开放报名的这两个星期来，后台的报名就没停过。这两天，我们梳理了前两轮报名的企业，他们的需求和能够提供的技术能力集中在以下五大赛道： 工业制造与研发；商业经营与企业运营；医疗健康；具身智能与机器人产业；海外应用与产业合作。 列完五大赛道，我们继续把报名公司的问题痛点和技术方案捋了一遍，发现每条赛道底下，都有人在聊真事。我们把这些需求和技术提前“踩一遍点”，梳理在下面…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/p/4063821771068546?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-4093dd24",
+      "lang": "zh",
+      "title": {
+        "zh": "顺为、高瓴等投资亿元，做“神经蠕虫”的脑机公司来了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文 | 刘凌果 编辑 | 海若镜 颅骨上开一个小孔，多根纤维电极在磁场引导下“爬”向多脑区。这项被称为“神经蠕虫”（NeuroWorm）的动态电极技术，2025年9月登上《Nature》正刊，它来自中科院深圳先进院刘志远团队。 同年，刘志远成立了脑机接口公司，君柔科技。 「暗涌」独家获悉，成立一年内，君柔科技完成三轮融资，累计金额达亿元。上一轮融资由上海九合领投，国家高性能医疗器械创新中心跟投；最新的天使+轮由顺为资本、高瓴创投及智元机…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文 | 刘凌果 编辑 | 海若镜 颅骨上开一个小孔，多根纤维电极在磁场引导下“爬”向多脑区。这项被称为“神经蠕虫”（NeuroWorm）的动态电极技术，2025年9月登上《Nature》正刊，它来自中科院深圳先进院刘志远团队。 同年，刘志远成立了脑机接口公司，君柔科技。 「暗涌」独家获悉，成立一年内，君柔科技完成三轮融资，累计金额达亿元。上一轮融资由上海九合领投，国家高性能医疗器械创新中心跟投；最新的天使+轮由顺为资本、高瓴创投及智元机…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-10",
+      "link": "https://36kr.com/p/4047901632543240?f=rss",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-5070962d",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\""
+      },
+      "summary": {
+        "zh": "",
+        "en": "The new model is up to twice as successful at some tasks."
+      },
+      "body": {
+        "zh": "",
+        "en": "The new model is up to twice as successful at some tasks."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-42acbc9a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "PSI is trying to make a business out of AI-driven scientific discovery"
+      },
+      "summary": {
+        "zh": "",
+        "en": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+      },
+      "body": {
+        "zh": "",
+        "en": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-e29b8450",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic reportedly plans to move forward with IPO plans"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+      },
+      "body": {
+        "zh": "",
+        "en": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-c03a27c8",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic has its own AI-powered office suite now"
+      },
+      "summary": {
+        "zh": "",
+        "en": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. E…"
+      },
+      "body": {
+        "zh": "",
+        "en": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. E…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-133cd986",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and ca…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and ca…"
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-886c0d7c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google Cloud launches Gemini for healthcare."
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      },
+      "body": {
+        "zh": "",
+        "en": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "blog.google"
+      },
+      "date": "2026-11-10",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-62c01278",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Claude Whiteboards, Claude Sheets, and Claude Data"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 149 # Comments: 117"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 149 # Comments: 117"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-10",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-f9b8b605",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+      },
+      "summary": {
+        "zh": "",
+        "en": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+      },
+      "body": {
+        "zh": "",
+        "en": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-e9f78e98",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-f25a11af",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+      },
+      "body": {
+        "zh": "",
+        "en": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-91395fca",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+      },
+      "body": {
+        "zh": "",
+        "en": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "archivedAt": "2026-11-11"
+    },
+    {
+      "slug": "fde-20261110-a74d13e7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+      },
+      "body": {
+        "zh": "",
+        "en": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-10",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "archivedAt": "2026-11-11"
+    },
     {
       "slug": "fde-20261110-84d3d0a2",
       "lang": "zh",
