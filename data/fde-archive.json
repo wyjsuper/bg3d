@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-11-11",
-  "total": 648,
+  "updatedAt": "2026-11-13",
+  "total": 672,
   "items": [
+    {
+      "slug": "fde-20261113-cf12847b",
+      "lang": "zh",
+      "title": {
+        "zh": "恒指开盘跌0.57%，恒生科技指数跌0.35%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，恒指开盘跌0.57%，恒生科技指数跌0.35%；有色金属、���件服务板块跌幅居前，赤峰黄金跌超4%，腾讯控股、网易跌超1%；半导体、硬件设备板块领涨，江波龙涨超3%，华虹宏力、中芯国际涨超2%。",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，恒指开盘跌0.57%，恒生科技指数跌0.35%；有色金属、���件服务板块跌幅居前，赤峰黄金跌超4%，腾讯控股、网易跌超1%；半导体、硬件设备板块领涨，江波龙涨超3%，华虹宏力、中芯国际涨超2%。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-13",
+      "link": "https://36kr.com/newsflashes/4067507324687492?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261113-8b382143",
+      "lang": "zh",
+      "title": {
+        "zh": "中芯国际赵海军：Q3智能手机和消费电子需求仍较为疲弱",
+        "en": ""
+      },
+      "summary": {
+        "zh": "中芯国际联合CEO赵海军表示，从绝对值看，智能手机和消费电子第三季度收入环比分别下降8%和1%，需求仍较为疲弱；电脑与平板、工业与汽车、互联与可穿戴市场整体需求没有大的变化，但公司受益于产业链本土化切换和公司的前瞻性平台部署，相应收入分别实现26%、26%和18%的环比增长。 （财联社）",
+        "en": ""
+      },
+      "body": {
+        "zh": "中芯国际联合CEO赵海军表示，从绝对值看，智能手机和消费电子第三季度收入环比分别下降8%和1%，需求仍较为疲弱；电脑与平板、工业与汽车、互联与可穿戴市场整体需求没有大的变化，但公司受益于产业链本土化切换和公司的前瞻性平台部署，相应收入分别实现26%、26%和18%的环比增长。 （财联社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-13",
+      "link": "https://36kr.com/newsflashes/4067479770453120?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261113-7a7ef8b6",
+      "lang": "zh",
+      "title": {
+        "zh": "中芯国际赵海军：三季度平均晶圆单价环比提升1.8%",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月13日，中芯国际联合CEO赵海军在三季度业绩会上表示，三季度，公司整体销售收入再创新高，达到31.9亿美元，环比增长6.1%。比起三个月前，客户对诸如BCD、专用存储、Controller等人工智能配套芯片提拉需求的增量速度比原先预期更快，使得三季度收入超出指引上限。从价格的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均晶圆单价环比提升1.8%。（证券时报）",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月13日，中芯国际联合CEO赵海军在三季度业绩会上表示，三季度，公司整体销售收入再创新高，达到31.9亿美元，环比增长6.1%。比起三个月前，客户对诸如BCD、专用存储、Controller等人工智能配套芯片提拉需求的增量速度比原先预期更快，使得三季度收入超出指引上限。从价格的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均晶圆单价环比提升1.8%。（证券时报）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-13",
+      "link": "https://36kr.com/newsflashes/4067501209654405?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261113-b51e9fc8",
+      "lang": "zh",
+      "title": {
+        "zh": "中芯国际赵海军：Q3客户对人工智能配套芯片需求超过公司预期",
+        "en": ""
+      },
+      "summary": {
+        "zh": "中芯国际联合CEO赵海军表示，三季度公司整体销售收入再创新高，达到了31.9亿美元，环比增长6.1%。比起三个月前，我们看到客户对BCD、专用存储、Control等人工智能配套芯片的提拉需求，增量速度比原来预期的更快，使得三季度收入超出指引上限。从量的方面看，公司加快新产线验证，弹性调配已有产能，季度出货量首超300万片，环比增加5.7%；从价的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均经营单价环比提升1.8%。（财联…",
+        "en": ""
+      },
+      "body": {
+        "zh": "中芯国际联合CEO赵海军表示，三季度公司整体销售收入再创新高，达到了31.9亿美元，环比增长6.1%。比起三个月前，我们看到客户对BCD、专用存储、Control等人工智能配套芯片的提拉需求，增量速度比原来预期的更快，使得三季度收入超出指引上限。从量的方面看，公司加快新产线验证，弹性调配已有产能，季度出货量首超300万片，环比增加5.7%；从价的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均经营单价环比提升1.8%。（财联…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-13",
+      "link": "https://36kr.com/newsflashes/4067479402189699?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261113-097f5262",
+      "lang": "zh",
+      "title": {
+        "zh": "美国预测市场平台Kalshi据悉洽谈新一轮融资，估值有望达650亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据知情人士透露，美国预测市场初创公司Kalshi正在洽谈新一轮融资，估值有望达到650亿美元。就在几天前，该公司刚刚完成了一轮融资，当时的估值为400亿美元。消息人士称，此前的那轮融资原本被认为是该公司在预期首次公开募股（IPO）之前的最后一轮融资，但Kalshi决定再次在私募市场进行融资。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "据知情人士透露，美国预测市场初创公司Kalshi正在洽谈新一轮融资，估值有望达到650亿美元。就在几天前，该公司刚刚完成了一轮融资，当时的估值为400亿美元。消息人士称，此前的那轮融资原本被认为是该公司在预期首次公开募股（IPO）之前的最后一轮融资，但Kalshi决定再次在私募市场进行融资。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-13",
+      "link": "https://36kr.com/newsflashes/4067468563633024?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-a173830b",
+      "lang": "zh",
+      "title": {
+        "zh": "元宝搜索上线，腾讯再争默认入口​",
+        "en": ""
+      },
+      "summary": {
+        "zh": "昨日，腾讯旗下元宝搜索正式面向普通用户开放，提供独立网站 so.qq.com ，用户也可以在最新版QQ浏览器中，将其设为默认搜索引擎。 此前，腾讯已于通过腾讯云，面向开发者和企业开放元宝搜索服务。此次上线的网页版与其共享技术底座，将此前供AI产品调用的能力，进一步拓展成面向普通用户的产品。 在回答36氪关于“腾讯为何继续扩大搜索布局”的提问时，腾讯元宝搜索网页版产品负责人李锐章表示，团队更多从用户需求出发考虑这件事。相关能力已在元宝、W…",
+        "en": ""
+      },
+      "body": {
+        "zh": "昨日，腾讯旗下元宝搜索正式面向普通用户开放，提供独立网站 so.qq.com ，用户也可以在最新版QQ浏览器中，将其设为默认搜索引擎。 此前，腾讯已于通过腾讯云，面向开发者和企业开放元宝搜索服务。此次上线的网页版与其共享技术底座，将此前供AI产品调用的能力，进一步拓展成面向普通用户的产品。 在回答36氪关于“腾讯为何继续扩大搜索布局”的提问时，腾讯元宝搜索网页版产品负责人李锐章表示，团队更多从用户需求出发考虑这件事。相关能力已在元宝、W…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://36kr.com/p/4066338158695304?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-bf245092",
+      "lang": "zh",
+      "title": {
+        "zh": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "en": ""
+      },
+      "summary": {
+        "zh": "银河智学首席科学家邓澍军博士发表主题演讲",
+        "en": ""
+      },
+      "body": {
+        "zh": "银河智学首席科学家邓澍军博士发表主题演讲",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://www.qbitai.com/2026/11/509404.html",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-3e6a5ec8",
+      "lang": "zh",
+      "title": {
+        "zh": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+        "en": ""
+      },
+      "summary": {
+        "zh": "企业 AI 的难题，不只是模型够不够强",
+        "en": ""
+      },
+      "body": {
+        "zh": "企业 AI 的难题，不只是模型够不够强",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://www.qbitai.com/2026/11/509349.html",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-c68c14f2",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+        "en": ""
+      },
+      "summary": {
+        "zh": "全世界都在踩刹车，达里奥一个人踩油门",
+        "en": ""
+      },
+      "body": {
+        "zh": "全世界都在踩刹车，达里奥一个人踩油门",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://www.qbitai.com/2026/11/509381.html",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-6e34580d",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪首发丨海光创始核心技术团队创业AGI架构芯片，获清华系等基金数亿投资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "图源/视觉中国 本文约 3400 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能以及豫资涨泉、普超资本、青创伯乐等财务投资人共同参与，集聚产业资本、头部科技VC和财务资本。资金将主要用于芯片流片前的核心架构设计…",
+        "en": ""
+      },
+      "body": {
+        "zh": "图源/视觉中国 本文约 3400 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能以及豫资涨泉、普超资本、青创伯乐等财务投资人共同参与，集聚产业资本、头部科技VC和财务资本。资金将主要用于芯片流片前的核心架构设计…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://36kr.com/p/4066136377873286?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-a69dc68f",
+      "lang": "zh",
+      "title": {
+        "zh": "硬氪首发丨前迪士尼亚太成员下场“造”交互智能基座，获数百万种子轮融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，面向AI Native终端的交互智能SYNAPUFF近期完成数百万元种子轮融资，资方为FIRST RULE VENTURES、浦东创投。 SYNAPUFF联合创始人兼CEO李诗淼向硬氪表示，他们希望开发面向AI Native终端的交互智能基座，让智能体不仅知道自己能做什么，还能判断什么时候做、以什么方式做，以及如何根据人的反应调整行为。 SYNAPUFF联合创始人兼CEO李诗淼 李诗淼的经历…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，面向AI Native终端的交互智能SYNAPUFF近期完成数百万元种子轮融资，资方为FIRST RULE VENTURES、浦东创投。 SYNAPUFF联合创始人兼CEO李诗淼向硬氪表示，他们希望开发面向AI Native终端的交互智能基座，让智能体不仅知道自己能做什么，还能判断什么时候做、以什么方式做，以及如何根据人的反应调整行为。 SYNAPUFF联合创始人兼CEO李诗淼 李诗淼的经历…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://36kr.com/p/4066337448907656?f=rss",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-a3a6d9f2",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+        "en": ""
+      },
+      "summary": {
+        "zh": "只管挖不管埋。",
+        "en": ""
+      },
+      "body": {
+        "zh": "只管挖不管埋。",
+        "en": ""
+      },
+      "category": {
+        "zh": "安全",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-12",
+      "link": "https://www.qbitai.com/2026/11/509291.html",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-2063639c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Gemini 4 Hydrogen"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 467 # Comments: 298"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 467 # Comments: 298"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-12",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-8f22a441",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "I'm making LLMs work on small and old devices"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 279 # Comments: 95"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 279 # Comments: 95"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-12",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-c20345bd",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google’s latest Search upgrade promises better answers to your most complicated questions"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+      },
+      "body": {
+        "zh": "",
+        "en": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-4d26278b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Nectar launches an AI agent to automate creator discovery and outreach for brands"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+      },
+      "body": {
+        "zh": "",
+        "en": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-b89d8b4c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+      },
+      "body": {
+        "zh": "",
+        "en": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-6d518d49",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google’s new Gemini model is better at understanding complicated questions"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-1cd8fc6a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "No, AI agents did not discover a previously unknown Maya site"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered an…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered an…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-d209ff14",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "More game developers are starting to use generative AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it …"
+      },
+      "body": {
+        "zh": "",
+        "en": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Talent Market"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-f971ad81",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+      },
+      "body": {
+        "zh": "",
+        "en": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261112-372d6f60",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "You can force Gemini to forget about you now – how to edit its Memory"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you."
+      },
+      "body": {
+        "zh": "",
+        "en": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-12",
+      "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261111-5745ec3f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
+      },
+      "body": {
+        "zh": "",
+        "en": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-11",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "archivedAt": "2026-11-13"
+    },
+    {
+      "slug": "fde-20261111-ccedb1b1",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Pixel users are getting a major Android Auto update – and it rivals Siri AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way."
+      },
+      "body": {
+        "zh": "",
+        "en": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-11",
+      "link": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+      "archivedAt": "2026-11-13"
+    },
     {
       "slug": "fde-20261111-2103845d",
       "lang": "zh",
