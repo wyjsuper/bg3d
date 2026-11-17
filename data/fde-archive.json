@@ -1,7 +1,439 @@
 {
-  "updatedAt": "2026-11-13",
-  "total": 672,
+  "updatedAt": "2026-11-17",
+  "total": 688,
   "items": [
+    {
+      "slug": "fde-20261116-78b3e56d",
+      "lang": "zh",
+      "title": {
+        "zh": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+        "en": ""
+      },
+      "summary": {
+        "zh": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+        "en": ""
+      },
+      "body": {
+        "zh": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-16",
+      "link": "https://www.qbitai.com/2026/11/510486.html",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-8d185fdc",
+      "lang": "zh",
+      "title": {
+        "zh": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "在华为待了快10000天。",
+        "en": ""
+      },
+      "body": {
+        "zh": "在华为待了快10000天。",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-16",
+      "link": "https://www.qbitai.com/2026/11/510496.html",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-4152f3c5",
+      "lang": "zh",
+      "title": {
+        "zh": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "50岁，以“华为董事”之名退休，又有几人？",
+        "en": ""
+      },
+      "body": {
+        "zh": "50岁，以“华为董事”之名退休，又有几人？",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-16",
+      "link": "https://www.qbitai.com/2026/11/510404.html",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-49479991",
+      "lang": "zh",
+      "title": {
+        "zh": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+        "en": ""
+      },
+      "summary": {
+        "zh": "是石科技最新发布多模态模型服务",
+        "en": ""
+      },
+      "body": {
+        "zh": "是石科技最新发布多模态模型服务",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-16",
+      "link": "https://www.qbitai.com/2026/11/510369.html",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-088ff9c3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      },
+      "body": {
+        "zh": "",
+        "en": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-0bae9748",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports."
+      },
+      "body": {
+        "zh": "",
+        "en": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-927edca9",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM"
+      },
+      "summary": {
+        "zh": "",
+        "en": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+      },
+      "body": {
+        "zh": "",
+        "en": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-b552159c",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "California sues OpenAI over rogue AI hacking incidents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating …"
+      },
+      "body": {
+        "zh": "",
+        "en": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-0329e467",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone."
+      },
+      "body": {
+        "zh": "",
+        "en": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone."
+      },
+      "category": {
+        "zh": "",
+        "en": "Regulation"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-f733dbe2",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Apple reveals new Mac security controls as AI agents raise privacy risks"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps."
+      },
+      "body": {
+        "zh": "",
+        "en": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-2b51e2d3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google Maps can now create trip itineraries for you"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered A…"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered A…"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-bc44f24a",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident."
+      },
+      "body": {
+        "zh": "",
+        "en": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident."
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-90d982af",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+      },
+      "body": {
+        "zh": "",
+        "en": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-62504489",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "OpenAI will embed safety researchers to investigate AI subversion"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+      },
+      "body": {
+        "zh": "",
+        "en": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261116-610ff939",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+      },
+      "body": {
+        "zh": "",
+        "en": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-16",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "archivedAt": "2026-11-17"
+    },
+    {
+      "slug": "fde-20261115-e21b3a86",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
+      },
+      "body": {
+        "zh": "",
+        "en": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-15",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "archivedAt": "2026-11-17"
+    },
     {
       "slug": "fde-20261113-cf12847b",
       "lang": "zh",
