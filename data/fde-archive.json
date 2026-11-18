@@ -1,7 +1,655 @@
 {
-  "updatedAt": "2026-11-17",
-  "total": 688,
+  "updatedAt": "2026-11-18",
+  "total": 712,
   "items": [
+    {
+      "slug": "fde-20261118-73b456ff",
+      "lang": "zh",
+      "title": {
+        "zh": "英伟达临时CEO称AI需求旺盛，预计将持续至2028年",
+        "en": ""
+      },
+      "summary": {
+        "zh": "英伟达临时CEO兼首席财务官科莱特·克雷斯当地时间11月17日在第三财季财报电话会上表示，目前市场需求非常庞大，大型企业正持续开发各类智能体解决方案和新模型，客户近期仍在不断要求英伟达增加供货。她预计，相关需求不仅将在2027财年持续，还会延续至2028财年。克雷斯还表示，英伟达将2028财年营收增长预期从此前的约70%上调至约75%，主要考虑了持续增长的客户需求以及供应能力的提升。她称，公司目前仍面临需求超过供应的情况。（界面）",
+        "en": ""
+      },
+      "body": {
+        "zh": "英伟达临时CEO兼首席财务官科莱特·克雷斯当地时间11月17日在第三财季财报电话会上表示，目前市场需求非常庞大，大型企业正持续开发各类智能体解决方案和新模型，客户近期仍在不断要求英伟达增加供货。她预计，相关需求不仅将在2027财年持续，还会延续至2028财年。克雷斯还表示，英伟达将2028财年营收增长预期从此前的约70%上调至约75%，主要考虑了持续增长的客户需求以及供应能力的提升。她称，公司目前仍面临需求超过供应的情况。（界面）",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074538601387141?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-5a1f3773",
+      "lang": "zh",
+      "title": {
+        "zh": "爱尔兰叫停X：禁止用AI智能体抓取第三方数据训练Grok",
+        "en": ""
+      },
+      "summary": {
+        "zh": "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。该智能体自10月末开始抓取这类数据。爱尔兰数据保护委员会专员戴尔·桑德兰在采访中表示，监管机构近几周对该类数据处理行为提出了“重大关切”。“我们要求他们暂停这项数据处理，他们已于周一向我们确认执行。”（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。该智能体自10月末开始抓取这类数据。爱尔兰数据保护委员会专员戴尔·桑德兰在采访中表示，监管机构近几周对该类数据处理行为提出了“重大关切”。“我们要求他们暂停这项数据处理，他们已于周一向我们确认执行。”（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074539437888390?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-bb783266",
+      "lang": "zh",
+      "title": {
+        "zh": "中信建投：旗舰模型加快迭代，Agent商业场景扩展",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，中信建投研报称，旗舰模型与Agent产品持续升级，继续看好兼具模型、云资源和应用入口的头部平台。Qwen 4 Max与Claude 5.2强化编程、专业工具和长任务能力，谷歌补充企业推理系统，OpenAI推出商家服务与授权支付，AI应用正向具体业务操作扩展。11月9日至15日，OpenRouter调用量环比增长0.86%，Hy4与MiMo V2.6 Flash分别增长41.61%、87.91%；Claude Code的7日平…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，中信建投研报称，旗舰模型与Agent产品持续升级，继续看好兼具模型、云资源和应用入口的头部平台。Qwen 4 Max与Claude 5.2强化编程、专业工具和长任务能力，谷歌补充企业推理系统，OpenAI推出商家服务与授权支付，AI应用正向具体业务操作扩展。11月9日至15日，OpenRouter调用量环比增长0.86%，Hy4与MiMo V2.6 Flash分别增长41.61%、87.91%；Claude Code的7日平…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074518741030022?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-4953308c",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic投资方红杉资本与光速创投拟在IPO中追加投资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "据知情人士透露，人工智能初创公司Anthropic PBC的一批现有风投股东正计划在该公司即将进行的首次公开募股（IPO）中投入更多资金，这表明这些已大幅投资该公司的机构对其保持着持续的热情与支持。据要求匿名讨论私人信息的知情人士透露，红杉资本（Sequoia Capital）、Iconiq、光速创投（Lightspeed Venture Partners）、Accel以及Altimeter资本管理公司正计划在此次IPO中共同购买价值数…",
+        "en": ""
+      },
+      "body": {
+        "zh": "据知情人士透露，人工智能初创公司Anthropic PBC的一批现有风投股东正计划在该公司即将进行的首次公开募股（IPO）中投入更多资金，这表明这些已大幅投资该公司的机构对其保持着持续的热情与支持。据要求匿名讨论私人信息的知情人士透露，红杉资本（Sequoia Capital）、Iconiq、光速创投（Lightspeed Venture Partners）、Accel以及Altimeter资本管理公司正计划在此次IPO中共同购买价值数…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074533481091976?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-545c2966",
+      "lang": "zh",
+      "title": {
+        "zh": "黄仁勋离职动摇客户信心，AMD与谷歌蚕食英伟达市场份额",
+        "en": ""
+      },
+      "summary": {
+        "zh": "早在黄仁勋上周辞去英伟达首席执行官一职之前，来自AMD等规模较小竞争对手的人工智能（AI）芯片，就已经开始赢得用户的青睐。黄仁勋的离职很可能会进一步强化这种市场情绪的转变。拥有16年行业经验、运营25个数据中心的云服务商Cirrascale的首席执行官戴维・德里格斯表示，去年就有不少客户咨询，希望用AMD专用AI芯片来承载人工智能任务。他说，AMD芯片尤其适合运行AI模型，也就是常说的“推理”，这项业务正在企业当中越来越普及。（新浪财经…",
+        "en": ""
+      },
+      "body": {
+        "zh": "早在黄仁勋上周辞去英伟达首席执行官一职之前，来自AMD等规模较小竞争对手的人工智能（AI）芯片，就已经开始赢得用户的青睐。黄仁勋的离职很可能会进一步强化这种市场情绪的转变。拥有16年行业经验、运营25个数据中心的云服务商Cirrascale的首席执行官戴维・德里格斯表示，去年就有不少客户咨询，希望用AMD专用AI芯片来承载人工智能任务。他说，AMD芯片尤其适合运行AI模型，也就是常说的“推理”，这项业务正在企业当中越来越普及。（新浪财经…",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074519572337541?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-a0752e81",
+      "lang": "zh",
+      "title": {
+        "zh": "硬氪首发丨玻璃基板装备企业获近亿元融资，英诺基金连续三轮加注",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三轮。本轮融资将主要用于核心装备研发、市场拓展及团队建设。 「深微芯创」成立于2026年，主要面向先进封装和光电融合领域，提供玻璃基板加工关键装备、核心工艺及成套技术方案。 公司创始人肖文博士拥有新加坡国立大学材料科学与工程博士学位，此前曾任全球半导体设备龙头企业产品技术负责人，并…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三轮。本轮融资将主要用于核心装备研发、市场拓展及团队建设。 「深微芯创」成立于2026年，主要面向先进封装和光电融合领域，提供玻璃基板加工关键装备、核心工艺及成套技术方案。 公司创始人肖文博士拥有新加坡国立大学材料科学与工程博士学位，此前曾任全球半导体设备龙头企业产品技术负责人，并…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/p/4074564838659207?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261118-f7ee19ec",
+      "lang": "zh",
+      "title": {
+        "zh": "167股获融资买入超亿元，中际旭创获买入19.91亿元居首",
+        "en": ""
+      },
+      "summary": {
+        "zh": "A股11月17日共有3858只个股获融资资金买入，有167股买入金额超亿元。其中，中际旭创、新易盛、寒武纪融资买入金额排名前三，分别获买入19.91亿元、13.94亿元、11.49亿元。从融资买入额占当日总成交金额比重来看，有5只个股融资买入额占比超30%。其中双环科技、海利尔、金道科技融资买入额占成交额比重排名前三，分别为38.66%、35.23%、34.92%。从融资净买入金额来看，有3只个股获融资净买入超亿元。其中，阳光照明、寒武…",
+        "en": ""
+      },
+      "body": {
+        "zh": "A股11月17日共有3858只个股获融资资金买入，有167股买入金额超亿元。其中，中际旭创、新易盛、寒武纪融资买入金额排名前三，分别获买入19.91亿元、13.94亿元、11.49亿元。从融资买入额占当日总成交金额比重来看，有5只个股融资买入额占比超30%。其中双环科技、海利尔、金道科技融资买入额占成交额比重排名前三，分别为38.66%、35.23%、34.92%。从融资净买入金额来看，有3只个股获融资净买入超亿元。其中，阳光照明、寒武…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/newsflashes/4074561463096457?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-e2ddabc0",
+      "lang": "zh",
+      "title": {
+        "zh": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+        "en": ""
+      },
+      "summary": {
+        "zh": "筛材料、找配方、开发新模型…拿下多项科研任务",
+        "en": ""
+      },
+      "body": {
+        "zh": "筛材料、找配方、开发新模型…拿下多项科研任务",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-17",
+      "link": "https://www.qbitai.com/2026/11/510652.html",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-450e5faa",
+      "lang": "zh",
+      "title": {
+        "zh": "第十六届香港国际金融论坛暨第七届领航「9+2」粤港湾大湾区发展论坛",
+        "en": ""
+      },
+      "summary": {
+        "zh": "具身智能正加速迈向全球产业落地，「十五五」开局与香港「超级联系人」角色深化，为硬科技出海打开新窗口。 11月23日,第十六届香港国际金融论坛暨第七届领航「9+2」粤港澳大湾区发展论坛·香港国际具身智能峰会启幕,汇聚国内顶尖具身智能头部企业与核心决策者,依言托香港国际化场景、合规体系与全球资本网路，打通「研发一验证一部署」闭环,推动中国具身智能从技术验证走向全球部署,从产产品出口走向品牌出海,共建人机共融新生态。",
+        "en": ""
+      },
+      "body": {
+        "zh": "具身智能正加速迈向全球产业落地，「十五五」开局与香港「超级联系人」角色深化，为硬科技出海打开新窗口。 11月23日,第十六届香港国际金融论坛暨第七届领航「9+2」粤港澳大湾区发展论坛·香港国际具身智能峰会启幕,汇聚国内顶尖具身智能头部企业与核心决策者,依言托香港国际化场景、合规体系与全球资本网路，打通「研发一验证一部署」闭环,推动中国具身智能从技术验证走向全球部署,从产产品出口走向品牌出海,共建人机共融新生态。",
+        "en": ""
+      },
+      "category": {
+        "zh": "落地案例",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-17",
+      "link": "https://36kr.com/p/4073736741344384?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-6a4d2472",
+      "lang": "zh",
+      "title": {
+        "zh": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+        "en": ""
+      },
+      "summary": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式Agent的体验优化，拓展家庭、团队场景，推进硬件量产交付，并搭建海外渠道、完善本地化交付能力。 穗升科技成立于2025年，旗下品牌Memoket以可穿戴硬件为入口，结合自研底层长记忆引擎，提供能够理解用户前情、主动与用户交互的Person…",
+        "en": ""
+      },
+      "body": {
+        "zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式Agent的体验优化，拓展家庭、团队场景，推进硬件量产交付，并搭建海外渠道、完善本地化交付能力。 穗升科技成立于2025年，旗下品牌Memoket以可穿戴硬件为入口，结合自研底层长记忆引擎，提供能够理解用户前情、主动与用户交互的Person…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-17",
+      "link": "https://36kr.com/p/4072342767047814?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-01cb66ee",
+      "lang": "zh",
+      "title": {
+        "zh": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资",
+        "en": ""
+      },
+      "summary": {
+        "zh": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络…",
+        "en": ""
+      },
+      "body": {
+        "zh": "36氪获悉，近日，博理科技（POLLYPOLYMER）连续完成B2轮与B+轮两轮股权融资，合计融资金额超5亿元人民币。其中，B2轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业投资方长盈精密同步参投。 本次融资资金将主要用于高分子材料体系及复合材料体系研发、装备产能扩容与总部基地建设、具身智能等前沿领域的行业应用开发，以及全球化交付网络…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-17",
+      "link": "https://36kr.com/p/4072516740797318?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-361a4955",
+      "lang": "zh",
+      "title": {
+        "zh": "AI正在杀死游戏行业吗？| 游戏风向标",
+        "en": ""
+      },
+      "summary": {
+        "zh": "文丨二几 在游戏行业，AI正在成为一场关于未来的“罗生门”：有人把AI视作生产力革命，有人担心AI将摧毁原有的开发者生态。支持和反对各执一词，谁也说不准哪一种未来会先到来。 GDC刚刚发布的《2026年游戏行业报告》显示，40%的游戏行业从业者已经在工作中使用生成式AI，但与此同时，55%的受访者认为AI正在给游戏行业带来负面影响。 《2026年游戏行业报告》数据 腾讯最近的一场风波，则把这种矛盾表现得更加直观。11月11日，腾讯28周…",
+        "en": ""
+      },
+      "body": {
+        "zh": "文丨二几 在游戏行业，AI正在成为一场关于未来的“罗生门”：有人把AI视作生产力革命，有人担心AI将摧毁原有的开发者生态。支持和反对各执一词，谁也说不准哪一种未来会先到来。 GDC刚刚发布的《2026年游戏行业报告》显示，40%的游戏行业从业者已经在工作中使用生成式AI，但与此同时，55%的受访者认为AI正在给游戏行业带来负面影响。 《2026年游戏行业报告》数据 腾讯最近的一场风波，则把这种矛盾表现得更加直观。11月11日，腾讯28周…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-17",
+      "link": "https://36kr.com/p/4073486195332226?f=rss",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-d3aea0ab",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig …"
+      },
+      "body": {
+        "zh": "",
+        "en": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig …"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-bd3389a3",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google makes it easier to use Gemini without training AI on your data"
+      },
+      "summary": {
+        "zh": "",
+        "en": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+      },
+      "body": {
+        "zh": "",
+        "en": "AI training and chat history will now have separate toggles in the Gemini activity settings."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-d9b4ea35",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good."
+      },
+      "body": {
+        "zh": "",
+        "en": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-7e51e66b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Google is making it easier to opt out of Gemini AI model training – here’s how"
+      },
+      "summary": {
+        "zh": "",
+        "en": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI."
+      },
+      "body": {
+        "zh": "",
+        "en": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-765f7ab7",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Not Everything Needs an LLM"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 90 # Comments: 37"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 90 # Comments: 37"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-17",
+      "link": "https://newsletter.posthog.com/p/decision-models",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-ab755312",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Pedestal AI raises $4.7 million to agentify the supply chain"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The company uses agentic AI to make supply chains faster and more reliable."
+      },
+      "body": {
+        "zh": "",
+        "en": "The company uses agentic AI to make supply chains faster and more reliable."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-e6964528",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+      },
+      "body": {
+        "zh": "",
+        "en": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-05b6cf3e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+      },
+      "body": {
+        "zh": "",
+        "en": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-8f019d39",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
+      },
+      "summary": {
+        "zh": "",
+        "en": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+      },
+      "body": {
+        "zh": "",
+        "en": "AI agent takes unapproved actions even when laptop lid is closed and told not to."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "feeds.arstechnica.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-e9de8f98",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The company also released new ROI tracking tools for companies monitoring their AI spend."
+      },
+      "body": {
+        "zh": "",
+        "en": "The company also released new ROI tracking tools for companies monitoring their AI spend."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-442507cc",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A new Gemini Notebook feature lets you create interactive sites from intricate data."
+      },
+      "body": {
+        "zh": "",
+        "en": "A new Gemini Notebook feature lets you create interactive sites from intricate data."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-17",
+      "link": "https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/",
+      "archivedAt": "2026-11-18"
+    },
+    {
+      "slug": "fde-20261117-bad8101e",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Put Gemini to work for you"
+      },
+      "summary": {
+        "zh": "",
+        "en": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+      },
+      "body": {
+        "zh": "",
+        "en": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "blog.google"
+      },
+      "date": "2026-11-17",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "archivedAt": "2026-11-18"
+    },
     {
       "slug": "fde-20261116-78b3e56d",
       "lang": "zh",
