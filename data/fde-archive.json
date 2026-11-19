@@ -1,7 +1,547 @@
 {
-  "updatedAt": "2026-11-18",
-  "total": 712,
+  "updatedAt": "2026-11-19",
+  "total": 732,
   "items": [
+    {
+      "slug": "fde-20261119-c2a91642",
+      "lang": "zh",
+      "title": {
+        "zh": "Anthropic IPO筹集813亿美元，超越SpaceX创下的上市纪录",
+        "en": ""
+      },
+      "summary": {
+        "zh": "Anthropic PBC及其七位联合创始人通过扩大规模的IPO筹集了813亿美元，成为首家通过公开市场融资以推动智能机器研发的前沿AI实验室。这是有史以来规模最大的IPO，超越了SpaceX750亿美元的基础发行规模。结合Anthropic招股文件中列出的260亿美元私募配售，本次整体发行将筹集1073亿美元，从而超越SpaceX包含超额配售权在内的862亿美元总融资额。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "Anthropic PBC及其七位联合创始人通过扩大规模的IPO筹集了813亿美元，成为首家通过公开市场融资以推动智能机器研发的前沿AI实验室。这是有史以来规模最大的IPO，超越了SpaceX750亿美元的基础发行规模。结合Anthropic招股文件中列出的260亿美元私募配售，本次整体发行将筹集1073亿美元，从而超越SpaceX包含超额配售权在内的862亿美元总融资额。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-19",
+      "link": "https://36kr.com/newsflashes/4075916769170562?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261119-dacfc2c1",
+      "lang": "zh",
+      "title": {
+        "zh": "英伟达RTX Spark迷你AI工作站上市，最高支持本地运行1200亿参数大模型",
+        "en": ""
+      },
+      "summary": {
+        "zh": "英伟达宣布，搭载RTX Spark平台的紧凑型桌面电脑正式上市，目前华硕、戴尔和微星已推出相关产品，宏碁、技嘉和惠普等厂商的产品将陆续推出。该系列设备搭载20核英伟达Grace CPU、基于Blackwell架构的RTX GPU，配备最高128GB统一内存，AI算力最高可达1 Petaflop，支持本地运行1200亿参数大语言模型。此外，英伟达表示，本地运行模型可减少相关任务对云端API的依赖及Token费用。（财联社）",
+        "en": ""
+      },
+      "body": {
+        "zh": "英伟达宣布，搭载RTX Spark平台的紧凑型桌面电脑正式上市，目前华硕、戴尔和微星已推出相关产品，宏碁、技嘉和惠普等厂商的产品将陆续推出。该系列设备搭载20核英伟达Grace CPU、基于Blackwell架构的RTX GPU，配备最高128GB统一内存，AI算力最高可达1 Petaflop，支持本地运行1200亿参数大语言模型。此外，英伟达表示，本地运行模型可减少相关任务对云端API的依赖及Token费用。（财联社）",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-19",
+      "link": "https://36kr.com/newsflashes/4075882498626439?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261119-fd3a3bd5",
+      "lang": "zh",
+      "title": {
+        "zh": "欧洲央行行长拉加德：AI股��估值“非常激进”，最终可能出现调整",
+        "en": ""
+      },
+      "summary": {
+        "zh": "欧洲央行行长克里斯蒂娜·拉加德表示，人工智能公司的高估值最终可能回落。尽管“过去几周出现了显著的价格回调”，拉加德仍将人工智能股的估值水平描述为“非常激进”。她周三表示，虽然欧洲央行并未将当前状况称为泡沫，但这种局面不太可能持续。市场“最终将面临调整”，拉加德表示。“这将取决于预期盈利水平，以及由此折现得出的估值。”拉加德的言论呼应了欧洲央行当天早些时候发布的半年度《金融稳定评估》中的警告。报告将AI行业的一些现象，例如循环融资和使用表…",
+        "en": ""
+      },
+      "body": {
+        "zh": "欧洲央行行长克里斯蒂娜·拉加德表示，人工智能公司的高估值最终可能回落。尽管“过去几周出现了显著的价格回调”，拉加德仍将人工智能股的估值水平描述为“非常激进”。她周三表示，虽然欧洲央行并未将当前状况称为泡沫，但这种局面不太可能持续。市场“最终将面临调整”，拉加德表示。“这将取决于预期盈利水平，以及由此折现得出的估值。”拉加德的言论呼应了欧洲央行当天早些时候发布的半年度《金融稳定评估》中的警告。报告将AI行业的一些现象，例如循环融资和使用表…",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-19",
+      "link": "https://36kr.com/newsflashes/4075904984241282?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261119-a4fa78e9",
+      "lang": "zh",
+      "title": {
+        "zh": "旧金山联储行长支持进一步加息，呼吁审慎推进政策收紧",
+        "en": ""
+      },
+      "summary": {
+        "zh": "旧金山联储行长玛丽·戴利表示，美联储需要进一步加息，但在评估经济形势变化之际，应采取审慎的方式收紧货币政策。戴利周三在圣路易斯联储一场会议的线上讨论中表示：“我们将不得不进一步加息，以确保达到能够充分确信通胀将逐步回落至2%的程度。”她表示，经济面临的不确定性仍然很高，关税政策、伊朗战争以及人工智能建设投资将如何发展都尚不明朗。在这种环境下，美联储需要审慎行事，仔细评估数据，并听取企业和消费者的反馈。（新浪财经）",
+        "en": ""
+      },
+      "body": {
+        "zh": "旧金山联储行长玛丽·戴利表示，美联储需要进一步加息，但在评估经济形势变化之际，应采取审慎的方式收紧货币政策。戴利周三在圣路易斯联储一场会议的线上讨论中表示：“我们将不得不进一步加息，以确保达到能够充分确信通胀将逐步回落至2%的程度。”她表示，经济面临的不确定性仍然很高，关税政策、伊朗战争以及人工智能建设投资将如何发展都尚不明朗。在这种环境下，美联储需要审慎行事，仔细评估数据，并听取企业和消费者的反馈。（新浪财经）",
+        "en": ""
+      },
+      "category": {
+        "zh": "政策合规",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-19",
+      "link": "https://36kr.com/newsflashes/4075890013197188?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261119-3bf21805",
+      "lang": "zh",
+      "title": {
+        "zh": "从押注科技到均衡对冲，华尔街巨头集体调仓",
+        "en": ""
+      },
+      "summary": {
+        "zh": "随着美国证监会（SEC）��季度13F文件披露收官，海外长线资金与对冲基金截至三季度末的持仓情况浮出水面。数据显示，华尔街多家机构出于对后市的谨慎看法，集体减持了标普500和纳斯达克等宽基ETF。与此同时，多家机构在科技板块内部进行了调仓换股，桥水、文艺复兴科技等知名对冲基金在兑现头部科技巨头收益的同时，将资金向半导体上游环节迁移。在多重不确定因素扰动下，不少机构跳出科技赛道，向金融、能源、医药、公用事业等板块进行分散配置。一场从“集中…",
+        "en": ""
+      },
+      "body": {
+        "zh": "随着美国证监会（SEC）��季度13F文件披露收官，海外长线资金与对冲基金截至三季度末的持仓情况浮出水面。数据显示，华尔街多家机构出于对后市的谨慎看法，集体减持了标普500和纳斯达克等宽基ETF。与此同时，多家机构在科技板块内部进行了调仓换股，桥水、文艺复兴科技等知名对冲基金在兑现头部科技巨头收益的同时，将资金向半导体上游环节迁移。在多重不确定因素扰动下，不少机构跳出科技赛道，向金融、能源、医药、公用事业等板块进行分散配置。一场从“集中…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-19",
+      "link": "https://36kr.com/newsflashes/4075891773690760?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-4d76880b",
+      "lang": "zh",
+      "title": {
+        "zh": "36氪研究院 | 2026年中国词元经济生态发展研究报告",
+        "en": ""
+      },
+      "summary": {
+        "zh": "当前，人工智能正由技术突破走向规模化应用，智能经济已上升为国家战略。2025年8月，国务院印发《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号），提出到2027年新一代智能终端、智能体等应用普及率超70%；2026年政府工作报告提出“打造智能经济新形态”，智能体首次与智能终端并列作为“加快推广”对象写入报告。词元（Token）是人工智能大模型处理信息的最小语义单元，正在成为智能时代可计量、可定价、可交易的基础计量单位。电…",
+        "en": ""
+      },
+      "body": {
+        "zh": "当前，人工智能正由技术突破走向规模化应用，智能经济已上升为国家战略。2025年8月，国务院印发《关于深入实施“人工智能+”行动的意见》（国发〔2025〕11号），提出到2027年新一代智能终端、智能体等应用普及率超70%；2026年政府工作报告提出“打造智能经济新形态”，智能体首次与智能终端并列作为“加快推广”对象写入报告。词元（Token）是人工智能大模型处理信息的最小语义单元，正在成为智能时代可计量、可定价、可交易的基础计量单位。电…",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "36kr.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://36kr.com/p/4075073010996352?f=rss",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-0737c504",
+      "lang": "zh",
+      "title": {
+        "zh": "GPT-6.2难产！OpenAI怕了",
+        "en": ""
+      },
+      "summary": {
+        "zh": "OpenAI也终于活成了2022年谷歌的样子",
+        "en": ""
+      },
+      "body": {
+        "zh": "OpenAI也终于活成了2022年谷歌的样子",
+        "en": ""
+      },
+      "category": {
+        "zh": "行业趋势",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://www.qbitai.com/2026/11/510914.html",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-e02590c7",
+      "lang": "zh",
+      "title": {
+        "zh": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+        "en": ""
+      },
+      "summary": {
+        "zh": "具身全栈玩家",
+        "en": ""
+      },
+      "body": {
+        "zh": "具身全栈玩家",
+        "en": ""
+      },
+      "category": {
+        "zh": "资本动向",
+        "en": ""
+      },
+      "source": {
+        "zh": "qbitai.com",
+        "en": ""
+      },
+      "date": "2026-11-18",
+      "link": "https://www.qbitai.com/2026/11/510821.html",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-cdebcabe",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+      },
+      "body": {
+        "zh": "",
+        "en": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-ccf05c41",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Gemini 4 Neon"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 336 # Comments: 328"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 336 # Comments: 328"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-18",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-c7e5cdb5",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Satya Nadella predicts AI agents will reshuffle the economics of the web"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+      },
+      "body": {
+        "zh": "",
+        "en": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-e1532d7b",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "AI agents ask better questions than KPMG accountants in audit trial"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 320 # Comments: 145"
+      },
+      "body": {
+        "zh": "",
+        "en": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 320 # Comments: 145"
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "hnrss.org"
+      },
+      "date": "2026-11-18",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-70a38358",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Anthropic reportedly prices IPO at $83 a share, above projected range"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+      },
+      "body": {
+        "zh": "",
+        "en": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+      },
+      "category": {
+        "zh": "",
+        "en": "Capital & M&A"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-1c798920",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+      },
+      "body": {
+        "zh": "",
+        "en": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-d481a645",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "More banks say customers using AI agents are on their own — even if they get hacked"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
+      },
+      "body": {
+        "zh": "",
+        "en": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
+      },
+      "category": {
+        "zh": "",
+        "en": "Enterprise Adoption"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-6ff48890",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Remember the frontier AI pause? Chip companies don’t either"
+      },
+      "summary": {
+        "zh": "",
+        "en": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security fla…"
+      },
+      "body": {
+        "zh": "",
+        "en": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security fla…"
+      },
+      "category": {
+        "zh": "",
+        "en": "AI Security"
+      },
+      "source": {
+        "zh": "",
+        "en": "theverge.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-ac0b2572",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits"
+      },
+      "summary": {
+        "zh": "",
+        "en": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents."
+      },
+      "body": {
+        "zh": "",
+        "en": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-8400108f",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "74% of shoppers trust AI agents for buying advice – but checkout is another story"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order."
+      },
+      "body": {
+        "zh": "",
+        "en": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "zdnet.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-b9e9eaa0",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "The Gemini app is now available on lower-memory Android devices."
+      },
+      "summary": {
+        "zh": "",
+        "en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+      },
+      "body": {
+        "zh": "",
+        "en": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+      },
+      "category": {
+        "zh": "",
+        "en": "Industry Trend"
+      },
+      "source": {
+        "zh": "",
+        "en": "blog.google"
+      },
+      "date": "2026-11-18",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "archivedAt": "2026-11-19"
+    },
+    {
+      "slug": "fde-20261118-e3d0edce",
+      "lang": "en",
+      "title": {
+        "zh": "",
+        "en": "Spend management platform Payhawk announces $280M raise, 2B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+      },
+      "body": {
+        "zh": "",
+        "en": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+      },
+      "category": {
+        "zh": "",
+        "en": "Compensation"
+      },
+      "source": {
+        "zh": "",
+        "en": "techcrunch.com"
+      },
+      "date": "2026-11-18",
+      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "archivedAt": "2026-11-19"
+    },
     {
       "slug": "fde-20261118-73b456ff",
       "lang": "zh",
